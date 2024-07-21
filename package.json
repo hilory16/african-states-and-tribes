@@ -1,0 +1,37 @@
+{
+  "name": "african-states-and-tribes",
+  "version": "1.0.0",
+  "description": "This package streamlines the management of African regional data. It provides easy access to information on states and tribes and is ideal for developers working on projects involving regional data, educational resources, or applications that focus on the rich cultural diversity of Africa.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilory16/african-states-and-tribes.git"
+  },
+  "keywords": [
+    "african states",
+    "african tribes",
+    "countries in africa",
+    "tribes in africa",
+    "africa tribes",
+    "africa",
+    "african countries",
+    "african diversity",
+    "africa diversity"
+  ],
+  "author": "Olamide Ilori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hilory16/african-states-and-tribes/issues"
+  },
+  "homepage": "https://github.com/hilory16/african-states-and-tribes#readme",
+  "devDependencies": {
+    "tsup": "^8.2.0",
+    "typescript": "^5.5.3"
+  }
+}

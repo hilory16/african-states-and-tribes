@@ -1,0 +1,434 @@
+{
+    "AO": {
+        "phoneCode": 244,
+        "capitalCity": "Luanda",
+        "flagEmoji": "🇦🇴",
+        "name": "Angola",
+        "currency": "Angolan kwanza",
+        "officialLanguage": "Portuguese"
+    },
+    "BJ": {
+        "phoneCode": 229,
+        "capitalCity": "Porto-Novo ",
+        "flagEmoji": "🇧🇯",
+        "name": "Benin",
+        "currency": "West African CFA franc",
+        "officialLanguage": "French"
+    },
+    "BW": {
+        "phoneCode": 267,
+        "capitalCity": "Gaborone",
+        "flagEmoji": "🇧🇼",
+        "name": "Botswana",
+        "currency": "Botswana pula",
+        "officialLanguage": "Setswana"
+    },
+    "BF": {
+        "phoneCode": 226,
+        "capitalCity": "Ouagadougou",
+        "flagEmoji": "🇧🇫",
+        "name": "Burkina Faso",
+        "currency": "West African CFA franc",
+        "officialLanguage": "French"
+    },
+    "BI": {
+        "phoneCode": 257,
+        "capitalCity": "Bujumbura",
+        "flagEmoji": "🇧🇮",
+        "name": "Burundi",
+        "currency": "Burundi franc",
+        "officialLanguage": "Kirundi"
+    },
+    "CV": {
+        "phoneCode": 238,
+        "capitalCity": "Praia",
+        "flagEmoji": "🇨🇻",
+        "name": "Cabo Verde",
+        "currency": "Cape Verdean escudo",
+        "officialLanguage": "Portuguese"
+    },
+    "CM": {
+        "phoneCode": 237,
+        "capitalCity": "Yaoundé",
+        "flagEmoji": "🇨🇲",
+        "name": "Cameroon",
+        "currency": "Central African CFA franc",
+        "officialLanguage": "Major African languages"
+    },
+    "CF": {
+        "phoneCode": 236,
+        "capitalCity": "Bangui",
+        "flagEmoji": "🇨🇫",
+        "name": "Central African Republic",
+        "currency": "Central African CFA franc",
+        "officialLanguage": "French"
+    },
+    "DZ": {
+      "phoneCode": 213,
+      "capitalCity": "Algiers",
+      "flagEmoji": "🇩🇿",
+      "name": "Algeria",
+      "currency": "Algerian dinar",
+      "officialLanguage": "Arabic"
+    },
+    "TD": {
+        "phoneCode": 235,
+        "capitalCity": "N'Djamena",
+        "flagEmoji": "🇹🇩",
+        "name": "Chad",
+        "currency": "Central African CFA franc",
+        "officialLanguage": "French"
+    },
+    "KM": {
+        "phoneCode": 269,
+        "capitalCity": "Moroni",
+        "flagEmoji": "🇰🇲",
+        "name": "Comoros",
+        "currency": "Comorian franc",
+        "officialLanguage": "Arabic"
+    },
+    "CD": {
+        "phoneCode": 243,
+        "capitalCity": "Kinshasa",
+        "flagEmoji": "🇨🇩",
+        "name": "Democratic Republic of the Congo",
+        "currency": "Congolese franc",
+        "officialLanguage": "French"
+    },
+    "CG": {
+        "phoneCode": 242,
+        "capitalCity": "Brazzaville",
+        "flagEmoji": "🇨🇬",
+        "name": "Republic of the Congo",
+        "currency": "Central African CFA franc",
+        "officialLanguage": "French"
+    },
+    "CI": {
+        "phoneCode": 225,
+        "capitalCity": "Yamoussoukro",
+        "flagEmoji": "🇨🇮",
+        "name": "Cote D'Ivoire",
+        "currency": "West African CFA franc",
+        "officialLanguage": "French"
+    },
+    "DJ": {
+        "phoneCode": 253,
+        "capitalCity": "Djibouti (city)",
+        "flagEmoji": "🇩🇯",
+        "name": "Djibouti",
+        "currency": "Djiboutian franc",
+        "officialLanguage": "French"
+    },
+    "EG": {
+        "phoneCode": 20,
+        "capitalCity": "Cairo",
+        "flagEmoji": "🇪🇬",
+        "name": "Egypt",
+        "currency": "Egyptian Pound",
+        "officialLanguage": "Arabic"
+    },
+    "GQ": {
+        "phoneCode": 240,
+        "capitalCity": "Malabo",
+        "flagEmoji": "🇬🇶",
+        "name": "Equatorial Guinea",
+        "currency": "Central African CFA franc",
+        "officialLanguage": "Spanish"
+    },
+    "ER": {
+        "phoneCode": 291,
+        "capitalCity": "Asmara",
+        "flagEmoji": "🇪🇷",
+        "name": "Eritrea",
+        "currency": "Eritrean nakfa",
+        "officialLanguage": "Afar"
+    },
+    "ET": {
+        "phoneCode": 251,
+        "capitalCity": "Addis Ababa",
+        "flagEmoji": "🇪🇹",
+        "name": "Ethiopia",
+        "currency": "Ethiopian birr",
+        "officialLanguage": "Amharic"
+    },
+    "GA": {
+        "phoneCode": 241,
+        "capitalCity": "Libreville",
+        "flagEmoji": "🇬🇦",
+        "name": "Gabon",
+        "currency": "Central African CFA franc",
+        "officialLanguage": "French"
+    },
+    "GH": {
+        "phoneCode": 233,
+        "capitalCity": "Accra",
+        "flagEmoji": "🇬🇭",
+        "name": "Ghana",
+        "currency": "Ghanaian cedi",
+        "officialLanguage": "English"
+    },
+    "GM": {
+        "phoneCode": 220,
+        "capitalCity": "Banjul",
+        "flagEmoji": "🇬🇲",
+        "name": "Gambia",
+        "currency": "Dalasi",
+        "officialLanguage": "English"
+    },
+    "GN": {
+        "phoneCode": 224,
+        "capitalCity": "Conakry",
+        "flagEmoji": "🇬🇳",
+        "name": "Guinea",
+        "currency": "Guinean franc",
+        "officialLanguage": "French"
+    },
+    "GW": {
+        "phoneCode": 245,
+        "capitalCity": "Bissau",
+        "flagEmoji": "🇬🇼",
+        "name": "Guinea-Bissau",
+        "currency": "West African CFA franc",
+        "officialLanguage": "Portuguese"
+    },
+    "KE": {
+        "phoneCode": 254,
+        "capitalCity": "Nairobi",
+        "flagEmoji": "🇰🇪",
+        "name": "Kenya",
+        "currency": "Kenyan shilling",
+        "officialLanguage": "English"
+    },
+    "LS": {
+        "phoneCode": 266,
+        "capitalCity": "Maseru",
+        "flagEmoji": "🇱🇸",
+        "name": "Lesotho",
+        "currency": "Lesotho loti",
+        "officialLanguage": "Sesotho"
+    },
+    "LR": {
+        "phoneCode": 231,
+        "capitalCity": "Monrovia",
+        "flagEmoji": "🇱🇷",
+        "name": "Liberia",
+        "currency": "Liberian Dollar",
+        "officialLanguage": "English"
+    },
+    "LY": {
+        "phoneCode": 218,
+        "capitalCity": "Tripoli",
+        "flagEmoji": "🇱🇾",
+        "name": "Libya",
+        "currency": "Libyan dinar",
+        "officialLanguage": "Arabic"
+    },
+    "MG": {
+        "phoneCode": 261,
+        "capitalCity": "Antananarivo",
+        "flagEmoji": "🇲🇬",
+        "name": "Madagascar",
+        "currency": "Malagasy ariary",
+        "officialLanguage": "French"
+    },
+    "MW": {
+        "phoneCode": 265,
+        "capitalCity": "Lilongwe",
+        "flagEmoji": "🇲🇼",
+        "name": "Malawi",
+        "currency": "Malawian kwacha",
+        "officialLanguage": "Chichewa"
+    },
+    "ML": {
+        "phoneCode": 223,
+        "capitalCity": "Bamako",
+        "flagEmoji": "🇲🇱",
+        "name": "Mali",
+        "currency": "West African CFA franc",
+        "officialLanguage": "French"
+    },
+    "MR": {
+        "phoneCode": 222,
+        "capitalCity": "Nouakchott",
+        "flagEmoji": "🇲🇷",
+        "name": "Mauritania",
+        "currency": "Mauritanian ouguiya",
+        "officialLanguage": "Arabic"
+    },
+    "MU": {
+        "phoneCode": 230,
+        "capitalCity": "Port Louis",
+        "flagEmoji": "🇲🇺",
+        "name": "Mauritius",
+        "currency": "Mauritian rupee",
+        "officialLanguage": "Creole"
+    },
+    "MA": {
+        "phoneCode": 212,
+        "capitalCity": "Rabat",
+        "flagEmoji": "🇲🇦",
+        "name": "Morocco",
+        "currency": "Moroccan dirham",
+        "officialLanguage": "Arabic"
+    },
+    "MZ": {
+        "phoneCode": 258,
+        "capitalCity": "Maputo",
+        "flagEmoji": "🇲🇿",
+        "name": "Mozambique",
+        "currency": "Mozambican metical",
+        "officialLanguage": "Emakhuwa"
+    },
+    "NA": {
+        "phoneCode": 264,
+        "capitalCity": "Windhoek",
+        "flagEmoji": "🇳🇦",
+        "name": "Namibia",
+        "currency": "Namibian Dollar",
+        "officialLanguage": null
+    },
+    "NE": {
+        "phoneCode": 227,
+        "capitalCity": "Niamey",
+        "flagEmoji": "🇳🇪",
+        "name": "Niger",
+        "currency": "West African CFA franc",
+        "officialLanguage": "French"
+    },
+    "NG": {
+        "phoneCode": 234,
+        "capitalCity": "Abuja",
+        "flagEmoji": "🇳🇬",
+        "name": "Nigeria",
+        "currency": "Nigerian naira",
+        "officialLanguage": "English"
+    },
+    "RW": {
+        "phoneCode": 250,
+        "capitalCity": "Kigali",
+        "flagEmoji": "🇷🇼",
+        "name": "Rwanda",
+        "currency": "Rwandan franc",
+        "officialLanguage": "Kinyarwanda"
+    },
+    "ST": {
+        "phoneCode": 239,
+        "capitalCity": "São Tomé",
+        "flagEmoji": "🇸🇹",
+        "name": "Sao Tome And Principe",
+        "currency": "Sao Tome and Principe dobra",
+        "officialLanguage": "Portuguese"
+    },
+    "SN": {
+        "phoneCode": 221,
+        "capitalCity": "Dakar",
+        "flagEmoji": "🇸🇳",
+        "name": "Senegal",
+        "currency": "West African CFA franc",
+        "officialLanguage": "French"
+    },
+    "SC": {
+        "phoneCode": 248,
+        "capitalCity": "Victoria",
+        "flagEmoji": "🇸🇨",
+        "name": "Seychelles",
+        "currency": "Seychellois rupee",
+        "officialLanguage": "Creole"
+    },
+    "SL": {
+        "phoneCode": 232,
+        "capitalCity": "Freetown",
+        "flagEmoji": "🇸🇱",
+        "name": "Sierra Leone",
+        "currency": "Sierra Leonean leone",
+        "officialLanguage": "English"
+    },
+    "SO": {
+        "phoneCode": 252,
+        "capitalCity": "Mogadishu",
+        "flagEmoji": "🇸🇴",
+        "name": "Somalia",
+        "currency": "Somali shilling",
+        "officialLanguage": "Somali"
+    },
+    "ZA": {
+        "phoneCode": 27,
+        "capitalCity": "Pretoria / Cape Town",
+        "flagEmoji": "🇿🇦",
+        "name": "South Africa",
+        "currency": "South African rand",
+        "officialLanguage": "IsiZulu"
+    },
+    "SS": {
+        "phoneCode": 211,
+        "capitalCity": "Juba",
+        "flagEmoji": "🇸🇸",
+        "name": "South Sudan",
+        "currency": "South Sudanese Pound",
+        "officialLanguage": "Arabic"
+    },
+    "SD": {
+        "phoneCode": 249,
+        "capitalCity": "Khartoum",
+        "flagEmoji": "🇸🇩",
+        "name": "Sudan",
+        "currency": "Sudanese Pound",
+        "officialLanguage": "Arabic"
+    },
+    "SZ": {
+        "phoneCode": 268,
+        "capitalCity": "Mbabane",
+        "flagEmoji": "🇸🇿",
+        "name": "Eswatini",
+        "currency": "Swazi lilangeni",
+        "officialLanguage": "English"
+    },
+    "TZ": {
+        "phoneCode": 255,
+        "capitalCity": "Dodoma",
+        "flagEmoji": "🇹🇿",
+        "name": "Tanzania",
+        "currency": "Tanzanian shilling",
+        "officialLanguage": "Kiswahili or Swahili"
+    },
+    "TG": {
+        "phoneCode": 228,
+        "capitalCity": "Lomé",
+        "flagEmoji": "🇹🇬",
+        "name": "Togo",
+        "currency": "West African CFA franc",
+        "officialLanguage": "French"
+    },
+    "TN": {
+        "phoneCode": 216,
+        "capitalCity": "Tunis",
+        "flagEmoji": "🇹🇳",
+        "name": "Tunisia",
+        "currency": "Tunisian dinar",
+        "officialLanguage": "Arabic"
+    },
+    "UG": {
+        "phoneCode": 256,
+        "capitalCity": "Kampala",
+        "flagEmoji": "🇺🇬",
+        "name": "Uganda",
+        "currency": "Ugandan shilling",
+        "officialLanguage": "English"
+    },
+    "ZM": {
+        "phoneCode": 260,
+        "capitalCity": "Lusaka",
+        "flagEmoji": "🇿🇲",
+        "name": "Zambia",
+        "currency": "Zambian kwacha",
+        "officialLanguage": "English"
+    },
+    "ZW": {
+        "phoneCode": 263,
+        "capitalCity": "Harare",
+        "flagEmoji": "🇿🇼",
+        "name": "Zimbabwe",
+        "currency": "United States Dollar",
+        "officialLanguage": "English"
+    }
+  }
