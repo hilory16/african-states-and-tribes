@@ -4,10 +4,7 @@
             "capitalCity":"Umuahia",
             "location":"South East",
             "geoPoliticalZone":"",
-            "tribes":["Igbo"],
-            "localGovernemtAreas":[],
-            "landArea":"6,320 km2"
-
+            "tribes":["Igbo"]
         },
         "ADAMAWA":{
             "capitalCity":"Yola",
