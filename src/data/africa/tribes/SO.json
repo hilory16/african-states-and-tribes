@@ -1,0 +1,148 @@
+{
+    "SO":{
+        "AWDAL REGION":{
+            "name": "Awdal Region",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "AW",
+            "tribes":[""],
+            "type": null
+        },
+        "BAKOOL":{
+            "name": "Bakool",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "BK",
+            "tribes":[""],
+            "type": null
+        },
+        "BANAADIR":{
+            "name": "Banaadir",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "BN",
+            "tribes":[""],
+            "type": null
+        },
+        "BARI":{
+            "name": "Bari",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "BR",
+            "tribes":[""],
+            "type": null
+        },
+        "BAY":{
+            "name": "Bay",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "BY",
+            "tribes":[""],
+            "type": null
+        },
+        "GALGUDUUD":{
+            "name": "Galguduud",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "GA",
+            "tribes":[""],
+            "type": null
+        },
+        "GEDO":{
+            "name": "Gedo",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "GE",
+            "tribes":[""],
+            "type": null
+        },
+        "HIRAN":{
+            "name": "Hiran",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "HI",
+            "tribes":[""],
+            "type": null
+        },
+        "LOWER JUBA":{
+            "name": "Lower Juba",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "JH",
+            "tribes":[""],
+            "type": null
+        },
+        "LOWER SHEBELLE":{
+            "name": "Lower Shebelle",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "SH",
+            "tribes":[""],
+            "type": null
+        },
+        "MIDDLE JUBA":{
+            "name": "Middle Juba",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "JD",
+            "tribes":[""],
+            "type": null
+        },
+        "MIDDLE SHEBELLE":{
+            "name": "Middle Shebelle",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "SD",
+            "tribes":[""],
+            "type": null
+        },
+        "MUDUG":{
+            "name": "Mudug",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "MU",
+            "tribes":[""],
+            "type": null
+        },
+        "NUGAL":{
+            "name": "Nugal",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "NU",
+            "tribes":[""],
+            "type": null
+        },
+        "SANAAG REGION":{
+            "name": "Sanaag Region",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "SA",
+            "tribes":[""],
+            "type": null
+        },
+        "TOGDHEER REGION":{
+            "name": "Togdheer Region",
+            "capitalCity":"",
+            "location":"",
+            "geoPoliticalZone":"",
+            "stateCode": "TO",
+            "tribes":[""],
+            "type": null
+        }
+    }
+}
