@@ -1,4 +1,4 @@
-import AfricanCountries from "./data/african-countries.json";
+import AfricanCountries from "./data/africa/countries.json";
 
 function getAllAfricaCountries() {
   return AfricanCountries;

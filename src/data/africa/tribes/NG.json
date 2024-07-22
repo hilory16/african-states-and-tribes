@@ -1,0 +1,337 @@
+{
+    "NG":{
+        "ABIA":{
+            "name": "Abia",
+            "capitalCity":"Umuahia",
+            "location":"South East",
+            "geoPoliticalZone":"",
+            "stateCode": "AB",
+            "tribes":["Igbo"],
+            "type": "state"
+        },
+        "ADAMAWA":{
+            "name": "Adamawa",
+            "capitalCity":"Yola",
+            "location":"North East",
+            "geoPoliticalZone":"",
+            "stateCode": "AD",
+            "tribes":["Babur", "Bachama", "Banso (Panso)", "Batta","Baya", "Bilei", "Botlere", "Bura-Pabir", "Bwatiye", "Bwazza","Chamba", "Daba", "Daka", "Fulani", "Ga’anda", "Gira", "Gizigz", "Gombi","Gude", "Gudu", "Gwa (Gurawa)", "Gwamba", "Higi","Holma", "Hona", "Ichen", "Jibu", "Jirai", "Kaka", "Kambu", "Kanakuru (Dera)", "Kanuri", "Kilba", "Kurdul", "Kamwe","Lakka", "Lala","Longuda (Lunguda)", "Mambilla", "Margi (Marghi)","Matakarn", "Mbol", "Mbula", "Muchaila", "Mundang", "Ngweshe (Ndhang.Ngoshe-Ndhang)", "Njayi", "Palli", "Pire", "Shuwa", "Sukur", "Teme", "Tigon", "Tur", "Ubbo", "Vemgo", "Verre", "Wagga", "Wula", "Wurbo","Yandang", "Yungur"],
+            "type": "state"
+        },
+        "AKWAIBOM":{
+            "name": "Akwa Ibom",
+            "capitalCity":"Uyo",
+            "location":"South South",
+            "geoPoliticalZone":"",
+            "stateCode": "AK",
+            "tribes":["Anang","Andoni", "Eket", "Ibeno", "Ibibio", "Obolo", "Okobo (Okkobor)", "Oron" ],
+            "type": "state"
+        },
+        "ANAMBRA":{
+            "name": "Anambra",
+            "capitalCity":"Akwa",
+            "location":"South East",
+            "geoPoliticalZone":"",
+            "stateCode": "AN",
+            "tribes":["Igbo"],
+            "type": "state"
+        },
+        "BAUCHI":{
+            "name": "Bauchi",
+            "capitalCity":"BAUCHI",
+            "location":"North East",
+            "geoPoliticalZone":"",
+            "stateCode": "BA",
+            "tribes":["Angas","Bambora (Bambarawa)", "Banka (Bankalawa)", "Bara (Barawa)", "Barke", "Bele (Buli, Belewa)", "Bole (Bolewa)", "Boma (Bomawa, Burmano)", "Bomboro", "Buli", "Burak", "Buta (Butawa)", "Chama (Chamawa Fitilai)", "Chamo", "Dadiya", "Ouguri", "Daza (Dere, Derewa)", "Deno (Denawa)", "Duma (Dumawa)", "Fulani","Galambi", "Geji", "Gera (Gere, Gerawa)","Geruma (Gerumawa)","Gingwak", "Gubi (Gubawa)", "Gururntum", "Gyem", "Hausa", "Jahuna (Jahunawa)", "Jara (Jaar Jarawa Jarawa-Dutse)", "Jere (Jare, Jera, Jera, Jerawa)", "Jimbin (Jimbinawa)", "Jukun", "Kamo", "Karekare (Karaikarai)", "Kariya", "Kirfi (Kirfawa)", "Koro (Kwaro)", "Kudachano (Kudawa)", "Kushi", "Kwami (Kwom)", "Kwami (Kwom)", "Limono", "Longuda (Lunguda)", "Miya (Miyawa)", "Ngamo", "Ningi (Ningawa", "Pa’a (Pa’awa Afawa)", "Pero", "Polchi Habe", "Rebina (Rebinawa)", "Sanga", "Saya (Sayawa Za’ar)", "Segidi (Sigidawa)", "Siri (Sirawa)", "Shira (Shirawa)", "Tangale", "Tera (Terawa)", "Waja", "Warji", "Zaranda", "Zayam (Zeam)", "Zul (Zulawa)"],
+            "type": "state"
+        },
+        "BAYELSA":{
+            "name": "Bayelsa",
+            "capitalCity":"Yenagoa",
+            "location":"South South",
+            "geoPoliticalZone":"",
+            "stateCode": "BY",
+            "tribes":["Ijaw", "Isoko", "Urhobo"],
+            "type": "state"
+        },
+        "BENUE":{
+            "name": "Benue",
+            "capitalCity":"Makurdi",
+            "location":"North Central",
+            "geoPoliticalZone":"",
+            "stateCode": "BY",
+            "tribes":["Akweya-Yachi", "Egede (lgedde)", "Etolu (Etilo)", "Idoma", "Jukun","Kadung", "Tiv", "Ukelle","Ufia", "Utonkong", "Yalla"],
+            "type": "state"
+        },
+        "BORNO":{
+            "name": "Borno",
+            "capitalCity":"Maiduguri",
+            "location":"North East",
+            "geoPoliticalZone":"",
+            "stateCode": "BO",
+            "tribes":["Babur", "Buduma", "Bura-Pabir","Chibok", "Chinine", "Dghwede", "Fulani", "Gamergu-Mulgwa","Gavako", "Gwoza (Waha)", "Hausa", "Higi", "Kanakuru (Dera)", "Kanembu", "Kanuri", "Kamwe","Mandara (Wandala)", "Margi (Marghi)", "Mobber", "Ngweshe (Ndhang.Ngoshe-Ndhang)", "Shuwa", "Tera (Terawa)"],
+            "type": "state"
+        },
+        "CROSSRIVER":{
+            "name": "Cross River",
+            "capitalCity":"Calabar",
+            "location":"South South",
+            "geoPoliticalZone":"",
+            "stateCode": "CR",
+            "tribes":["Abayon","Adim","Adun","Agbo", "Akaju-Ndem","Anyima","Bachere", "Bahumono", "Bekwarra", "Bette", "Boki (Nki)", "Efik", "Egede (lgedde)", "Ejagham", "Ekajuk", "Ekoi", "Etung", "Ibibio", "Ikom", "Iyala (lyalla)", "Mbembe", "Mbube", "Nkim", "Nkum", "Ododop", "Olulumo","Oron", "Qua", "Ukelle", "Uyanga", "Yache", "Yakurr (Yako)"],
+            "type": "state"
+        },
+        "DELTA":{
+            "name": "Delta",
+            "capitalCity":"Asaba",
+            "location":"South South",
+            "geoPoliticalZone":"",
+            "stateCode": "DE",
+            "tribes":["Igbo", "Isoko", "Itsekiri", "Ijaw", "Olukumi", "Ukwani (Kwale)", "Urhobo"],
+            "type": "state"
+        },
+        "EBONYI":{
+            "name": "Ebonyi",
+            "capitalCity":"Abakaliki",
+            "location":"South East",
+            "geoPoliticalZone":"",
+            "stateCode": "EB",
+            "tribes":["Igbo", "Ukelle"],
+            "type": "state"
+        },
+        "EDO":{
+            "name": "Edo",
+            "capitalCity":"Benin City",
+            "location":"South South",
+            "geoPoliticalZone":"",
+            "stateCode": "ED",
+            "tribes":["Bini","Ebirra","Ebu", "Esan (Ishan)", "Etsako", "Etuno", "Okpamheri","Ososo", "Owan", "Uneme (Ineme)", "Urhobo"],
+            "type": "state"
+        },
+        "EKITI":{
+            "name": "Ekiti",
+            "capitalCity":"Ado Ekiti",
+            "location":"South West",
+            "geoPoliticalZone":"",
+            "stateCode": "EK",
+            "tribes":["Yoruba"],
+            "type": "state"
+        },
+        "ENUGU":{
+            "name": "Enugu",
+            "capitalCity":"Enugu",
+            "location":"South East",
+            "geoPoliticalZone":"",
+            "stateCode": "EN",
+            "tribes":["Igbo", "Mbembe"],
+            "type": "state"
+        },
+        "GOMBE":{
+            "name": "Gombe",
+            "capitalCity":"Gombe",
+            "location":"North East",
+            "geoPoliticalZone":"",
+            "stateCode": "GO",
+            "tribes":["Fulani", "Hausa", "Tangale", "Tula"],
+            "type": "state"
+        },
+        "IMO":{
+            "name": "Imo",
+            "capitalCity":"Owerri",
+            "location":"South East",
+            "stateCode": "IM",
+            "geoPoliticalZone":"",
+            "tribes":["Igbo"],
+            "type": "state"
+        },
+        "JIGAWA":{
+            "name": "Jigawa",
+            "capitalCity":"Dutse",
+            "location":"North West",
+            "geoPoliticalZone":"",
+            "stateCode": "JI",
+            "tribes":["Auyoka (Auyokawa)","Fulani", "Hausa", "Kanuri", "Kurama", "Warja (Warja)"],
+            "type": "state"
+        },
+        "KADUNA":{
+            "name": "Kaduna",
+            "capitalCity":"Kaduna",
+            "location":"North West",
+            "geoPoliticalZone":"",
+            "stateCode": "KD",
+            "tribes":["Adara (Kadara)","Atyap (Attakar)", "Ayu", "Bassa", "Bina (Binawa)","Fulani", "Gure", "Gwandara", "Gwari (Gbari)","Gwong(Kagoma)", "Hausa", "Jaba", "Kagoro", "Kaje (Kache)", "Kajuru (Kajurawa)", "Kamaku (Karnukawa)", "Kanikon","Kanuri", "Kariya", "Kiballo (Kiwollo)", "Koro (Kwaro)", "Kurama", "Mada", "Manchok", "Moruwa (Moro’a, Morwa)", "Ninzam (Ninzo)", "Nunku", "Rishuwa", "Rumada", "Rumaya", "Srubu (Surubu)", "Uncinda"],
+            "type": "state"
+        },
+        "KANO":{
+            "name": "Kano",
+            "capitalCity":"Kano",
+            "location":"North West",
+            "geoPoliticalZone":"",
+            "stateCode": "KN",
+            "tribes":["Fulani", "Hausa", "Kanuri", "Shira (Shirawa)", "Teshena (Teshenawa)"],
+            "type": "state"
+        },
+        "KATSINA":{
+            "name": "Katsina",
+            "capitalCity":"Katsina",
+            "location":"North West",
+            "geoPoliticalZone":"",
+            "stateCode": "KT",
+            "tribes":["Fulani", "Hausa"],
+            "type": "state"
+        },
+        "KEBBI":{
+            "name": "Kebbi",
+            "capitalCity":"Birnin Kebbi",
+            "location":"North West",
+            "geoPoliticalZone":"",
+            "stateCode": "KE",
+            "tribes":["Achipa", "Dakarkari", "Danda (Dandawa)", "Duka (Dukawa)", "Fulani","Hausa", "Kamaku (Karnukawa)", "Kambari", "Reshe", "Uncinda", "Zarma (Zarmawa)"],
+            "type": "state"
+        },
+        "KOGI":{
+            "name": "Kogi",
+            "capitalCity":"Lokoja",
+            "location":"North Central",
+            "geoPoliticalZone":"",
+            "stateCode": "KO",
+            "tribes":["Bassa", "Bunu", "Ebirra", "Ebu", "Gbedde", "Gwari (Gbari)", "Igalla", "ljumu", "Nupe", "Ogori", "Owe","Oworo","Yagba",  "Yoruba"],
+            "type": "state"
+        },
+        "KWARA":{
+            "name": "Kwara",
+            "capitalCity":"Ilorin",
+            "location":"North Central",
+            "geoPoliticalZone":"",
+            "stateCode": "KW",
+            "tribes":["Baruba (Batonu)", "Fulani", "Nupe", "Owe", "Yoruba" ],
+            "type": "state"
+        },
+        "LAGOS":{
+            "name": "Lagos",
+            "capitalCity":"Ikeja",
+            "location":"South West",
+            "geoPoliticalZone":"",
+            "stateCode": "LA",
+            "tribes":["Awori","Egun", "Yoruba"],
+            "type": "state"
+        },
+        "NASARRAWA":{
+            "name": "Nasarawa",
+            "capitalCity":"Lafia",
+            "location":"North Central",
+            "geoPoliticalZone":"",
+            "stateCode": "NA",
+            "tribes":[ "Afo (Eloyi)", "Alago (Arago)", "Eggon", "Gade", "Tiv", "Gwandara", "Gwari (Gbari)", "Kanuri"],
+            "type": "state"
+        },
+        "NIGER":{
+            "name": "Niger",
+            "capitalCity":"Minna",
+            "location":"North Central",
+            "geoPoliticalZone":"",
+            "stateCode": "NI",
+            "tribes":["Adara (Kadara)", "Baruba (Batonu)", "Bassa", "Baushi", "Boko (Bussawa, Bargawa)", "Buduma", "Dakarkari","Fulani", "Gade", "Gurmana", "Gwandara", "Gwari (Gbari)", "Hausa", "Kamaku (Karnukawa)", "Kambari", "Kanuri", "Koro (Kwaro)", "Kurama", "Laaru (Larawa)", "Lopa (Lupa, Lopawa)", "Nupe", "Pongo (Pongu)", "Reshe", "Rubu", "Uncinda", "Ura (Ula)", "Yumu", "Zabara"],
+            "type": "state"
+        },
+        "OGUN":{
+            "name": "Ogun",
+            "capitalCity":"Abeokuta",
+            "location":"South West",
+            "geoPoliticalZone":"",
+            "stateCode": "OG",
+            "tribes":["Awori", "Egun", "Yoruba"],
+            "type": "state"
+        },
+        "ONDO":{
+            "name": "Ondo",
+            "capitalCity":"Akure",
+            "location":"South West",
+            "geoPoliticalZone":"",
+            "stateCode": "ON",
+            "tribes":["Ebirra", "Yoruba"],
+            "type": "state"
+        },
+        "OSUN":{
+            "name": "Osun",
+            "capitalCity":"Oshogbo",
+            "location":"South West",
+            "geoPoliticalZone":"",
+            "stateCode": "OS",
+            "tribes":["Yoruba"],
+            "type": "state"
+        },
+        "OYO":{
+            "name": "Oyo",
+            "capitalCity":"Ibadan",
+            "location":"South West",
+            "geoPoliticalZone":"",
+            "stateCode": "OY",
+            "tribes":["Yoruba"],
+            "type": "state"
+        },
+        "PLATEAU":{
+            "name": "Plateau",
+            "capitalCity":"Jos",
+            "location":"North Central",
+            "geoPoliticalZone":"",
+            "stateCode": "PL",
+            "tribes":["Afizere", "Amo","Anaguta", "Angas","Ankwei", "Bada", "Bashiri (Bashirawa)", "Bassa", "Birom", "Bkkos", "Buji", "Burma (Burmawa)", "Bwall", "Challa", "Chip", "Chokobo", "Doemak (Dumuk)", "Fulani", "Fyam","Fyer", "Ganawuri", "Geruma (Gerumawa)", "Ganawuri", "Gusu", "Gwandara", "Gwari (Gbari)", "Irigwe", "Jere (Jare, Jera, Jera, Jerawa)", "Jukun", "Kadung", "Kantana", "Kanuri", "Kenern (Koenoem)", "Kulere (Kaler)", "Kurama", "Kwalla", "Kwami (Kwom)", "Kwaro", "Kwato", "Limono", "Mabo", "Mada", "Mama", "Memyang (Meryan)", "Miango","Miligili (Migili)", "Montol", "Munga (Mupang)", "Mupun", "Mushere", "Mwahavul (Mwaghavul)", "Ninzam (Ninzo)", "Nokere (Nakere)", "Nunku", "Pai", "Pyapun (Piapung)", "Rindire (Rendre)", "Ron", "Rukuba", "Shangawa (Shangau)", "Shan-Shan", "Sikdi", "Sura", "Tarok", "Tiv", "Yergan (Yergum)", "Yuom"],
+            "type": "state"
+        },
+        "RIVERS":{
+            "name": "Rivers",
+            "capitalCity":"Port Harcourt",
+            "location":"South South",
+            "geoPoliticalZone":"",
+            "stateCode": "RI",
+            "tribes":["Abua","Andoni","Bille", "Degema", "Ebana (Ebani)", "Egbema", "Engenni (Ngene)", "Epie", "Etche", "Gokana (Kana)", "Igbo", "Ijaw", "Kugbo", "Obolo", "Okirika", "Udekeama"],
+            "type": "state"
+        },
+        "SOKOTO":{
+            "name": "Sokoto",
+            "capitalCity":"Sokoto",
+            "location":"North West",
+            "geoPoliticalZone":"",
+            "stateCode": "SO",
+            "tribes":["Fulani", "Hausa", "Kyenga (Kengawa)", "Shanga (Shangawa)", "Uncinda"],
+            "type": "state"
+        },
+        "TARABA":{
+            "name": "Taraba",
+            "stateCode": "TA",
+            "capitalCity":"Jalingo",
+            "location":"North East",
+            "geoPoliticalZone":"",
+            "tribes":["Babur", "Bakulung", "Bali", "Bambuko","Banda (Bandawa)", "Betso (Bete)", "Bobua", "Chamba", "Chukkol", "Dangsa","Diba","Fulani", "Gengle", "Gornun (Gmun)", "Gonia", "Gwom", "Hausa", "Jahuna (Jahunawa)", "Jero","Jidda-Abu","Jonjo (Jenjo)", "Jukun", "Kaba(Kabawa)", "Kanuri","Karimjo", "Kenton", "Koma","Kona", "Kugama", "Kunini", "Kuteb", "Kutin", "Kwami (Kwom)", "Lama", "Lamja", "Lau", "Mbum", "Mumuye", "Ndoro", "Nyam","Nyandang","Panyam", "Pkanzom", "Poll", "Potopo", "Sakbe", "Sate", "Shomo", "Tarok", "Tikar", "Tiv", "Vommi", "Waka", "Wurkun", "Yandang", "Yott"],
+            "type": "state"
+        },
+        "YOBE":{
+            "name": "Yobe",
+            "capitalCity":"Damaturu",
+            "location":"North East",
+            "geoPoliticalZone":"",
+            "stateCode": "YO",
+            "tribes":["Affade","Babur", "Bade", "Bole (Bolewa)","Bura-Pabir", "Buru", "Chibok","Fulani", "Kanuri", "Karekare (Karaikarai)", "Manga (Mangawa)", "Ngamo", "Ngizim", "Hausa"],
+            "type": "state"
+        },
+        "ZAMFARA":{
+            "name": "Zamfara",
+            "capitalCity":"Gusau",
+            "location":"North West",
+            "geoPoliticalZone":"",
+            "stateCode": "ZA",
+            "tribes":["Hausa", "Fulani"],
+            "type": "state"
+        },
+        "FCT":{
+            "name": "Abuja Federal capital territory",
+            "capitalCity":"Abuja",
+            "location":"North Central",
+            "geoPoliticalZone":"",
+            "stateCode": "FC",
+            "tribes":["Gwari (Gbari)", "Tiv", "Gwandara"],
+            "type": "capital territory"
+        }
+    }
+}
