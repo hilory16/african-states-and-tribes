@@ -301,7 +301,8 @@
         "flagEmoji": "🇳🇬",
         "name": "Nigeria",
         "currency": "Nigerian naira",
-        "officialLanguage": "English"
+        "officialLanguage": "English",
+        "majorEthnicGroups":["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
     },
     "RW": {
         "phoneCode": 250,
@@ -349,7 +350,8 @@
         "flagEmoji": "🇸🇴",
         "name": "Somalia",
         "currency": "Somali shilling",
-        "officialLanguage": "Somali"
+        "officialLanguage": "Somali",
+        "majorEthnicGroups":["The Darood","The Dir",  "The Hawiye","The Isaaq","The Rahanweyn"]
     },
     "ZA": {
         "phoneCode": 27,
