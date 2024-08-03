@@ -4,3 +4,5 @@
 
 # Data Sources
 - https://www.vanguardngr.com/2017/05/full-list-of-all-371-tribes-in-nigeria-states-where-they-originate/
+- https://euaa.europa.eu/
+- https://www.citypopulation.de/
