@@ -38,7 +38,7 @@
 - Kenya
 - Lesotho
 - Liberia
-- - Libya
+- Libya
 - Madagascar
 - Malawi
 - Mali
