@@ -7,7 +7,8 @@
         "flagEmoji": "🇦🇴",
         "name": "Angola",
         "currency": "Angolan kwanza",
-        "currencySymbol":"",
+        "currencyCode":"AOA",
+        "currencySymbol":"Kz",
         "officialLanguage": "Portuguese",
         "majorEthnicGroups":[]
     },
@@ -19,7 +20,8 @@
         "flagEmoji": "🇧🇯",
         "name": "Benin",
         "currency": "West African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XOF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":["Adja (Aja)","Bariba","Dendi (Songhai)","Fon (Dahomey)","Fulani","Lukpa","Tammari (Betammaribe)","Yoruba"]
     },
@@ -31,7 +33,8 @@
         "flagEmoji": "🇧🇼",
         "name": "Botswana",
         "currency": "Botswana pula",
-        "currencySymbol":"",
+        "currencyCode":"BWP",
+        "currencySymbol":"P",
         "officialLanguage": "Setswana",
         "majorEthnicGroups":[]
     },
@@ -43,7 +46,8 @@
         "flagEmoji": "🇧🇫",
         "name": "Burkina Faso",
         "currency": "West African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XOF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -55,7 +59,8 @@
         "flagEmoji": "🇧🇮",
         "name": "Burundi",
         "currency": "Burundi franc",
-        "currencySymbol":"",
+        "currencyCode":"BIF",
+        "currencySymbol":"FBu",
         "officialLanguage": "Kirundi",
         "majorEthnicGroups":[]
     },
@@ -67,7 +72,8 @@
         "flagEmoji": "🇨🇻",
         "name": "Cabo Verde",
         "currency": "Cape Verdean escudo",
-        "currencySymbol":"",
+        "currencyCode":"CVE",
+        "currencySymbol":"$",
         "officialLanguage": "Portuguese",
         "majorEthnicGroups":[]
     },
@@ -79,7 +85,8 @@
         "flagEmoji": "🇨🇲",
         "name": "Cameroon",
         "currency": "Central African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XAF",
+        "currencySymbol":"Fr",
         "officialLanguage": "Major African languages",
         "majorEthnicGroups":[]
     },
@@ -91,7 +98,8 @@
         "flagEmoji": "🇨🇫",
         "name": "Central African Republic",
         "currency": "Central African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XAF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -103,9 +111,10 @@
       "flagEmoji": "🇩🇿",
       "name": "Algeria",
       "currency": "Algerian dinar",
-      "currencySymbol":"",
+      "currencyCode":"DZD",
+      "currencySymbol":"د.ج",
       "officialLanguage": "Arabic",
-      "majorEthnicGroups":[]
+      "majorEthnicGroups":["Arabs", "Berbers", "Harratin"]
     },
     "TD": {
         "phoneCode": 235,
@@ -115,7 +124,8 @@
         "flagEmoji": "🇹🇩",
         "name": "Chad",
         "currency": "Central African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XAF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -127,7 +137,8 @@
         "flagEmoji": "🇰🇲",
         "name": "Comoros",
         "currency": "Comorian franc",
-        "currencySymbol":"",
+        "currencyCode":"KMF",
+        "currencySymbol":"CF",
         "officialLanguage": "Arabic",
         "majorEthnicGroups":[]
     },
@@ -139,7 +150,8 @@
         "flagEmoji": "🇨🇩",
         "name": "Democratic Republic of the Congo",
         "currency": "Congolese franc",
-        "currencySymbol":"",
+        "currencyCode":"CDF",
+        "currencySymbol":"FC",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -151,7 +163,8 @@
         "flagEmoji": "🇨🇬",
         "name": "Republic of the Congo",
         "currency": "Central African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XAF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -163,7 +176,8 @@
         "flagEmoji": "🇨🇮",
         "name": "Cote D'Ivoire",
         "currency": "West African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XOF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -175,7 +189,8 @@
         "flagEmoji": "🇩🇯",
         "name": "Djibouti",
         "currency": "Djiboutian franc",
-        "currencySymbol":"",
+        "currencyCode":"DJF",
+        "currencySymbol":"Fdj",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -187,7 +202,8 @@
         "flagEmoji": "🇪🇬",
         "name": "Egypt",
         "currency": "Egyptian Pound",
-        "currencySymbol":"",
+        "currencyCode":"EGP",
+        "currencySymbol":"£",
         "officialLanguage": "Arabic",
         "majorEthnicGroups":[]
     },
@@ -199,7 +215,8 @@
         "flagEmoji": "🇬🇶",
         "name": "Equatorial Guinea",
         "currency": "Central African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XAF",
+        "currencySymbol":"Fr",
         "officialLanguage": "Spanish",
         "majorEthnicGroups":[]
     },
@@ -211,7 +228,8 @@
         "flagEmoji": "🇪🇷",
         "name": "Eritrea",
         "currency": "Eritrean nakfa",
-        "currencySymbol":"",
+        "currencyCode":"ERN",
+        "currencySymbol":"Nkf",
         "officialLanguage": "Afar",
         "majorEthnicGroups":[]
     },
@@ -223,7 +241,8 @@
         "flagEmoji": "🇪🇹",
         "name": "Ethiopia",
         "currency": "Ethiopian birr",
-        "currencySymbol":"",
+        "currencyCode":"ETB",
+        "currencySymbol":"Br",
         "officialLanguage": "Amharic",
         "majorEthnicGroups":[]
     },
@@ -235,7 +254,8 @@
         "flagEmoji": "🇬🇦",
         "name": "Gabon",
         "currency": "Central African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XAF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -247,7 +267,8 @@
         "flagEmoji": "🇬🇭",
         "name": "Ghana",
         "currency": "Ghanaian cedi",
-        "currencySymbol":"",
+        "currencyCode":"GHS",
+        "currencySymbol":"₵",
         "officialLanguage": "English",
         "majorEthnicGroups":[]
     },
@@ -259,7 +280,8 @@
         "flagEmoji": "🇬🇲",
         "name": "Gambia",
         "currency": "Dalasi",
-        "currencySymbol":"",
+        "currencyCode":"GMD",
+        "currencySymbol":"D",
         "officialLanguage": "English",
         "majorEthnicGroups":[]
     },
@@ -271,7 +293,8 @@
         "flagEmoji": "🇬🇳",
         "name": "Guinea",
         "currency": "Guinean franc",
-        "currencySymbol":"",
+        "currencyCode":"GNF",
+        "currencySymbol":"FG",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -283,7 +306,8 @@
         "flagEmoji": "🇬🇼",
         "name": "Guinea-Bissau",
         "currency": "West African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XOF",
+        "currencySymbol":"Fr",
         "officialLanguage": "Portuguese",
         "majorEthnicGroups":[]
     },
@@ -295,7 +319,8 @@
         "flagEmoji": "🇰🇪",
         "name": "Kenya",
         "currency": "Kenyan shilling",
-        "currencySymbol":"",
+        "currencyCode":"KES",
+        "currencySymbol":"KSh",
         "officialLanguage": "English",
         "majorEthnicGroups":[]
     },
@@ -307,7 +332,8 @@
         "flagEmoji": "🇱🇸",
         "name": "Lesotho",
         "currency": "Lesotho loti",
-        "currencySymbol":"",
+        "currencyCode":"LSL",
+        "currencySymbol":"L",
         "officialLanguage": "Sesotho",
         "majorEthnicGroups":[]
     },
@@ -319,7 +345,8 @@
         "flagEmoji": "🇱🇷",
         "name": "Liberia",
         "currency": "Liberian Dollar",
-        "currencySymbol":"",
+        "currencyCode":"LRD",
+        "currencySymbol":"**$",
         "officialLanguage": "English",
         "majorEthnicGroups":[]
     },
@@ -331,7 +358,8 @@
         "flagEmoji": "🇱🇾",
         "name": "Libya",
         "currency": "Libyan dinar",
-        "currencySymbol":"",
+        "currencyCode":"LYD",
+        "currencySymbol":"د.ل",
         "officialLanguage": "Arabic",
         "majorEthnicGroups":[]
     },
@@ -343,7 +371,8 @@
         "flagEmoji": "🇲🇬",
         "name": "Madagascar",
         "currency": "Malagasy ariary",
-        "currencySymbol":"",
+        "currencyCode":"MGA",
+        "currencySymbol":"Ar",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -355,7 +384,8 @@
         "flagEmoji": "🇲🇼",
         "name": "Malawi",
         "currency": "Malawian kwacha",
-        "currencySymbol":"",
+        "currencyCode":"MWK",
+        "currencySymbol":"K",
         "officialLanguage": "Chichewa",
         "majorEthnicGroups":[]
     },
@@ -367,7 +397,8 @@
         "flagEmoji": "🇲🇱",
         "name": "Mali",
         "currency": "West African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XOF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -379,7 +410,8 @@
         "flagEmoji": "🇲🇷",
         "name": "Mauritania",
         "currency": "Mauritanian ouguiya",
-        "currencySymbol":"",
+        "currencyCode":"MRU",
+        "currencySymbol":"UM",
         "officialLanguage": "Arabic",
         "majorEthnicGroups":[]
     },
@@ -391,7 +423,8 @@
         "flagEmoji": "🇲🇺",
         "name": "Mauritius",
         "currency": "Mauritian rupee",
-        "currencySymbol":"",
+        "currencyCode":"MUR",
+        "currencySymbol":"₨",
         "officialLanguage": "Creole",
         "majorEthnicGroups":[]
     },
@@ -403,7 +436,8 @@
         "flagEmoji": "🇲🇦",
         "name": "Morocco",
         "currency": "Moroccan dirham",
-        "currencySymbol":"",
+        "currencyCode":"MAD",
+        "currencySymbol":"د.م.",
         "officialLanguage": "Arabic",
         "majorEthnicGroups":[]
     },
@@ -415,7 +449,8 @@
         "flagEmoji": "🇲🇿",
         "name": "Mozambique",
         "currency": "Mozambican metical",
-        "currencySymbol":"",
+        "currencyCode":"MZN",
+        "currencySymbol":"MT",
         "officialLanguage": "Emakhuwa",
         "majorEthnicGroups":[]
     },
@@ -427,7 +462,8 @@
         "flagEmoji": "🇳🇦",
         "name": "Namibia",
         "currency": "Namibian Dollar",
-        "currencySymbol":"",
+        "currencyCode":"NAD",
+        "currencySymbol":"$",
         "officialLanguage": null,
         "majorEthnicGroups":[]
     },
@@ -439,7 +475,8 @@
         "flagEmoji": "🇳🇪",
         "name": "Niger",
         "currency": "West African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XOF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -451,7 +488,8 @@
         "flagEmoji": "🇳🇬",
         "name": "Nigeria",
         "currency": "Nigerian naira",
-        "currencySymbol":"",
+        "currencyCode":"NGN",
+        "currencySymbol":"₦",
         "officialLanguage": "English",
         "majorEthnicGroups":["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
     },
@@ -463,7 +501,8 @@
         "flagEmoji": "🇷🇼",
         "name": "Rwanda",
         "currency": "Rwandan franc",
-        "currencySymbol":"",
+        "currencyCode":"RWF",
+        "currencySymbol":"Fr",
         "officialLanguage": "Kinyarwanda", 
         "majorEthnicGroups":[]
     },
@@ -475,7 +514,8 @@
         "flagEmoji": "🇸🇹",
         "name": "Sao Tome And Principe",
         "currency": "Sao Tome and Principe dobra",
-        "currencySymbol":"",
+        "currencyCode":"STN",
+        "currencySymbol":"Db",
         "officialLanguage": "Portuguese",
         "majorEthnicGroups":[]
     },
@@ -487,7 +527,8 @@
         "flagEmoji": "🇸🇳",
         "name": "Senegal",
         "currency": "West African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XOF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -499,7 +540,8 @@
         "flagEmoji": "🇸🇨",
         "name": "Seychelles",
         "currency": "Seychellois rupee",
-        "currencySymbol":"",
+        "currencyCode":"SCR",
+        "currencySymbol":"₨",
         "officialLanguage": "Creole",
         "majorEthnicGroups":[]
     },
@@ -511,7 +553,8 @@
         "flagEmoji": "🇸🇱",
         "name": "Sierra Leone",
         "currency": "Sierra Leonean leone",
-        "currencySymbol":"",
+        "currencyCode":"SLL",
+        "currencySymbol":"Le",
         "officialLanguage": "English",
         "majorEthnicGroups":[]
     },
@@ -523,7 +566,8 @@
         "flagEmoji": "🇸🇴",
         "name": "Somalia",
         "currency": "Somali shilling",
-        "currencySymbol":"",
+        "currencyCode":"SOS",
+        "currencySymbol":"Sh",
         "officialLanguage": "Somali",
         "majorEthnicGroups":["The Darood","The Dir",  "The Hawiye","The Isaaq","The Rahanweyn"]
     },
@@ -535,7 +579,8 @@
         "flagEmoji": "🇿🇦",
         "name": "South Africa",
         "currency": "South African rand",
-        "currencySymbol":"",
+        "currencyCode":"ZAR",
+        "currencySymbol":"R",
         "officialLanguage": "IsiZulu",
         "majorEthnicGroups":[]
     },
@@ -547,7 +592,8 @@
         "flagEmoji": "🇸🇸",
         "name": "South Sudan",
         "currency": "South Sudanese Pound",
-        "currencySymbol":"",
+        "currencyCode":"SSP",
+        "currencySymbol":"£",
         "officialLanguage": "Arabic",
         "majorEthnicGroups":[]
     },
@@ -559,7 +605,8 @@
         "flagEmoji": "🇸🇩",
         "name": "Sudan",
         "currency": "Sudanese Pound",
-        "currencySymbol":"",
+        "currencyCode":"SDG",
+        "currencySymbol":"ج.س.",
         "officialLanguage": "Arabic",
         "majorEthnicGroups":[]
     },
@@ -571,7 +618,8 @@
         "flagEmoji": "🇸🇿",
         "name": "Eswatini",
         "currency": "Swazi lilangeni",
-        "currencySymbol":"",
+        "currencyCode":"SZL",
+        "currencySymbol":"E",
         "officialLanguage": "English",
         "majorEthnicGroups":[]
     },
@@ -583,7 +631,8 @@
         "flagEmoji": "🇹🇿",
         "name": "Tanzania",
         "currency": "Tanzanian shilling",
-        "currencySymbol":"",
+        "currencyCode":"TZS",
+        "currencySymbol":"TSh",
         "officialLanguage": "Kiswahili or Swahili",
         "majorEthnicGroups":[]
     },
@@ -595,7 +644,8 @@
         "flagEmoji": "🇹🇬",
         "name": "Togo",
         "currency": "West African CFA franc",
-        "currencySymbol":"",
+        "currencyCode":"XOF",
+        "currencySymbol":"Fr",
         "officialLanguage": "French",
         "majorEthnicGroups":[]
     },
@@ -607,7 +657,8 @@
         "flagEmoji": "🇹🇳",
         "name": "Tunisia",
         "currency": "Tunisian dinar",
-        "currencySymbol":"",
+        "currencyCode":"TND",
+        "currencySymbol":"د.ت",
         "officialLanguage": "Arabic",
         "majorEthnicGroups":[]
     },
@@ -619,7 +670,8 @@
         "flagEmoji": "🇺🇬",
         "name": "Uganda",
         "currency": "Ugandan shilling",
-        "currencySymbol":"",
+        "currencyCode":"UGX",
+        "currencySymbol":"USh",
         "officialLanguage": "English",
         "majorEthnicGroups":[]
     },
@@ -631,7 +683,8 @@
         "flagEmoji": "🇿🇲",
         "name": "Zambia",
         "currency": "Zambian kwacha",
-        "currencySymbol":"",
+        "currencyCode":"ZMW",
+        "currencySymbol":"ZK",
         "officialLanguage": "English",
         "majorEthnicGroups":[]
     },
@@ -642,8 +695,9 @@
         "countryCode":"ZW",
         "flagEmoji": "🇿🇼",
         "name": "Zimbabwe",
-        "currency": "United States Dollar",
-        "currencySymbol":"",
+        "currency": "Zimbabwean Dollar",
+        "currencyCode":"ZWL",
+        "currencySymbol":"$",
         "officialLanguage": "English",
         "majorEthnicGroups":[]
     }
