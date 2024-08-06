@@ -1,0 +1,526 @@
+{
+    "DZ":{
+        "ADRAR":{
+            "capitalCity":"Adrar",
+            "geoPoliticalZone":"",
+            "location":"South West",
+            "name": "Adrar",
+            "stateCode": "01",
+            "tribes":[],
+            "type": "province"
+        },
+        "AÏN DEFLA":{
+            "capitalCity":"Aïn Defla",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Aïn Defla",
+            "stateCode": "44",
+            "tribes":[],
+            "type": "province"
+        },
+        "AÏN TÉMOUCHENT":{
+            "capitalCity":"Aïn Témouchent",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Aïn Témouchent",
+            "stateCode": "46",
+            "tribes":[],
+            "type": "province"
+        },
+        "ALGIERS":{
+            "capitalCity":"Algiers",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Algiers",
+            "stateCode": "16",
+            "tribes":[],
+            "type": "province"
+        },
+        "ANNABA":{
+            "capitalCity":"Annaba",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Annaba",
+            "stateCode": "23",
+            "tribes":[],
+            "type": "province"
+        },
+        "BATNA":{
+            "capitalCity":"Batna",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Batna",
+            "stateCode": "05",
+            "tribes":[],
+            "type": "province"
+        },
+        "BÉCHAR":{
+            "capitalCity":"Béchar",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Béchar",
+            "stateCode": "08",
+            "tribes":[],
+            "type": "province"
+        },
+        "BÉJAÏA":{
+            "capitalCity":"Béjaïa",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Béjaïa",
+            "stateCode": "06",
+            "tribes":[],
+            "type": "province"
+        },
+        "BÉNI ABBÈS":{
+            "capitalCity":"Béni Abbès",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Béni Abbès",
+            "stateCode": "53",
+            "tribes":[],
+            "type": "province"
+        },
+        "BISKRA":{
+            "capitalCity":"Biskra",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Biskra",
+            "stateCode": "07",
+            "tribes":[],
+            "type": "province"
+        },
+        "BLIDA":{
+            "capitalCity":"Blida",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Blida",
+            "stateCode": "09",
+            "tribes":[],
+            "type": "province"
+        },
+        "BORDJ BADJI MOKHTAR":{
+            "capitalCity":"Bordj Badji Mokhtar",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Bordj Badji Mokhtar",
+            "stateCode": "52",
+            "tribes":[],
+            "type": "province"
+        },
+        "BORDJ BOU ARRÉRIDJ":{
+            "capitalCity":"Bordj Bou Arréridj",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Bordj Bou Arréridj",
+            "stateCode": "34",
+            "tribes":[],
+            "type": "province"
+        },
+        "BOUÏRA":{
+            "capitalCity":"Bouïra",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Bouïra",
+            "stateCode": "10",
+            "tribes":[],
+            "type": "province"
+        },
+        "BOUMERDÈS":{
+            "capitalCity":"Boumerdès",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Boumerdès",
+            "stateCode": "35",
+            "tribes":[],
+            "type": "province"
+        },
+        "CHLEF":{
+            "capitalCity":"Chlef",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Chlef",
+            "stateCode": "02",
+            "tribes":[],
+            "type": "province"
+        },
+        "CONSTANTINE":{
+            "capitalCity":"Constantine",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Constantine",
+            "stateCode": "25",
+            "tribes":[],
+            "type": "province"
+        },
+        "DJANET":{
+            "capitalCity":"Djanet",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Djanet",
+            "stateCode": "56",
+            "tribes":[],
+            "type": "province"
+        },
+        "DJELFA":{
+            "capitalCity":"Djelfa",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Djelfa",
+            "stateCode": "17",
+            "tribes":[],
+            "type": "province"
+        },
+        "EL BAYADH":{
+            "capitalCity":"El Bayadh",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "El Bayadh",
+            "stateCode": "32",
+            "tribes":[],
+            "type": "province"
+        },
+        "EL M'GHAIR":{
+            "capitalCity":"El M'Ghair",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "El M'Ghair",
+            "stateCode": "49",
+            "tribes":[],
+            "type": "province"
+        },
+        "EL MENIA":{
+            "capitalCity":"El Menia",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "El Menia",
+            "stateCode": "50",
+            "tribes":[],
+            "type": "province"
+        },
+        "EL OUED":{
+            "capitalCity":"El Oued",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "El Oued",
+            "stateCode": "39",
+            "tribes":[],
+            "type": "province"
+        },
+        "EL TARF":{
+            "capitalCity":"El Tarf",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "El Tarf",
+            "stateCode": "36",
+            "tribes":[],
+            "type": "province"
+        },
+        "GHARDAÏA":{
+            "capitalCity":"Ghardaïa",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Ghardaïa",
+            "stateCode": "47",
+            "tribes":[],
+            "type": "province"
+        },
+        "GUELMA":{
+            "capitalCity":"Guelma",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Guelma",
+            "stateCode": "24",
+            "tribes":[],
+            "type": "province"
+        },
+        "ILLIZI":{
+            "capitalCity":"Illizi",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Illizi",
+            "stateCode": "33",
+            "tribes":[],
+            "type": "province"
+        },
+        "IN GUEZZAM":{
+            "capitalCity":"In Guezzam",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "In Guezzam",
+            "stateCode": "58",
+            "tribes":[],
+            "type": "province"
+        },
+        "IN SALAH":{
+            "capitalCity":"In Salah",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "In Salah",
+            "stateCode": "57",
+            "tribes":[],
+            "type": "province"
+        },
+        "JIJEL":{
+            "capitalCity":"Jijel",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Jijel",
+            "stateCode": "18",
+            "tribes":[],
+            "type": "province"
+        },
+        "KHENCHELA":{
+            "capitalCity":"Khenchela",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Khenchela",
+            "stateCode": "40",
+            "tribes":[],
+            "type": "province"
+        },
+        "LAGHOUAT":{
+            "capitalCity":"Laghouat",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Laghouat",
+            "stateCode": "03",
+            "tribes":[],
+            "type": "province"
+        },
+        "M'SILA":{
+            "capitalCity":"M'Sila",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "M'Sila",
+            "stateCode": "28",
+            "tribes":[],
+            "type": "province"
+        },
+        "MASCARA":{
+            "capitalCity":"Mascara",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Mascara",
+            "stateCode": "29",
+            "tribes":[],
+            "type": "province"
+        },
+        "MÉDÉA":{
+            "capitalCity":"Médéa",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Médéa",
+            "stateCode": "26",
+            "tribes":[],
+            "type": "province"
+        },
+        "MILA":{
+            "capitalCity":"Mila",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Mila",
+            "stateCode": "43",
+            "tribes":[],
+            "type": "province"
+        },
+        "MOSTAGANEM":{
+            "capitalCity":"Mostaganem",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Mostaganem",
+            "stateCode": "27",
+            "tribes":[],
+            "type": "province"
+        },
+        "NAAMA":{
+            "capitalCity":"Naama",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Naama",
+            "stateCode": "45",
+            "tribes":[],
+            "type": "province"
+        },
+        "ORAN":{
+            "capitalCity":"Oran",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Oran",
+            "stateCode": "31",
+            "tribes":[],
+            "type": "province"
+        },
+        "OUARGLA":{
+            "capitalCity":"Ouargla",
+            "geoPoliticalZone":"",
+            "location":"",
+           "name": "Ouargla",
+            "stateCode": "30",
+            "tribes":[],
+            "type": "province"
+        },
+        "OULED DJELLAL":{
+            "capitalCity":"Ouled Djellal",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Ouled Djellal",
+            "stateCode": "51",
+            "tribes":[],
+            "type": "province"
+        },
+        "OUM EL BOUAGHI":{
+            "capitalCity":"Oum El Bouaghi",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Oum El Bouaghi",
+            "stateCode": "04",
+            "tribes":[],
+            "type": "province"
+        },
+        "RELIZANE":{
+            "capitalCity":"Relizane",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Relizane",
+            "stateCode": "48",
+            "tribes":[],
+            "type": "province"
+        },
+        "SAÏDA":{
+            "capitalCity":"Saïda",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Saïda",
+            "stateCode": "20",
+            "tribes":[],
+            "type": "province"
+        },
+        "SÉTIF":{
+            "capitalCity":"Sétif",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Sétif",
+            "stateCode": "19",
+            "tribes":[],
+            "type": "province"
+        },
+        "SIDI BEL ABBÈS":{
+            "capitalCity":"Sidi Bel Abbès",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Sidi Bel Abbès",
+            "stateCode": "22",
+            "tribes":[],
+            "type": "province"
+        },
+        "SKIKDA":{
+            "capitalCity":"Skikda",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Skikda",
+            "stateCode": "21",
+            "tribes":[],
+            "type": "province"
+        },
+        "SOUK AHRAS":{
+            "capitalCity":"Souk Ahras",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Souk Ahras",
+            "stateCode": "41",
+            "tribes":[],
+            "type": "province"
+        },
+        "TAMANRASSET":{
+            "capitalCity":"Tamanrasset",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tamanrasset",
+            "stateCode": "11",
+            "tribes":[],
+            "type": "province"
+        },
+        "TÉBESSA":{
+            "capitalCity":"Tébessa",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tébessa",
+            "stateCode": "12",
+            "tribes":[],
+            "type": "province"
+        },
+        "TIARET":{
+            "capitalCity":"Tiaret",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tiaret",
+            "stateCode": "14",
+            "tribes":[],
+            "type": "province"
+        },
+        "TIMIMOUN":{
+            "capitalCity":"Timimoun",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Timimoun",
+            "stateCode": "54",
+            "tribes":[],
+            "type": "province"
+        },
+        "TINDOUF":{
+            "capitalCity":"Tindouf",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tindouf",
+            "stateCode": "37",
+            "tribes":[],
+            "type": "province"
+        },
+        "TIPAZA":{
+            "capitalCity":"Tipaza",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tipaza (Tipasa)",
+            "stateCode": "42",
+            "tribes":[],
+            "type": "province"
+        },
+        "TISSEMSILT":{
+            "capitalCity":"Tissemsilt",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tissemsilt",
+            "stateCode": "38",
+            "tribes":[],
+            "type": "province"
+        },
+        "TIZI OUZOU":{
+            "capitalCity":"Tizi Ouzou",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tizi Ouzou",
+            "stateCode": "15",
+            "tribes":[],
+            "type": "province"
+        },
+        "TLEMCEN":{
+            "capitalCity":"Tlemcen",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tlemcen",
+            "stateCode": "13",
+            "tribes":[],
+            "type": "province"
+        },
+        "TOUGGOURT":{
+            "capitalCity":"Touggourt",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Touggourt",
+            "stateCode": "55",
+            "tribes":[],
+            "type": "province"
+        }
+    }
+}
