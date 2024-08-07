@@ -686,7 +686,7 @@
         "currencyCode":"ZMW",
         "currencySymbol":"ZK",
         "officialLanguage": "English",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":["Bemba", "Chewa", "Kaonde", "Lamba", "Lozi", "Lunda", "Luvale", "Nsenga", "Tonga"]
     },
     "ZW": {
         "phoneCode": 263,
