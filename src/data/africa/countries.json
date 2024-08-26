@@ -585,7 +585,7 @@
         "currency": "Tanzanian shilling",
         "currencySymbol":"",
         "officialLanguage": "Kiswahili or Swahili",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":["Sukuma", "Nyamwezi", "Chaga", "Haya", "Makonde", "Zigua", "Wazaramo", "Ngoni"]
     },
     "TG": {
         "phoneCode": 228,

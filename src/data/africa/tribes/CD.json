@@ -1,0 +1,113 @@
+{
+    "CD": {
+              "Bandundu ":{
+                "name": "Bandundu",
+                "capital": "Bandundu",
+                "code": "BA",
+                "tribes": ["Tetela", "Kasaï", "Lunda"]
+              },
+              "Bas-Uele": {
+                "name": "Bas-Uele",
+                "capital": "Buta",
+                "code": "BU",
+                "tribes": ["Bande", "Kango", "Lese"]
+              },
+              "Haut-Lomami": {
+                "name": "Haut-Lomami",
+                "capital": "Kamina",
+                "code": "HL",
+                "tribes": ["Luba", "Lunda", "Tshokwe"]
+              },
+              "Haut-Uele": {
+                "name": "Haut-Uele",
+                "capital": "Aru",
+                "code": "HU",
+                "tribes": ["Hema", "Lese", "Baka"]
+              },
+              "Ituri": {
+                "name": "Ituri",
+                "capital": "Bunia",
+                "code": "IT",
+                "tribes": ["Hema", "Lendu", "Ngiti"]
+              },
+              "Kasaï": {
+                "name": "Kasaï",
+                "capital": "Kananga",
+                "code": "KA",
+                "tribes": ["Luba", "Kasaï", "Tshokwe"]
+              },
+              "Kasaï-Central": {
+                "name": "Kasaï-Central",
+                "capital": "Kananga",
+                "code": "KC",
+                "tribes": ["Luba", "Kasaï", "Tshokwe"]
+              },
+              "Kasaï-Oriental": {
+                "name": "Kasaï-Oriental",
+                "capital": "Mbujimayi",
+                "code": "KO",
+                "tribes": ["Luba", "Lunda", "Tshokwe"]
+              },
+              "Katanga": {
+                "name": "Katanga",
+                "capital": "Lubumbashi",
+                "code": "KA",
+                "tribes": ["Luba", "Lunda", "Tshokwe"]
+              },
+              "Kinshasa": {
+                "name": "Kinshasa",
+                "capital": "Kinshasa",
+                "code": "KI",
+                "tribes": ["Kikongo", "Luba", "Kasaï"]
+              },
+              "Kwilu": {
+                "name": "Kwilu",
+                "capital": "Kikwit",
+                "code": "KW",
+                "tribes": ["Tetela", "Kasaï", "Lunda"]
+              },
+              "Kwongo": {
+                "name": "Kwongo",
+                "capital": "Lodja",
+                "code": "KW",
+                "tribes": ["Tetela", "Luba", "Kasaï"]
+              },
+              "Maï-Ndombe": {
+                "name": "Maï-Ndombe",
+                "capital": "Inongo",
+                "code": "MA",
+                "tribes": ["Yaka", "Kele", "Ngombe"]
+              },
+              "Maniema": {
+                "name": "Maniema",
+                "capital": "Sange",
+                "code": "MA",
+                "tribes": ["Tshokwe", "Luba", "Lunda"]
+              },
+              "Nord-Kivu": {
+                "name": "Nord-Kivu",
+                "capital": "Goma",
+                "code": "NK",
+                "tribes": ["Nande", "Hutu", "Tutsi"]
+              },
+              "Sankuru": {
+                "name": "Sankuru",
+                "capital": "Kamina",
+                "code": "SA",
+                "tribes": ["Luba", "Tshokwe", "Lunda"]
+              },
+              "Sud-Kivu": {
+                "name": "Sud-Kivu",
+                "capital": "Bukavu",
+                "code": "SK",
+                "tribes": ["Bashi", "Tutsi", "Hutu"]
+              },
+              "Tshopo": {
+                "name": "Tshopo",
+                "capital": "Tshopo",
+                "code": "TS",
+                "tribes": ["Luba", "Tshokwe", "Lunda"]
+              }
+          
+    }
+}

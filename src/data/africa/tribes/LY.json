@@ -1,0 +1,23 @@
+{
+    "LY": {
+        "Tripolitania": {
+            "name": "Tripolitania",
+            "capital": "Tripoli",
+            "code": "TP",
+            "tribes": ["Warfallah", "Al-Magharba", "Gadhadhfa"]
+        },
+        "Cyrenaica": {
+            "name": "Cyrenaica",
+            "capital": "Benghazi",
+            "code": "CY",
+            "tribes": ["Omar Mukhtar", "Al-Majabra", "Awaqir"]
+        },
+        "Fezzan": {
+            "name": "Fezzan",
+            "capital": "Sebha",
+            "code": "FE",
+            "tribes": ["Tuareg", "Tebu", "Awlad Sulayman"]
+        }
+          
+    }
+}

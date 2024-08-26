@@ -1,0 +1,34 @@
+{
+    "RW": {
+      "Kigali City": {
+        "code": "KC",
+        "region": "Kigali City",
+        "capital": "Kigali",
+        "tribes": ["Kinyarwanda-speaking"]
+      },
+      "Eastern Province": {
+        "code": "EP",
+        "region": "Eastern Province",
+        "capital": "Rwamagana",
+        "tribes": ["Hutu", "Tutsi", "Twa"]
+      },
+      "Northern Province": {
+        "code": "NP",
+        "region": "Northern Province",
+        "capital": "Musanze",
+        "tribes": ["Hutu", "Tutsi", "Twa"]
+      },
+      "Southern Province": {
+        "code": "SP",
+        "region": "Southern Province",
+        "capital": "Huye",
+        "tribes": ["Hutu", "Tutsi", "Twa"]
+      },
+      "Western Province": {
+        "code": "WP",
+        "region": "Western Province",
+        "capital": "Rubavu",
+        "tribes": ["Hutu", "Tutsi", "Twa"]
+      }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "TZ": {
+      "DODOMA": {
+        "code": "01",
+        "region": "Dodoma",
+        "capital": "Dodoma",
+        "tribes": ["Gogo", "Sandawe", "Pangwa"]
+      },
+      "DAR ES SALAAM": {
+        "code": "02",
+        "region": "Dar es Salaam",
+        "capital": "Dar es Salaam",
+        "tribes": ["Zanzibar Arabs", "Wazaramo", "Wakwere"]
+      },
+      "ARUSHA": {
+        "code": "03",
+        "region": "Arusha",
+        "capital": "Arusha",
+        "tribes": ["Chaga", "Maasai", "Meru"]
+      },
+      "KILIMANJARO": {
+        "code": "04",
+        "region": "Kilimanjaro",
+        "capital": "Moshi",
+        "tribes": ["Chaga", "Pare", "WaArusha"]
+      },
+      "MWANZA": {
+        "code": "05",
+        "region": "Mwanza",
+        "capital": "Mwanza",
+        "tribes": ["Sukuma", "Haya", "Ngoni"]
+      },
+      "GEITA": {
+        "code": "06",
+        "region": "Geita",
+        "capital": "Geita",
+        "tribes": ["Sukuma", "Nyamwezi"]
+      },
+      "SIMIYU": {
+        "code": "07",
+        "region": "Simiyu",
+        "capital": "Simiyu",
+        "tribes": ["Sukuma", "Ngoni"]
+      },
+      "TABORA": {
+        "code": "08",
+        "region": "Tabora",
+        "capital": "Tabora",
+        "tribes": ["Nyamwezi", "Sukuma"]
+      },
+      "SHINYANGA": {
+        "code": "09",
+        "region": "Shinyanga",
+        "capital": "Shinyanga",
+        "tribes": ["Sukuma", "Nyamwezi"]
+      },
+      "RUKWA": {
+        "code": "10",
+        "region": "Rukwa",
+        "capital": "Sumbawanga",
+        "tribes": ["Bemba", "Ngoni"]
+      },
+      "MBEYA": {
+        "code": "11",
+        "region": "Mbeya",
+        "capital": "Mbeya",
+        "tribes": ["Mbeya", "Ngoni", "Hehe"]
+      },
+      "IRINGA": {
+        "code": "12",
+        "region": "Iringa",
+        "capital": "Iringa",
+        "tribes": ["Hehe", "Pangwa", "Gogo"]
+      },
+      "MOROGORO": {
+        "code": "13",
+        "region": "Morogoro",
+        "capital": "Morogoro",
+        "tribes": ["Wazaramo", "Nguru", "Pangwa"]
+      },
+      "MANYARA": {
+        "code": "14",
+        "region": "Manyara",
+        "capital": "Babati",
+        "tribes": ["Barbaig", "Maasai", "Wakuria"]
+      },
+      "KIGOMA": {
+        "code": "15",
+        "region": "Kigoma",
+        "capital": "Kigoma",
+        "tribes": ["Kerewe", "Sukuma"]
+      },
+      "RUVUMA": {
+        "code": "16",
+        "region": "Ruvuma",
+        "capital": "Songea",
+        "tribes": ["Makonde", "Ngoni"]
+      },
+      "KATAVI": {
+        "code": "17",
+        "region": "Katavi",
+        "capital": "Mpanda",
+        "tribes": ["Sukuma", "Bende"]
+      },
+      "LINDI": {
+        "code": "18",
+        "region": "Lindi",
+        "capital": "Lindi",
+        "tribes": ["Makonde", "Sukuma"]
+      },
+      "MTWARA": {
+        "code": "19",
+        "region": "Mtwara",
+        "capital": "Mtwara",
+        "tribes": ["Makonde", "Sukuma"]
+      },
+      "ZANZIBAR": {
+        "code": "20",
+        "region": "Zanzibar",
+        "capital": "Zanzibar City",
+        "tribes": ["Zanzibar Arabs", "Shirazi"]
+      }
+    }
+  }
+  
