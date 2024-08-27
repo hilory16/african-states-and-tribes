@@ -1,34 +1,49 @@
 {
     "RW": {
       "KIGALI CITY": {
-        "code": "KC",
-        "region": "Kigali City",
-        "capital": "Kigali",
-        "tribes": ["Kinyarwanda-speaking"]
+        "capitalCity": "Kigali",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Kigali City",
+        "stateCode": "KC",
+        "tribes": ["Kinyarwanda-speaking"],
+        "type": "province"
       },
       "EASTERN PROVINCE": {
-        "code": "EP",
-        "region": "Eastern Province",
-        "capital": "Rwamagana",
-        "tribes": ["Hutu", "Tutsi", "Twa"]
+        "capitalCity": "Rwamagana",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Eastern Province",
+        "stateCode": "EP",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
       },
       "NORTHERN PROVINCE": {
-        "code": "NP",
-        "region": "Northern Province",
-        "capital": "Musanze",
-        "tribes": ["Hutu", "Tutsi", "Twa"]
+        "capitalCity": "Musanze",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Northern Province",
+        "stateCode": "NP",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
       },
       "SOUTHERN PROVINCE": {
-        "code": "SP",
-        "region": "Southern Province",
-        "capital": "Huye",
-        "tribes": ["Hutu", "Tutsi", "Twa"]
+        "capitalCity": "Huye",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Southern Province",
+        "stateCode": "SP",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
       },
       "WESTERN PROVINCE": {
-        "code": "WP",
-        "region": "Western Province",
-        "capital": "Rubavu",
-        "tribes": ["Hutu", "Tutsi", "Twa"]
+        "capitalCity": "Rubavu",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Western Province",
+        "stateCode": "WP",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
       }
     }
 }

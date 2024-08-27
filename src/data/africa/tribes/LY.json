@@ -1,22 +1,31 @@
 {
     "LY": {
         "TRIPOLITANIA": {
+            "capitalCity": "Tripoli",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Tripolitania",
-            "capital": "Tripoli",
-            "code": "TP",
-            "tribes": ["Warfallah", "Al-Magharba", "Gadhadhfa"]
+            "stateCode": "TP",
+            "tribes": ["Warfallah", "Al-Magharba", "Gadhadhfa"],
+            "type": "state"
         },
         "CYRENAICA": {
+            "capitalCity": "Benghazi",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Cyrenaica",
-            "capital": "Benghazi",
-            "code": "CY",
-            "tribes": ["Omar Mukhtar", "Al-Majabra", "Awaqir"]
+            "stateCode": "CY",
+            "tribes": ["Omar Mukhtar", "Al-Majabra", "Awaqir"],
+            "type": "state"
         },
         "FEZZAN": {
+            "capitalCity": "Sebha",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Fezzan",
-            "capital": "Sebha",
-            "code": "FE",
-            "tribes": ["Tuareg", "Tebu", "Awlad Sulayman"]
+            "stateCode": "FE",
+            "tribes": ["Tuareg", "Tebu", "Awlad Sulayman"],
+            "type": "state"
         }
           
     }

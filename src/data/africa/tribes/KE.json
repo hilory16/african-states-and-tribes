@@ -1,52 +1,76 @@
 {
     "KE": {
           "CENTRAL": {
+            "capitalCity": "Nyeri",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Central",
-            "capital": "Nyeri",
-            "code": "CE",
-            "tribes": ["Kikuyu", "Kamba", "Meru"]
+            "stateCode": "CE",
+            "tribes": ["Kikuyu", "Kamba", "Meru"],
+            "type": "province"
           },
           "COAST": {
+            "capitalCity": "Mombasa",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Coast",
-            "capital": "Mombasa",
-            "code": "CO",
-            "tribes": ["Mijikenda", "Swahili", "Digo", "Chaga"]
+            "stateCode": "CO",
+            "tribes": ["Mijikenda", "Swahili", "Digo", "Chaga"],
+            "type": "province"
           },
           "EASTERN": {
+            "capitalCity": "Kitui",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Eastern",
-            "capital": "Kitui",
-            "code": "EA",
-            "tribes": ["Kamba", "Meru", "Embu"]
+            "stateCode": "EA",
+            "tribes": ["Kamba", "Meru", "Embu"],
+            "type": "province"
           },
           "NAIROBI": {
+            "capitalCity": "Nairobi",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Nairobi",
-            "capital": "Nairobi",
-            "code": "NA",
-            "tribes": ["Kikuyu", "Luo", "Kamba", "Kisii"]
+            "stateCode": "NA",
+            "tribes": ["Kikuyu", "Luo", "Kamba", "Kisii"],
+            "type": "province"
           },
           "NORTH EASTERN": {
+            "capitalCity": "Garissa",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "North Eastern",
-            "capital": "Garissa",
-            "code": "NE",
-            "tribes": ["Somali", "Borana", "Gabbra"]
+            "stateCode": "NE",
+            "tribes": ["Somali", "Borana", "Gabbra"],
+            "type": "province"
           },
           "NYANZA": {
+            "capitalCity": "Kisumu",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Nyanza",
-            "capital": "Kisumu",
-            "code": "NY",
-            "tribes": ["Luo", "Kisii", "Kurya"]
+            "stateCode": "NY",
+            "tribes": ["Luo", "Kisii", "Kurya"],
+            "type": "province"
           },
           "RIFT VALLEY": {
+            "capitalCity": "Eldoret",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Rift Valley",
-            "capital": "Eldoret",
-            "code": "RV",
-            "tribes": ["Kalenjin", "Maasai", "Nandi", "Tugen"]
+            "stateCode": "RV",
+            "tribes": ["Kalenjin", "Maasai", "Nandi", "Tugen"],
+            "type": "province"
           },
           "WESTERN": {
+            "capitalCity": "Kakamega",
+            "geoPoliticalZone":"",
+            "location":"",
             "name": "Western",
-            "capital": "Kakamega",
-            "code": "WE",
-            "tribes": ["Luhya", "Teso", "Bukusu"]
+            "stateCode": "WE",
+            "tribes": ["Luhya", "Teso", "Bukusu"],
+            "type": "province"
           }
       }
 }
