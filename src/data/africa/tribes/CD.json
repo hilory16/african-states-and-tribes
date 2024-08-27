@@ -1,108 +1,108 @@
 {
     "CD": {
-              "Bandundu ":{
+              "BANDUNDU ":{
                 "name": "Bandundu",
                 "capital": "Bandundu",
                 "code": "BA",
                 "tribes": ["Tetela", "Kasaï", "Lunda"]
               },
-              "Bas-Uele": {
+              "BAS-UELE": {
                 "name": "Bas-Uele",
                 "capital": "Buta",
                 "code": "BU",
                 "tribes": ["Bande", "Kango", "Lese"]
               },
-              "Haut-Lomami": {
+              "HAUT-LOMAMI": {
                 "name": "Haut-Lomami",
                 "capital": "Kamina",
                 "code": "HL",
                 "tribes": ["Luba", "Lunda", "Tshokwe"]
               },
-              "Haut-Uele": {
+              "HAUT-UELE": {
                 "name": "Haut-Uele",
                 "capital": "Aru",
                 "code": "HU",
                 "tribes": ["Hema", "Lese", "Baka"]
               },
-              "Ituri": {
+              "ITURI": {
                 "name": "Ituri",
                 "capital": "Bunia",
                 "code": "IT",
                 "tribes": ["Hema", "Lendu", "Ngiti"]
               },
-              "Kasaï": {
+              "KASAI": {
                 "name": "Kasaï",
                 "capital": "Kananga",
                 "code": "KA",
                 "tribes": ["Luba", "Kasaï", "Tshokwe"]
               },
-              "Kasaï-Central": {
+              "KASAI-CENTRAL": {
                 "name": "Kasaï-Central",
                 "capital": "Kananga",
                 "code": "KC",
                 "tribes": ["Luba", "Kasaï", "Tshokwe"]
               },
-              "Kasaï-Oriental": {
+              "KASAI-ORIENTAL": {
                 "name": "Kasaï-Oriental",
                 "capital": "Mbujimayi",
                 "code": "KO",
                 "tribes": ["Luba", "Lunda", "Tshokwe"]
               },
-              "Katanga": {
+              "KATANGA": {
                 "name": "Katanga",
                 "capital": "Lubumbashi",
                 "code": "KA",
                 "tribes": ["Luba", "Lunda", "Tshokwe"]
               },
-              "Kinshasa": {
+              "KINSHASA": {
                 "name": "Kinshasa",
                 "capital": "Kinshasa",
                 "code": "KI",
                 "tribes": ["Kikongo", "Luba", "Kasaï"]
               },
-              "Kwilu": {
+              "KWILU": {
                 "name": "Kwilu",
                 "capital": "Kikwit",
                 "code": "KW",
                 "tribes": ["Tetela", "Kasaï", "Lunda"]
               },
-              "Kwongo": {
+              "KWONGO": {
                 "name": "Kwongo",
                 "capital": "Lodja",
                 "code": "KW",
                 "tribes": ["Tetela", "Luba", "Kasaï"]
               },
-              "Maï-Ndombe": {
+              "MAI-NDOMBE": {
                 "name": "Maï-Ndombe",
                 "capital": "Inongo",
                 "code": "MA",
                 "tribes": ["Yaka", "Kele", "Ngombe"]
               },
-              "Maniema": {
+              "MANIEMA": {
                 "name": "Maniema",
                 "capital": "Sange",
                 "code": "MA",
                 "tribes": ["Tshokwe", "Luba", "Lunda"]
               },
-              "Nord-Kivu": {
+              "NORD-KIVU": {
                 "name": "Nord-Kivu",
                 "capital": "Goma",
                 "code": "NK",
                 "tribes": ["Nande", "Hutu", "Tutsi"]
               },
-              "Sankuru": {
+              "SANKURU": {
                 "name": "Sankuru",
                 "capital": "Kamina",
                 "code": "SA",
                 "tribes": ["Luba", "Tshokwe", "Lunda"]
               },
-              "Sud-Kivu": {
+              "SUD-KIVU": {
                 "name": "Sud-Kivu",
                 "capital": "Bukavu",
                 "code": "SK",
                 "tribes": ["Bashi", "Tutsi", "Hutu"]
               },
-              "Tshopo": {
+              "TSHOPO": {
                 "name": "Tshopo",
                 "capital": "Tshopo",
                 "code": "TS",

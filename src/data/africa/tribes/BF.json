@@ -1,24 +1,24 @@
 {
     "BF": {
-      "Bubanza": {
+      "BUBANZA": {
         "code": "BU",
         "region": "Bubanza",
         "capital": "Kigali",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Bujumbura Mairie": {
+      "BUJUMBURA MAIRIE": {
         "code": "BM",
         "region": "Bujumbura Mairie",
         "capital": "Bujumbura",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Bujumbura Rural": {
+      "BUJUMBURA RURAL": {
         "code": "BR",
         "region": "Bujumbura Rural",
         "capital": "Isale",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Bururi": {
+      "BURIRI": {
         "code": "BU",
         "region": "Bururi",
         "capital": "Bururi",
@@ -30,55 +30,55 @@
         "capital": "Cibitoke",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Gitega": {
+      "GITEGA": {
         "name": "Gitega",
         "capital": "Gitega",
         "code": "GI",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Karuzi": {
+      "KARUZI": {
         "name": "Karuzi",
         "capital": "Karuzi",
         "code": "KA",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Kayanza": {
+      "KAYANZA": {
         "name": "Kayanza",
         "capital": "Kayanza",
         "code": "KY",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Kirundo": {
+      "KIRUNDO": {
         "name": "Kirundo",
         "capital": "Kirundo",
         "code": "KI",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Makamba": {
+      "MAKAMBA": {
         "name": "Makamba",
         "capital": "Makamba",
         "code": "MA",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Muramvya ":{
+      "MURAMVYA ":{
         "name": "Muramvya",
         "capital": "Muramvya",
         "code": "MU",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Muyinga": {
+      "MUYINGA": {
         "name": "Muyinga",
         "capital": "Muyinga",
         "code": "MY",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Ngozi": {
+      "NGOZI": {
         "name": "Ngozi",
         "capital": "Ngozi",
         "code": "NG",
         "tribes": ["Hutu", "Tutsi", "Twa"]
       },
-      "Ruyigi": {
+      "RUYIGI": {
         "name": "Ruyigi",
         "capital": "Ruyigi",
         "code": "RU",

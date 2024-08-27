@@ -1,48 +1,48 @@
 {
     "KE": {
-          "Central": {
+          "CENTRAL": {
             "name": "Central",
             "capital": "Nyeri",
             "code": "CE",
             "tribes": ["Kikuyu", "Kamba", "Meru"]
           },
-          "Coast": {
+          "COAST": {
             "name": "Coast",
             "capital": "Mombasa",
             "code": "CO",
             "tribes": ["Mijikenda", "Swahili", "Digo", "Chaga"]
           },
-          "Eastern": {
+          "EASTERN": {
             "name": "Eastern",
             "capital": "Kitui",
             "code": "EA",
             "tribes": ["Kamba", "Meru", "Embu"]
           },
-          "Nairobi": {
+          "NAIROBI": {
             "name": "Nairobi",
             "capital": "Nairobi",
             "code": "NA",
             "tribes": ["Kikuyu", "Luo", "Kamba", "Kisii"]
           },
-          "North Eastern": {
+          "NORTH EASTERN": {
             "name": "North Eastern",
             "capital": "Garissa",
             "code": "NE",
             "tribes": ["Somali", "Borana", "Gabbra"]
           },
-          "Nyanza": {
+          "NYANZA": {
             "name": "Nyanza",
             "capital": "Kisumu",
             "code": "NY",
             "tribes": ["Luo", "Kisii", "Kurya"]
           },
-          "Rift Valley": {
+          "RIFT VALLEY": {
             "name": "Rift Valley",
             "capital": "Eldoret",
             "code": "RV",
             "tribes": ["Kalenjin", "Maasai", "Nandi", "Tugen"]
           },
-          "Western": {
+          "WESTERN": {
             "name": "Western",
             "capital": "Kakamega",
             "code": "WE",
