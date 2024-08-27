@@ -1,0 +1,130 @@
+{
+    "BF": {
+      "BUBANZA": {
+        "capitalCity": "Kigali",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Bubanza",
+        "stateCode": "BU",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "BUJUMBURA MAIRIE": {
+        "capitalCity": "Bujumbura",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Bujumbura Mairie",
+        "stateCode": "BM",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "BUJUMBURA RURAL": {
+        "capitalCity": "Isale",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Bujumbura Rural",
+        "stateCode": "BR",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "BURIRI": {
+        "capitalCity": "Bururi",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Bururi",
+        "stateCode": "BU",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "Cibitoke": {
+        "capitalCity": "Cibitoke",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Cibitoke",
+        "stateCode": "CI",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "GITEGA": {
+        "capitalCity": "Gitega",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Gitega",
+        "stateCode": "GI",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "KARUZI": {
+        "capitalCity": "Karuzi",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Karuzi",
+        "stateCode": "KA",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "KAYANZA": {
+        "capitalCity": "Kayanza",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Kayanza",
+        "stateCode": "KY",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "KIRUNDO": {
+        "capitalCity": "Kirundo",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Kirundo",
+        "stateCode": "KI",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "MAKAMBA": {
+        "capitalCity": "Makamba",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Makamba",
+        "stateCode": "MA",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "MURAMVYA ":{
+        "capitalCity": "Muramvya",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Muramvya",
+        "stateCode": "MU",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "MUYINGA": {
+        "capitalCity": "Muyinga",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Muyinga",
+        "stateCode": "MY",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "NGOZI": {
+        "capitalCity": "Ngozi",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Ngozi",
+        "stateCode": "NG",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      },
+      "RUYIGI": {
+        "capitalCity": "Ruyigi",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Ruyigi",
+        "stateCode": "RU",
+        "tribes": ["Hutu", "Tutsi", "Twa"],
+        "type": "province"
+      }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "KE": {
+          "CENTRAL": {
+            "capitalCity": "Nyeri",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Central",
+            "stateCode": "CE",
+            "tribes": ["Kikuyu", "Kamba", "Meru"],
+            "type": "province"
+          },
+          "COAST": {
+            "capitalCity": "Mombasa",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Coast",
+            "stateCode": "CO",
+            "tribes": ["Mijikenda", "Swahili", "Digo", "Chaga"],
+            "type": "province"
+          },
+          "EASTERN": {
+            "capitalCity": "Kitui",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Eastern",
+            "stateCode": "EA",
+            "tribes": ["Kamba", "Meru", "Embu"],
+            "type": "province"
+          },
+          "NAIROBI": {
+            "capitalCity": "Nairobi",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Nairobi",
+            "stateCode": "NA",
+            "tribes": ["Kikuyu", "Luo", "Kamba", "Kisii"],
+            "type": "province"
+          },
+          "NORTH EASTERN": {
+            "capitalCity": "Garissa",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "North Eastern",
+            "stateCode": "NE",
+            "tribes": ["Somali", "Borana", "Gabbra"],
+            "type": "province"
+          },
+          "NYANZA": {
+            "capitalCity": "Kisumu",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Nyanza",
+            "stateCode": "NY",
+            "tribes": ["Luo", "Kisii", "Kurya"],
+            "type": "province"
+          },
+          "RIFT VALLEY": {
+            "capitalCity": "Eldoret",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Rift Valley",
+            "stateCode": "RV",
+            "tribes": ["Kalenjin", "Maasai", "Nandi", "Tugen"],
+            "type": "province"
+          },
+          "WESTERN": {
+            "capitalCity": "Kakamega",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Western",
+            "stateCode": "WE",
+            "tribes": ["Luhya", "Teso", "Bukusu"],
+            "type": "province"
+          }
+      }
+}

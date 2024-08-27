@@ -1,0 +1,185 @@
+{
+    "TZ": {
+      "DODOMA": {
+        "capitalCity": "Dodoma",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Dodoma",
+        "stateCode": "",     
+        "tribes": ["Gogo", "Sandawe", "Pangwa"],
+        "type": "province"
+      },
+      "DAR ES SALAAM": {
+        "capitalCity": "Dar es Salaam",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Dar es Salaam",
+        "stateCode": "",
+        "tribes": ["Zanzibar Arabs", "Wazaramo", "Wakwere"],
+        "type": "province"
+      },
+      "ARUSHA": {
+        "capitalCity": "Arusha",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Arusha",
+        "stateCode": "",
+        "tribes": ["Chaga", "Maasai", "Meru"],
+        "type": "province"
+      },
+      "KILIMANJARO": {
+        "capitalCity": "Moshi",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Kilimanjaro",
+        "stateCode": "",
+        "tribes": ["Chaga", "Pare", "WaArusha"],
+        "type": "province"
+      },
+      "MWANZA": {
+        "capitalCity": "Mwanza",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Mwanza",
+        "stateCode": "",
+        "tribes": ["Sukuma", "Haya", "Ngoni"],
+        "type": "province"
+      },
+      "GEITA": {
+        "capitalCity": "Geita",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Geita",
+        "stateCode": "",      
+        "tribes": ["Sukuma", "Nyamwezi"],
+        "type": "province"
+      },
+      "SIMIYU": {
+        "capitalCity": "Simiyu",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Simiyu",
+        "stateCode": "", 
+        "tribes": ["Sukuma", "Ngoni"],
+        "type": "province"
+      },
+      "TABORA": {
+        "capitalCity": "Tabora",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Tabora",
+        "stateCode": "",
+        "tribes": ["Nyamwezi", "Sukuma"],
+        "type": "province"
+      },
+      "SHINYANGA": {
+        "capitalCity": "Shinyanga",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Shinyanga",
+        "stateCode": "",
+        "tribes": ["Sukuma", "Nyamwezi"],
+        "type": "province"
+      },
+      "RUKWA": {
+        "capitalCity": "Sumbawanga",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Rukwa",
+        "stateCode": "",
+        "tribes": ["Bemba", "Ngoni"],
+        "type": "province"
+      },
+      "MBEYA": {
+        "capitalCity": "Mbeya",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Mbeya",
+        "stateCode": "",
+        "tribes": ["Mbeya", "Ngoni", "Hehe"],
+        "type": "province"
+      },
+      "IRINGA": {
+        "capitalCity": "Iringa",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Iringa",
+        "stateCode": "",
+        "tribes": ["Hehe", "Pangwa", "Gogo"],
+        "type": "province"
+      },
+      "MOROGORO": {
+        "capitalCity": "Morogoro",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Morogoro",
+        "stateCode": "",
+        "tribes": ["Wazaramo", "Nguru", "Pangwa"],
+        "type": "province"
+      },
+      "MANYARA": {
+        "capitalCity": "Babati",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Manyara",
+        "stateCode": "",
+        "tribes": ["Barbaig", "Maasai", "Wakuria"],
+        "type": "province"
+      },
+      "KIGOMA": {
+        "capitalCity": "Kigoma",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Kigoma",
+        "stateCode": "",
+        "tribes": ["Kerewe", "Sukuma"],
+        "type": "province"
+      },
+      "RUVUMA": {
+        "capitalCity": "Songea",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Ruvuma",
+        "stateCode": "",
+        "tribes": ["Makonde", "Ngoni"],
+        "type": "province"
+      },
+      "KATAVI": {
+        "capitalCity": "Mpanda",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Katavi",
+        "stateCode": "",
+        "tribes": ["Sukuma", "Bende"],
+        "type": "province"
+      },
+      "LINDI": {
+        "capitalCity": "Lindi",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Lindi",
+        "stateCode": "",  
+        "tribes": ["Makonde", "Sukuma"],
+        "type": "province"
+      },
+      "MTWARA": {
+        "capitalCity": "Mtwara",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Mtwara",
+        "stateCode": "", 
+        "tribes": ["Makonde", "Sukuma"],
+        "type": "province"
+      },
+      "ZANZIBAR": {
+        "capitalCity": "Zanzibar City",
+        "geoPoliticalZone":"",
+        "location":"",
+        "name": "Zanzibar",
+        "stateCode": "",
+        "tribes": ["Zanzibar Arabs", "Shirazi"],
+        "type": "province"
+      }
+    }
+  }
+  
