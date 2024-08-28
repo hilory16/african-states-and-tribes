@@ -1,0 +1,518 @@
+
+{
+    "BF":{
+        "BALÉ":{
+            "capitalCity":"Boromo",
+            "geoPoliticalZone":"",
+            "location":"West Central",
+            "name": "Balé",
+            "stateCode": "BAL",
+            "tribes":["Bwaba", "Fulani (Peul)", "Lobi", "Mossi"],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Bam",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Banwa",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Bazèga",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BOUCLE DU MOUHOUN":{
+            "capitalCity":"Dédougou",
+            "geoPoliticalZone":"",
+            "location":"West Central",
+            "name": "Boucle du Mouhoun",
+            "stateCode": "01",
+            "tribes":["Bwaba", "Dafing", "Fulani (Peul)", "Gourounsi", "Marka",  "Mossi", "Samo"],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Bougouriba",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Boulgou",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "CASCADE":{
+            "capitalCity":"Banfora",
+            "geoPoliticalZone":"",
+            "location":"South West",
+            "name": "Cascades",
+            "stateCode": "02",
+            "tribes":["Fulani (Peul)", "Gouin", "Karaboro", "Sénoufo", "Turka"],
+            "type": "region"
+        },
+        "CENTRE":{
+            "capitalCity":"Ouagadougou",
+            "geoPoliticalZone":"",
+            "location":"Central",
+            "name": "Centre",
+            "stateCode": "03",
+            "tribes":["Bisa", "Fulani (Peul)", "Gourounsi", "Mossi"],
+            "type": "region"
+        },
+        "CENTRE-EST":{
+            "capitalCity":"Tenkodogo",
+            "geoPoliticalZone":"",
+            "location":"East Central",
+            "name": "Centre-Est",
+            "stateCode": "04",
+            "tribes":["Bisa", "Fulani (Peul)", "Gourmantché", "Mossi" ],
+            "type": "region"
+        },
+        "CENTRE-NORD":{
+            "capitalCity":"Kaya",
+            "geoPoliticalZone":"",
+            "location":"North Central",
+            "name": "Centre-Nord",
+            "stateCode": "05",
+            "tribes":["Fulani (Peul)","Gourmantché", "Mossi", "Yarse"],
+            "type": "region"
+        },
+        "CENTRE-OUST":{
+            "capitalCity":"Koudougou",
+            "geoPoliticalZone":"",
+            "location":"West Central",
+            "name": "Centre-Ouest",
+            "stateCode": "06",
+            "tribes":["Birifor", "Bwaba",  "Fulani (Peul)", "Gourounsi", "Lobi", "Mossi"  ],
+            "type": "region"
+        },
+        "CENTRE-SUD":{
+            "capitalCity":"Manga",
+            "geoPoliticalZone":"",
+            "location":"South Central",
+            "name": "Centre-Sud",
+            "stateCode": "07",
+            "tribes":["Bisa", "Fulani (Peul)", "Gourounsi", "Mossi",  "Nankanse" ],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Comoé",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "EST":{
+            "capitalCity":"N'Gourma",
+            "geoPoliticalZone":"",
+            "location":"East",
+            "name": "Est",
+            "stateCode": "08",
+            "tribes":["Bissa", "Fulani (Peul)", "Gourmantché", "Hausa", "Mossi"],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Ganzourgou",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Gnagna",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Gourma",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "HAUTS-BASSINS":{
+            "capitalCity":"Bobo-Dioulasso",
+            "geoPoliticalZone":"",
+            "location":"West",
+            "name": "Hauts-Bassins",
+            "stateCode": "09",
+            "tribes":["Bobo", "Bwaba", "Dioula", "Fulani (Peul)", "Gourounsi", "Lobi", "Mandé", "Mossi", "Senufo"],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Houet",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Ioba",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Kadiogo",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Kénédougou",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Komondjari",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Kompienga",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Kompienga",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Kossi",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Koulpélogo",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Kouritenga",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Kourwéogo",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Léraba",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Loroum",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Nahouri",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Namentenga",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Nayala",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "NORD":{
+            "capitalCity":"Ouahigouya",
+            "geoPoliticalZone":"",
+            "location":"North",
+            "name": "Nord",
+            "stateCode": "10",
+            "tribes":["Fulani (Peul)", "Gourmantché","Mossi", "Samo", "Yarse"  ],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Noumbiel",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Oubritenga",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Oudalan",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Passoré",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "PLATEAU-CENTRAL":{
+            "capitalCity":"Ziniaré",
+            "geoPoliticalZone":"",
+            "location":"Central",
+            "name": "Plateau-Central",
+            "stateCode": "11",
+            "tribes":["Bisa", "Fulani (Peul)", "Gourounsi", "Mossi", "Yarse"],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Poni",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "SAHEL":{
+            "capitalCity":"Dori",
+            "geoPoliticalZone":"",
+            "location":"North East",
+            "name": "Sahel",
+            "stateCode": "12",
+            "tribes":["Bella","Fulani (Peul)", "Gourmantché" ,"Mossi", "Songhai", "Tuareg"],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Sanguié",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Sanmatenga",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Séno",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Sissili",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Sourou",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "SUD-OUEST":{
+            "capitalCity":"Gaoua",
+            "geoPoliticalZone":"",
+            "location":"South West",
+            "name": "Sud-Ouest",
+            "stateCode": "13",
+            "tribes":["Birifor", "Dagara", "Djan", "Fulani (Peul)", "Gan", "Gourounsi",  "Lobi", "Mossi"],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tapoa",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Tuy",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Yagha",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Yatenga",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Ziro",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "Zondoma",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "BALÉ":{
+            "capitalCity":"",
+            "geoPoliticalZone":"",
+            "location":"",
+            "name": "SoZoundwéogoum",
+            "stateCode": "",
+            "tribes":[],
+            "type": "region"
+        },
+        "CENTRAL-OUEST":{
+            "capitalCity":"Koudougou",
+            "geoPoliticalZone":"",
+            "location":"West Central",
+            "name": "Centre-Ouest",
+            "stateCode": "13",
+            "tribes":["Birifor", "Bwaba", "Fulani (Peul)", "Gourounsi",  "Lobi", "Mossi"],
+            "type": "region"
+        }
+    }
+}
