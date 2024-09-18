@@ -3,6 +3,7 @@
     "AO":{
         "BENGO":{
             "capitalCity":"Caxito",
+            "districts":["Ambriz", "Bula Atumba", "Dande", "Dembos","Nambuangongo", "Pango Aluquém"],
             "geoPoliticalZone":"",
             "location":"North",
             "name": "Bengo",
@@ -12,6 +13,7 @@
         },
         "BENGUELA":{
             "capitalCity":"Benguela",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"West Central",
             "name": "Benguela",
@@ -21,6 +23,7 @@
         },
         "BIÉ":{
             "capitalCity":"Kuito",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"Central",
             "name": "Bié",
@@ -30,6 +33,7 @@
         },
         "CABINDA":{
             "capitalCity":"Cabinda",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"North",
             "name": "Cabinda",
@@ -39,6 +43,7 @@
         },
         "CUANDO CUBANGO":{
             "capitalCity":"Menongue",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"South East",
             "name": "Cuando Cubango",
@@ -48,6 +53,7 @@
         },
         "CUANZA NORTE":{
             "capitalCity":"N'dalatando",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"North Central",
             "name": "Cuanza Norte",
@@ -57,6 +63,7 @@
         },
         "CUANZA SUL":{
             "capitalCity":"Sumbe",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"West Central",
             "name": "Cuanza Sul",
@@ -66,6 +73,7 @@
         },
         "CUNENE":{
             "capitalCity":"Ondjiva",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"South",
             "name": "Cunene",
@@ -75,6 +83,7 @@
         },
         "HUAMBO":{
             "capitalCity":"Huambo",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"South Central",
             "name": "Huambo",
@@ -84,15 +93,17 @@
         },
         "HUÍLA":{
             "capitalCity":"Lubango",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"South Central",
             "name": "Huíla",
             "stateCode": "HUI",
-            "tribes":["Herero", "Kuvale", "Kwisi", "Muhimba", "Mwila", "Nyaneka-Nkhumbi", "Ovimbundu", ],
+            "tribes":["Herero", "Kuvale", "Kwisi", "Muhimba", "Mwila", "Nyaneka-Nkhumbi", "Ovimbundu"],
             "type": "province"
         },
         "LUANDA":{
             "capitalCity":"Luanda",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"North West",
             "name": "Luanda",
@@ -102,6 +113,7 @@
         },
         "LUNDA NORTE":{
             "capitalCity":"Dundo",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"North East",
             "name": "Lunda Norte",
@@ -111,6 +123,7 @@
         },
         "LUNDA SUL":{
             "capitalCity":"Saurimo",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"East",
             "name": "Lunda Sul ",
@@ -120,6 +133,7 @@
         },
         "MALANJE":{
             "capitalCity":"Malanje",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"North Central",
             "name": "Malanje",
@@ -129,6 +143,7 @@
         },
         "MOXICO":{
             "capitalCity":"Luena",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"East",
             "name": "Moxico",
@@ -138,6 +153,7 @@
         },
         "NAMIBE":{
             "capitalCity":"Moçâmedes",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"South West",
             "name": "Namibe",
@@ -147,6 +163,7 @@
         },
         "UÍGE":{
             "capitalCity":"Uíge",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"North West",
             "name": "Uíge",
@@ -156,6 +173,7 @@
         },
         "ZAIRE":{
             "capitalCity":"M'banza-Kongo",
+            "districts":[],
             "geoPoliticalZone":"",
             "location":"North West",
             "name": "Zaire",
