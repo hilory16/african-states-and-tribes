@@ -1,0 +1,34 @@
+{
+    "KM":{
+        "ANJOUAN": {
+          "capitalCity": "Mutsamudu",
+          "districts": ["Mutsamudu", "Ouani", "Hahaya", "Domoni", "Iconi"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "Anjouan",
+          "stateCode": "AN",
+          "tribes": ["Antankarana", "Aza", "Djoungou"],
+          "type": "province"
+        },
+        "GRAND COMORE": {
+          "capitalCity": "Moroni",
+          "districts": ["Moroni", "Mbeni", "Fomboni", "Dzaoudzi", "Sima"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Grand Comore",
+          "stateCode": "GC",
+          "tribes": ["Ndzuwani", "Hadiya", "Mbwani"],
+          "type": "province"
+        },
+        "MOHELI": {
+          "capitalCity": "Fomboni",
+          "districts": ["Fomboni", "Domba", "Nioumachoua", "Ouani", "Mtsangamouji"],
+          "geoPoliticalZone": "South",
+          "location": "South",
+          "name": "Moheli",
+          "stateCode": "MH",
+          "tribes": ["Mwali", "Hadiya", "Aza"],
+          "type": "province"
+        }
+    }      
+}

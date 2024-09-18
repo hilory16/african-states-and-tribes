@@ -1,0 +1,44 @@
+{
+    "DJ":{
+        "DIKIL": {
+          "capitalCity": "Dikil",
+          "districts": ["Dikil"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Dikil",
+          "stateCode": "DIK",
+          "tribes": ["Afar", "Issa", "Dir"],
+          "type": "district"
+        },
+        "DJIBOUTI": {
+          "capitalCity": "Djibouti",
+          "districts": ["Djibouti", "Balbala", "Arta"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Djibouti",
+          "stateCode": "DJI",
+          "tribes": ["Afar", "Issa", "Dir"],
+          "type": "district"
+        },
+        "OBOCK": {
+          "capitalCity": "Obock",
+          "districts": ["Obock"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Obock",
+          "stateCode": "OBO",
+          "tribes": ["Afar", "Issa", "Dir"],
+          "type": "district"
+        },
+        "TALEH": {
+          "capitalCity": "Taleh",
+          "districts": ["Taleh"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Taleh",
+          "stateCode": "TAL",
+          "tribes": ["Afar", "Issa", "Dir"],
+          "type": "district"
+        }
+    }      
+}
