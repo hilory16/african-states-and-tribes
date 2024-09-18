@@ -1,0 +1,174 @@
+{
+    "BI":{
+        "BUBANZA": {
+          "capitalCity": "Bubanza",
+          "districts": ["Bubanza", "Gihanga", "Musigati", "Mpanda", "Rugazi"],
+          "geoPoliticalZone": "Western",
+          "location": "North West",
+          "name": "Bubanza",
+          "stateCode": "BB",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "BUJUMBURA MAIRIE": {
+          "capitalCity": "Bujumbura",
+          "districts": ["Mukaza", "Musaga", "Buyenzi", "Kamenge", "Kinama", "Nyakabiga"],
+          "geoPoliticalZone": "Western",
+          "location": "West",
+          "name": "Bujumbura Mairie",
+          "stateCode": "BM",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "BUJUMBURA RURAL": {
+          "capitalCity": "Isale",
+          "districts": ["Isale", "Kabezi", "Kanyosha", "Mubimbi", "Mutambu", "Nyabiraba"],
+          "geoPoliticalZone": "Western",
+          "location": "West",
+          "name": "Bujumbura Rural",
+          "stateCode": "BR",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "BURURI": {
+          "capitalCity": "Bururi",
+          "districts": ["Bururi", "Matana", "Mugamba", "Rumonge", "Songa", "Vyanda"],
+          "geoPoliticalZone": "Southern",
+          "location": "South",
+          "name": "Bururi",
+          "stateCode": "BU",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "CANKUZO": {
+          "capitalCity": "Cankuzo",
+          "districts": ["Cankuzo", "Cendajuru", "Gisagara", "Mishiha"],
+          "geoPoliticalZone": "Eastern",
+          "location": "East",
+          "name": "Cankuzo",
+          "stateCode": "CA",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "CIBITOKE": {
+          "capitalCity": "Cibitoke",
+          "districts": ["Buganda", "Bukinanyana", "Cibitoke", "Mabayi", "Murwi", "Rugombo"],
+          "geoPoliticalZone": "Western",
+          "location": "North West",
+          "name": "Cibitoke",
+          "stateCode": "CI",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "GITEGA": {
+          "capitalCity": "Gitega",
+          "districts": ["Bugendana", "Bukirasazi", "Buraza", "Giheta", "Gitega", "Itaba", "Makebuko", "Mutaho", "Ryansoro"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Gitega",
+          "stateCode": "GI",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "KARUSI": {
+          "capitalCity": "Karuzi",
+          "districts": ["Bugenyuzi", "Gihogazi", "Gitaramuka", "Karuzi", "Mutumba", "Nyabikere", "Shombo"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Karuzi",
+          "stateCode": "KR",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "KAYANZA": {
+          "capitalCity": "Kayanza",
+          "districts": ["Butaganzwa", "Gatara", "Gahombo", "Kabarore", "Kayanza", "Matongo", "Muruta", "Rango"],
+          "geoPoliticalZone": "Northern",
+          "location": "North",
+          "name": "Kayanza",
+          "stateCode": "KY",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "KIRUNDO": {
+          "capitalCity": "Kirundo",
+          "districts": ["Busoni", "Bwambarangwe", "Kirundo", "Ntega", "Vumbi"],
+          "geoPoliticalZone": "Northern",
+          "location": "North",
+          "name": "Kirundo",
+          "stateCode": "KI",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "MAKAMBA": {
+          "capitalCity": "Makamba",
+          "districts": ["Kayogoro", "Kibago", "Makamba", "Mabanda", "Nyanza-Lac", "Vugizo"],
+          "geoPoliticalZone": "Southern",
+          "location": "South",
+          "name": "Makamba",
+          "stateCode": "MA",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "MUYINGA": {
+          "capitalCity": "Muyinga",
+          "districts": ["Buhinyuza", "Butihinda", "Gashoho", "Gasorwe", "Giteranyi", "Muyinga"],
+          "geoPoliticalZone": "Northern",
+          "location": "North East",
+          "name": "Muyinga",
+          "stateCode": "MU",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "MWARO": {
+          "capitalCity": "Mwaro",
+          "districts": ["Bisoro", "Gisozi", "Kayokwe", "Ndava", "Nyabihanga", "Rusaka"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Mwaro",
+          "stateCode": "MW",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "NGOZI": {
+          "capitalCity": "Ngozi",
+          "districts": ["Gashikanwa", "Kiremba", "Marangara", "Mwumba", "Ngozi", "Nyamurenza", "Ruhororo", "Tangara"],
+          "geoPoliticalZone": "Northern",
+          "location": "North",
+          "name": "Ngozi",
+          "stateCode": "NG",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "RUMONGE": {
+          "capitalCity": "Rumonge",
+          "districts": ["Bugarama", "Burambi", "Buyengero", "Rumonge"],
+          "geoPoliticalZone": "Southern",
+          "location": "South West",
+          "name": "Rumonge",
+          "stateCode": "RU",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "RUTANA": {
+          "capitalCity": "Rutana",
+          "districts": ["Bukemba", "Gitanga", "Musongati", "Rutana"],
+          "geoPoliticalZone": "Southern",
+          "location": "South East",
+          "name": "Rutana",
+          "stateCode": "RT",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        },
+        "RUYIGI": {
+          "capitalCity": "Ruyigi",
+          "districts": ["Butezi", "Bweru", "Gisuru", "Kinyinya", "Nyabitsinda", "Ruyigi"],
+          "geoPoliticalZone": "Eastern",
+          "location": "East",
+          "name": "Ruyigi",
+          "stateCode": "RY",
+          "tribes": ["Hutu", "Tutsi", "Twa", "Ganwa"],
+          "type": "province"
+        }
+    }            
+}

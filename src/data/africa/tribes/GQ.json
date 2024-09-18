@@ -1,0 +1,54 @@
+{
+    "GQ":{
+        "BIKOLO": {
+          "capitalCity": "Bikoro",
+          "districts": ["Bikoro", "Ebebiyin", "Nsok", "Oyala"],
+          "geoPoliticalZone": "South",
+          "location": "South",
+          "name": "Bioko",
+          "stateCode": "BIO",
+          "tribes": ["Bubi", "Fang"],
+          "type": "province"
+        },
+        "CENTRAL": {
+          "capitalCity": "Oyala",
+          "districts": ["Oyala", "Evinayong", "Niefang", "Mongomo"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Central",
+          "stateCode": "CEN",
+          "tribes": ["Fang"],
+          "type": "province"
+        },
+        "COBO": {
+          "capitalCity": "Cobo",
+          "districts": ["Cobo", "Niefang", "Mongomo", "Evinayong"],
+          "geoPoliticalZone": "South",
+          "location": "South",
+          "name": "Coibo",
+          "stateCode": "COB",
+          "tribes": ["Fang", "Bubi"],
+          "type": "province"
+        },
+        "LITORAL": {
+          "capitalCity": "Malabo",
+          "districts": ["Malabo", "Bata", "Luba", "Ebebiyin"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Litoral",
+          "stateCode": "LIT",
+          "tribes": ["Bubi", "Fang"],
+          "type": "province"
+        },
+        "WEST": {
+          "capitalCity": "Mongomo",
+          "districts": ["Mongomo", "Evinayong", "Niefang", "Cogo"],
+          "geoPoliticalZone": "West",
+          "location": "West",
+          "name": "West",
+          "stateCode": "WES",
+          "tribes": ["Fang", "Bubi"],
+          "type": "province"
+        }
+    }      
+}

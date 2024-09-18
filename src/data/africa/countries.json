@@ -62,7 +62,7 @@
         "currencyCode":"BIF",
         "currencySymbol":"FBu",
         "officialLanguage": "Kirundi",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":["Hutu", "Tutsi", "Twa"]
     },
     "CV": {
         "phoneCode": 238,
