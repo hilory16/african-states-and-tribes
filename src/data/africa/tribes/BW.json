@@ -1,0 +1,104 @@
+{
+    "BW":{
+        "CENTRAL DISTRICT": {
+          "capitalCity": "Serowe",
+          "districts": ["Botswana", "Serowe", "Palapye", "Mahalapye", "Goodhope", "Letlhakane", "Orapa", "Kang", "Paje", "Shakawe", "Maun", "Gaborone"],
+          "geoPoliticalZone": "Central",
+          "location": "Central Botswana",
+          "name": "Central District",
+          "stateCode": "CD",
+          "tribes": ["Bakgatla", "Bakwena", "Barolong", "Batswana", "Basarwa"],
+          "type": "district"
+        },
+        "CHOBE": {
+          "capitalCity": "Kasane",
+          "districts": ["Kasane", "Ngoma", "Sowa Town"],
+          "geoPoliticalZone": "North",
+          "location": "North East Botswana",
+          "name": "Chobe",
+          "stateCode": "CB",
+          "tribes": ["Basubiya", "Bakgalagadi", "Batswana"],
+          "type": "district"
+        },
+        "GABORONE": {
+          "capitalCity": "Gaborone",
+          "districts": ["Gaborone"],
+          "geoPoliticalZone": "South East",
+          "location": "South East Botswana",
+          "name": "Gaborone",
+          "stateCode": "GB",
+          "tribes": ["Batswana"],
+          "type": "district"
+        },
+        "K GALAGADI": {
+          "capitalCity": "Hukuntsi",
+          "districts": ["Hukuntsi", "Kang", "Tsabong", "Kang", "Gantsi"],
+          "geoPoliticalZone": "South West",
+          "location": "South West Botswana",
+          "name": "Kgalagadi",
+          "stateCode": "KG",
+          "tribes": ["Bakgalagadi", "Basarwa"],
+          "type": "district"
+        },
+        "KANYE": {
+          "capitalCity": "Kanye",
+          "districts": ["Kanye"],
+          "geoPoliticalZone": "South",
+          "location": "Southern Botswana",
+          "name": "Kanye",
+          "stateCode": "KY",
+          "tribes": ["Batswana"],
+          "type": "district"
+        },
+        "KASANE": {
+          "capitalCity": "Kasane",
+          "districts": ["Kasane"],
+          "geoPoliticalZone": "North East",
+          "location": "North East Botswana",
+          "name": "Kasane",
+          "stateCode": "KS",
+          "tribes": ["Basubiya", "Batswana"],
+          "type": "district"
+        },
+        "MAUN": {
+          "capitalCity": "Maun",
+          "districts": ["Maun"],
+          "geoPoliticalZone": "North West",
+          "location": "North West Botswana",
+          "name": "Maun",
+          "stateCode": "MN",
+          "tribes": ["Batswana", "Basarwa", "Bakgalagadi"],
+          "type": "district"
+        },
+        "NGAMI": {
+          "capitalCity": "Maun",
+          "districts": ["Maun", "Ngamiland"],
+          "geoPoliticalZone": "North West",
+          "location": "North West Botswana",
+          "name": "Ngami",
+          "stateCode": "NG",
+          "tribes": ["Batswana", "Basarwa", "Bakgalagadi"],
+          "type": "district"
+        },
+        "SOUTH EAST": {
+          "capitalCity": "Gaborone",
+          "districts": ["Gaborone", "Mochudi", "Kgatleng"],
+          "geoPoliticalZone": "South East",
+          "location": "South East Botswana",
+          "name": "South East",
+          "stateCode": "SE",
+          "tribes": ["Batswana"],
+          "type": "district"
+        },
+        "SOUTHERN": {
+          "capitalCity": "Gaborone",
+          "districts": ["Gaborone", "Lobatse", "Mahalapye"],
+          "geoPoliticalZone": "South",
+          "location": "South Botswana",
+          "name": "Southern",
+          "stateCode": "ST",
+          "tribes": ["Batswana"],
+          "type": "district"
+        }
+    }      
+}
