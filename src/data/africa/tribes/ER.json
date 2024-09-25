@@ -8,7 +8,7 @@
             "name": "Anseba",
             "stateCode": "AN",
             "tribes": ["Bilen","Hada","Nara"],
-            "type": "region"
+            "type": "zobas"
         },
         "CENTRAL": {
             "capitalCity": "Asmara",
@@ -18,7 +18,7 @@
             "name": "Central",
             "stateCode": "CE",
             "tribes": ["Afar","Bilen","Saho"],
-            "type": "region"
+            "type": "zobas"
         },
         "DEBUB": {
             "capitalCity": "Mendefera",
@@ -28,7 +28,7 @@
             "name": "Debub",
             "stateCode": "DE",
             "tribes": ["Tigrinya","Bilen"],
-            "type": "region"
+            "type": "zobas"
         },
         "MAEKEL": {
             "capitalCity": "Asmara",
@@ -38,7 +38,7 @@
             "name": "Maekel",
             "stateCode": "MA",
             "tribes": ["Tigrinya","Bilen","Saho"],
-            "type": "region"
+            "type": "zobas"
         },
         "SOUTHERN RED SEA": {
             "capitalCity": "Assab",
@@ -48,7 +48,7 @@
             "name": "Southern Red Sea",
             "stateCode": "SR",
             "tribes": ["Afar","Saho"],
-            "type": "region"
+            "type": "zobas"
         },
         "NORTHERN RED SEA": {
             "capitalCity": "Tesseney",
@@ -58,7 +58,7 @@
             "name": "Northern Red Sea",
             "stateCode": "NR",
             "tribes": ["Beni Amir","Rashaida"],
-            "type": "region"
+            "type": "zobas"
         }
 }    
 }
