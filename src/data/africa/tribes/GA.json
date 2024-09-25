@@ -1,0 +1,94 @@
+{
+    "GA":{
+        "ESTUAIRE": {
+          "capitalCity": "Libreville",
+          "districts": ["Libreville", "Owendo", "Akanda"],
+          "geoPoliticalZone": "",
+          "location": "Coastal",
+          "name": "Estuaire",
+          "stateCode": "EST",
+          "tribes": ["Eshira", "Myene", "Obamba"],
+          "type": "province"
+        },
+        "HAUT-OGOOUÉ": {
+          "capitalCity": "Franceville",
+          "districts": ["Franceville", "Mouanda", "Mouila"],
+          "geoPoliticalZone": "",
+          "location": "Southeast",
+          "name": "Haut-Ogooué",
+          "stateCode": "HOG",
+          "tribes": ["Tsogho", "Mouyi"],
+          "type": "province"
+        },
+        "MOYEN-OGOOUÉ": {
+          "capitalCity": "Lambaréné",
+          "districts": ["Lambaréné", "Ndjole", "Mouila"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Moyen-Ogooué",
+          "stateCode": "MOG",
+          "tribes": ["Kwele", "Punu"],
+          "type": "province"
+        },
+        "NGOUNIÉ": {
+          "capitalCity": "Mouila",
+          "districts": ["Mouila", "Lastoursville", "Tchibanga"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Ngounié",
+          "stateCode": "NGO",
+          "tribes": ["Punu", "Tsogo"],
+          "type": "province"
+        },
+        "NYANGA": {
+          "capitalCity": "Tchibanga",
+          "districts": ["Tchibanga", "Mouila", "Sainte-Marie", "Lékoni", "Mayumba"],
+          "geoPoliticalZone": "",
+          "location": "Southwest",
+          "name": "Nyanga",
+          "stateCode": "NYA",
+          "tribes": ["Omyene", "Mouyi"],
+          "type": "province"
+        },
+        "OGOOUÉ-IVINDO": {
+          "capitalCity": "Mikouyi",
+          "districts": ["Mikouyi", "Ovan", "Okondja"],
+          "geoPoliticalZone": "",
+          "location": "Northeast",
+          "name": "Ogooué-Ivindo",
+          "stateCode": "OIV",
+          "tribes": ["Kota", "Punu"],
+          "type": "province"
+        },
+        "OGOOUÉ-LOLO": {
+          "capitalCity": "Lambaréné",
+          "districts": ["Lambaréné", "Ndjole", "Mouila"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Ogooué-Lolo",
+          "stateCode": "OLL",
+          "tribes": ["Tsogo", "Mouyi"],
+          "type": "province"
+        },
+        "OGOOUÉ-MARITIME": {
+          "capitalCity": "Port-Gentil",
+          "districts": ["Port-Gentil", "Libreville", "Akanda"],
+          "geoPoliticalZone": "",
+          "location": "Coastal",
+          "name": "Ogooué-Maritime",
+          "stateCode": "OMG",
+          "tribes": ["Eshira", "Myene"],
+          "type": "province"
+        },
+        "WOLEU-NTEM": {
+          "capitalCity": "Mitzic",
+          "districts": ["Mitzic", "Oyem", "Bitam"],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Woleu-Ntem",
+          "stateCode": "WNT",
+          "tribes": ["Fang", "Bantu"],
+          "type": "province"
+        }
+    }      
+}
