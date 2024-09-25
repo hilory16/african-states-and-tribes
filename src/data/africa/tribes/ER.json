@@ -2,7 +2,7 @@
     "ER":{
         "ANSEBA": {
             "capitalCity": "Keren",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "Northern",
             "location": "North",
             "name": "Anseba",
@@ -12,7 +12,7 @@
         },
         "CENTRAL": {
             "capitalCity": "Asmara",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "Central",
             "location": "Central",
             "name": "Central",
@@ -22,7 +22,7 @@
         },
         "DEBUB": {
             "capitalCity": "Mendefera",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "Southern",
             "location": "South",
             "name": "Debub",
@@ -32,7 +32,7 @@
         },
         "MAEKEL": {
             "capitalCity": "Asmara",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "Central",
             "location": "Central",
             "name": "Maekel",
@@ -42,7 +42,7 @@
         },
         "SOUTHERN RED SEA": {
             "capitalCity": "Assab",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "Eastern",
             "location": "East",
             "name": "Southern Red Sea",
@@ -52,7 +52,7 @@
         },
         "NORTHERN RED SEA": {
             "capitalCity": "Tesseney",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "Northern",
             "location": "North",
             "name": "Northern Red Sea",

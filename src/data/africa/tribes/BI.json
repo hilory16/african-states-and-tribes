@@ -2,7 +2,7 @@
     "BI":{
         "BUBANZA": {
           "capitalCity": "Bubanza",
-          "districts": ["Bubanza", "Gihanga", "Musigati", "Mpanda", "Rugazi"],
+          "subdivisions": ["Bubanza", "Gihanga", "Musigati", "Mpanda", "Rugazi"],
           "geoPoliticalZone": "Western",
           "location": "North West",
           "name": "Bubanza",
@@ -12,7 +12,7 @@
         },
         "BUJUMBURA MAIRIE": {
           "capitalCity": "Bujumbura",
-          "districts": ["Mukaza", "Musaga", "Buyenzi", "Kamenge", "Kinama", "Nyakabiga"],
+          "subdivisions": ["Mukaza", "Musaga", "Buyenzi", "Kamenge", "Kinama", "Nyakabiga"],
           "geoPoliticalZone": "Western",
           "location": "West",
           "name": "Bujumbura Mairie",
@@ -22,7 +22,7 @@
         },
         "BUJUMBURA RURAL": {
           "capitalCity": "Isale",
-          "districts": ["Isale", "Kabezi", "Kanyosha", "Mubimbi", "Mutambu", "Nyabiraba"],
+          "subdivisions": ["Isale", "Kabezi", "Kanyosha", "Mubimbi", "Mutambu", "Nyabiraba"],
           "geoPoliticalZone": "Western",
           "location": "West",
           "name": "Bujumbura Rural",
@@ -32,7 +32,7 @@
         },
         "BURURI": {
           "capitalCity": "Bururi",
-          "districts": ["Bururi", "Matana", "Mugamba", "Rumonge", "Songa", "Vyanda"],
+          "subdivisions": ["Bururi", "Matana", "Mugamba", "Rumonge", "Songa", "Vyanda"],
           "geoPoliticalZone": "Southern",
           "location": "South",
           "name": "Bururi",
@@ -42,7 +42,7 @@
         },
         "CANKUZO": {
           "capitalCity": "Cankuzo",
-          "districts": ["Cankuzo", "Cendajuru", "Gisagara", "Mishiha"],
+          "subdivisions": ["Cankuzo", "Cendajuru", "Gisagara", "Mishiha"],
           "geoPoliticalZone": "Eastern",
           "location": "East",
           "name": "Cankuzo",
@@ -52,7 +52,7 @@
         },
         "CIBITOKE": {
           "capitalCity": "Cibitoke",
-          "districts": ["Buganda", "Bukinanyana", "Cibitoke", "Mabayi", "Murwi", "Rugombo"],
+          "subdivisions": ["Buganda", "Bukinanyana", "Cibitoke", "Mabayi", "Murwi", "Rugombo"],
           "geoPoliticalZone": "Western",
           "location": "North West",
           "name": "Cibitoke",
@@ -62,7 +62,7 @@
         },
         "GITEGA": {
           "capitalCity": "Gitega",
-          "districts": ["Bugendana", "Bukirasazi", "Buraza", "Giheta", "Gitega", "Itaba", "Makebuko", "Mutaho", "Ryansoro"],
+          "subdivisions": ["Bugendana", "Bukirasazi", "Buraza", "Giheta", "Gitega", "Itaba", "Makebuko", "Mutaho", "Ryansoro"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Gitega",
@@ -72,7 +72,7 @@
         },
         "KARUSI": {
           "capitalCity": "Karuzi",
-          "districts": ["Bugenyuzi", "Gihogazi", "Gitaramuka", "Karuzi", "Mutumba", "Nyabikere", "Shombo"],
+          "subdivisions": ["Bugenyuzi", "Gihogazi", "Gitaramuka", "Karuzi", "Mutumba", "Nyabikere", "Shombo"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Karuzi",
@@ -82,7 +82,7 @@
         },
         "KAYANZA": {
           "capitalCity": "Kayanza",
-          "districts": ["Butaganzwa", "Gatara", "Gahombo", "Kabarore", "Kayanza", "Matongo", "Muruta", "Rango"],
+          "subdivisions": ["Butaganzwa", "Gatara", "Gahombo", "Kabarore", "Kayanza", "Matongo", "Muruta", "Rango"],
           "geoPoliticalZone": "Northern",
           "location": "North",
           "name": "Kayanza",
@@ -92,7 +92,7 @@
         },
         "KIRUNDO": {
           "capitalCity": "Kirundo",
-          "districts": ["Busoni", "Bwambarangwe", "Kirundo", "Ntega", "Vumbi"],
+          "subdivisions": ["Busoni", "Bwambarangwe", "Kirundo", "Ntega", "Vumbi"],
           "geoPoliticalZone": "Northern",
           "location": "North",
           "name": "Kirundo",
@@ -102,7 +102,7 @@
         },
         "MAKAMBA": {
           "capitalCity": "Makamba",
-          "districts": ["Kayogoro", "Kibago", "Makamba", "Mabanda", "Nyanza-Lac", "Vugizo"],
+          "subdivisions": ["Kayogoro", "Kibago", "Makamba", "Mabanda", "Nyanza-Lac", "Vugizo"],
           "geoPoliticalZone": "Southern",
           "location": "South",
           "name": "Makamba",
@@ -112,7 +112,7 @@
         },
         "MUYINGA": {
           "capitalCity": "Muyinga",
-          "districts": ["Buhinyuza", "Butihinda", "Gashoho", "Gasorwe", "Giteranyi", "Muyinga"],
+          "subdivisions": ["Buhinyuza", "Butihinda", "Gashoho", "Gasorwe", "Giteranyi", "Muyinga"],
           "geoPoliticalZone": "Northern",
           "location": "North East",
           "name": "Muyinga",
@@ -122,7 +122,7 @@
         },
         "MWARO": {
           "capitalCity": "Mwaro",
-          "districts": ["Bisoro", "Gisozi", "Kayokwe", "Ndava", "Nyabihanga", "Rusaka"],
+          "subdivisions": ["Bisoro", "Gisozi", "Kayokwe", "Ndava", "Nyabihanga", "Rusaka"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Mwaro",
@@ -132,7 +132,7 @@
         },
         "NGOZI": {
           "capitalCity": "Ngozi",
-          "districts": ["Gashikanwa", "Kiremba", "Marangara", "Mwumba", "Ngozi", "Nyamurenza", "Ruhororo", "Tangara"],
+          "subdivisions": ["Gashikanwa", "Kiremba", "Marangara", "Mwumba", "Ngozi", "Nyamurenza", "Ruhororo", "Tangara"],
           "geoPoliticalZone": "Northern",
           "location": "North",
           "name": "Ngozi",
@@ -142,7 +142,7 @@
         },
         "RUMONGE": {
           "capitalCity": "Rumonge",
-          "districts": ["Bugarama", "Burambi", "Buyengero", "Rumonge"],
+          "subdivisions": ["Bugarama", "Burambi", "Buyengero", "Rumonge"],
           "geoPoliticalZone": "Southern",
           "location": "South West",
           "name": "Rumonge",
@@ -152,7 +152,7 @@
         },
         "RUTANA": {
           "capitalCity": "Rutana",
-          "districts": ["Bukemba", "Gitanga", "Musongati", "Rutana"],
+          "subdivisions": ["Bukemba", "Gitanga", "Musongati", "Rutana"],
           "geoPoliticalZone": "Southern",
           "location": "South East",
           "name": "Rutana",
@@ -162,7 +162,7 @@
         },
         "RUYIGI": {
           "capitalCity": "Ruyigi",
-          "districts": ["Butezi", "Bweru", "Gisuru", "Kinyinya", "Nyabitsinda", "Ruyigi"],
+          "subdivisions": ["Butezi", "Bweru", "Gisuru", "Kinyinya", "Nyabitsinda", "Ruyigi"],
           "geoPoliticalZone": "Eastern",
           "location": "East",
           "name": "Ruyigi",

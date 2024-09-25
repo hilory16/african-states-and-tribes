@@ -2,7 +2,7 @@
     "GW":{
         "BISSAU": {
             "capitalCity": "Bissau",
-            "districts": ["Bissau", "Bissau Velho", "Bissau Novo"],
+            "subdivisions": ["Bissau", "Bissau Velho", "Bissau Novo"],
             "geoPoliticalZone": "Western Guinea-Bissau",
             "location": "Coastal Guinea-Bissau",
             "name": "Bissau",
@@ -12,7 +12,7 @@
         },
         "BAFATÁ": {
             "capitalCity": "Bafata",
-            "districts": ["Bafata", "Gabu", "Tchicunda"],
+            "subdivisions": ["Bafata", "Gabu", "Tchicunda"],
             "geoPoliticalZone": "Central Guinea-Bissau",
             "location": "Central Guinea-Bissau",
             "name": "Bafata",
@@ -22,7 +22,7 @@
         },
         "GABÚ": {
             "capitalCity": "Gabu",
-            "districts": ["Gabu", "Piche", "Samba de Mande"],
+            "subdivisions": ["Gabu", "Piche", "Samba de Mande"],
             "geoPoliticalZone": "Eastern Guinea-Bissau",
             "location": "Eastern Guinea-Bissau",
             "name": "Gabu",
@@ -32,7 +32,7 @@
         },
         "CACHEU": {
             "capitalCity": "Cacheu",
-            "districts": ["Cacheu", "Canghande", "Mansoa"],
+            "subdivisions": ["Cacheu", "Canghande", "Mansoa"],
             "geoPoliticalZone": "Northern Guinea-Bissau",
             "location": "Northern Guinea-Bissau",
             "name": "Cacheu",
@@ -42,7 +42,7 @@
         },
         "OIO": {
             "capitalCity": "Farim",
-            "districts": ["Farim", "Mansoa", "Nhacra"],
+            "subdivisions": ["Farim", "Mansoa", "Nhacra"],
             "geoPoliticalZone": "Northern Guinea-Bissau",
             "location": "Northern Guinea-Bissau",
             "name": "Oio",
@@ -52,7 +52,7 @@
         },
         "TOMBALI": {
             "capitalCity": "Tombali",
-            "districts": ["Tombali", "Buba"],
+            "subdivisions": ["Tombali", "Buba"],
             "geoPoliticalZone": "Southern Guinea-Bissau",
             "location": "Southern Guinea-Bissau",
             "name": "Tombali",
@@ -62,7 +62,7 @@
         },
         "QUINARA": {
             "capitalCity": "Quinara",
-            "districts": ["Quinara", "Cacine"],
+            "subdivisions": ["Quinara", "Cacine"],
             "geoPoliticalZone": "Southern Guinea-Bissau",
             "location": "Southern Guinea-Bissau",
             "name": "Quinara",
@@ -72,7 +72,7 @@
         },
         "BIOMBO": {
             "capitalCity": "Biombo",
-            "districts": ["Biombo", "Bubaque", "Bolama"],
+            "subdivisions": ["Biombo", "Bubaque", "Bolama"],
             "geoPoliticalZone": "Islands",
             "location": "Southern Guinea-Bissau",
             "name": "Biombo",
@@ -82,7 +82,7 @@
         },
         "BOLAMA": {
             "capitalCity": "Bolama",
-            "districts": ["Bolama", "Bijagós"],
+            "subdivisions": ["Bolama", "Bijagós"],
             "geoPoliticalZone": "Islands",
             "location": "Southern Guinea-Bissau",
             "name": "Bolama",

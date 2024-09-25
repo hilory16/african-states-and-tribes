@@ -2,7 +2,7 @@
     "GQ":{
         "BIKOLO": {
           "capitalCity": "Bikoro",
-          "districts": ["Bikoro", "Ebebiyin", "Nsok", "Oyala"],
+          "subdivisions": ["Bikoro", "Ebebiyin", "Nsok", "Oyala"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Bioko",
@@ -12,7 +12,7 @@
         },
         "CENTRAL": {
           "capitalCity": "Oyala",
-          "districts": ["Oyala", "Evinayong", "Niefang", "Mongomo"],
+          "subdivisions": ["Oyala", "Evinayong", "Niefang", "Mongomo"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Central",
@@ -22,7 +22,7 @@
         },
         "COBO": {
           "capitalCity": "Cobo",
-          "districts": ["Cobo", "Niefang", "Mongomo", "Evinayong"],
+          "subdivisions": ["Cobo", "Niefang", "Mongomo", "Evinayong"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Coibo",
@@ -32,7 +32,7 @@
         },
         "LITORAL": {
           "capitalCity": "Malabo",
-          "districts": ["Malabo", "Bata", "Luba", "Ebebiyin"],
+          "subdivisions": ["Malabo", "Bata", "Luba", "Ebebiyin"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Litoral",
@@ -42,7 +42,7 @@
         },
         "WEST": {
           "capitalCity": "Mongomo",
-          "districts": ["Mongomo", "Evinayong", "Niefang", "Cogo"],
+          "subdivisions": ["Mongomo", "Evinayong", "Niefang", "Cogo"],
           "geoPoliticalZone": "West",
           "location": "West",
           "name": "West",

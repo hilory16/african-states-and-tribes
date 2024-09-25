@@ -2,7 +2,7 @@
     "NG":{
         "ABIA":{
             "capitalCity":"Umuahia",
-            "districts": ["Aba North", "Aba South", "Arochukwu", "Bende", "Ikwuano", "Isiala Ngwa North", "Isiala Ngwa South", "Isuikwuato", "Obi Ngwa", "Ohafia", "Osisioma", "Ugwunagbo", "Ukwa East", "Ukwa West", "Umuahia North", "Umuahia South"],
+            "subdivisions": ["Aba North", "Aba South", "Arochukwu", "Bende", "Ikwuano", "Isiala Ngwa North", "Isiala Ngwa South", "Isuikwuato", "Obi Ngwa", "Ohafia", "Osisioma", "Ugwunagbo", "Ukwa East", "Ukwa West", "Umuahia North", "Umuahia South"],
             "geoPoliticalZone": "South East",
             "location":"South East",
             "name": "Abia",
@@ -12,7 +12,7 @@
         },
         "ADAMAWA":{
             "capitalCity":"Yola",
-            "districts": ["Demsa", "Fufure", "Ganye", "Gayuk", "Girei", "Gombi", "Guyuk", "Hong", "Jada", "Lamurde", "Madagali", "Maiha", "Mayo Belwa", "Michika", "Mubi North", "Mubi South", "Numan", "Shelleng", "Song", "Toungo", "Yola North", "Yola South"],
+            "subdivisions": ["Demsa", "Fufure", "Ganye", "Gayuk", "Girei", "Gombi", "Guyuk", "Hong", "Jada", "Lamurde", "Madagali", "Maiha", "Mayo Belwa", "Michika", "Mubi North", "Mubi South", "Numan", "Shelleng", "Song", "Toungo", "Yola North", "Yola South"],
             "geoPoliticalZone": "North East",
             "location":"North East",
             "name": "Adamawa",
@@ -22,7 +22,7 @@
         },
         "AKWAIBOM":{
             "capitalCity":"Uyo",
-            "districts": ["Abak", "Eastern Obolo", "Eket", "Esit Eket", "Essien Udim", "Etim Ekpo", "Etinan", "Ibeno", "Ibesikpo Asutan", "Ibiono Ibom", "Ika", "Ikono", "Ikot Abasi", "Ikot Ekpene", "Ini", "Itu", "Mbo", "Mkpat Enin", "Nsit Atai", "Nsit Ibom", "Nsit Ubium", "Obot Akara", "Okobo", "Onna", "Oron", "Oruk Anam", "Udung Uko", "Ukanafun", "Uruan", "Urue Offong/Oruko", "Uyo"],
+            "subdivisions": ["Abak", "Eastern Obolo", "Eket", "Esit Eket", "Essien Udim", "Etim Ekpo", "Etinan", "Ibeno", "Ibesikpo Asutan", "Ibiono Ibom", "Ika", "Ikono", "Ikot Abasi", "Ikot Ekpene", "Ini", "Itu", "Mbo", "Mkpat Enin", "Nsit Atai", "Nsit Ibom", "Nsit Ubium", "Obot Akara", "Okobo", "Onna", "Oron", "Oruk Anam", "Udung Uko", "Ukanafun", "Uruan", "Urue Offong/Oruko", "Uyo"],
             "geoPoliticalZone": "South South",
             "location":"South South",
             "name": "Akwa Ibom",
@@ -32,7 +32,7 @@
         },
         "ANAMBRA":{
             "capitalCity":"Akwa",
-            "districts": ["Aguata", "Anambra East", "Anambra West", "Anaocha", "Awka North", "Awka South", "Ayamelum", "Dunukofia", "Ekwusigo", "Idemili North", "Idemili South", "Ihiala", "Njikoka", "Nnewi North", "Nnewi South", "Ogbaru", "Onitsha North", "Onitsha South", "Orumba North", "Orumba South", "Oyi"],
+            "subdivisions": ["Aguata", "Anambra East", "Anambra West", "Anaocha", "Awka North", "Awka South", "Ayamelum", "Dunukofia", "Ekwusigo", "Idemili North", "Idemili South", "Ihiala", "Njikoka", "Nnewi North", "Nnewi South", "Ogbaru", "Onitsha North", "Onitsha South", "Orumba North", "Orumba South", "Oyi"],
             "geoPoliticalZone": "South East",
             "location":"South East",
             "name": "Anambra",
@@ -42,7 +42,7 @@
         },
         "BAUCHI":{
             "capitalCity":"BAUCHI",
-            "districts": ["Alkaleri", "Bauchi", "Bogoro", "Damban", "Darazo", "Dass", "Gamawa", "Ganjuwa", "Giade", "Itas Gadau", "Jama'are", "Katagum", "Kirfi", "Misau", "Ningi", "Shira", "Tafawa Balewa", "Toro", "Warji", "Zaki"],
+            "subdivisions": ["Alkaleri", "Bauchi", "Bogoro", "Damban", "Darazo", "Dass", "Gamawa", "Ganjuwa", "Giade", "Itas Gadau", "Jama'are", "Katagum", "Kirfi", "Misau", "Ningi", "Shira", "Tafawa Balewa", "Toro", "Warji", "Zaki"],
             "geoPoliticalZone": "North East",
             "location":"North East",
             "name": "Bauchi",
@@ -52,7 +52,7 @@
         },
         "BAYELSA":{
             "capitalCity":"Yenagoa",
-            "districts": ["Brass", "Ekeremor", "Kolokuma Opokuma", "Nembe", "Ogbia", "Sagbama", "Southern Ijaw", "Yenagoa"],
+            "subdivisions": ["Brass", "Ekeremor", "Kolokuma Opokuma", "Nembe", "Ogbia", "Sagbama", "Southern Ijaw", "Yenagoa"],
             "geoPoliticalZone": "South South",
             "location":"South South",
             "name": "Bayelsa",
@@ -62,7 +62,7 @@
         },
         "BENUE":{
             "capitalCity":"Makurdi",
-            "districts": ["Ado", "Agatu", "Apa", "Buruku", "Gboko", "Guma", "Gwer East", "Gwer West", "Katsina Ala", "Konshisha", "Kwande", "Logo", "Makurdi", "Obi", "Ogbadibo", "Ohimini", "Oju", "Okpokwu", "Otukpo", "Tarka", "Ukum", "Ushongo", "Vandeikya"],
+            "subdivisions": ["Ado", "Agatu", "Apa", "Buruku", "Gboko", "Guma", "Gwer East", "Gwer West", "Katsina Ala", "Konshisha", "Kwande", "Logo", "Makurdi", "Obi", "Ogbadibo", "Ohimini", "Oju", "Okpokwu", "Otukpo", "Tarka", "Ukum", "Ushongo", "Vandeikya"],
             "geoPoliticalZone": "North Central",
             "location":"North Central",
             "name": "Benue",
@@ -72,7 +72,7 @@
         },
         "BORNO":{
             "capitalCity":"Maiduguri",
-            "districts": ["Abadam", "Askira Uba", "Bama", "Bayo", "Biu", "Chibok", "Damboa", "Dikwa", "Gubio", "Guzamala", "Gwoza", "Hawul", "Jere", "Kaga", "Kala Balge", "Konduga", "Kukawa", "Kwaya Kusar", "Mafa", "Magumeri", "Maiduguri", "Marte", "Mobbar", "Monguno", "Ngala", "Nganzai", "Shani"],
+            "subdivisions": ["Abadam", "Askira Uba", "Bama", "Bayo", "Biu", "Chibok", "Damboa", "Dikwa", "Gubio", "Guzamala", "Gwoza", "Hawul", "Jere", "Kaga", "Kala Balge", "Konduga", "Kukawa", "Kwaya Kusar", "Mafa", "Magumeri", "Maiduguri", "Marte", "Mobbar", "Monguno", "Ngala", "Nganzai", "Shani"],
             "geoPoliticalZone": "North East",
             "location":"North East",
             "name": "Borno",
@@ -82,7 +82,7 @@
         },
         "CROSSRIVER":{
             "capitalCity":"Calabar",
-            "districts": ["Abi", "Akamkpa", "Akpabuyo", "Bakassi", "Bekwarra", "Biase", "Boki", "Calabar Municipal", "Calabar South", "Etung", "Ikom", "Obanliku", "Obubra", "Obudu", "Odukpani", "Ogoja", "Yakuur", "Yala"],
+            "subdivisions": ["Abi", "Akamkpa", "Akpabuyo", "Bakassi", "Bekwarra", "Biase", "Boki", "Calabar Municipal", "Calabar South", "Etung", "Ikom", "Obanliku", "Obubra", "Obudu", "Odukpani", "Ogoja", "Yakuur", "Yala"],
             "geoPoliticalZone": "South South",
             "location":"South South",
             "name": "Cross River",
@@ -92,7 +92,7 @@
         },
         "DELTA":{
             "capitalCity":"Asaba",
-            "districts": ["Aniocha North", "Aniocha South", "Bomadi", "Burutu", "Ethiope East", "Ethiope West", "Ika North East", "Ika South", "Isoko North", "Isoko South", "Ndokwa East", "Ndokwa West", "Okpe", "Oshimili North", "Oshimili South", "Patani", "Sapele", "Udu", "Ughelli North", "Ughelli South", "Ukwuani", "Uvwie", "Warri North", "Warri South", "Warri South West"],
+            "subdivisions": ["Aniocha North", "Aniocha South", "Bomadi", "Burutu", "Ethiope East", "Ethiope West", "Ika North East", "Ika South", "Isoko North", "Isoko South", "Ndokwa East", "Ndokwa West", "Okpe", "Oshimili North", "Oshimili South", "Patani", "Sapele", "Udu", "Ughelli North", "Ughelli South", "Ukwuani", "Uvwie", "Warri North", "Warri South", "Warri South West"],
             "geoPoliticalZone": "South South",
             "location":"South South",
             "name": "Delta",
@@ -102,7 +102,7 @@
         },
         "EBONYI":{
             "capitalCity":"Abakaliki",
-            "districts": ["Abakaliki", "Afikpo North", "Afikpo South", "Ebonyi", "Ezza North", "Ezza South", "Ikwo", "Ishielu", "Ivo", "Izzi", "Ohaozara", "Ohaukwu", "Onicha"],
+            "subdivisions": ["Abakaliki", "Afikpo North", "Afikpo South", "Ebonyi", "Ezza North", "Ezza South", "Ikwo", "Ishielu", "Ivo", "Izzi", "Ohaozara", "Ohaukwu", "Onicha"],
             "geoPoliticalZone": "South East",
             "location":"South East",
             "name": "Ebonyi",
@@ -112,7 +112,7 @@
         },
         "EDO":{
             "capitalCity":"Benin City",
-            "districts": ["Akoko-Edo", "Egor", "Esan Central", "Esan North-East", "Esan South-East", "Esan West", "Etsako Central", "Etsako East", "Etsako West", "Igueben", "Ikpoba-Okha", "Orhionmwon", "Oredo", "Ovia North-East", "Ovia South-West", "Owan East", "Owan West", "Uhunmwonde"],
+            "subdivisions": ["Akoko-Edo", "Egor", "Esan Central", "Esan North-East", "Esan South-East", "Esan West", "Etsako Central", "Etsako East", "Etsako West", "Igueben", "Ikpoba-Okha", "Orhionmwon", "Oredo", "Ovia North-East", "Ovia South-West", "Owan East", "Owan West", "Uhunmwonde"],
             "geoPoliticalZone": "South South",
             "location":"South South",
             "name": "Edo",
@@ -122,7 +122,7 @@
         },
         "EKITI":{
             "capitalCity":"Ado Ekiti",
-            "districts": ["Ado Ekiti", "Efon", "Ekiti East", "Ekiti South-West", "Ekiti West", "Emure", "Gbonyin", "Ido Osi", "Ijero", "Ikere", "Ikole", "Ilejemeje", "Irepodun/Ifelodun", "Ise/Orun", "Moba", "Oye"],
+            "subdivisions": ["Ado Ekiti", "Efon", "Ekiti East", "Ekiti South-West", "Ekiti West", "Emure", "Gbonyin", "Ido Osi", "Ijero", "Ikere", "Ikole", "Ilejemeje", "Irepodun/Ifelodun", "Ise/Orun", "Moba", "Oye"],
             "geoPoliticalZone": "South West",
             "location":"South West",
             "name": "Ekiti",
@@ -132,7 +132,7 @@
         },
         "ENUGU":{
             "capitalCity":"Enugu",
-            "districts": ["Aninri", "Awgu", "Enugu East", "Enugu North", "Enugu South", "Ezeagu", "Igbo Etiti", "Igbo Eze North", "Igbo Eze South", "Isi Uzo", "Nkanu East", "Nkanu West", "Nsukka", "Oji River", "Udenu", "Udi", "Uzouwani"],
+            "subdivisions": ["Aninri", "Awgu", "Enugu East", "Enugu North", "Enugu South", "Ezeagu", "Igbo Etiti", "Igbo Eze North", "Igbo Eze South", "Isi Uzo", "Nkanu East", "Nkanu West", "Nsukka", "Oji River", "Udenu", "Udi", "Uzouwani"],
             "geoPoliticalZone": "South East",
             "location":"South East",
             "name": "Enugu",
@@ -142,7 +142,7 @@
         },
         "GOMBE":{
             "capitalCity":"Gombe",
-            "districts": ["Akko", "Balanga", "Billiri", "Dukku", "Funakaye", "Gombe", "Kaltungo", "Kwami", "Nafada", "Shongom", "Yamaltu/Deba"],
+            "subdivisions": ["Akko", "Balanga", "Billiri", "Dukku", "Funakaye", "Gombe", "Kaltungo", "Kwami", "Nafada", "Shongom", "Yamaltu/Deba"],
             "geoPoliticalZone": "North East",
             "location":"North East",
             "name": "Gombe",
@@ -152,7 +152,7 @@
         },
         "IMO":{
             "capitalCity":"Owerri",
-            "districts": ["Aboh Mbaise", "Ahiazu Mbaise", "Ehime Mbano", "Ezinihitte", "Ideato North", "Ideato South", "Ihitte/Uboma", "Ikeduru", "Isiala Mbano", "Isu", "Mbaitoli", "Ngor Okpala", "Njaba", "Nkwerre", "Nwangele", "Obowo", "Oguta", "Ohaji/Egbema", "Okigwe", "Onuimo", "Orlu", "Orsu", "Oru East", "Oru West", "Owerri Municipal", "Owerri North", "Owerri West"],
+            "subdivisions": ["Aboh Mbaise", "Ahiazu Mbaise", "Ehime Mbano", "Ezinihitte", "Ideato North", "Ideato South", "Ihitte/Uboma", "Ikeduru", "Isiala Mbano", "Isu", "Mbaitoli", "Ngor Okpala", "Njaba", "Nkwerre", "Nwangele", "Obowo", "Oguta", "Ohaji/Egbema", "Okigwe", "Onuimo", "Orlu", "Orsu", "Oru East", "Oru West", "Owerri Municipal", "Owerri North", "Owerri West"],
             "geoPoliticalZone": "South East",
             "location":"South East",
             "name": "Imo",
@@ -162,7 +162,7 @@
         },
         "JIGAWA":{
             "capitalCity":"Dutse",
-            "districts": ["Auyo", "Babura", "Biriniwa", "Birnin Kudu", "Buji", "Dutse", "Gagarawa", "Garki", "Gumel", "Guri", "Gwaram", "Gwiwa", "Hadejia", "Jahun", "Kafin Hausa", "Kaugama", "Kazaure", "Kiri Kasama", "Kiyawa", "Maigatari", "Malam Madori", "Miga", "Ringim", "Roni", "Sule Tankarkar", "Taura", "Yankwashi"],
+            "subdivisions": ["Auyo", "Babura", "Biriniwa", "Birnin Kudu", "Buji", "Dutse", "Gagarawa", "Garki", "Gumel", "Guri", "Gwaram", "Gwiwa", "Hadejia", "Jahun", "Kafin Hausa", "Kaugama", "Kazaure", "Kiri Kasama", "Kiyawa", "Maigatari", "Malam Madori", "Miga", "Ringim", "Roni", "Sule Tankarkar", "Taura", "Yankwashi"],
             "geoPoliticalZone": "North West",
             "location":"North West",
             "name": "Jigawa",
@@ -172,7 +172,7 @@
         },
         "KADUNA":{
             "capitalCity":"Kaduna",
-            "districts": ["Birnin Gwari", "Chikun", "Giwa", "Igabi", "Ikara", "Jaba", "Jema'a", "Kachia", "Kaduna North", "Kaduna South", "Kagarko", "Kajuru", "Kaura", "Kauru", "Kubau", "Kudan", "Lere", "Makarfi", "Sabon Gari", "Sanga", "Soba", "Zangon Kataf", "Zaria"],
+            "subdivisions": ["Birnin Gwari", "Chikun", "Giwa", "Igabi", "Ikara", "Jaba", "Jema'a", "Kachia", "Kaduna North", "Kaduna South", "Kagarko", "Kajuru", "Kaura", "Kauru", "Kubau", "Kudan", "Lere", "Makarfi", "Sabon Gari", "Sanga", "Soba", "Zangon Kataf", "Zaria"],
             "geoPoliticalZone": "North West",
             "location":"North West",
             "name": "Kaduna",
@@ -182,7 +182,7 @@
         },
         "KANO":{
             "capitalCity":"Kano",
-            "districts": ["Ajingi", "Albasu", "Bagwai", "Bebeji", "Bichi", "Bunkure", "Dala", "Dambatta", "Dawakin Kudu", "Dawakin Tofa", "Doguwa", "Fagge", "Gabasawa", "Garko", "Garun Mallam", "Gaya", "Gezawa", "Gwale", "Gwarzo", "Kabo", "Kano Municipal", "Karaye", "Kibiya", "Kiru", "Kumbotso", "Kunchi", "Kura", "Madobi", "Makoda", "Minjibir", "Nasarawa", "Rano", "Rimin Gado", "Rogo", "Shanono", "Sumaila", "Takai", "Tarauni", "Tofa", "Tsanyawa", "Tudun Wada", "Ungogo", "Warawa", "Wudil"],
+            "subdivisions": ["Ajingi", "Albasu", "Bagwai", "Bebeji", "Bichi", "Bunkure", "Dala", "Dambatta", "Dawakin Kudu", "Dawakin Tofa", "Doguwa", "Fagge", "Gabasawa", "Garko", "Garun Mallam", "Gaya", "Gezawa", "Gwale", "Gwarzo", "Kabo", "Kano Municipal", "Karaye", "Kibiya", "Kiru", "Kumbotso", "Kunchi", "Kura", "Madobi", "Makoda", "Minjibir", "Nasarawa", "Rano", "Rimin Gado", "Rogo", "Shanono", "Sumaila", "Takai", "Tarauni", "Tofa", "Tsanyawa", "Tudun Wada", "Ungogo", "Warawa", "Wudil"],
             "geoPoliticalZone": "North West",
             "location":"North West",
             "name": "Kano",
@@ -192,7 +192,7 @@
         },
         "KATSINA":{
             "capitalCity":"Katsina",
-            "districts": ["Bakori", "Batagarawa", "Batsari", "Baure", "Bindawa", "Charanchi", "Dandume", "Danja", "Dan Musa", "Daura", "Dutsi", "Dutsin Ma", "Faskari", "Funtua", "Ingawa", "Jibia", "Kafur", "Kaita", "Kankara", "Kankia", "Katsina", "Kurfi", "Kusada", "Mai'Adua", "Malumfashi", "Mani", "Mashi", "Matazu", "Musawa", "Rimi", "Sabuwa", "Safana", "Sandamu", "Zango"],
+            "subdivisions": ["Bakori", "Batagarawa", "Batsari", "Baure", "Bindawa", "Charanchi", "Dandume", "Danja", "Dan Musa", "Daura", "Dutsi", "Dutsin Ma", "Faskari", "Funtua", "Ingawa", "Jibia", "Kafur", "Kaita", "Kankara", "Kankia", "Katsina", "Kurfi", "Kusada", "Mai'Adua", "Malumfashi", "Mani", "Mashi", "Matazu", "Musawa", "Rimi", "Sabuwa", "Safana", "Sandamu", "Zango"],
             "geoPoliticalZone": "North West",
             "location":"North West",
             "name": "Katsina",
@@ -202,7 +202,7 @@
         },
         "KEBBI":{
             "capitalCity":"Birnin Kebbi",
-            "districts": ["Argungu", "Bagudo", "Dandi", "Gwandu", "Jega", "Kalgo", "Koko/Besse", "Maiyama", "Ngaski", "Sakaba", "Shanga", "Suru", "Wasagu/Danko", "Yauri"],
+            "subdivisions": ["Argungu", "Bagudo", "Dandi", "Gwandu", "Jega", "Kalgo", "Koko/Besse", "Maiyama", "Ngaski", "Sakaba", "Shanga", "Suru", "Wasagu/Danko", "Yauri"],
             "geoPoliticalZone": "North West",
             "location":"North West",
             "name": "Kebbi",
@@ -212,7 +212,7 @@
         },
         "KOGI":{
             "capitalCity":"Lokoja",
-            "districts": ["Adavi", "Ajaokuta", "Bassa", "Dekina", "Ibaji", "Idah", "Igalamela/Odolu", "Ijumu", "Kogi", "Kogi Central", "Kogi East", "Kogi West", "Mopa Muro", "Ofu", "Ogori/Magongo", "Okehi", "Okene", "Olamaboro", "Omala", "Oshimili", "Yagba East", "Yagba West"],
+            "subdivisions": ["Adavi", "Ajaokuta", "Bassa", "Dekina", "Ibaji", "Idah", "Igalamela/Odolu", "Ijumu", "Kogi", "Kogi Central", "Kogi East", "Kogi West", "Mopa Muro", "Ofu", "Ogori/Magongo", "Okehi", "Okene", "Olamaboro", "Omala", "Oshimili", "Yagba East", "Yagba West"],
             "geoPoliticalZone": "North Central",
             "location":"North Central",
             "name": "Kogi",
@@ -222,7 +222,7 @@
         },
         "KWARA":{
             "capitalCity":"Ilorin",
-            "districts": ["Asa", "Baruten", "Edu", "Ekiti", "Ifelodun", "Ilorin East", "Ilorin South", "Ilorin West", "Irepodun", "Isin", "Kaiama", "Moro", "Offa", "Oke Ero", "Oyun", "Pategi"],
+            "subdivisions": ["Asa", "Baruten", "Edu", "Ekiti", "Ifelodun", "Ilorin East", "Ilorin South", "Ilorin West", "Irepodun", "Isin", "Kaiama", "Moro", "Offa", "Oke Ero", "Oyun", "Pategi"],
             "geoPoliticalZone": "North Central",
             "location":"North Central",
             "name": "Kwara",
@@ -232,7 +232,7 @@
         },
         "LAGOS":{
             "capitalCity":"Ikeja",
-            "districts": ["Agege", "Ajeromi/Ifelodun", "Alimosho", "Amuwo-Odofin", "Apapa", "Badagry", "Epe", "Eti-Osa", "Ikeja", "Ikorodu", "Ifako/Ijaye", "Kosofe", "Lagos Island", "Lagos Mainland", "Lagos South", "Lagos West", "Mushin", "Ojo", "Oshodi-Isolo", "Shomolu", "Surulere"],
+            "subdivisions": ["Agege", "Ajeromi/Ifelodun", "Alimosho", "Amuwo-Odofin", "Apapa", "Badagry", "Epe", "Eti-Osa", "Ikeja", "Ikorodu", "Ifako/Ijaye", "Kosofe", "Lagos Island", "Lagos Mainland", "Lagos South", "Lagos West", "Mushin", "Ojo", "Oshodi-Isolo", "Shomolu", "Surulere"],
             "geoPoliticalZone": "South West",
             "location":"South West",
             "name": "Lagos",
@@ -242,7 +242,7 @@
         },
         "NASARRAWA":{
             "capitalCity":"Lafia",
-            "districts": ["Akwanga", "Doma", "Karu", "Keffi", "Kokona", "Lafia", "Nasarawa", "Nasarawa Eggon", "Obi", "Wamba", "Keana"],
+            "subdivisions": ["Akwanga", "Doma", "Karu", "Keffi", "Kokona", "Lafia", "Nasarawa", "Nasarawa Eggon", "Obi", "Wamba", "Keana"],
             "geoPoliticalZone": "North Central",
             "location":"North Central",
             "name": "Nasarawa",
@@ -252,7 +252,7 @@
         },
         "NIGER":{
             "capitalCity":"Minna",
-            "districts": ["Agwara", "Bida", "Borgu", "Chanchaga", "Edati", "Gbako", "Gbaiko", "Katcha", "Kontagora", "Mashegu", "Mokwa", "Muye", "Niger East", "Niger South", "Rafi", "Rijau", "Shiroro", "Suleja"],
+            "subdivisions": ["Agwara", "Bida", "Borgu", "Chanchaga", "Edati", "Gbako", "Gbaiko", "Katcha", "Kontagora", "Mashegu", "Mokwa", "Muye", "Niger East", "Niger South", "Rafi", "Rijau", "Shiroro", "Suleja"],
             "geoPoliticalZone": "North Central",
             "location":"North Central",
             "name": "Niger",
@@ -262,7 +262,7 @@
         },
         "OGUN":{
             "capitalCity":"Abeokuta",
-            "districts": ["Abeokuta North", "Abeokuta South", "Ado-Odo/Ota", "Ewekoro", "Ifo", "Ijebu East", "Ijebu North", "Ijebu North East", "Ijebu Ode", "Ikenne", "Imeko Afon", "Ipokia", "Obafemi Owode", "Odeda", "Odogbolu", "Ogun Waterside", "Remo North", "Remo South", "Sagamu"],
+            "subdivisions": ["Abeokuta North", "Abeokuta South", "Ado-Odo/Ota", "Ewekoro", "Ifo", "Ijebu East", "Ijebu North", "Ijebu North East", "Ijebu Ode", "Ikenne", "Imeko Afon", "Ipokia", "Obafemi Owode", "Odeda", "Odogbolu", "Ogun Waterside", "Remo North", "Remo South", "Sagamu"],
             "geoPoliticalZone": "South West",
             "location":"South West",
             "name": "Ogun",
@@ -272,7 +272,7 @@
         },
         "ONDO":{
             "capitalCity":"Akure",
-            "districts": ["Akoko North-East", "Akoko North-West", "Akoko South-East", "Akoko South-West", "Akure North", "Akure South", "Ese Odo", "Idanre", "Ifedore", "Ilaje", "Odigbo", "Okitipupa", "Ondo East", "Ondo West", "Ose", "Owo"],
+            "subdivisions": ["Akoko North-East", "Akoko North-West", "Akoko South-East", "Akoko South-West", "Akure North", "Akure South", "Ese Odo", "Idanre", "Ifedore", "Ilaje", "Odigbo", "Okitipupa", "Ondo East", "Ondo West", "Ose", "Owo"],
             "geoPoliticalZone": "South West",
             "location":"South West",
             "name": "Ondo",
@@ -282,7 +282,7 @@
         },
         "OSUN":{
             "capitalCity":"Oshogbo",
-            "districts": ["Atakumosa East", "Atakumosa West", "Ayedaade", "Ayetoro", "Boripe", "Ede North", "Ede South", "Egbedore", "Ejigbo", "Ife East", "Ife North", "Ife South", "Ilesa East", "Ilesa West", "Ilesa South-East", "Irepodun", "Ilesa South-West", "Obokun", "Odo Otin", "Ola-Oluwa", "Olorunda", "Oriade", "Orile-Owu", "Osogbo"],
+            "subdivisions": ["Atakumosa East", "Atakumosa West", "Ayedaade", "Ayetoro", "Boripe", "Ede North", "Ede South", "Egbedore", "Ejigbo", "Ife East", "Ife North", "Ife South", "Ilesa East", "Ilesa West", "Ilesa South-East", "Irepodun", "Ilesa South-West", "Obokun", "Odo Otin", "Ola-Oluwa", "Olorunda", "Oriade", "Orile-Owu", "Osogbo"],
             "geoPoliticalZone": "South West",
             "location":"South West",
             "name": "Osun",
@@ -292,7 +292,7 @@
         },
         "OYO":{
             "capitalCity":"Ibadan",
-            "districts": ["Akinyele", "Atiba", "Atisbo", "Egbeda", "Ibadan North", "Ibadan North-East", "Ibadan North-West", "Ibadan South-East", "Ibadan South-West", "Ibarapa Central", "Ibarapa East", "Ibarapa North", "Irepo", "Itesiwaju", "Ogbomosho North", "Ogbomosho South", "Oyo East", "Oyo West", "Saki East", "Saki West"],
+            "subdivisions": ["Akinyele", "Atiba", "Atisbo", "Egbeda", "Ibadan North", "Ibadan North-East", "Ibadan North-West", "Ibadan South-East", "Ibadan South-West", "Ibarapa Central", "Ibarapa East", "Ibarapa North", "Irepo", "Itesiwaju", "Ogbomosho North", "Ogbomosho South", "Oyo East", "Oyo West", "Saki East", "Saki West"],
             "geoPoliticalZone": "South West",
             "location":"South West",
             "name": "Oyo",
@@ -302,7 +302,7 @@
         },
         "PLATEAU":{
             "capitalCity":"Jos",
-            "districts": ["Barkin Ladi", "Bassa", "Bokkos", "Jos East", "Jos North", "Jos South", "Kanam", "Langtang North", "Langtang South", "Mangu", "Pankshin", "Qua'an Pan", "Riyom", "Shendam", "Wase"],
+            "subdivisions": ["Barkin Ladi", "Bassa", "Bokkos", "Jos East", "Jos North", "Jos South", "Kanam", "Langtang North", "Langtang South", "Mangu", "Pankshin", "Qua'an Pan", "Riyom", "Shendam", "Wase"],
             "geoPoliticalZone": "North Central",
             "location":"North Central",
             "name": "Plateau",
@@ -312,7 +312,7 @@
         },
         "RIVERS":{
             "capitalCity":"Port Harcourt",
-            "districts": ["Abua/Odual", "Ahoada East", "Ahoada West", "Akuku-Toru", "Andoni", "Asari-Toru", "Bonny", "Degema", "Emohua", "Etche", "Ikwerre", "Khana", "Obio/Akpor", "Ogba/Egbema/Ndoni", "Ogu/Bolo", "Okrika", "Orya", "Port Harcourt", "Tai"],
+            "subdivisions": ["Abua/Odual", "Ahoada East", "Ahoada West", "Akuku-Toru", "Andoni", "Asari-Toru", "Bonny", "Degema", "Emohua", "Etche", "Ikwerre", "Khana", "Obio/Akpor", "Ogba/Egbema/Ndoni", "Ogu/Bolo", "Okrika", "Orya", "Port Harcourt", "Tai"],
             "geoPoliticalZone": "South South",
             "location":"South South",
             "name": "Rivers",
@@ -322,7 +322,7 @@
         },
         "SOKOTO":{
             "capitalCity":"Sokoto",
-            "districts": ["Binji", "Dange/Shuni", "Gada", "Goronyo", "Gudu", "Gwadabawa", "Illela", "Kebbe", "Rabah", "Sokoto North", "Sokoto South", "Wamako", "Wurno"],
+            "subdivisions": ["Binji", "Dange/Shuni", "Gada", "Goronyo", "Gudu", "Gwadabawa", "Illela", "Kebbe", "Rabah", "Sokoto North", "Sokoto South", "Wamako", "Wurno"],
             "geoPoliticalZone": "North West",
             "location":"North West",
             "name": "Sokoto",
@@ -332,7 +332,7 @@
         },
         "TARABA":{
             "capitalCity":"Jalingo",
-            "districts": ["Ardo Kola", "Bali", "Donga", "Gashaka", "Gassol", "Ibi", "Jalingo", "Kambur", "Lau", "Sardauna", "Takum", "Ussa", "Wukari"],
+            "subdivisions": ["Ardo Kola", "Bali", "Donga", "Gashaka", "Gassol", "Ibi", "Jalingo", "Kambur", "Lau", "Sardauna", "Takum", "Ussa", "Wukari"],
             "geoPoliticalZone": "North East",
             "location":"North East",
             "name": "Taraba",
@@ -342,7 +342,7 @@
         },
         "YOBE":{
             "capitalCity":"Damaturu",
-            "districts": ["Bade", "Bursari", "Damaturu", "Fika", "Fune", "Geidam", "Jakusko", "Nguru", "Potiskum", "Tarmuwa", "Yunusari", "Yusufari"],
+            "subdivisions": ["Bade", "Bursari", "Damaturu", "Fika", "Fune", "Geidam", "Jakusko", "Nguru", "Potiskum", "Tarmuwa", "Yunusari", "Yusufari"],
             "geoPoliticalZone": "North East",
             "location":"North East",
             "name": "Yobe",
@@ -352,7 +352,7 @@
         },
         "ZAMFARA":{
             "capitalCity":"Gusau",
-            "districts": ["Anka", "Bakura", "Birnin Magaji", "Bukkuyum", "Chafe", "Gusau", "Gummi", "Kaura Namoda", "Maradun", "Maru", "Shinkafi", "Talata Mafara", "Zurmi"],
+            "subdivisions": ["Anka", "Bakura", "Birnin Magaji", "Bukkuyum", "Chafe", "Gusau", "Gummi", "Kaura Namoda", "Maradun", "Maru", "Shinkafi", "Talata Mafara", "Zurmi"],
             "geoPoliticalZone": "North West",
             "location":"North West",
             "name": "Zamfara",
@@ -362,7 +362,7 @@
         },
         "FCT":{
             "capitalCity":"Abuja",
-            "districts": ["Abaji", "Bwari", "Gwagwalada", "Kuje", "Kwali", "Municipal Area Council"],
+            "subdivisions": ["Abaji", "Bwari", "Gwagwalada", "Kuje", "Kwali", "Municipal Area Council"],
             "geoPoliticalZone": "North Central",
             "location":"North Central",
             "name": "Abuja Federal capital territory",

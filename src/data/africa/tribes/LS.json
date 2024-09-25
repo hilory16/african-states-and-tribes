@@ -2,7 +2,7 @@
     "LS":{
         "BEREA": {
             "capitalCity": "Berea",
-            "districts": ["Bela-Bela", "Khafung", "Khubetsoana", "Mabote", "Makhoroana-Lube", "Malimong", "Mokhethoaneng", "Mosalemane", "Teya-Teyaneng", "Thuathe", "Tšoana-Makhulo"],
+            "subdivisions": ["Bela-Bela", "Khafung", "Khubetsoana", "Mabote", "Makhoroana-Lube", "Malimong", "Mokhethoaneng", "Mosalemane", "Teya-Teyaneng", "Thuathe", "Tšoana-Makhulo"],
             "geoPoliticalZone": "Central Lesotho",
             "location": "Central Lesotho",
             "name": "Berea",
@@ -12,7 +12,7 @@
         },
         "Butha-Buthe": {
             "capitalCity": "Butha-Buthe",
-            "districts": ["Butha-Buthe", "Hololo", "Mechachane", "Motete", "Qalo"],
+            "subdivisions": ["Butha-Buthe", "Hololo", "Mechachane", "Motete", "Qalo"],
             "geoPoliticalZone": "Northern Lesotho",
             "location": "Northern Lesotho",
             "name": "Butha-Buthe",
@@ -22,7 +22,7 @@
         },
         "LERIBE": {
             "capitalCity": "Tšosane",
-            "districts": ["Hlotse", "Kolonyama", "Leribe", "Mahobong", "Maliba-Matšo", "Maputsoe", "Matlakeng", "Moselinyane", "Mphosong", "Peka", "Pela-Tšoeu", "Thaba-Phatšoa", "Tsikoane"],
+            "subdivisions": ["Hlotse", "Kolonyama", "Leribe", "Mahobong", "Maliba-Matšo", "Maputsoe", "Matlakeng", "Moselinyane", "Mphosong", "Peka", "Pela-Tšoeu", "Thaba-Phatšoa", "Tsikoane"],
             "geoPoliticalZone": "Northern Lesotho",
             "location": "Northern Lesotho",
             "name": "Leribe",
@@ -32,7 +32,7 @@
         },
         "MAFETENG": {
             "capitalCity": "Mafeteng",
-            "districts": ["Thaba-Phechela", "Phoqoane", "Matelile", "Maliepetsane", "Thabana-Morena", "Qalabane", "Mafeteng"],
+            "subdivisions": ["Thaba-Phechela", "Phoqoane", "Matelile", "Maliepetsane", "Thabana-Morena", "Qalabane", "Mafeteng"],
             "geoPoliticalZone": "Southern Lesotho",
             "location": "Southern Lesotho",
             "name": "Mafeteng",
@@ -42,7 +42,7 @@
         },
         "MASERU": {
             "capitalCity": "Maseru",
-            "districts": ["Abia", "Koro-Koro", "Likotsi", "Lithabaneng", "Lithoteng", "Maama", "Machache", "Majoe-a-Litšoene", "Makhaleng", "Maletsunyane", "Maseru", "Matala", "Matsieng", "Motimposo", "Qeme", "Qoaling", "Rothe", "Stadium Area", "Thaba-Bosiu", "Thaba-Putsoa", "Thetsane", "Tsolo"],
+            "subdivisions": ["Abia", "Koro-Koro", "Likotsi", "Lithabaneng", "Lithoteng", "Maama", "Machache", "Majoe-a-Litšoene", "Makhaleng", "Maletsunyane", "Maseru", "Matala", "Matsieng", "Motimposo", "Qeme", "Qoaling", "Rothe", "Stadium Area", "Thaba-Bosiu", "Thaba-Putsoa", "Thetsane", "Tsolo"],
             "geoPoliticalZone": "Western Lesotho",
             "location": "Western Lesotho",
             "name": "Maseru",
@@ -52,7 +52,7 @@
         },
         "MOHALE'S HOEK": {
             "capitalCity": "Mohale's Hoek",
-            "districts": ["Hloahloeng", "Mekaling", "Mohale's Hoek", "Mpharane", "Phamong", "Taung"],
+            "subdivisions": ["Hloahloeng", "Mekaling", "Mohale's Hoek", "Mpharane", "Phamong", "Taung"],
             "geoPoliticalZone": "Southern Lesotho",
             "location": "Southern Lesotho",
             "name": "Mohale's Hoek",
@@ -62,7 +62,7 @@
         },
         "MOKHOTLONG": {
             "capitalCity": "Mokhotlong",
-            "districts": ["Bobatsi", "Malingoaneng", "Mokhotlong", "Senqu"],
+            "subdivisions": ["Bobatsi", "Malingoaneng", "Mokhotlong", "Senqu"],
             "geoPoliticalZone": "Eastern Lesotho",
             "location": "Eastern Lesotho",
             "name": "Mokhotlong",
@@ -72,7 +72,7 @@
         },
         "QACHA'S NEK": {
             "capitalCity": "Qacha's Nek",
-            "districts": ["Lebakeng", "Qacha's Nek", "Tsoelike"],
+            "subdivisions": ["Lebakeng", "Qacha's Nek", "Tsoelike"],
             "geoPoliticalZone": "Eastern Lesotho",
             "location": "Eastern Lesotho",
             "name": "Qacha's Nek",
@@ -82,7 +82,7 @@
         },
         "QUTHING": {
             "capitalCity": "Quthing",
-            "districts": ["Moyeni", "Sempe", "Mount Moorosi", "Qhoali"],
+            "subdivisions": ["Moyeni", "Sempe", "Mount Moorosi", "Qhoali"],
             "geoPoliticalZone": "Southern Lesotho",
             "location": "Southern Lesotho",
             "name": "Quthing",
@@ -92,7 +92,7 @@
         },
         "THABA-TSEKA": {
             "capitalCity": "Thaba-Tseka",
-            "districts": ["Mantšonyane", "Mashai", "Semena", "Thaba-Moea", "Thaba-Tseka"],
+            "subdivisions": ["Mantšonyane", "Mashai", "Semena", "Thaba-Moea", "Thaba-Tseka"],
             "geoPoliticalZone": "Eastern Lesotho",
             "location": "Eastern Lesotho",
             "name": "Thaba-Tseka",

@@ -2,7 +2,7 @@
     "CV":{
         "BOA VISTA": {
           "capitalCity": "Sal Rei",
-          "districts": ["Sal Rei", "Rabil"],
+          "subdivisions": ["Sal Rei", "Rabil"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Boa Vista",
@@ -12,7 +12,7 @@
         },
         "BRAVA": {
           "capitalCity": "Nova Sintra",
-          "districts": ["Nova Sintra"],
+          "subdivisions": ["Nova Sintra"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Brava",
@@ -22,7 +22,7 @@
         },
         "CHÃO BOM": {
           "capitalCity": "Chão Bom",
-          "districts": ["Chão Bom"],
+          "subdivisions": ["Chão Bom"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Chão Bom",
@@ -32,7 +32,7 @@
         },
         "CONCEIÇÃO": {
           "capitalCity": "Conceição",
-          "districts": ["Conceição"],
+          "subdivisions": ["Conceição"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Conceição",
@@ -42,7 +42,7 @@
         },
         "FOGO": {
           "capitalCity": "São Filipe",
-          "districts": ["São Filipe", "Mosteiros", "Santa Catarina do Fogo"],
+          "subdivisions": ["São Filipe", "Mosteiros", "Santa Catarina do Fogo"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Fogo",
@@ -52,7 +52,7 @@
         },
         "MAIO": {
           "capitalCity": "Vila do Maio",
-          "districts": ["Vila do Maio"],
+          "subdivisions": ["Vila do Maio"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Maio",
@@ -62,7 +62,7 @@
         },
         "PAUL": {
           "capitalCity": "Paul",
-          "districts": ["Paul"],
+          "subdivisions": ["Paul"],
           "geoPoliticalZone": "North West",
           "location": "North West",
           "name": "Paul",
@@ -72,7 +72,7 @@
         },
         "PRAIA": {
           "capitalCity": "Praia",
-          "districts": ["Praia"],
+          "subdivisions": ["Praia"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Praia",
@@ -82,7 +82,7 @@
         },
         "RIBEIRA GRANDE": {
           "capitalCity": "Ribeira Grande",
-          "districts": ["Ribeira Grande"],
+          "subdivisions": ["Ribeira Grande"],
           "geoPoliticalZone": "North West",
           "location": "North West",
           "name": "Ribeira Grande",
@@ -92,7 +92,7 @@
         },
         "RIBEIRA GRANDE DE SANTIAGO": {
           "capitalCity": "Ribeira Grande de Santiago",
-          "districts": ["Ribeira Grande de Santiago"],
+          "subdivisions": ["Ribeira Grande de Santiago"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Ribeira Grande de Santiago",
@@ -102,7 +102,7 @@
         },
         "RIBEIRA PRATA": {
           "capitalCity": "Ribeira Prata",
-          "districts": ["Ribeira Prata"],
+          "subdivisions": ["Ribeira Prata"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Ribeira Prata",
@@ -112,7 +112,7 @@
         },
         "SANTA CATARINA": {
           "capitalCity": "Santa Catarina",
-          "districts": ["Santa Catarina"],
+          "subdivisions": ["Santa Catarina"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Santa Catarina",
@@ -122,7 +122,7 @@
         },
         "SANTA CRUZ": {
           "capitalCity": "Santa Cruz",
-          "districts": ["Santa Cruz"],
+          "subdivisions": ["Santa Cruz"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Santa Cruz",
@@ -132,7 +132,7 @@
         },
         "SANTO ANTÃO": {
           "capitalCity": "Ponta do Sol",
-          "districts": ["Ponta do Sol", "Ribeira Grande", "Paul", "Porto Novo"],
+          "subdivisions": ["Ponta do Sol", "Ribeira Grande", "Paul", "Porto Novo"],
           "geoPoliticalZone": "North West",
           "location": "North West",
           "name": "Santo Antão",
@@ -142,7 +142,7 @@
         },
         "SANTO MIGUEL": {
           "capitalCity": "Santo Miguel",
-          "districts": ["Santo Miguel"],
+          "subdivisions": ["Santo Miguel"],
           "geoPoliticalZone": "North East",
           "location": "North East",
           "name": "Santo Miguel",
@@ -152,7 +152,7 @@
         },
         "SÃO DOMINGOS": {
           "capitalCity": "São Domingos",
-          "districts": ["São Domingos"],
+          "subdivisions": ["São Domingos"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "São Domingos",
@@ -162,7 +162,7 @@
         },
         "SÃO FILIPE": {
           "capitalCity": "São Filipe",
-          "districts": ["São Filipe"],
+          "subdivisions": ["São Filipe"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "São Filipe",
@@ -172,7 +172,7 @@
         },
         "SÃO NICOLAU": {
           "capitalCity": "Ribeira Brava",
-          "districts": ["Ribeira Brava"],
+          "subdivisions": ["Ribeira Brava"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "São Nicolau",
@@ -182,7 +182,7 @@
         },
         "SÃO VICTOR": {
           "capitalCity": "São Victor",
-          "districts": ["São Victor"],
+          "subdivisions": ["São Victor"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "São Victor",
@@ -192,7 +192,7 @@
         },
         "SÃO VICENTE": {
           "capitalCity": "Mindelo",
-          "districts": ["Mindelo", "São Pedro"],
+          "subdivisions": ["Mindelo", "São Pedro"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "São Vicente",
@@ -202,7 +202,7 @@
         },
         "TARFAYA": {
           "capitalCity": "Tarfaya",
-          "districts": ["Tarfaya"],
+          "subdivisions": ["Tarfaya"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Tarfaya",
@@ -212,7 +212,7 @@
         },
         "TAVARES": {
           "capitalCity": "Tavares",
-          "districts": ["Tavares"],
+          "subdivisions": ["Tavares"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Tavares",
@@ -222,7 +222,7 @@
         },
         "TOMBO": {
           "capitalCity": "Tombo",
-          "districts": ["Tombo"],
+          "subdivisions": ["Tombo"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Tombo",

@@ -2,7 +2,7 @@
     "GA":{
         "ESTUAIRE": {
           "capitalCity": "Libreville",
-          "districts": ["Libreville", "Owendo", "Akanda"],
+          "subdivisions": ["Libreville", "Owendo", "Akanda"],
           "geoPoliticalZone": "",
           "location": "Coastal",
           "name": "Estuaire",
@@ -12,7 +12,7 @@
         },
         "HAUT-OGOOUÉ": {
           "capitalCity": "Franceville",
-          "districts": ["Franceville", "Mouanda", "Mouila"],
+          "subdivisions": ["Franceville", "Mouanda", "Mouila"],
           "geoPoliticalZone": "",
           "location": "Southeast",
           "name": "Haut-Ogooué",
@@ -22,7 +22,7 @@
         },
         "MOYEN-OGOOUÉ": {
           "capitalCity": "Lambaréné",
-          "districts": ["Lambaréné", "Ndjole", "Mouila"],
+          "subdivisions": ["Lambaréné", "Ndjole", "Mouila"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Moyen-Ogooué",
@@ -32,7 +32,7 @@
         },
         "NGOUNIÉ": {
           "capitalCity": "Mouila",
-          "districts": ["Mouila", "Lastoursville", "Tchibanga"],
+          "subdivisions": ["Mouila", "Lastoursville", "Tchibanga"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Ngounié",
@@ -42,7 +42,7 @@
         },
         "NYANGA": {
           "capitalCity": "Tchibanga",
-          "districts": ["Tchibanga", "Mouila", "Sainte-Marie", "Lékoni", "Mayumba"],
+          "subdivisions": ["Tchibanga", "Mouila", "Sainte-Marie", "Lékoni", "Mayumba"],
           "geoPoliticalZone": "",
           "location": "Southwest",
           "name": "Nyanga",
@@ -52,7 +52,7 @@
         },
         "OGOOUÉ-IVINDO": {
           "capitalCity": "Mikouyi",
-          "districts": ["Mikouyi", "Ovan", "Okondja"],
+          "subdivisions": ["Mikouyi", "Ovan", "Okondja"],
           "geoPoliticalZone": "",
           "location": "Northeast",
           "name": "Ogooué-Ivindo",
@@ -62,7 +62,7 @@
         },
         "OGOOUÉ-LOLO": {
           "capitalCity": "Lambaréné",
-          "districts": ["Lambaréné", "Ndjole", "Mouila"],
+          "subdivisions": ["Lambaréné", "Ndjole", "Mouila"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Ogooué-Lolo",
@@ -72,7 +72,7 @@
         },
         "OGOOUÉ-MARITIME": {
           "capitalCity": "Port-Gentil",
-          "districts": ["Port-Gentil", "Libreville", "Akanda"],
+          "subdivisions": ["Port-Gentil", "Libreville", "Akanda"],
           "geoPoliticalZone": "",
           "location": "Coastal",
           "name": "Ogooué-Maritime",
@@ -82,7 +82,7 @@
         },
         "WOLEU-NTEM": {
           "capitalCity": "Mitzic",
-          "districts": ["Mitzic", "Oyem", "Bitam"],
+          "subdivisions": ["Mitzic", "Oyem", "Bitam"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Woleu-Ntem",

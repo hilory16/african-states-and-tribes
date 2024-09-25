@@ -2,7 +2,7 @@
     "GN":{
         "BOKÉ": {
             "capitalCity": "Boké",
-            "districts": ["Boké", "Boffa", "Fria", "Kamsar"],
+            "subdivisions": ["Boké", "Boffa", "Fria", "Kamsar"],
             "geoPoliticalZone": "Western Guinea",
             "location": "Northwestern Guinea",
             "name": "Boké",
@@ -12,7 +12,7 @@
         },
         "CONAKRY": {
             "capitalCity": "Conakry",
-            "districts": ["Conakry", "Kaloum", "Dixinn", "Matam", "Ratoma", "Cadiz"],
+            "subdivisions": ["Conakry", "Kaloum", "Dixinn", "Matam", "Ratoma", "Cadiz"],
             "geoPoliticalZone": "Western Guinea",
             "location": "Coastal Guinea",
             "name": "Conakry",
@@ -22,7 +22,7 @@
         },
         "FARANAH": {
             "capitalCity": "Faranah",
-            "districts": ["Faranah", "Kissidougou", "Gueckedou", "Télimélé"],
+            "subdivisions": ["Faranah", "Kissidougou", "Gueckedou", "Télimélé"],
             "geoPoliticalZone": "Central Guinea",
             "location": "Central Guinea",
             "name": "Faranah",
@@ -32,7 +32,7 @@
         },
         "KINDIA": {
             "capitalCity": "Kindia",
-            "districts": ["Kindia", "Dalaba", "Mamou", "Pita"],
+            "subdivisions": ["Kindia", "Dalaba", "Mamou", "Pita"],
             "geoPoliticalZone": "Central Guinea",
             "location": "Central Guinea",
             "name": "Kindia",
@@ -42,7 +42,7 @@
         },
         "LABÉ": {
             "capitalCity": "Labé",
-            "districts": ["Labé", "Koubia", "Mali", "Toubakoro"],
+            "subdivisions": ["Labé", "Koubia", "Mali", "Toubakoro"],
             "geoPoliticalZone": "Upper Guinea",
             "location": "Northern Guinea",
             "name": "Labé",
@@ -52,7 +52,7 @@
         },
         "N'ZÉRÉKORÉ": {
             "capitalCity": "N'Zérékoré",
-            "districts": ["N'Zérékoré", "Beyla", "Macenta", "Yomou"],
+            "subdivisions": ["N'Zérékoré", "Beyla", "Macenta", "Yomou"],
             "geoPoliticalZone": "Forest region",
             "location": "Southeastern Guinea",
             "name": "N'Zérékoré",
@@ -62,7 +62,7 @@
         },
         "SIGUIRI": {
             "capitalCity": "Siguiri",
-            "districts": ["Siguiri", "Kouroussa", "Mandiana"],
+            "subdivisions": ["Siguiri", "Kouroussa", "Mandiana"],
             "geoPoliticalZone": "Upper Guinea",
             "location": "Northern Guinea",
             "name": "Siguiri",
@@ -72,7 +72,7 @@
         },
         "TÉLIMÉLÉ": {
             "capitalCity": "Télimélé",
-            "districts": ["Télimélé", "Dalaba"],
+            "subdivisions": ["Télimélé", "Dalaba"],
             "geoPoliticalZone": "Central Guinea",
             "location": "Central Guinea",
             "name": "Télimélé",

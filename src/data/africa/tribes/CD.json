@@ -2,7 +2,7 @@
     "CD":{
         "BANDUNDU": {
           "capitalCity": "Bandundu",
-          "districts": ["Kwilu", "Kwango", "Mai-Ndombe"],
+          "subdivisions": ["Kwilu", "Kwango", "Mai-Ndombe"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Bandundu",
@@ -12,7 +12,7 @@
         },
         "BAS-UELE": {
           "capitalCity": "Buta",
-          "districts": ["Aketi", "Bambesa", "Poko"],
+          "subdivisions": ["Aketi", "Bambesa", "Poko"],
           "geoPoliticalZone": "",
           "location": "North East",
           "name": "Bas-Uele",
@@ -22,7 +22,7 @@
         },
         "EQUATEUR": {
           "capitalCity": "Mbandaka",
-          "districts": ["Bikoro", "Ingende", "Bolomba"],
+          "subdivisions": ["Bikoro", "Ingende", "Bolomba"],
           "geoPoliticalZone": "",
           "location": "North West",
           "name": "Equateur",
@@ -32,7 +32,7 @@
         },
         "HAUT-KATANGA": {
           "capitalCity": "Lubumbashi",
-          "districts": ["Kasenga", "Pweto", "Sakania"],
+          "subdivisions": ["Kasenga", "Pweto", "Sakania"],
           "geoPoliticalZone": "",
           "location": "South East",
           "name": "Haut-Katanga",
@@ -42,7 +42,7 @@
         },
         "HAUT-LOMAMI": {
           "capitalCity": "Kamina",
-          "districts": ["Bukama", "Kaniama", "Malemba-Nkulu"],
+          "subdivisions": ["Bukama", "Kaniama", "Malemba-Nkulu"],
           "geoPoliticalZone": "",
           "location": "South East",
           "name": "Haut-Lomami",
@@ -52,7 +52,7 @@
         },
         "HAUT-UELE": {
           "capitalCity": "Isiro",
-          "districts": ["Dungu", "Faradje", "Niangara"],
+          "subdivisions": ["Dungu", "Faradje", "Niangara"],
           "geoPoliticalZone": "",
           "location": "North East",
           "name": "Haut-Uele",
@@ -62,7 +62,7 @@
         },
         "ITURI": {
           "capitalCity": "Bunia",
-          "districts": ["Aru", "Djugu", "Mahagi"],
+          "subdivisions": ["Aru", "Djugu", "Mahagi"],
           "geoPoliticalZone": "",
           "location": "North East",
           "name": "Ituri",
@@ -72,7 +72,7 @@
         },
         "KASAI": {
           "capitalCity": "Luebo",
-          "districts": ["Dekese", "Ilebo", "Mweka"],
+          "subdivisions": ["Dekese", "Ilebo", "Mweka"],
           "geoPoliticalZone": "",
           "location": "South West",
           "name": "Kasai",
@@ -82,7 +82,7 @@
         },
         "KASAI-CENTRAL": {
           "capitalCity": "Kananga",
-          "districts": ["Demba", "Kazumba", "Luiza"],
+          "subdivisions": ["Demba", "Kazumba", "Luiza"],
           "geoPoliticalZone": "",
           "location": "South West",
           "name": "Kasai-Central",
@@ -92,7 +92,7 @@
         },
         "KASAI-ORIENTAL": {
           "capitalCity": "Mbuji-Mayi",
-          "districts": ["Kabeya Kamwanga", "Katanda", "Miabi"],
+          "subdivisions": ["Kabeya Kamwanga", "Katanda", "Miabi"],
           "geoPoliticalZone": "",
           "location": "South East",
           "name": "Kasai-Oriental",
@@ -102,7 +102,7 @@
         },
         "KINSHASA": {
           "capitalCity": "Kinshasa",
-          "districts": ["Barumbu", "Lingwala", "Kasa-Vubu"],
+          "subdivisions": ["Barumbu", "Lingwala", "Kasa-Vubu"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Kinshasa",
@@ -112,7 +112,7 @@
         },
         "KWANGO": {
           "capitalCity": "Kenge",
-          "districts": ["Kasongo-Lunda", "Kenge", "Popokabaka"],
+          "subdivisions": ["Kasongo-Lunda", "Kenge", "Popokabaka"],
           "geoPoliticalZone": "",
           "location": "South West",
           "name": "Kwango",
@@ -122,7 +122,7 @@
         },
         "KWILU": {
           "capitalCity": "Kikwit",
-          "districts": ["Bagata", "Bulungu", "Gungu"],
+          "subdivisions": ["Bagata", "Bulungu", "Gungu"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Kwilu",
@@ -132,7 +132,7 @@
         },
         "LOMAMI": {
           "capitalCity": "Kabinda",
-          "districts": ["Lubao", "Ngandajika", "Kamiji"],
+          "subdivisions": ["Lubao", "Ngandajika", "Kamiji"],
           "geoPoliticalZone": "",
           "location": "South East",
           "name": "Lomami",
@@ -142,7 +142,7 @@
         },
         "LUALABA": {
           "capitalCity": "Kolwezi",
-          "districts": ["Dilala", "Fungurume", "Kapanga"],
+          "subdivisions": ["Dilala", "Fungurume", "Kapanga"],
           "geoPoliticalZone": "",
           "location": "South East",
           "name": "Lualaba",
@@ -152,7 +152,7 @@
         },
         "MANIEMA": {
           "capitalCity": "Kindu",
-          "districts": ["Kailo", "Kasongo", "Lubutu"],
+          "subdivisions": ["Kailo", "Kasongo", "Lubutu"],
           "geoPoliticalZone": "",
           "location": "East",
           "name": "Maniema",
@@ -162,7 +162,7 @@
         },
         "MONGALA": {
           "capitalCity": "Lisala",
-          "districts": ["Binga", "Bongandanga", "Bosobolo"],
+          "subdivisions": ["Binga", "Bongandanga", "Bosobolo"],
           "geoPoliticalZone": "",
           "location": "North West",
           "name": "Mongala",
@@ -172,7 +172,7 @@
         },
         "NORD-KIVU": {
           "capitalCity": "Goma",
-          "districts": ["Beni", "Lubero", "Rutshuru"],
+          "subdivisions": ["Beni", "Lubero", "Rutshuru"],
           "geoPoliticalZone": "",
           "location": "East",
           "name": "Nord-Kivu",
@@ -182,7 +182,7 @@
         },
         "SANKURU": {
           "capitalCity": "Lusambo",
-          "districts": ["Katako Kombe", "Lodja", "Lubefu"],
+          "subdivisions": ["Katako Kombe", "Lodja", "Lubefu"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Sankuru",
@@ -192,7 +192,7 @@
         },
         "SUD-KIVU": {
           "capitalCity": "Bukavu",
-          "districts": ["Fizi", "Idjwi", "Mwenga"],
+          "subdivisions": ["Fizi", "Idjwi", "Mwenga"],
           "geoPoliticalZone": "",
           "location": "East",
           "name": "Sud-Kivu",
@@ -202,7 +202,7 @@
         },
         "SUD-UBANGI": {
           "capitalCity": "Gemena",
-          "districts": ["Budjala", "Kungu", "Libenge"],
+          "subdivisions": ["Budjala", "Kungu", "Libenge"],
           "geoPoliticalZone": "",
           "location": "North West",
           "name": "Sud-Ubangi",
@@ -212,7 +212,7 @@
         },
         "TANGANYIKA": {
           "capitalCity": "Kalemie",
-          "districts": ["Moba", "Nyunzu", "Kabalo"],
+          "subdivisions": ["Moba", "Nyunzu", "Kabalo"],
           "geoPoliticalZone": "",
           "location": "South East",
           "name": "Tanganyika",
@@ -222,7 +222,7 @@
         },
         "TSHOPO": {
           "capitalCity": "Kisangani",
-          "districts": ["Banalia", "Bafwasende", "Ubundu"],
+          "subdivisions": ["Banalia", "Bafwasende", "Ubundu"],
           "geoPoliticalZone": "",
           "location": "North East",
           "name": "Tshopo",
@@ -232,7 +232,7 @@
         },
         "TSHUAPA": {
           "capitalCity": "Boende",
-          "districts": ["Bokungu", "Djolu", "Ikela"],
+          "subdivisions": ["Bokungu", "Djolu", "Ikela"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Tshuapa",

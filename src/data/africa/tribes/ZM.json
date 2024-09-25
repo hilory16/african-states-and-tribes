@@ -2,7 +2,7 @@
     "ZM":{
         "CENTRAL PROVINCE":{
             "capitalCity":"Kabwe",
-            "districts":["Chibombo", "Chisamba", "Chitambo", "Kapiri Mposhi", "Kabwe", "Luano", "Mkushi", "Mumbwa", "Ngabwe", "Serenje"],
+            "subdivisions":["Chibombo", "Chisamba", "Chitambo", "Kapiri Mposhi", "Kabwe", "Luano", "Mkushi", "Mumbwa", "Ngabwe", "Serenje"],
             "geoPoliticalZone":"",
             "location":"Central",
             "name": "Central Province",
@@ -12,7 +12,7 @@
         },
         "COPPERBELT PROVINCE":{
             "capitalCity":"Ndola",
-            "districts":["Chililabombwe", "hingola", "Kalulushi", "Kitwe", "Luanshya", "Lufwanyama", "Masaiti", "Mpongwe", "Mufulira", "Mufulira"],
+            "subdivisions":["Chililabombwe", "hingola", "Kalulushi", "Kitwe", "Luanshya", "Lufwanyama", "Masaiti", "Mpongwe", "Mufulira", "Mufulira"],
             "geoPoliticalZone":"",
             "location":"North",
             "name": "Copperbelt Province",
@@ -22,7 +22,7 @@
         },
         "EASTERN PROVINCE":{
             "capitalCity":"Chipata",
-            "districts":["Chadiza", "Chasefu", "Chipangali", "Chipata", "Kasenengwa", "Katete", "Lumezi", "Lundazi", "Lusangazi", "Mambwe", "Nyimba", "Petauke", "Sinda", "Vubwi"] ,
+            "subdivisions":["Chadiza", "Chasefu", "Chipangali", "Chipata", "Kasenengwa", "Katete", "Lumezi", "Lundazi", "Lusangazi", "Mambwe", "Nyimba", "Petauke", "Sinda", "Vubwi"] ,
             "geoPoliticalZone":"",
             "location":"East",
             "name": "Eastern Province",
@@ -32,7 +32,7 @@
         },
         "LUAPULA PROVINCE":{
             "capitalCity":"Mansa",
-            "districts":["Chienge", "Chipili", "Kawambwa", "Lunga", "Mansa", "Milenge", "Mwense", "Mweru-Luapula", "Nchelenge", "Samfya", "Chembe", "Chifunabuli"] ,
+            "subdivisions":["Chienge", "Chipili", "Kawambwa", "Lunga", "Mansa", "Milenge", "Mwense", "Mweru-Luapula", "Nchelenge", "Samfya", "Chembe", "Chifunabuli"] ,
             "geoPoliticalZone":"",
             "location": "North",
             "name": "Luapula Province",
@@ -42,7 +42,7 @@
         },
         "LUSAKA PROVINCE":{
             "capitalCity":"Lusaka",
-            "districts":["Chilanga", "Chongwe", "Kafue", "Lusaka", "Rufunsa", "Shibuyunji"],
+            "subdivisions":["Chilanga", "Chongwe", "Kafue", "Lusaka", "Rufunsa", "Shibuyunji"],
             "geoPoliticalZone":"",
             "location":"South Central",
             "name": "Lusaka Province",
@@ -52,7 +52,7 @@
         },
         "MUCHINGA":{
             "capitalCity":"Chinsali",
-            "districts":["Chinsali", "Isoka", "Kanchibiya","Lavushimanda", "Mpika", "Mafinga", "Nakonde", "Shiwang'andu"],
+            "subdivisions":["Chinsali", "Isoka", "Kanchibiya","Lavushimanda", "Mpika", "Mafinga", "Nakonde", "Shiwang'andu"],
             "geoPoliticalZone":"",
             "location":"North East",
             "name": "Muchinga Province",
@@ -62,7 +62,7 @@
         },
         "NORTHERN PROVINCE":{
             "capitalCity":"Kasama",
-            "districts":["Chilubi", "Kaputa", "Kasama", "Lupososhi", "Luwingu", "Mbala", "Mporokoso", "Mpulungu", "Mungwi", "Nsama", "Senga Hill"],
+            "subdivisions":["Chilubi", "Kaputa", "Kasama", "Lupososhi", "Luwingu", "Mbala", "Mporokoso", "Mpulungu", "Mungwi", "Nsama", "Senga Hill"],
             "geoPoliticalZone":"",
             "location":"North",
             "name": "Northern Province",
@@ -72,7 +72,7 @@
         },
         "NORTHWESTERN PROVINCE":{
             "capitalCity":"Solwezi",
-            "districts":["Chavuma", "Ikelenge", "Kabompo","Kalumbila", "Kasempa", "Manyinga", "Mufumbwe", "Mushindamo", "Mwinilunga", "Solwezi", "Zambezi"],
+            "subdivisions":["Chavuma", "Ikelenge", "Kabompo","Kalumbila", "Kasempa", "Manyinga", "Mufumbwe", "Mushindamo", "Mwinilunga", "Solwezi", "Zambezi"],
             "geoPoliticalZone":"",
             "location":"North West",
             "name": "Northwestern Province",
@@ -82,7 +82,7 @@
         },
         "SOUTHERN PROVINCE":{
             "capitalCity":"Livingstone",
-            "districts":["Chikankata", "Choma", "Gwembe", "Itezhi-Tezhi", "Kalomo", "Kazungula", "Livingstone", "Mazabuka", "Monze", "Namwala", "Pemba", "Siavonga","Sinazongwe", "Zimba"],
+            "subdivisions":["Chikankata", "Choma", "Gwembe", "Itezhi-Tezhi", "Kalomo", "Kazungula", "Livingstone", "Mazabuka", "Monze", "Namwala", "Pemba", "Siavonga","Sinazongwe", "Zimba"],
             "geoPoliticalZone":"",
             "location":"South",
             "name": "Southern Province",
@@ -92,7 +92,7 @@
         },
         "WESTERN PROVINCE":{
             "capitalCity":"Mongu",
-            "districts":["Kalabo", "Kaoma", "Kasama", "Limulunga", "Lukulu", "Mongu", "Mulobezi", "Mwandi", "Nalolo", "Nkeyema", "Senanga", "Sesheke", "Shangombo", "Sikongo", "Sioma"],
+            "subdivisions":["Kalabo", "Kaoma", "Kasama", "Limulunga", "Lukulu", "Mongu", "Mulobezi", "Mwandi", "Nalolo", "Nkeyema", "Senanga", "Sesheke", "Shangombo", "Sikongo", "Sioma"],
             "geoPoliticalZone":"",
             "location":"West",
             "name": "Western Province",

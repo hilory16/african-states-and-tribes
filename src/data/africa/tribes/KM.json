@@ -2,7 +2,7 @@
     "KM":{
         "ANJOUAN": {
           "capitalCity": "Mutsamudu",
-          "districts": ["Mutsamudu", "Ouani", "Hahaya", "Domoni", "Iconi"],
+          "subdivisions": ["Mutsamudu", "Ouani", "Hahaya", "Domoni", "Iconi"],
           "geoPoliticalZone": "East",
           "location": "East",
           "name": "Anjouan",
@@ -12,7 +12,7 @@
         },
         "GRAND COMORE": {
           "capitalCity": "Moroni",
-          "districts": ["Moroni", "Mbeni", "Fomboni", "Dzaoudzi", "Sima"],
+          "subdivisions": ["Moroni", "Mbeni", "Fomboni", "Dzaoudzi", "Sima"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Grand Comore",
@@ -22,7 +22,7 @@
         },
         "MOHELI": {
           "capitalCity": "Fomboni",
-          "districts": ["Fomboni", "Domba", "Nioumachoua", "Ouani", "Mtsangamouji"],
+          "subdivisions": ["Fomboni", "Domba", "Nioumachoua", "Ouani", "Mtsangamouji"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Moheli",

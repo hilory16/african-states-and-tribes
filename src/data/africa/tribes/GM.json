@@ -2,7 +2,7 @@
     "GM":{
         "BANJUL": {
             "capitalCity": "Banjul",
-            "districts": ["Banjul North", "Banjul South", "Banjul Central"],
+            "subdivisions": ["Banjul North", "Banjul South", "Banjul Central"],
             "geoPoliticalZone": "Western",
             "location": "Western Gambia",
             "name": "Banjul",
@@ -12,7 +12,7 @@
         },
         "BARROO": {
             "capitalCity": "Brikama",
-            "districts": ["Brikama", "Kujang", "Kembujeh", "Sankandi", "Sifoe"],
+            "subdivisions": ["Brikama", "Kujang", "Kembujeh", "Sankandi", "Sifoe"],
             "geoPoliticalZone": "Western",
             "location": "Western Gambia",
             "name": "Barrow",
@@ -22,7 +22,7 @@
         },
         "CENTRAL RIVER": {
             "capitalCity": "Janjangbureh",
-            "districts": ["Janjo", "Kuntaur", "Bansang"],
+            "subdivisions": ["Janjo", "Kuntaur", "Bansang"],
             "geoPoliticalZone": "Central",
             "location": "Central Gambia",
             "name": "Central River",
@@ -32,7 +32,7 @@
         },
         "EASTERN RIVER": {
             "capitalCity": "Basse",
-            "districts": ["Basse", "Demba Kunda", "Kassanga"],
+            "subdivisions": ["Basse", "Demba Kunda", "Kassanga"],
             "geoPoliticalZone": "Eastern",
             "location": "Eastern Gambia",
             "name": "Eastern River",
@@ -42,7 +42,7 @@
         },
         "NORTH BANK": {
             "capitalCity": "Mansakonko",
-            "districts": ["Kerewan", "Soma", "Mansakonko"],
+            "subdivisions": ["Kerewan", "Soma", "Mansakonko"],
             "geoPoliticalZone": "Northwestern",
             "location": "Northwestern Gambia",
             "name": "North Bank",
@@ -52,7 +52,7 @@
         },
         "UPPER RIVER": {
             "capitalCity": "Basse",
-            "districts": ["Basse", "Mansakonko", "Kassanga"],
+            "subdivisions": ["Basse", "Mansakonko", "Kassanga"],
             "geoPoliticalZone": "Upper River",
             "location": "Eastern Gambia",
             "name": "Upper River",
@@ -62,7 +62,7 @@
         },
         "WEST COAST": {
             "capitalCity": "Brikama",
-            "districts": ["Brikama", "Banjulinding", "Jambanjelly"],
+            "subdivisions": ["Brikama", "Banjulinding", "Jambanjelly"],
             "geoPoliticalZone": "Western",
             "location": "Western Gambia",
             "name": "West Coast",
