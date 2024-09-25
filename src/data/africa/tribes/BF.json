@@ -3,7 +3,7 @@
     "BF":{
         "BOUCLE DU MOUHOUN": {
           "capitalCity": "Dédougou",
-          "districts": ["Dédougou", "Nouna", "Solenzo", "Tougan"],
+          "subdivisions": ["Dédougou", "Nouna", "Solenzo", "Tougan"],
           "geoPoliticalZone": "North West",
           "location": "North West",
           "name": "Boucle du Mouhoun",
@@ -13,7 +13,7 @@
         },
         "CASCADES": {
           "capitalCity": "Banfora",
-          "districts": ["Banfora", "Léo", "Manga", "Poni"],
+          "subdivisions": ["Banfora", "Léo", "Manga", "Poni"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Cascades",
@@ -23,7 +23,7 @@
         },
         "CENTRE": {
           "capitalCity": "Ouagadougou",
-          "districts": ["Ouagadougou", "Kadiogo", "Oubritenga", "Kourwéogo"],
+          "subdivisions": ["Ouagadougou", "Kadiogo", "Oubritenga", "Kourwéogo"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Centre",
@@ -33,7 +33,7 @@
         },
         "CENTRE-NORD": {
           "capitalCity": "Kaya",
-          "districts": ["Kaya", "Sanmatenga", "Namentenga", "Boussé"],
+          "subdivisions": ["Kaya", "Sanmatenga", "Namentenga", "Boussé"],
           "geoPoliticalZone": "Central North",
           "location": "Central North",
           "name": "Centre-Nord",
@@ -43,7 +43,7 @@
         },
         "CENTRE-OUEST": {
           "capitalCity": "Koudougou",
-          "districts": ["Koudougou", "Boulkiemdé", "Sourgou", "Oubritenga"],
+          "subdivisions": ["Koudougou", "Boulkiemdé", "Sourgou", "Oubritenga"],
           "geoPoliticalZone": "Central West",
           "location": "Central West",
           "name": "Centre-Ouest",
@@ -53,7 +53,7 @@
         },
         "CENTRE-EST": {
           "capitalCity": "Tenkodogo",
-          "districts": ["Tenkodogo", "Bittou", "Koulpélogo", "Zoundwéogo"],
+          "subdivisions": ["Tenkodogo", "Bittou", "Koulpélogo", "Zoundwéogo"],
           "geoPoliticalZone": "Central East",
           "location": "Central East",
           "name": "Centre-Est",
@@ -63,7 +63,7 @@
         },
         "CENTRE-SUD": {
           "capitalCity": "Manga",
-          "districts": ["Manga", "Zoundwéogo", "Bourzanga", "Namentenga"],
+          "subdivisions": ["Manga", "Zoundwéogo", "Bourzanga", "Namentenga"],
           "geoPoliticalZone": "Central South",
           "location": "Central South",
           "name": "Centre-Sud",
@@ -73,7 +73,7 @@
         },
         "EST": {
           "capitalCity": "Fada N'gourma",
-          "districts": ["Fada N'gourma", "Gourma", "Namentenga"],
+          "subdivisions": ["Fada N'gourma", "Gourma", "Namentenga"],
           "geoPoliticalZone": "East",
           "location": "East",
           "name": "Est",
@@ -83,7 +83,7 @@
         },
         "HAUTS-BASSINS": {
           "capitalCity": "Bobo-Dioulasso",
-          "districts": ["Bobo-Dioulasso", "Kongoussi", "Nouna", "Solenzo"],
+          "subdivisions": ["Bobo-Dioulasso", "Kongoussi", "Nouna", "Solenzo"],
           "geoPoliticalZone": "West",
           "location": "West",
           "name": "Hauts-Bassins",
@@ -93,7 +93,7 @@
         },
         "NORD": {
           "capitalCity": "Dori",
-          "districts": ["Dori", "Yagha", "Seno", "Oursi"],
+          "subdivisions": ["Dori", "Yagha", "Seno", "Oursi"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Nord",
@@ -103,7 +103,7 @@
         },
         "SAHEL": {
           "capitalCity": "Gorom-Gorom",
-          "districts": ["Gorom-Gorom", "Oursi", "Seno", "Yagha"],
+          "subdivisions": ["Gorom-Gorom", "Oursi", "Seno", "Yagha"],
           "geoPoliticalZone": "North East",
           "location": "North East",
           "name": "Sahel",
@@ -113,7 +113,7 @@
         },
         "SUD-OUEST": {
           "capitalCity": "Gaoua",
-          "districts": ["Gaoua", "Batié", "Dano", "Pô"],
+          "subdivisions": ["Gaoua", "Batié", "Dano", "Pô"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Sud-Ouest",

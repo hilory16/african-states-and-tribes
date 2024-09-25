@@ -2,7 +2,7 @@
     "CM":{
         "ADAMAOUA": {
           "capitalCity": "Ngaoundéré",
-          "districts": ["Ngaoundéré", "Bouba Ndjida", "Tignère", "Vina"],
+          "subdivisions": ["Ngaoundéré", "Bouba Ndjida", "Tignère", "Vina"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Adamaoua",
@@ -12,7 +12,7 @@
         },
         "CENTRE": {
           "capitalCity": "Yaoundé",
-          "districts": ["Yaoundé", "Esseng", "Lekié", "Mfoundi", "Mbam-et-Kim"],
+          "subdivisions": ["Yaoundé", "Esseng", "Lekié", "Mfoundi", "Mbam-et-Kim"],
           "geoPoliticalZone": "South",
           "location": "Centre",
           "name": "Centre",
@@ -22,7 +22,7 @@
         },
         "EAST": {
           "capitalCity": "Bertoua",
-          "districts": ["Bertoua", "Kékem", "Lom-et-Djerem", "Nde"],
+          "subdivisions": ["Bertoua", "Kékem", "Lom-et-Djerem", "Nde"],
           "geoPoliticalZone": "East",
           "location": "East",
           "name": "East",
@@ -32,7 +32,7 @@
         },
         "FAR-NORTH": {
           "capitalCity": "Maroua",
-          "districts": ["Maroua", "Mokolo", "Mora", "Kousseri"],
+          "subdivisions": ["Maroua", "Mokolo", "Mora", "Kousseri"],
           "geoPoliticalZone": "North",
           "location": "Far North",
           "name": "Far North",
@@ -42,7 +42,7 @@
         },
         "LITTORAL": {
           "capitalCity": "Douala",
-          "districts": ["Douala", "Edea", "Limbe", "Buea"],
+          "subdivisions": ["Douala", "Edea", "Limbe", "Buea"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Littoral",
@@ -52,7 +52,7 @@
         },
         "NORTH": {
             "capitalCity": "Garoua",
-            "districts": ["Bénoué", "Faro", "Mayo-Louti", "Mayo-Rey"],
+            "subdivisions": ["Bénoué", "Faro", "Mayo-Louti", "Mayo-Rey"],
             "geoPoliticalZone": "North",
             "location": "North",
             "name": "North",
@@ -62,7 +62,7 @@
           },
         "NORTH-WEST": {
           "capitalCity": "Bamenda",
-          "districts": ["Bamenda", "Donga-Mantung", "Menchum", "Ngohketunjia"],
+          "subdivisions": ["Bamenda", "Donga-Mantung", "Menchum", "Ngohketunjia"],
           "geoPoliticalZone": "North West",
           "location": "North West",
           "name": "North West",
@@ -72,7 +72,7 @@
         },
         "SOUTH-WEST": {
           "capitalCity": "Buea",
-          "districts": ["Buea", "Limbe", "Fako", "Manyu"],
+          "subdivisions": ["Buea", "Limbe", "Fako", "Manyu"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "South West",
@@ -82,7 +82,7 @@
         },
         "WEST": {
           "capitalCity": "Bafoussam",
-          "districts": ["Bafoussam", "Foumban", "Dschang", "Foumbot"],
+          "subdivisions": ["Bafoussam", "Foumban", "Dschang", "Foumbot"],
           "geoPoliticalZone": "West",
           "location": "West",
           "name": "West",
@@ -92,7 +92,7 @@
         },
         "SOUTH": {
           "capitalCity": "Ebolowa",
-          "districts": ["Ebolowa", "Sangmélima", "Mintom"],
+          "subdivisions": ["Ebolowa", "Sangmélima", "Mintom"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "South",

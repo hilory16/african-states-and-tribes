@@ -2,7 +2,7 @@
     "GH":{
         "AHAFO REGION": {
             "capitalCity": "Goaso",
-            "districts": ["Asunafo North", "Asunafo South", "Asutifi North", "Asutifi South", "Tano North", "Tano South"],
+            "subdivisions": ["Asunafo North", "Asunafo South", "Asutifi North", "Asutifi South", "Tano North", "Tano South"],
             "geoPoliticalZone": "Central",
             "location": "Central Ghana",
             "name": "Ahafo",
@@ -12,7 +12,7 @@
         },
         "ASHANTI": {
             "capitalCity": "Kumasi",
-            "districts": ["Adansi North", "Adansi South", "Afigya Sekyere", "Ahafo Ano North", "Ahafo Ano South", "Asante Akim Central", "Asante Akim North", "Asante Akim South", "Bantama", "Bekwai", "Bosome Freho", "Bosomtwe", "Kwabre East", "Obuasi East", "Obuasi West", "Offinso North", "Offinso South", "Sekyere Afram Plains", "Sekyere Central", "Sekyere East", "Amansie Central", "Amansie South", "Amansie West"],
+            "subdivisions": ["Adansi North", "Adansi South", "Afigya Sekyere", "Ahafo Ano North", "Ahafo Ano South", "Asante Akim Central", "Asante Akim North", "Asante Akim South", "Bantama", "Bekwai", "Bosome Freho", "Bosomtwe", "Kwabre East", "Obuasi East", "Obuasi West", "Offinso North", "Offinso South", "Sekyere Afram Plains", "Sekyere Central", "Sekyere East", "Amansie Central", "Amansie South", "Amansie West"],
             "geoPoliticalZone": "Central",
             "location": "Central Ghana",
             "name": "Ashanti",
@@ -22,7 +22,7 @@
         },
         "BONO EAST": {
             "capitalCity": "Techiman",
-            "districts": ["Techiman", "Nkoranza North", "Nkoranza South", "Kintampo North", "Kintampo South", "Pru East", "Pru West"],
+            "subdivisions": ["Techiman", "Nkoranza North", "Nkoranza South", "Kintampo North", "Kintampo South", "Pru East", "Pru West"],
             "geoPoliticalZone": "Central",
             "location": "Central Ghana",
             "name": "Bono East",
@@ -32,7 +32,7 @@
         },
         "BRONG-AHAFO": {
             "capitalCity": "Sunyani",
-            "districts": ["Berekum", "Nkoranza", "Sunyani", "Dormaa", "Techiman"],
+            "subdivisions": ["Berekum", "Nkoranza", "Sunyani", "Dormaa", "Techiman"],
             "geoPoliticalZone": "",
             "location": "Central",
             "name": "Brong-Ahafo",
@@ -42,7 +42,7 @@
         },
         "CENTRAL": {
             "capitalCity": "Cape Coast",
-            "districts": ["Abura-Asebu-Kwamankese", "Awutu Senya East", "Awutu Senya West", "Cape Coast", "Efutu", "Gomoa Central", "Gomoa East", "Gomoa West", "Kwahuman", "Mfantseman", "Twifo Atti-Morkwa", "Assin North", "Assin South"],
+            "subdivisions": ["Abura-Asebu-Kwamankese", "Awutu Senya East", "Awutu Senya West", "Cape Coast", "Efutu", "Gomoa Central", "Gomoa East", "Gomoa West", "Kwahuman", "Mfantseman", "Twifo Atti-Morkwa", "Assin North", "Assin South"],
             "geoPoliticalZone": "Southern",
             "location": "Southern Ghana",
             "name": "Central",
@@ -52,7 +52,7 @@
         },
         "EASTERN": {
             "capitalCity": "Koforidua",
-            "districts": ["Abuakwa South", "Abuakwa North", "Asuogyaman", "Birim North", "Birim South", "New Juaben South", "New Juaben North", "Kwahu East", "Kwahu North", "Kwahu South", "Suhum", "Nsawam/Adoagyiri", "Akuapem North", "Akuapem South", "Brewaniase", "Nkawkaw"],
+            "subdivisions": ["Abuakwa South", "Abuakwa North", "Asuogyaman", "Birim North", "Birim South", "New Juaben South", "New Juaben North", "Kwahu East", "Kwahu North", "Kwahu South", "Suhum", "Nsawam/Adoagyiri", "Akuapem North", "Akuapem South", "Brewaniase", "Nkawkaw"],
             "geoPoliticalZone": "Southern",
             "location": "Southern Ghana",
             "name": "Eastern",
@@ -62,7 +62,7 @@
         },
         "GREATER ACCRA": {
             "capitalCity": "Accra",
-            "districts": ["Ablekuma Central", "Ablekuma North", "Ablekuma West", "Adenta", "Ashaiman", "Ayawaso Central", "Ayawaso East", "Ayawaso West", "La Dade Kotopon", "La Nkwantanang Madina", "Okaikwei North", "Okaikwei South", "Tema", "Ningo Prampram", "Kpone Katamanso"],
+            "subdivisions": ["Ablekuma Central", "Ablekuma North", "Ablekuma West", "Adenta", "Ashaiman", "Ayawaso Central", "Ayawaso East", "Ayawaso West", "La Dade Kotopon", "La Nkwantanang Madina", "Okaikwei North", "Okaikwei South", "Tema", "Ningo Prampram", "Kpone Katamanso"],
             "geoPoliticalZone": "Southern",
             "location": "Southern Ghana",
             "name": "Greater Accra",
@@ -72,7 +72,7 @@
         },
         "NORTH EAST": {
             "capitalCity": "Nalerigu",
-            "districts": ["Nalerigu", "Yunyoo", "Bunkpurugu"],
+            "subdivisions": ["Nalerigu", "Yunyoo", "Bunkpurugu"],
             "geoPoliticalZone": "",
             "location": "Northeast",
             "name": "North East",
@@ -82,7 +82,7 @@
         },
         "NORTHERN": {
             "capitalCity": "Tamale",
-            "districts": ["Savelugu", "Tamale Metropolis", "Tolon", "Gushegu", "Karaga", "Kpandai", "Bole", "Daboya", "Nanton", "Navorongo", "Sagnarigu", "Walewale", "Yendi", "Zabzugu"],
+            "subdivisions": ["Savelugu", "Tamale Metropolis", "Tolon", "Gushegu", "Karaga", "Kpandai", "Bole", "Daboya", "Nanton", "Navorongo", "Sagnarigu", "Walewale", "Yendi", "Zabzugu"],
             "geoPoliticalZone": "Northern",
             "location": "Northern Ghana",
             "name": "Northern",
@@ -92,7 +92,7 @@
         },
         "OTI": {
             "capitalCity": "Dambai",
-            "districts": ["Dambai", "Nkwanta South", "Biakoye"],
+            "subdivisions": ["Dambai", "Nkwanta South", "Biakoye"],
             "geoPoliticalZone": "",
             "location": "Northeast",
             "name": "Oti",
@@ -102,7 +102,7 @@
         },
         "SAVANNAH": {
             "capitalCity": "Damongo",
-            "districts": ["Damongo", "Bole", "Sawla-Tuna-Kalba"],
+            "subdivisions": ["Damongo", "Bole", "Sawla-Tuna-Kalba"],
             "geoPoliticalZone": "",
             "location": "North",
             "name": "Savannah",
@@ -112,7 +112,7 @@
         },
         "UPPER EAST": {
             "capitalCity": "Bolgatanga",
-            "districts": ["Bawku", "Bolgatanga", "Bongo", "Kassena Nankana East", "Kassena Nankana West", "Talensi", "Tongo"],
+            "subdivisions": ["Bawku", "Bolgatanga", "Bongo", "Kassena Nankana East", "Kassena Nankana West", "Talensi", "Tongo"],
             "geoPoliticalZone": "Northern",
             "location": "Northern Ghana",
             "name": "Upper East",
@@ -122,7 +122,7 @@
         },
         "UPPER WEST": {
             "capitalCity": "Wa",
-            "districts": ["Nadowli-Kaleo", "Wa East", "Wa West", "Wa", "Sissala East", "Sissala West", "Jirapa", "Lawra"],
+            "subdivisions": ["Nadowli-Kaleo", "Wa East", "Wa West", "Wa", "Sissala East", "Sissala West", "Jirapa", "Lawra"],
             "geoPoliticalZone": "Northern",
             "location": "Northern Ghana",
             "name": "Upper West",
@@ -132,7 +132,7 @@
         },
         "VOLTA": {
             "capitalCity": "Ho",
-            "districts": ["Ho", "Ho West", "Afadjato South", "Ketu North", "Ketu South", "Kpassa", "Nkwanta North", "Nkwanta South", "Gushegu", "Krachi East", "Krachi West", "Dambai"],
+            "subdivisions": ["Ho", "Ho West", "Afadjato South", "Ketu North", "Ketu South", "Kpassa", "Nkwanta North", "Nkwanta South", "Gushegu", "Krachi East", "Krachi West", "Dambai"],
             "geoPoliticalZone": "Southern",
             "location": "Eastern Ghana",
             "name": "Volta",
@@ -142,7 +142,7 @@
         },
         "WESTERN": {
             "capitalCity": "Sekondi-Takoradi",
-            "districts": ["Amenfi East", "Amenfi West", "Essikado-Ketan", "Effia-Kwesimintsim", "Sekondi-Takoradi", "Shama", "Mpohor", "Prestea-Huni Valley", "Tarkwa-Nsuaem", "Wassa East", "Wassa West", "Bogoso"],
+            "subdivisions": ["Amenfi East", "Amenfi West", "Essikado-Ketan", "Effia-Kwesimintsim", "Sekondi-Takoradi", "Shama", "Mpohor", "Prestea-Huni Valley", "Tarkwa-Nsuaem", "Wassa East", "Wassa West", "Bogoso"],
             "geoPoliticalZone": "Western",
             "location": "Western Ghana",
             "name": "Western",
@@ -152,7 +152,7 @@
         },
         "WESTERN NORTH": {
             "capitalCity": "Sefwi Wiawso",
-            "districts": ["Aowin", "Bia West", "Bia East", "Bodi", "Sefwi Akontombra", "Sefwi Wiawso", "Sefwi Anhwiaso"],
+            "subdivisions": ["Aowin", "Bia West", "Bia East", "Bodi", "Sefwi Akontombra", "Sefwi Wiawso", "Sefwi Anhwiaso"],
             "geoPoliticalZone": "Western",
             "location": "Western Ghana",
             "name": "Western North",

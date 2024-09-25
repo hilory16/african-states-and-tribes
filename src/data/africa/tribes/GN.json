@@ -1,0 +1,84 @@
+{
+    "GN":{
+        "BOKÉ": {
+            "capitalCity": "Boké",
+            "subdivisions": ["Boké", "Boffa", "Fria", "Kamsar"],
+            "geoPoliticalZone": "Western Guinea",
+            "location": "Northwestern Guinea",
+            "name": "Boké",
+            "stateCode": "BK",
+            "tribes": ["Manjaku", "Baga", "Soussou", "Malinke"],
+            "type": "region"
+        },
+        "CONAKRY": {
+            "capitalCity": "Conakry",
+            "subdivisions": ["Conakry", "Kaloum", "Dixinn", "Matam", "Ratoma", "Cadiz"],
+            "geoPoliticalZone": "Western Guinea",
+            "location": "Coastal Guinea",
+            "name": "Conakry",
+            "stateCode": "CG",
+            "tribes": ["Fulani", "Malinke", "Soussou"],
+            "type": "City"
+        },
+        "FARANAH": {
+            "capitalCity": "Faranah",
+            "subdivisions": ["Faranah", "Kissidougou", "Gueckedou", "Télimélé"],
+            "geoPoliticalZone": "Central Guinea",
+            "location": "Central Guinea",
+            "name": "Faranah",
+            "stateCode": "FR",
+            "tribes": ["Malinke", "Kpelle", "Fula"],
+            "type": "region"
+        },
+        "KINDIA": {
+            "capitalCity": "Kindia",
+            "subdivisions": ["Kindia", "Dalaba", "Mamou", "Pita"],
+            "geoPoliticalZone": "Central Guinea",
+            "location": "Central Guinea",
+            "name": "Kindia",
+            "stateCode": "KD",
+            "tribes": ["Malinke", "Soussou", "Kpelle"],
+            "type": "region"
+        },
+        "LABÉ": {
+            "capitalCity": "Labé",
+            "subdivisions": ["Labé", "Koubia", "Mali", "Toubakoro"],
+            "geoPoliticalZone": "Upper Guinea",
+            "location": "Northern Guinea",
+            "name": "Labé",
+            "stateCode": "LB",
+            "tribes": ["Fula", "Malinke", "Kpelle"],
+            "type": "region"
+        },
+        "N'ZÉRÉKORÉ": {
+            "capitalCity": "N'Zérékoré",
+            "subdivisions": ["N'Zérékoré", "Beyla", "Macenta", "Yomou"],
+            "geoPoliticalZone": "Forest region",
+            "location": "Southeastern Guinea",
+            "name": "N'Zérékoré",
+            "stateCode": "NZ",
+            "tribes": ["Kpelle", "Maninka", "Loma"],
+            "type": "region"
+        },
+        "SIGUIRI": {
+            "capitalCity": "Siguiri",
+            "subdivisions": ["Siguiri", "Kouroussa", "Mandiana"],
+            "geoPoliticalZone": "Upper Guinea",
+            "location": "Northern Guinea",
+            "name": "Siguiri",
+            "stateCode": "SI",
+            "tribes": ["Malinke", "Fula"],
+            "type": "region"
+        },
+        "TÉLIMÉLÉ": {
+            "capitalCity": "Télimélé",
+            "subdivisions": ["Télimélé", "Dalaba"],
+            "geoPoliticalZone": "Central Guinea",
+            "location": "Central Guinea",
+            "name": "Télimélé",
+            "stateCode": "TM",
+            "tribes": ["Malinke", "Soussou"],
+            "type": "region"
+        }
+    }
+}

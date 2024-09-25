@@ -2,7 +2,7 @@
     "SO":{
         "AWDAL REGION":{
             "capitalCity":"Borama",
-            "districts":["Borama", "Baki", "Lughaya", "Zeila"],
+            "subdivisions":["Borama", "Baki", "Lughaya", "Zeila"],
             "geoPoliticalZone":"",
             "location":"North West",
             "name": "Awdal",
@@ -12,7 +12,7 @@
         },
         "BAKOOL":{
             "capitalCity":"Hudur",
-            "districts":["El Barde", "Hudur", "Rabdhure", "Tiyeglow", "Wajid"],
+            "subdivisions":["El Barde", "Hudur", "Rabdhure", "Tiyeglow", "Wajid"],
             "geoPoliticalZone":"",
             "location":"South Central",
             "name": "Bakool",
@@ -22,7 +22,7 @@
         },
         "BANAADIR":{
             "capitalCity":"Mogadishu",
-            "districts":["Abdiaziz", "Bondhere", "Daynile", "Dharkenley", "Hamar-Jajab", "Hamar-Weyne", "Hodan", "Howl-Wadag", "Huriwa", "Kaxda", "Karan", "Shangani", "Shibis", "Waberi", "Wadajir","Warta Nabada", "Yaqshid"],
+            "subdivisions":["Abdiaziz", "Bondhere", "Daynile", "Dharkenley", "Hamar-Jajab", "Hamar-Weyne", "Hodan", "Howl-Wadag", "Huriwa", "Kaxda", "Karan", "Shangani", "Shibis", "Waberi", "Wadajir","Warta Nabada", "Yaqshid"],
             "geoPoliticalZone":"",
             "location":"Coastal",
             "name": "Banaadir",
@@ -32,7 +32,7 @@
         },
         "BARI":{
             "capitalCity":"Bosasso",
-            "districts":["Bandarbeyla", "Boosaaso (Bosaso)", "Caluula (Alula)", "Iskushuba", "Qandala (Candala)", "Qardho (Gardo)"],
+            "subdivisions":["Bandarbeyla", "Boosaaso (Bosaso)", "Caluula (Alula)", "Iskushuba", "Qandala (Candala)", "Qardho (Gardo)"],
             "geoPoliticalZone":"",
             "location":"North East",
             "name": "Bari",
@@ -43,7 +43,7 @@
         "BAY":{
             "name": "Bay",
             "capitalCity":"Baydhabo",
-            "districts":["Baydhabo", "Buurhakaba (Burhakaba)", "Diinsoor (Dinsoor)", "Qansaxdheere (Qasahdhere)"],
+            "subdivisions":["Baydhabo", "Buurhakaba (Burhakaba)", "Diinsoor (Dinsoor)", "Qansaxdheere (Qasahdhere)"],
             "location":"South Central",
             "geoPoliticalZone":"",
             "stateCode": "BY",
@@ -52,7 +52,7 @@
         },
         "GALGUDUUD":{
             "capitalCity":"Dusmareb",
-            "districts":["Caabudwaaq (Abudwak)", "Cadaado (Adado)", "Ceel Buur (El Buur)", "Ceel Dheer (El Dher)", "Dhuusamareeb (Dusmareb)"],
+            "subdivisions":["Caabudwaaq (Abudwak)", "Cadaado (Adado)", "Ceel Buur (El Buur)", "Ceel Dheer (El Dher)", "Dhuusamareeb (Dusmareb)"],
             "geoPoliticalZone":"",
             "location":"Central",
             "name": "Galguduud",
@@ -62,7 +62,7 @@
         },
         "GEDO":{
             "capitalCity":"Garbahaarey",
-            "districts":["Baardheere (Bardhere","Beletxaawo (Beled Hawo)", "Ceel Waaq (El Wak)", "Doolow (Dolow)", "Garbahaarey (Garbaharey)", "Luuq"],
+            "subdivisions":["Baardheere (Bardhere","Beletxaawo (Beled Hawo)", "Ceel Waaq (El Wak)", "Doolow (Dolow)", "Garbahaarey (Garbaharey)", "Luuq"],
             "geoPoliticalZone":"",
             "location":"South West",
             "name": "Gedo",
@@ -72,7 +72,7 @@
         },
         "HIRAN":{
             "capitalCity":"Belet Weyne",
-            "districts":["Beletweeyne (Beledweyne)", "Buuloburte (Buloburde)", "Jawiil (Jalalaqsi)"],
+            "subdivisions":["Beletweeyne (Beledweyne)", "Buuloburte (Buloburde)", "Jawiil (Jalalaqsi)"],
             "geoPoliticalZone":"",
             "location":"Central",
             "name": "Hiran",
@@ -82,7 +82,7 @@
         },
         "LOWER JUBA":{
             "capitalCity":"Kismayo",
-            "districts":["Afmadoow (Afmadow)","Badhaadhe (Badhadhe)","Jamaame (Jamame)","Kismaayo (Kismayo)"],
+            "subdivisions":["Afmadoow (Afmadow)","Badhaadhe (Badhadhe)","Jamaame (Jamame)","Kismaayo (Kismayo)"],
             "geoPoliticalZone":"",
             "location":"Southern",
             "name": "Lower Juba (Jubbada Hoose)",
@@ -92,7 +92,7 @@
         },
         "LOWER SHEBELLE":{
             "capitalCity":"Merka",
-            "districts":["Afgoi","Audegle","Brava","Koryoley","Kurtun Warrey","Merka","Sablale","Wanle Weyn"],
+            "subdivisions":["Afgoi","Audegle","Brava","Koryoley","Kurtun Warrey","Merka","Sablale","Wanle Weyn"],
             "geoPoliticalZone":"",
             "location":"South Central",
             "name": "Lower Shebelle (Shabeellaha Hoose)",
@@ -102,7 +102,7 @@
         },
         "MIDDLE JUBA":{
             "capitalCity":"Bu'aale",
-            "districts":["Bu'aale (Bu'ale)", "Jilib", "Saakow (Sakow)"],
+            "subdivisions":["Bu'aale (Bu'ale)", "Jilib", "Saakow (Sakow)"],
             "geoPoliticalZone":"",
             "location":"Southern",
             "name": "Middle Juba (Jubbada Dhexe)",
@@ -112,7 +112,7 @@
         },
         "MIDDLE SHEBELLE":{
             "capitalCity":"Jowhar",
-            "districts":["Adanyabaal", "Balcad/ Warsheikh", "Cadaale", " Jowhar/ Mahaday"],
+            "subdivisions":["Adanyabaal", "Balcad/ Warsheikh", "Cadaale", " Jowhar/ Mahaday"],
             "geoPoliticalZone":"",
             "location":"South Central",
             "name": "Middle Shebelle (Shabeellaha Dhexe)",
@@ -122,7 +122,7 @@
         },
         "MUDUG":{
             "capitalCity":"Gaalkacyo",
-            "districts":["Gaalkacyo (Galkayo)", "Galdogob", "Hobyo", "Jariiban (Jariban)", "Xarardheere (Harardhere)"],
+            "subdivisions":["Gaalkacyo (Galkayo)", "Galdogob", "Hobyo", "Jariiban (Jariban)", "Xarardheere (Harardhere)"],
             "geoPoliticalZone":"",
             "location":"Central",
             "name": "Mudug",
@@ -132,7 +132,7 @@
         },
         "NUGAL":{
             "capitalCity":"Garowe",
-            "districts":["Burtinle", "Eyl", "Garoowe (Garowe)"],
+            "subdivisions":["Burtinle", "Eyl", "Garoowe (Garowe)"],
             "geoPoliticalZone":"",
             "location":"North East",
             "name": "Nugal",
@@ -142,7 +142,7 @@
         },
         "SANAAG":{
             "capitalCity":"Ceerigaabo",
-            "districts":["Ceel Afweyn (El Afweyn)", "Ceerigaabo (Erigavo)", "Laasqoray (Las Khorey)"],
+            "subdivisions":["Ceel Afweyn (El Afweyn)", "Ceerigaabo (Erigavo)", "Laasqoray (Las Khorey)"],
             "geoPoliticalZone":"",
             "location":"Northern",
             "name": "Sanaag",
@@ -152,7 +152,7 @@
         },
         "SOOL":{
             "capitalCity":"Las Anod",
-            "districts":["Las Anod", "Hudun", "Taleex"],
+            "subdivisions":["Las Anod", "Hudun", "Taleex"],
             "geoPoliticalZone":"",
             "location":"North East",
             "name": "Sool",
@@ -162,7 +162,7 @@
         },
         "TOGDHEER":{
             "capitalCity":"Burco",
-            "districts":["Burco (Burao)", "Buuhoodle (Buhoodle)", "Oodweyne", "Sheekh (Sheikh)"],
+            "subdivisions":["Burco (Burao)", "Buuhoodle (Buhoodle)", "Oodweyne", "Sheekh (Sheikh)"],
             "geoPoliticalZone":"",
             "location":"North Central",
             "name": "Togdheer",
@@ -172,7 +172,7 @@
         },
         "WOQOOYI GALBEED":{
             "capitalCity":"Hargeysa",
-            "districts":["Barbara", "Gabiley", "Hargeysa (Hargeisa)"],
+            "subdivisions":["Barbara", "Gabiley", "Hargeysa (Hargeisa)"],
             "geoPoliticalZone":"",
             "location":"North West",
             "name": "Woqooyi Galbeed",

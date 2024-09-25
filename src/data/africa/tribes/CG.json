@@ -2,7 +2,7 @@
     "CG":{
         "BOUENZA": {
           "capitalCity": "Madingou",
-          "districts": ["Loudima", "Nkayi", "Mouyondzi", "Madingou"],
+          "subdivisions": ["Loudima", "Nkayi", "Mouyondzi", "Madingou"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Bouenza",
@@ -12,7 +12,7 @@
         },
         "BRAZZAVILLE": {
           "capitalCity": "Brazzaville",
-          "districts": ["Makélékélé", "Bacongo", "Poto-Poto", "Moungali", "Talangaï", "Mfilou"],
+          "subdivisions": ["Makélékélé", "Bacongo", "Poto-Poto", "Moungali", "Talangaï", "Mfilou"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Brazzaville",
@@ -22,7 +22,7 @@
         },
         "CUVETTE": {
           "capitalCity": "Owando",
-          "districts": ["Makoua", "Oyo", "Owando", "Mossaka"],
+          "subdivisions": ["Makoua", "Oyo", "Owando", "Mossaka"],
           "geoPoliticalZone": "",
           "location": "North-Central",
           "name": "Cuvette",
@@ -32,7 +32,7 @@
         },
         "CUVETTE-OUEST": {
           "capitalCity": "Ewo",
-          "districts": ["Ewo", "Kelle", "Mbama"],
+          "subdivisions": ["Ewo", "Kelle", "Mbama"],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Cuvette-Ouest",
@@ -42,7 +42,7 @@
         },
         "KOUILOU": {
           "capitalCity": "Pointe-Noire",
-          "districts": ["Hinda", "Madingo-Kayes", "Loango"],
+          "subdivisions": ["Hinda", "Madingo-Kayes", "Loango"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Kouilou",
@@ -52,7 +52,7 @@
         },
         "LEKOUMOU": {
           "capitalCity": "Sibiti",
-          "districts": ["Sibiti", "Komono", "Zanaga"],
+          "subdivisions": ["Sibiti", "Komono", "Zanaga"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Lekoumou",
@@ -62,7 +62,7 @@
         },
         "LIKOUALA": {
           "capitalCity": "Impfondo",
-          "districts": ["Impfondo", "Dongou", "Epena"],
+          "subdivisions": ["Impfondo", "Dongou", "Epena"],
           "geoPoliticalZone": "",
           "location": "North-East",
           "name": "Likouala",
@@ -72,7 +72,7 @@
         },
         "NIARI": {
           "capitalCity": "Dolisie",
-          "districts": ["Dolisie", "Mossendjo", "Loudima", "Moutamba"],
+          "subdivisions": ["Dolisie", "Mossendjo", "Loudima", "Moutamba"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Niari",
@@ -82,7 +82,7 @@
         },
         "PLATEAUX": {
           "capitalCity": "Djambala",
-          "districts": ["Djambala", "Gamboma", "Lekana"],
+          "subdivisions": ["Djambala", "Gamboma", "Lekana"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Plateaux",
@@ -92,7 +92,7 @@
         },
         "POINTE-NOIRE": {
           "capitalCity": "Pointe-Noire",
-          "districts": ["Tié-Tié", "Loandjili", "Mvoumvou"],
+          "subdivisions": ["Tié-Tié", "Loandjili", "Mvoumvou"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Pointe-Noire",
@@ -102,7 +102,7 @@
         },
         "POOL": {
           "capitalCity": "Kinkala",
-          "districts": ["Kinkala", "Mindouli", "Mbanza-Ndounga"],
+          "subdivisions": ["Kinkala", "Mindouli", "Mbanza-Ndounga"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Pool",
@@ -112,7 +112,7 @@
         },
         "SANGHA": {
           "capitalCity": "Ouésso",
-          "districts": ["Ouésso", "Makoua", "Sembe", "Souanké"],
+          "subdivisions": ["Ouésso", "Makoua", "Sembe", "Souanké"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Sangha",

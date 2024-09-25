@@ -2,7 +2,7 @@
     "DJ":{
         "DIKIL": {
           "capitalCity": "Dikil",
-          "districts": ["Dikil"],
+          "subdivisions": ["Dikil"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Dikil",
@@ -12,7 +12,7 @@
         },
         "DJIBOUTI": {
           "capitalCity": "Djibouti",
-          "districts": ["Djibouti", "Balbala", "Arta"],
+          "subdivisions": ["Djibouti", "Balbala", "Arta"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Djibouti",
@@ -22,7 +22,7 @@
         },
         "OBOCK": {
           "capitalCity": "Obock",
-          "districts": ["Obock"],
+          "subdivisions": ["Obock"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Obock",
@@ -32,7 +32,7 @@
         },
         "TALEH": {
           "capitalCity": "Taleh",
-          "districts": ["Taleh"],
+          "subdivisions": ["Taleh"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Taleh",

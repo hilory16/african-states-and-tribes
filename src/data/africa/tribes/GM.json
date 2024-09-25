@@ -1,3 +1,74 @@
 {
-    "GM"
+    "GM":{
+        "BANJUL": {
+            "capitalCity": "Banjul",
+            "subdivisions": ["Banjul North", "Banjul South", "Banjul Central"],
+            "geoPoliticalZone": "Western",
+            "location": "Western Gambia",
+            "name": "Banjul",
+            "stateCode": "BJ",
+            "tribes": ["Mandinka", "Wolof", "Fula", "Jola"],
+            "type": "city"
+        },
+        "BARROO": {
+            "capitalCity": "Brikama",
+            "subdivisions": ["Brikama", "Kujang", "Kembujeh", "Sankandi", "Sifoe"],
+            "geoPoliticalZone": "Western",
+            "location": "Western Gambia",
+            "name": "Barrow",
+            "stateCode": "BR",
+            "tribes": ["Mandinka", "Wolof", "Jola"],
+            "type": "region"
+        },
+        "CENTRAL RIVER": {
+            "capitalCity": "Janjangbureh",
+            "subdivisions": ["Janjo", "Kuntaur", "Bansang"],
+            "geoPoliticalZone": "Central",
+            "location": "Central Gambia",
+            "name": "Central River",
+            "stateCode": "CR",
+            "tribes": ["Mandinka", "Wollof", "Fula"],
+            "type": "region"
+        },
+        "EASTERN RIVER": {
+            "capitalCity": "Basse",
+            "subdivisions": ["Basse", "Demba Kunda", "Kassanga"],
+            "geoPoliticalZone": "Eastern",
+            "location": "Eastern Gambia",
+            "name": "Eastern River",
+            "stateCode": "ER",
+            "tribes": ["Jola", "Mandinka", "Fula"],
+            "type": "region"
+        },
+        "NORTH BANK": {
+            "capitalCity": "Mansakonko",
+            "subdivisions": ["Kerewan", "Soma", "Mansakonko"],
+            "geoPoliticalZone": "Northwestern",
+            "location": "Northwestern Gambia",
+            "name": "North Bank",
+            "stateCode": "NB",
+            "tribes": ["Wolof", "Jola", "Fula"],
+            "type": "region"
+        },
+        "UPPER RIVER": {
+            "capitalCity": "Basse",
+            "subdivisions": ["Basse", "Mansakonko", "Kassanga"],
+            "geoPoliticalZone": "Upper River",
+            "location": "Eastern Gambia",
+            "name": "Upper River",
+            "stateCode": "UR",
+            "tribes": ["Fula", "Mandinka", "Wollof"],
+            "type": "region"
+        },
+        "WEST COAST": {
+            "capitalCity": "Brikama",
+            "subdivisions": ["Brikama", "Banjulinding", "Jambanjelly"],
+            "geoPoliticalZone": "Western",
+            "location": "Western Gambia",
+            "name": "West Coast",
+            "stateCode": "WC",
+            "tribes": ["Mandinka", "Wolof", "Jola"],
+            "type": "region"
+        }
+    }
 }

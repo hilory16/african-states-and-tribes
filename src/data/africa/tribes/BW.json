@@ -2,7 +2,7 @@
     "BW":{
         "CENTRAL DISTRICT": {
           "capitalCity": "Serowe",
-          "districts": ["Botswana", "Serowe", "Palapye", "Mahalapye", "Goodhope", "Letlhakane", "Orapa", "Kang", "Paje", "Shakawe", "Maun", "Gaborone"],
+          "subdivisions": ["Botswana", "Serowe", "Palapye", "Mahalapye", "Goodhope", "Letlhakane", "Orapa", "Kang", "Paje", "Shakawe", "Maun", "Gaborone"],
           "geoPoliticalZone": "Central",
           "location": "Central Botswana",
           "name": "Central District",
@@ -12,7 +12,7 @@
         },
         "CHOBE": {
           "capitalCity": "Kasane",
-          "districts": ["Kasane", "Ngoma", "Sowa Town"],
+          "subdivisions": ["Kasane", "Ngoma", "Sowa Town"],
           "geoPoliticalZone": "North",
           "location": "North East Botswana",
           "name": "Chobe",
@@ -22,7 +22,7 @@
         },
         "GABORONE": {
           "capitalCity": "Gaborone",
-          "districts": ["Gaborone"],
+          "subdivisions": ["Gaborone"],
           "geoPoliticalZone": "South East",
           "location": "South East Botswana",
           "name": "Gaborone",
@@ -32,7 +32,7 @@
         },
         "K GALAGADI": {
           "capitalCity": "Hukuntsi",
-          "districts": ["Hukuntsi", "Kang", "Tsabong", "Kang", "Gantsi"],
+          "subdivisions": ["Hukuntsi", "Kang", "Tsabong", "Kang", "Gantsi"],
           "geoPoliticalZone": "South West",
           "location": "South West Botswana",
           "name": "Kgalagadi",
@@ -42,7 +42,7 @@
         },
         "KANYE": {
           "capitalCity": "Kanye",
-          "districts": ["Kanye"],
+          "subdivisions": ["Kanye"],
           "geoPoliticalZone": "South",
           "location": "Southern Botswana",
           "name": "Kanye",
@@ -52,7 +52,7 @@
         },
         "KASANE": {
           "capitalCity": "Kasane",
-          "districts": ["Kasane"],
+          "subdivisions": ["Kasane"],
           "geoPoliticalZone": "North East",
           "location": "North East Botswana",
           "name": "Kasane",
@@ -62,7 +62,7 @@
         },
         "MAUN": {
           "capitalCity": "Maun",
-          "districts": ["Maun"],
+          "subdivisions": ["Maun"],
           "geoPoliticalZone": "North West",
           "location": "North West Botswana",
           "name": "Maun",
@@ -72,7 +72,7 @@
         },
         "NGAMI": {
           "capitalCity": "Maun",
-          "districts": ["Maun", "Ngamiland"],
+          "subdivisions": ["Maun", "Ngamiland"],
           "geoPoliticalZone": "North West",
           "location": "North West Botswana",
           "name": "Ngami",
@@ -82,7 +82,7 @@
         },
         "SOUTH EAST": {
           "capitalCity": "Gaborone",
-          "districts": ["Gaborone", "Mochudi", "Kgatleng"],
+          "subdivisions": ["Gaborone", "Mochudi", "Kgatleng"],
           "geoPoliticalZone": "South East",
           "location": "South East Botswana",
           "name": "South East",
@@ -92,7 +92,7 @@
         },
         "SOUTHERN": {
           "capitalCity": "Gaborone",
-          "districts": ["Gaborone", "Lobatse", "Mahalapye"],
+          "subdivisions": ["Gaborone", "Lobatse", "Mahalapye"],
           "geoPoliticalZone": "South",
           "location": "South Botswana",
           "name": "Southern",

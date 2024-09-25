@@ -2,7 +2,7 @@
     "CI":{
         "ABENGOUROU": {
           "capitalCity": "Abengourou",
-          "districts": ["Abengourou", "Agnibilékrou", "Bélier", "Bongouanou", "Dimbokro"],
+          "subdivisions": ["Abengourou", "Agnibilékrou", "Bélier", "Bongouanou", "Dimbokro"],
           "geoPoliticalZone": "South East",
           "location": "South East",
           "name": "Abengourou",
@@ -12,7 +12,7 @@
         },
         "ABIDJAN": {
           "capitalCity": "Abidjan",
-          "districts": ["Abidjan", "Yopougon", "Cocody", "Plateau", "Adjamé"],
+          "subdivisions": ["Abidjan", "Yopougon", "Cocody", "Plateau", "Adjamé"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Abidjan",
@@ -22,7 +22,7 @@
         },
         "BANDAMA": {
           "capitalCity": "Katiola",
-          "districts": ["Katiola", "Ferkessédougou", "Tanda", "Korhogo", "Dimbokro"],
+          "subdivisions": ["Katiola", "Ferkessédougou", "Tanda", "Korhogo", "Dimbokro"],
           "geoPoliticalZone": "North Central",
           "location": "North Central",
           "name": "Bandama",
@@ -32,7 +32,7 @@
         },
         "BASSAM": {
           "capitalCity": "Grand-Bassam",
-          "districts": ["Grand-Bassam", "Assinie", "Adiaké", "Ayamé", "Bingerville"],
+          "subdivisions": ["Grand-Bassam", "Assinie", "Adiaké", "Ayamé", "Bingerville"],
           "geoPoliticalZone": "South East",
           "location": "South East",
           "name": "Bassam",
@@ -42,7 +42,7 @@
         },
         "DENGUELÉ": {
           "capitalCity": "Odienné",
-          "districts": ["Odienné", "Minignan", "Tanda", "Kani", "Kong"],
+          "subdivisions": ["Odienné", "Minignan", "Tanda", "Kani", "Kong"],
           "geoPoliticalZone": "North West",
           "location": "North West",
           "name": "Denguelé",
@@ -52,7 +52,7 @@
         },
         "GONDRY": {
           "capitalCity": "Gondry",
-          "districts": ["Gondry", "Sassandra", "San Pedro", "Divo", "Lakota"],
+          "subdivisions": ["Gondry", "Sassandra", "San Pedro", "Divo", "Lakota"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Gondry",
@@ -62,7 +62,7 @@
         },
         "HAMBOL": {
           "capitalCity": "Katiola",
-          "districts": ["Katiola", "Ferkessédougou", "Tanda", "Korhogo", "Dimbokro"],
+          "subdivisions": ["Katiola", "Ferkessédougou", "Tanda", "Korhogo", "Dimbokro"],
           "geoPoliticalZone": "North Central",
           "location": "North Central",
           "name": "Hambol",
@@ -72,7 +72,7 @@
         },
         "LACS": {
           "capitalCity": "Yamoussoukro",
-          "districts": ["Yamoussoukro", "Treichville", "Attécoubé", "Koumassi", "Port-Bouët"],
+          "subdivisions": ["Yamoussoukro", "Treichville", "Attécoubé", "Koumassi", "Port-Bouët"],
           "geoPoliticalZone": "South Central",
           "location": "South Central",
           "name": "Lacs",
@@ -82,7 +82,7 @@
         },
         "MANGROVES": {
           "capitalCity": "San Pedro",
-          "districts": ["San Pedro", "Sassandra", "Gagnoa", "Divo", "Lakota"],
+          "subdivisions": ["San Pedro", "Sassandra", "Gagnoa", "Divo", "Lakota"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Mangroves",
@@ -92,7 +92,7 @@
         },
         "MARAHOUÉ": {
           "capitalCity": "Daloa",
-          "districts": ["Daloa", "Vavoua", "Issia", "Sinfra", "Zuenoula"],
+          "subdivisions": ["Daloa", "Vavoua", "Issia", "Sinfra", "Zuenoula"],
           "geoPoliticalZone": "West",
           "location": "West",
           "name": "Marahoué",
@@ -102,7 +102,7 @@
         },
         "MOOSSOU": {
           "capitalCity": "Abengourou",
-          "districts": ["Abengourou", "Agnibilékrou", "Bélier", "Bongouanou", "Dimbokro"],
+          "subdivisions": ["Abengourou", "Agnibilékrou", "Bélier", "Bongouanou", "Dimbokro"],
           "geoPoliticalZone": "South East",
           "location": "South East",
           "name": "Moossou",
@@ -112,7 +112,7 @@
         },
         "NZI-COMOE": {
           "capitalCity": "Bondoukou",
-          "districts": ["Bondoukou", "Bouna", "Bélier", "Tanda", "Kong"],
+          "subdivisions": ["Bondoukou", "Bouna", "Bélier", "Tanda", "Kong"],
           "geoPoliticalZone": "North East",
           "location": "North East",
           "name": "Nzi-Comoe",
@@ -122,7 +122,7 @@
         },
         "SAVANES": {
           "capitalCity": "Korhogo",
-          "districts": ["Korhogo", "Ferkessédougou", "Katiola", "Tanda", "Dimbokro"],
+          "subdivisions": ["Korhogo", "Ferkessédougou", "Katiola", "Tanda", "Dimbokro"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Savanes",
@@ -132,7 +132,7 @@
         },
         "SUD-COMOE": {
           "capitalCity": "Tabou",
-          "districts": ["Tabou", "San Pedro", "Sassandra", "Divo", "Lakota"],
+          "subdivisions": ["Tabou", "San Pedro", "Sassandra", "Divo", "Lakota"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Sud-Comoe",
@@ -142,7 +142,7 @@
         },
         "WORODOUGOU": {
           "capitalCity": "Korhogo",
-          "districts": ["Korhogo", "Ferkessédougou", "Katiola", "Tanda", "Dimbokro"],
+          "subdivisions": ["Korhogo", "Ferkessédougou", "Katiola", "Tanda", "Dimbokro"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Worodougou",

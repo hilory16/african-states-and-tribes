@@ -2,7 +2,7 @@
     "EG":{
         "ALEXANDRIA": {
           "capitalCity": "Alexandria",
-          "districts": ["Dekhela", "Montaza", "Attarine", "East Alexandria", "West Alexandria"],
+          "subdivisions": ["Dekhela", "Montaza", "Attarine", "East Alexandria", "West Alexandria"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Alexandria",
@@ -12,7 +12,7 @@
         },
         "ASWAN": {
           "capitalCity": "Aswan",
-          "districts": ["Daraw", "Kom Ombo", "Edfu"],
+          "subdivisions": ["Daraw", "Kom Ombo", "Edfu"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Aswan",
@@ -22,7 +22,7 @@
         },
         "ASYUT": {
           "capitalCity": "Asyut",
-          "districts": ["Dairut", "Abnoub", "Abu Tig", "El Badari"],
+          "subdivisions": ["Dairut", "Abnoub", "Abu Tig", "El Badari"],
           "geoPoliticalZone": "",
           "location": "Upper Egypt",
           "name": "Asyut",
@@ -32,7 +32,7 @@
         },
         "BEHEIRA": {
           "capitalCity": "Damanhour",
-          "districts": ["Kafr El-Dawwar", "Rashid", "Edku"],
+          "subdivisions": ["Kafr El-Dawwar", "Rashid", "Edku"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Beheira",
@@ -42,7 +42,7 @@
         },
         "BENI SUEF": {
           "capitalCity": "Beni Suef",
-          "districts": ["Al-Fashn", "Sumusta", "Biba"],
+          "subdivisions": ["Al-Fashn", "Sumusta", "Biba"],
           "geoPoliticalZone": "",
           "location": "Upper Egypt",
           "name": "Beni Suef",
@@ -52,7 +52,7 @@
         },
         "CAIRO": {
           "capitalCity": "Cairo",
-          "districts": ["Zamalek", "Heliopolis", "Maadi", "Nasr City", "Shubra"],
+          "subdivisions": ["Zamalek", "Heliopolis", "Maadi", "Nasr City", "Shubra"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Cairo",
@@ -62,7 +62,7 @@
         },
         "DAKAHLIA": {
           "capitalCity": "Mansoura",
-          "districts": ["Mit Ghamr", "Talkha", "Dekernes"],
+          "subdivisions": ["Mit Ghamr", "Talkha", "Dekernes"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Dakahlia",
@@ -72,7 +72,7 @@
         },
         "DAMANHUR": {
           "capitalCity": "Damanhur",
-          "districts": ["Itay El Baroud", "Hosh Issa", "Shubrakhit"],
+          "subdivisions": ["Itay El Baroud", "Hosh Issa", "Shubrakhit"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Damanhur",
@@ -82,7 +82,7 @@
         },
         "FAYOUM": {
           "capitalCity": "Fayoum",
-          "districts": ["Tamia", "Etsa", "Ibshway"],
+          "subdivisions": ["Tamia", "Etsa", "Ibshway"],
           "geoPoliticalZone": "",
           "location": "Middle Egypt",
           "name": "Fayoum",
@@ -92,7 +92,7 @@
         },
         "GARBIA": {
           "capitalCity": "Tanta",
-          "districts": ["El-Mahalla El-Kubra", "Zefta", "Kafr El-Zayat"],
+          "subdivisions": ["El-Mahalla El-Kubra", "Zefta", "Kafr El-Zayat"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Garbia",
@@ -102,7 +102,7 @@
         },
         "GIZA": {
           "capitalCity": "Giza",
-          "districts": ["Imbaba", "Sixth of October", "Hawamdiya"],
+          "subdivisions": ["Imbaba", "Sixth of October", "Hawamdiya"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Giza",
@@ -112,7 +112,7 @@
         },
         "ISMAILIA": {
           "capitalCity": "Ismailia",
-          "districts": ["Fayed", "Qantara", "Abu Suweir"],
+          "subdivisions": ["Fayed", "Qantara", "Abu Suweir"],
           "geoPoliticalZone": "",
           "location": "Suez Canal Region",
           "name": "Ismailia",
@@ -122,7 +122,7 @@
         },
         "KAFR EL-SHEIKH": {
           "capitalCity": "Kafr El-Sheikh",
-          "districts": ["Desouk", "Fuwa", "Sidi Salem"],
+          "subdivisions": ["Desouk", "Fuwa", "Sidi Salem"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Kafr El-Sheikh",
@@ -132,7 +132,7 @@
         },
         "LUXOR": {
           "capitalCity": "Luxor",
-          "districts": ["Esna", "Armant", "Qurna"],
+          "subdivisions": ["Esna", "Armant", "Qurna"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Luxor",
@@ -142,7 +142,7 @@
         },
         "MATROUH": {
           "capitalCity": "Marsa Matrouh",
-          "districts": ["Sallum", "Siwa", "El Dabaa"],
+          "subdivisions": ["Sallum", "Siwa", "El Dabaa"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Matrouh",
@@ -152,7 +152,7 @@
         },
         "MINYA": {
           "capitalCity": "Minya",
-          "districts": ["Samalut", "Malawi", "Beni Mazar"],
+          "subdivisions": ["Samalut", "Malawi", "Beni Mazar"],
           "geoPoliticalZone": "",
           "location": "Upper Egypt",
           "name": "Minya",
@@ -162,7 +162,7 @@
         },
         "MONUFIA": {
           "capitalCity": "Shibin El-Kom",
-          "districts": ["Sadat City", "Menouf", "Quesna"],
+          "subdivisions": ["Sadat City", "Menouf", "Quesna"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Monufia",
@@ -172,7 +172,7 @@
         },
         "NEW VALLEY": {
           "capitalCity": "Kharga",
-          "districts": ["Dakhla", "Farafra", "Baris"],
+          "subdivisions": ["Dakhla", "Farafra", "Baris"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "New Valley",
@@ -182,7 +182,7 @@
         },
         "NORTH SINAI": {
           "capitalCity": "Arish",
-          "districts": ["Bir al-Abed", "Rafah", "Sheikh Zuweid"],
+          "subdivisions": ["Bir al-Abed", "Rafah", "Sheikh Zuweid"],
           "geoPoliticalZone": "",
           "location": "North-East",
           "name": "North Sinai",
@@ -192,7 +192,7 @@
         },
         "PORT SAID": {
           "capitalCity": "Port Said",
-          "districts": ["Port Fouad"],
+          "subdivisions": ["Port Fouad"],
           "geoPoliticalZone": "",
           "location": "Suez Canal Region",
           "name": "Port Said",
@@ -202,7 +202,7 @@
         },
         "QALYUBIA": {
           "capitalCity": "Banha",
-          "districts": ["Qaha", "Qalyub", "Shubra El Kheima"],
+          "subdivisions": ["Qaha", "Qalyub", "Shubra El Kheima"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Qalyubia",
@@ -212,7 +212,7 @@
         },
         "QENA": {
           "capitalCity": "Qena",
-          "districts": ["Qift", "Nag Hammadi", "Qus"],
+          "subdivisions": ["Qift", "Nag Hammadi", "Qus"],
           "geoPoliticalZone": "",
           "location": "Upper Egypt",
           "name": "Qena",
@@ -222,7 +222,7 @@
         },
         "RED SEA": {
           "capitalCity": "Hurghada",
-          "districts": ["Safaga", "Marsa Alam", "Ras Gharib"],
+          "subdivisions": ["Safaga", "Marsa Alam", "Ras Gharib"],
           "geoPoliticalZone": "",
           "location": "East",
           "name": "Red Sea",
@@ -232,7 +232,7 @@
         },
         "SHARQIA": {
           "capitalCity": "Zagazig",
-          "districts": ["Belbeis", "Minya El-Qamh", "Abu Hammad"],
+          "subdivisions": ["Belbeis", "Minya El-Qamh", "Abu Hammad"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Sharqia",
@@ -242,7 +242,7 @@
         },
         "SOHAG": {
           "capitalCity": "Sohag",
-          "districts": ["Akhmim", "Gerga", "Tahta"],
+          "subdivisions": ["Akhmim", "Gerga", "Tahta"],
           "geoPoliticalZone": "",
           "location": "Upper Egypt",
           "name": "Sohag",
@@ -252,7 +252,7 @@
         },
         "SOUTH SINAI": {
           "capitalCity": "El Tor",
-          "districts": ["Sharm El-Sheikh", "Dahab", "Nuweiba"],
+          "subdivisions": ["Sharm El-Sheikh", "Dahab", "Nuweiba"],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "South Sinai",
@@ -262,7 +262,7 @@
         },
         "SUEZ": {
           "capitalCity": "Suez",
-          "districts": ["Al Ganayen", "Ataka", "Ain Sokhna"],
+          "subdivisions": ["Al Ganayen", "Ataka", "Ain Sokhna"],
           "geoPoliticalZone": "",
           "location": "Suez Canal Region",
           "name": "Suez",
