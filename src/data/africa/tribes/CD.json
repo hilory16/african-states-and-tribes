@@ -1,167 +1,195 @@
 {
-    "CD": {
-              "BANDUNDU ":{
-                "capitalCity": "Bandundu",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Bandundu",
-                "stateCode": "BA",
-                "tribes": ["Tetela", "Kasaï", "Lunda"],
-                "type": "province"
-              },
-              "BAS-UELE": {
-                "capitalCity": "Buta",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Bas-Uele",
-                "stateCode": "BU",
-                "tribes": ["Bande", "Kango", "Lese"],
-                "type": "province"
-              },
-              "HAUT-LOMAMI": {
-                "capitalCity": "Kamina",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Haut-Lomami",
-                "stateCode": "HL",
-                "tribes": ["Luba", "Lunda", "Tshokwe"],
-                "type": "province"
-              },
-              "HAUT-UELE": {
-                "capitalCity": "Aru",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Haut-Uele",
-                "stateCode": "HU",
-                "tribes": ["Hema", "Lese", "Baka"],
-                "type": "province"
-              },
-              "ITURI": {
-                "capitalCity": "Bunia",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Ituri",
-                "stateCode": "IT",
-                "tribes": ["Hema", "Lendu", "Ngiti"],
-                "type": "province"
-              },
-              "KASAI": {
-                "capitalCity": "Kananga",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Kasaï",
-                "stateCode": "KA",
-                "tribes": ["Luba", "Kasaï", "Tshokwe"],
-                "type": "province"
-              },
-              "KASAI-CENTRAL": {
-                "capitalCity": "Kananga",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Kasaï-Central",
-                "stateCode": "KC",
-                "tribes": ["Luba", "Kasaï", "Tshokwe"],
-                "type": "province"
-              },
-              "KASAI-ORIENTAL": {
-                "capitalCity": "Mbujimayi",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Kasaï-Oriental",
-                "stateCode": "KO",
-                "tribes": ["Luba", "Lunda", "Tshokwe"],
-                "type": "province"
-              },
-              "KATANGA": {
-                "capitalCity": "Lubumbashi",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Katanga",
-                "stateCode": "KA",
-                "tribes": ["Luba", "Lunda", "Tshokwe"],
-                "type": "province"
-              },
-              "KINSHASA": {
-                "capitalCity": "Kinshasa",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Kinshasa",
-                "stateCode": "KI",
-                "tribes": ["Kikongo", "Luba", "Kasaï"],
-                "type": "province"
-              },
-              "KWILU": {
-                "capitalCity": "Kikwit",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Kwilu",
-                "stateCode": "KW",
-                "tribes": ["Tetela", "Kasaï", "Lunda"],
-                "type": "province"
-              },
-              "KWONGO": {
-                "capitalCity": "Lodja",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Kwongo",
-                "stateCode": "KW",
-                "tribes": ["Tetela", "Luba", "Kasaï"],
-                "type": "province"
-              },
-              "MAI-NDOMBE": {
-                "capitalCity": "Inongo",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Maï-Ndombe",
-                "stateCode": "MA",
-                "tribes": ["Yaka", "Kele", "Ngombe"],
-                "type": "province"
-              },
-              "MANIEMA": {
-                "capitalCity": "Sange",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Maniema",
-                "stateCode": "MA",
-                "tribes": ["Tshokwe", "Luba", "Lunda"],
-                "type": "province"
-              },
-              "NORD-KIVU": {
-                "capitalCity": "Goma",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Nord-Kivu",
-                "stateCode": "NK",
-                "tribes": ["Nande", "Hutu", "Tutsi"],
-                "type": "province"
-              },
-              "SANKURU": {
-                "capitalCity": "Kamina",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Sankuru",
-                "stateCode": "SA",
-                "tribes": ["Luba", "Tshokwe", "Lunda"],
-                "type": "province"
-              },
-              "SUD-KIVU": {
-                "capitalCity": "Bukavu",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Sud-Kivu",
-                "stateCode": "SK",
-                "tribes": ["Bashi", "Tutsi", "Hutu"],
-                "type": "province"
-              },
-              "TSHOPO": {
-                "capitalCity": "Tshopo",
-                "geoPoliticalZone":"",
-                "location":"",
-                "name": "Tshopo",
-                "stateCode": "TS",
-                "tribes": ["Luba", "Tshokwe", "Lunda"],
-                "type": "province"
-              }
-          
-    }
+    "CD":{
+      "BAS-UELE": {
+          "capitalCity": "Buta",
+          "districts": ["Buta", "Basoko", "Bafwasende", "Aketi", "Watsa", "Isiro"],
+          "geoPoliticalZone": "North-East",
+          "location": "North East",
+          "name": "Bas-Uele",
+          "stateCode": "BE",
+          "tribes": ["Ngbandi", "Luba", "Mbuti", "Tembo"],
+          "type": "province"
+      },
+      "HAUT-UELE": {
+          "capitalCity": "Isiro",
+          "districts": ["Isiro", "Dungu", "Wamba", "Mongala"],
+          "geoPoliticalZone": "North-East",
+          "location": "North East",
+          "name": "Haut-Uele",
+          "stateCode": "HU",
+          "tribes": ["Zande", "Ngbandi", "Mbuti"],
+          "type": "province"
+      },
+      "ITURI": {
+          "capitalCity": "Bunia",
+          "districts": ["Bunia", "Mahagi", "Irumu", "Mongbwalu"],
+          "geoPoliticalZone": "North-East",
+          "location": "North East",
+          "name": "Ituri",
+          "stateCode": "IT",
+          "tribes": ["Hema", "Lendu", "Ngiti"],
+          "type": "province"
+      },
+      "KASAI": {
+          "capitalCity": "Kananga",
+          "districts": ["Kananga", "Mbuji-Mayi", "Kasaï", "Luebo"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Kasai",
+          "stateCode": "KS",
+          "tribes": ["Luba", "Bantu"],
+          "type": "province"
+      },
+      "KASAï-CENTRAL": {
+          "capitalCity": "Kananga",
+          "districts": ["Kananga", "Mbuji-Mayi", "Luebo"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Kasaï-Central",
+          "stateCode": "KSC",
+          "tribes": ["Luba", "Tshiluba"],
+          "type": "province"
+      },
+      "KASAï-ORIENTAL": {
+          "capitalCity": "Mbuji-Mayi",
+          "districts": ["Mbuji-Mayi", "Kamina", "Lodja"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Kasaï-Oriental",
+          "stateCode": "KO",
+          "tribes": ["Luba", "Tshiluba"],
+          "type": "province"
+      },
+      "KINSHASA": {
+          "capitalCity": "Kinshasa",
+          "districts": ["Kinshasa", "Lukunga", "Tshuapa"],
+          "geoPoliticalZone": "Western",
+          "location": "West",
+          "name": "Kinshasa",
+          "stateCode": "KN",
+          "tribes": ["Mongo", "Kikongo"],
+          "type": "province"
+      },
+      "Kwilu": {
+          "capitalCity": "Bandundu",
+          "districts": ["Bandundu", "Kikwit"],
+          "geoPoliticalZone": "Western",
+          "location": "West",
+          "name": "Kwilu",
+          "stateCode": "KW",
+          "tribes": ["Kikongo", "Tshiluba"],
+          "type": "province"
+      },
+      "Kwango": {
+          "capitalCity": "Kwango",
+          "districts": ["Kwango", "Kikwit"],
+          "geoPoliticalZone": "Western",
+          "location": "West",
+          "name": "Kwango",
+          "stateCode": "KWA",
+          "tribes": ["Kikongo"],
+          "type": "province"
+      },
+      "MAI-NDOMBE": {
+          "capitalCity": "Inongo",
+          "districts": ["Inongo", "Mbandaka"],
+          "geoPoliticalZone": "Western",
+          "location": "West",
+          "name": "Mai-Ndombe",
+          "stateCode": "MN",
+          "tribes": ["Ngombe", "Bantu"],
+          "type": "province"
+      },
+      "MANIEMA": {
+          "capitalCity": "Kindu",
+          "districts": ["Kindu", "Kangambo"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "Maniema",
+          "stateCode": "MA",
+          "tribes": ["Tembo", "Luba"],
+          "type": "province"
+      },
+      "NORD-KIVU": {
+          "capitalCity": "Goma",
+          "districts": ["Goma", "Beni", "Butembo"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "Nord-Kivu",
+          "stateCode": "NK",
+          "tribes": ["Nande", "Hutu", "Tutsi"],
+          "type": "province"
+      },
+      "SOUTH KIVU": {
+          "capitalCity": "Bukavu",
+          "districts": ["Bukavu", "Uvira"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "South Kivu",
+          "stateCode": "SK",
+          "tribes": ["Bembe", "Bafuliru", "Bashi"],
+          "type": "province"
+      },
+      "Tshuapa": {
+          "capitalCity": "Boende",
+          "districts": ["Boende", "Kisangani"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Tshuapa",
+          "stateCode": "TS",
+          "tribes": ["Mongo", "Ngbandi"],
+          "type": "province"
+      },
+      "TSHANGU": {
+          "capitalCity": "Matadi",
+          "districts": ["Matadi", "Boma"],
+          "geoPoliticalZone": "Western",
+          "location": "West",
+          "name": "Tshangu",
+          "stateCode": "TH",
+          "tribes": ["Kikongo", "Mongo"],
+          "type": "province"
+      },
+      "UPPER LOMAMI": {
+          "capitalCity": "Kamina",
+          "districts": ["Kamina", "Mulongo"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "Upper Lomami",
+          "stateCode": "UL",
+          "tribes": ["Luba", "Tembo"],
+          "type": "province"
+      },
+      "LUALABA": {
+          "capitalCity": "Kolwezi",
+          "districts": ["Kolwezi", "Dilolo"],
+          "geoPoliticalZone": "South-East",
+          "location": "South East",
+          "name": "Lualaba",
+          "stateCode": "LU",
+          "tribes": ["Luba", "Pygmy"],
+          "type": "province"
+      },
+      "SANKURU": {
+          "capitalCity": "Kamina",
+          "districts": ["Kamina", "Kaniama"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Sankuru",
+          "stateCode": "SKR",
+          "tribes": ["Luba", "Kikongo"],
+          "type": "province"
+      },
+      "MONGALA": {
+          "capitalCity": "Mbandaka",
+          "districts": ["Mbandaka", "Bikoro"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Mongala",
+          "stateCode": "MG",
+          "tribes": ["Mongo", "Ngbandi"],
+          "type": "province"
+      }
+  }
+  
 }
