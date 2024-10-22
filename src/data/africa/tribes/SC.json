@@ -1,0 +1,264 @@
+{
+    "SC":{
+        "ANSE AUX PINS": {
+          "capitalCity": "Anse Aux Pins",
+          "districts": ["Anse Aux Pins"],
+          "geoPoliticalZone": "East Mahé",
+          "location": "East",
+          "name": "Anse Aux Pins",
+          "stateCode": "AAP",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "ANSE BOILEAU": {
+          "capitalCity": "Anse Boileau",
+          "districts": ["Anse Boileau"],
+          "geoPoliticalZone": "West Mahé",
+          "location": "West",
+          "name": "Anse Boileau",
+          "stateCode": "AB",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "ANSE ETOILE": {
+          "capitalCity": "Anse Etoile",
+          "districts": ["Anse Etoile"],
+          "geoPoliticalZone": "North Mahé",
+          "location": "North",
+          "name": "Anse Etoile",
+          "stateCode": "AE",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "ANSE ROYALE": {
+          "capitalCity": "Anse Royale",
+          "districts": ["Anse Royale"],
+          "geoPoliticalZone": "South East Mahé",
+          "location": "South East",
+          "name": "Anse Royale",
+          "stateCode": "AR",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "AUX CAP": {
+          "capitalCity": "Aux Cap",
+          "districts": ["Aux Cap"],
+          "geoPoliticalZone": "East Mahé",
+          "location": "East",
+          "name": "Aux Cap",
+          "stateCode": "AC",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "BAIE LAZARE": {
+          "capitalCity": "Baie Lazare",
+          "districts": ["Baie Lazare"],
+          "geoPoliticalZone": "South West Mahé",
+          "location": "South West",
+          "name": "Baie Lazare",
+          "stateCode": "BL",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "BAIE STE ANNE": {
+          "capitalCity": "Baie Ste Anne",
+          "districts": ["Baie Ste Anne"],
+          "geoPoliticalZone": "Praslin",
+          "location": "North East",
+          "name": "Baie Ste Anne",
+          "stateCode": "BSA",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "BEAU VALLON": {
+          "capitalCity": "Beau Vallon",
+          "districts": ["Beau Vallon"],
+          "geoPoliticalZone": "North Mahé",
+          "location": "North West",
+          "name": "Beau Vallon",
+          "stateCode": "BV",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "BEL AIR": {
+          "capitalCity": "Bel Air",
+          "districts": ["Bel Air"],
+          "geoPoliticalZone": "Central Mahé",
+          "location": "Central",
+          "name": "Bel Air",
+          "stateCode": "BA",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "BEL OMBRE": {
+          "capitalCity": "Bel Ombre",
+          "districts": ["Bel Ombre"],
+          "geoPoliticalZone": "North West Mahé",
+          "location": "North West",
+          "name": "Bel Ombre",
+          "stateCode": "BO",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "CASCADE": {
+          "capitalCity": "Cascade",
+          "districts": ["Cascade"],
+          "geoPoliticalZone": "East Mahé",
+          "location": "East",
+          "name": "Cascade",
+          "stateCode": "CAS",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "ENGLISH RIVER": {
+          "capitalCity": "English River",
+          "districts": ["English River"],
+          "geoPoliticalZone": "Central Mahé",
+          "location": "Central",
+          "name": "English River",
+          "stateCode": "ER",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "GLACIS": {
+          "capitalCity": "Glacis",
+          "districts": ["Glacis"],
+          "geoPoliticalZone": "North Mahé",
+          "location": "North",
+          "name": "Glacis",
+          "stateCode": "GL",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "GRAND ANSE MAHE": {
+          "capitalCity": "Grand Anse",
+          "districts": ["Grand Anse"],
+          "geoPoliticalZone": "West Mahé",
+          "location": "West",
+          "name": "Grand Anse Mahé",
+          "stateCode": "GAM",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "GRAND ANSE PRASLIN": {
+          "capitalCity": "Grand Anse",
+          "districts": ["Grand Anse"],
+          "geoPoliticalZone": "Praslin",
+          "location": "South West",
+          "name": "Grand Anse Praslin",
+          "stateCode": "GAP",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "ILE PERSEVERANCE": {
+          "capitalCity": "Ile Perseverance",
+          "districts": ["Ile Perseverance"],
+          "geoPoliticalZone": "Central Mahé",
+          "location": "Central",
+          "name": "Ile Perseverance",
+          "stateCode": "IP",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "INNER ISLANDS": {
+          "capitalCity": "Victoria",
+          "districts": ["La Digue", "Curieuse", "Félicité", "Silhouette", "Frégate"],
+          "geoPoliticalZone": "Central Seychelles",
+          "location": "Central",
+          "name": "Inner Islands",
+          "stateCode": "INN",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "island group"
+        },
+        "LES MAMELLES": {
+          "capitalCity": "Les Mamelles",
+          "districts": ["Les Mamelles"],
+          "geoPoliticalZone": "East Mahé",
+          "location": "East",
+          "name": "Les Mamelles",
+          "stateCode": "LM",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "MONT BUXTON": {
+          "capitalCity": "Mont Buxton",
+          "districts": ["Mont Buxton"],
+          "geoPoliticalZone": "Central Mahé",
+          "location": "Central",
+          "name": "Mont Buxton",
+          "stateCode": "MB",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "MONT FLEURI": {
+          "capitalCity": "Mont Fleuri",
+          "districts": ["Mont Fleuri"],
+          "geoPoliticalZone": "Central Mahé",
+          "location": "Central",
+          "name": "Mont Fleuri",
+          "stateCode": "MF",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "OUTER ISLANDS": {
+          "capitalCity": "Victoria",
+          "districts": ["Aldabra", "Amirantes", "Cosmoledo", "Farquhar", "Desroches", "Alphonse"],
+          "geoPoliticalZone": "Outer Seychelles",
+          "location": "West",
+          "name": "Outer Islands",
+          "stateCode": "OUT",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "island group"
+        },
+        "POINTE LARUE": {
+          "capitalCity": "Pointe Larue",
+          "districts": ["Pointe Larue"],
+          "geoPoliticalZone": "East Mahé",
+          "location": "East",
+          "name": "Pointe Larue",
+          "stateCode": "PL",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "PORT GLAUD": {
+          "capitalCity": "Port Glaud",
+          "districts": ["Port Glaud"],
+          "geoPoliticalZone": "West Mahé",
+          "location": "West",
+          "name": "Port Glaud",
+          "stateCode": "PG",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "ROCHE CAIMAN": {
+          "capitalCity": "Roche Caiman",
+          "districts": ["Roche Caiman"],
+          "geoPoliticalZone": "East Mahé",
+          "location": "East",
+          "name": "Roche Caiman",
+          "stateCode": "RC",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "SAINTE LOUIS": {
+          "capitalCity": "Sainte Louis",
+          "districts": ["Sainte Louis"],
+          "geoPoliticalZone": "Central Mahé",
+          "location": "Central",
+          "name": "Sainte Louis",
+          "stateCode": "SL",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        },
+        "TAKAMAKA": {
+          "capitalCity": "Takamaka",
+          "districts": ["Takamaka"],
+          "geoPoliticalZone": "South Mahé",
+          "location": "South",
+          "name": "Takamaka",
+          "stateCode": "TK",
+          "tribes": ["Creole", "French", "Indian", "African"],
+          "type": "district"
+        }
+    }
+}

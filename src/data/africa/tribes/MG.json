@@ -1,0 +1,64 @@
+{
+    "MG":{
+        "ANTANANARIVO": {
+          "capitalCity": "Antananarivo",
+          "districts": ["Antananarivo Renivohitra", "Antananarivo Atsimondrano", "Ambohidratrimo", "Anjozorobe", "Manjakandriana"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Antananarivo",
+          "stateCode": "AN",
+          "tribes": ["Merina", "Sihanaka"],
+          "type": "province"
+        },
+        "ANTSIRANANA": {
+          "capitalCity": "Antsiranana",
+          "districts": ["Antsiranana I", "Antsiranana II", "Ambilobe", "Ambanja"],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Antsiranana",
+          "stateCode": "DI",
+          "tribes": ["Antakarana", "Sakalava"],
+          "type": "province"
+        },
+        "FIANARANTSOA": {
+          "capitalCity": "Fianarantsoa",
+          "districts": ["Fianarantsoa I", "Ambalavao", "Ikalamavony", "Isandra", "Lalangina"],
+          "geoPoliticalZone": "",
+          "location": "South-Central",
+          "name": "Fianarantsoa",
+          "stateCode": "FI",
+          "tribes": ["Betsileo", "Bara"],
+          "type": "province"
+        },
+        "MAHAJANGA": {
+          "capitalCity": "Mahajanga",
+          "districts": ["Mahajanga I", "Mahajanga II", "Marovoay", "Soalala", "Ambato-Boeny"],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Mahajanga",
+          "stateCode": "MJ",
+          "tribes": ["Sakalava", "Tsimihety"],
+          "type": "province"
+        },
+        "TOAMASINA": {
+          "capitalCity": "Toamasina",
+          "districts": ["Toamasina I", "Toamasina II", "Vatomandry", "Brickaville", "Mahanoro"],
+          "geoPoliticalZone": "",
+          "location": "East",
+          "name": "Toamasina",
+          "stateCode": "TM",
+          "tribes": ["Betsimisaraka", "Tsimihety"],
+          "type": "province"
+        },
+        "TOLIARA": {
+          "capitalCity": "Toliara",
+          "districts": ["Toliara I", "Toliara II", "Betioky", "Ampanihy", "Ankazoabo"],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Toliara",
+          "stateCode": "TL",
+          "tribes": ["Mahafaly", "Antandroy", "Vezo"],
+          "type": "province"
+        }
+    }      
+}

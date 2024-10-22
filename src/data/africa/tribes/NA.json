@@ -1,0 +1,144 @@
+{
+    "NA":{
+        "ERONGO": {
+          "capitalCity": "Swakopmund",
+          "districts": ["Swakopmund", "Walvis Bay", "Omaruru", "Usakos", "Karibib"],
+          "geoPoliticalZone": "West",
+          "location": "Western Namibia",
+          "name": "Erongo",
+          "stateCode": "ER",
+          "tribes": ["Herero", "Damara", "Nama", "San"],
+          "type": "region"
+        },
+        "HARDAP": {
+          "capitalCity": "Mariental",
+          "districts": ["Mariental", "Rehoboth", "Gibeon", "Aranos", "Hoachanas"],
+          "geoPoliticalZone": "South",
+          "location": "Southern Namibia",
+          "name": "Hardap",
+          "stateCode": "HA",
+          "tribes": ["Nama", "Afrikaner", "Herero"],
+          "type": "region"
+        },
+        "KARAS": {
+          "capitalCity": "Keetmanshoop",
+          "districts": ["Keetmanshoop", "Lüderitz", "Oranjemund", "Karasburg"],
+          "geoPoliticalZone": "South",
+          "location": "Southern Namibia",
+          "name": "Karas",
+          "stateCode": "KA",
+          "tribes": ["Nama", "Baster", "Afrikaner"],
+          "type": "region"
+        },
+        "KAVANGO EAST": {
+          "capitalCity": "Rundu",
+          "districts": ["Rundu", "Mukwe", "Ndiyona", "Mashare"],
+          "geoPoliticalZone": "North East",
+          "location": "Northeastern Namibia",
+          "name": "Kavango East",
+          "stateCode": "KE",
+          "tribes": ["Kavango", "Mbunza", "Shambyu"],
+          "type": "region"
+        },
+        "KAVANGO WEST": {
+          "capitalCity": "Nkurenkuru",
+          "districts": ["Nkurenkuru", "Mpungu", "Ncamagoro"],
+          "geoPoliticalZone": "North East",
+          "location": "Northeastern Namibia",
+          "name": "Kavango West",
+          "stateCode": "KW",
+          "tribes": ["Kwangali", "Mbunza"],
+          "type": "region"
+        },
+        "KUNENE": {
+          "capitalCity": "Opuwo",
+          "districts": ["Opuwo", "Kamanjab", "Sesfontein", "Outjo", "Khorixas"],
+          "geoPoliticalZone": "North West",
+          "location": "Northwestern Namibia",
+          "name": "Kunene",
+          "stateCode": "KU",
+          "tribes": ["Himba", "Herero", "Damara", "San"],
+          "type": "region"
+        },
+        "KHOMAS": {
+          "capitalCity": "Windhoek",
+          "districts": ["Windhoek", "Katutura"],
+          "geoPoliticalZone": "Central",
+          "location": "Central Namibia",
+          "name": "Khomas",
+          "stateCode": "KH",
+          "tribes": ["Herero", "Damara", "Nama", "Afrikaner"],
+          "type": "region"
+        },
+        "OHANGWENA": {
+          "capitalCity": "Eenhana",
+          "districts": ["Eenhana", "Helao Nafidi", "Ondobe", "Okongo"],
+          "geoPoliticalZone": "North",
+          "location": "Northern Namibia",
+          "name": "Ohangwena",
+          "stateCode": "OH",
+          "tribes": ["Ovambo", "Kwanyama"],
+          "type": "region"
+        },
+        "OMAHEKE": {
+          "capitalCity": "Gobabis",
+          "districts": ["Gobabis", "Leonardville", "Aminuis", "Epukiro", "Otjinene"],
+          "geoPoliticalZone": "East",
+          "location": "Eastern Namibia",
+          "name": "Omaheke",
+          "stateCode": "OM",
+          "tribes": ["Herero", "Damara", "San"],
+          "type": "region"
+        },
+        "OMUSATI": {
+          "capitalCity": "Outapi",
+          "districts": ["Outapi", "Ruacana", "Okahao", "Oshikuku"],
+          "geoPoliticalZone": "North",
+          "location": "Northern Namibia",
+          "name": "Omusati",
+          "stateCode": "OS",
+          "tribes": ["Ovambo", "Uukwambi", "Ngandjera"],
+          "type": "region"
+        },
+        "OSHANA": {
+          "capitalCity": "Oshakati",
+          "districts": ["Oshakati", "Ondangwa", "Ongwediva"],
+          "geoPoliticalZone": "North",
+          "location": "Northern Namibia",
+          "name": "Oshana",
+          "stateCode": "ON",
+          "tribes": ["Ovambo", "Ndonga"],
+          "type": "region"
+        },
+        "OSHIKOTO": {
+          "capitalCity": "Omuthiya",
+          "districts": ["Omuthiya", "Tsumeb", "Onayena", "Onayoko"],
+          "geoPoliticalZone": "North",
+          "location": "Northern Namibia",
+          "name": "Oshikoto",
+          "stateCode": "OT",
+          "tribes": ["Ovambo", "Ndonga"],
+          "type": "region"
+        },
+        "OTJOZONDJUPA": {
+          "capitalCity": "Otjiwarongo",
+          "districts": ["Otjiwarongo", "Grootfontein", "Okahandja", "Okakarara"],
+          "geoPoliticalZone": "North Central",
+          "location": "Northern Central Namibia",
+          "name": "Otjozondjupa",
+          "stateCode": "OJ",
+          "tribes": ["Herero", "Damara", "San"],
+          "type": "region"
+        },
+        "ZAMBEZI": {
+          "capitalCity": "Katima Mulilo",
+          "districts": ["Katima Mulilo", "Linyanti", "Sibbinda"],
+          "geoPoliticalZone": "North East",
+          "location": "Northeastern Namibia",
+          "name": "Zambezi",
+          "stateCode": "ZA",
+          "tribes": ["Lozi", "Mbukushu", "Totela"],
+          "type": "region"
+        }
+    }      
+}

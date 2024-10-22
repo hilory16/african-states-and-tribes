@@ -1,0 +1,104 @@
+{
+    "MZ":{
+        "BLACK RIVER": {
+          "capitalCity": "Bambous",
+          "districts": ["Albion", "Cascavelle", "Flic en Flac", "Tamarin", "Grande Rivière Noire", "Le Morne"],
+          "geoPoliticalZone": "",
+          "location": "West",
+          "name": "Black River",
+          "stateCode": "BR",
+          "tribes": ["Creole", "Indo-Mauritian", "Franco-Mauritian"],
+          "type": "district"
+        },
+        "FLACQ": {
+          "capitalCity": "Centre de Flacq",
+          "districts": ["Bel Air", "Camp de Masque", "Trou d'Eau Douce", "Roches Noires", "Poste de Flacq"],
+          "geoPoliticalZone": "",
+          "location": "East",
+          "name": "Flacq",
+          "stateCode": "FQ",
+          "tribes": ["Indo-Mauritian", "Creole", "Chinese Mauritian"],
+          "type": "district"
+        },
+        "GRAND PORT": {
+          "capitalCity": "Mahebourg",
+          "districts": ["Vieux Grand Port", "Old Grand Port", "Plaine Magnien", "Mahebourg", "Blue Bay"],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Grand Port",
+          "stateCode": "GP",
+          "tribes": ["Creole", "Indo-Mauritian"],
+          "type": "district"
+        },
+        "MOKA": {
+          "capitalCity": "Moka",
+          "districts": ["Montagne Ory", "Saint Pierre", "Pailles", "Bagatelle", "Eureka"],
+          "geoPoliticalZone": "",
+          "location": "Center",
+          "name": "Moka",
+          "stateCode": "MK",
+          "tribes": ["Indo-Mauritian", "Franco-Mauritian", "Creole"],
+          "type": "district"
+        },
+        "PAMPLEMOUSSES": {
+          "capitalCity": "Triolet",
+          "districts": ["Triolet", "Pointe aux Piments", "Balaclava", "Bois Rouge", "Beau Plan"],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Pamplemousses",
+          "stateCode": "PM",
+          "tribes": ["Indo-Mauritian", "Franco-Mauritian", "Creole"],
+          "type": "district"
+        },
+        "PLAINE WILHEMS": {
+          "capitalCity": "Beau Bassin-Rose Hill",
+          "districts": ["Curepipe", "Quatre Bornes", "Vacoas-Phoenix", "Beau Bassin-Rose Hill"],
+          "geoPoliticalZone": "",
+          "location": "Center",
+          "name": "Plaine Wilhems",
+          "stateCode": "PW",
+          "tribes": ["Indo-Mauritian", "Franco-Mauritian", "Creole", "Chinese Mauritian"],
+          "type": "district"
+        },
+        "PORT LOUIS": {
+          "capitalCity": "Port Louis",
+          "districts": ["Caudan", "Champ de Mars", "Les Salines", "Plaine Verte", "Cité Vallijee"],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Port Louis",
+          "stateCode": "PL",
+          "tribes": ["Creole", "Indo-Mauritian", "Chinese Mauritian", "Franco-Mauritian"],
+          "type": "district"
+        },
+        "RIVIERE DU REMPART": {
+          "capitalCity": "Mapou",
+          "districts": ["Cap Malheureux", "Grand Baie", "Goodlands", "Petit Raffray"],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Rivière du Rempart",
+          "stateCode": "RR",
+          "tribes": ["Indo-Mauritian", "Creole"],
+          "type": "district"
+        },
+        "SAVANNE": {
+          "capitalCity": "Souillac",
+          "districts": ["Bel Ombre", "Surinam", "Riambel", "Saint Felix", "Chemin Grenier"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Savanne",
+          "stateCode": "SV",
+          "tribes": ["Indo-Mauritian", "Creole"],
+          "type": "district"
+        },
+        "RODRIGUES": {
+          "capitalCity": "Port Mathurin",
+          "districts": ["Port Mathurin", "Baie aux Huitres", "Coromandel", "Mount Lubin", "La Ferme"],
+          "geoPoliticalZone": "",
+          "location": "East of Mauritius",
+          "name": "Rodrigues",
+          "stateCode": "RG",
+          "tribes": ["Creole"],
+          "type": "island"
+        }
+    }      
+}

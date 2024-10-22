@@ -1,0 +1,84 @@
+{
+    "NE":{
+        "AGADEZ": {
+          "capitalCity": "Agadez",
+          "districts": ["Aderbissinat", "Tchirozerine", "Arlit", "Bilma", "Ingal"],
+          "geoPoliticalZone": "North",
+          "location": "Northern Niger",
+          "name": "Agadez",
+          "stateCode": "AG",
+          "tribes": ["Tuareg", "Toubou"],
+          "type": "region"
+        },
+        "DIFFA": {
+          "capitalCity": "Diffa",
+          "districts": ["Diffa", "N'Guigmi", "Maïné-Soroa", "Bosso", "Goudoumaria"],
+          "geoPoliticalZone": "South East",
+          "location": "Southeastern Niger",
+          "name": "Diffa",
+          "stateCode": "DI",
+          "tribes": ["Kanuri", "Toubou", "Fulani"],
+          "type": "region"
+        },
+        "DOSSO": {
+          "capitalCity": "Dosso",
+          "districts": ["Dosso", "Gaya", "Dogondoutchi", "Boboye", "Falmey"],
+          "geoPoliticalZone": "South West",
+          "location": "Southwestern Niger",
+          "name": "Dosso",
+          "stateCode": "DO",
+          "tribes": ["Zarma", "Fulani", "Hausa"],
+          "type": "region"
+        },
+        "MARADI": {
+          "capitalCity": "Maradi",
+          "districts": ["Maradi", "Madarounfa", "Mayahi", "Guidan Roumdji", "Tessaoua"],
+          "geoPoliticalZone": "South",
+          "location": "Southern Niger",
+          "name": "Maradi",
+          "stateCode": "MA",
+          "tribes": ["Hausa", "Fulani"],
+          "type": "region"
+        },
+        "NIAMEY": {
+          "capitalCity": "Niamey",
+          "districts": ["Niamey I", "Niamey II", "Niamey III", "Niamey IV", "Niamey V"],
+          "geoPoliticalZone": "South West",
+          "location": "Southwestern Niger",
+          "name": "Niamey",
+          "stateCode": "NI",
+          "tribes": ["Zarma", "Hausa", "Fulani"],
+          "type": "capital district"
+        },
+        "TAHOUA": {
+          "capitalCity": "Tahoua",
+          "districts": ["Tahoua", "Illéla", "Madaoua", "Keita", "Abalak"],
+          "geoPoliticalZone": "West",
+          "location": "Western Niger",
+          "name": "Tahoua",
+          "stateCode": "TA",
+          "tribes": ["Tuareg", "Hausa", "Fulani"],
+          "type": "region"
+        },
+        "TILLABERI": {
+          "capitalCity": "Tillaberi",
+          "districts": ["Tillaberi", "Ouallam", "Téra", "Filingué", "Say"],
+          "geoPoliticalZone": "West",
+          "location": "Western Niger",
+          "name": "Tillaberi",
+          "stateCode": "TI",
+          "tribes": ["Zarma", "Tuareg", "Fulani", "Songhai"],
+          "type": "region"
+        },
+        "ZINDER": {
+          "capitalCity": "Zinder",
+          "districts": ["Zinder", "Magaria", "Mirriah", "Goure", "Matameye"],
+          "geoPoliticalZone": "South East",
+          "location": "Southeastern Niger",
+          "name": "Zinder",
+          "stateCode": "ZI",
+          "tribes": ["Hausa", "Fulani", "Kanuri"],
+          "type": "region"
+        }
+    }      
+}

@@ -1,0 +1,154 @@
+{
+    "MR":{
+        "ADRAR": {
+          "capitalCity": "Atar",
+          "districts": ["Aoujeft", "Chinguetti", "Ouadane", "Atar"],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Adrar",
+          "stateCode": "01",
+          "tribes": ["Berber", "Hassaniya", "Moors"],
+          "type": "region"
+        },
+        "ASSABA": {
+          "capitalCity": "Kiffa",
+          "districts": ["Barkéol", "Boumdid", "Guerou", "Kankossa", "Kiffa"],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Assaba",
+          "stateCode": "02",
+          "tribes": ["Soninke", "Fulani", "Moors"],
+          "type": "region"
+        },
+        "BRAKNA": {
+          "capitalCity": "Aleg",
+          "districts": ["Aleg", "Bababé", "Boghe", "Mbagne", "Magta Lahjar"],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Brakna",
+          "stateCode": "03",
+          "tribes": ["Moors", "Fulani", "Wolof"],
+          "type": "region"
+        },
+        "DAKHLET NOUADHIBOU": {
+          "capitalCity": "Nouadhibou",
+          "districts": ["Nouadhibou", "Inchiri"],
+          "geoPoliticalZone": "",
+          "location": "North-West Coast",
+          "name": "Dakhlet Nouadhibou",
+          "stateCode": "04",
+          "tribes": ["Moors", "Berber"],
+          "type": "region"
+        },
+        "GORGOL": {
+          "capitalCity": "Kaédi",
+          "districts": ["Kaédi", "Monguel", "Mbout", "Maghama"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Gorgol",
+          "stateCode": "05",
+          "tribes": ["Soninke", "Fulani", "Moors"],
+          "type": "region"
+        },
+        "GUIDIMAKA": {
+          "capitalCity": "Selibaby",
+          "districts": ["Selibaby", "Ould Yengé", "Ghabou"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Guidimaka",
+          "stateCode": "06",
+          "tribes": ["Soninke", "Fulani", "Bambara"],
+          "type": "region"
+        },
+        "HODH ECH CHARGHI": {
+          "capitalCity": "Néma",
+          "districts": ["Néma", "Amourj", "Dhar", "Djiguenni", "Oualata"],
+          "geoPoliticalZone": "",
+          "location": "East",
+          "name": "Hodh Ech Chargui",
+          "stateCode": "07",
+          "tribes": ["Moors", "Fulani"],
+          "type": "region"
+        },
+        "HODH EL GHARBI": {
+          "capitalCity": "Aïoun",
+          "districts": ["Aïoun", "Kobeni", "Tintane", "Timbédra"],
+          "geoPoliticalZone": "",
+          "location": "East",
+          "name": "Hodh El Gharbi",
+          "stateCode": "08",
+          "tribes": ["Moors", "Fulani"],
+          "type": "region"
+        },
+        "INCHIRI": {
+          "capitalCity": "Akjoujt",
+          "districts": ["Akjoujt"],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Inchiri",
+          "stateCode": "09",
+          "tribes": ["Moors"],
+          "type": "region"
+        },
+        "NOUAKCHOTT-NORD": {
+          "capitalCity": "Nouakchott",
+          "districts": ["Dar-Naim", "Teyarett", "Toujounine"],
+          "geoPoliticalZone": "",
+          "location": "West",
+          "name": "Nouakchott-Nord",
+          "stateCode": "10",
+          "tribes": ["Moors"],
+          "type": "region"
+        },
+        "NOUAKCHOTT-OUEST": {
+          "capitalCity": "Nouakchott",
+          "districts": ["Ksar", "Sebkha", "Tevragh-Zeina"],
+          "geoPoliticalZone": "",
+          "location": "West",
+          "name": "Nouakchott-Ouest",
+          "stateCode": "11",
+          "tribes": ["Moors"],
+          "type": "region"
+        },
+        "NOUAKCHOTT-SUD": {
+          "capitalCity": "Nouakchott",
+          "districts": ["Arafat", "El Mina", "Riyadh"],
+          "geoPoliticalZone": "",
+          "location": "West",
+          "name": "Nouakchott-Sud",
+          "stateCode": "12",
+          "tribes": ["Moors"],
+          "type": "region"
+        },
+        "TAGANT": {
+          "capitalCity": "Tidjikja",
+          "districts": ["Tidjikja", "Tichit", "Rachid"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Tagant",
+          "stateCode": "13",
+          "tribes": ["Moors", "Berber"],
+          "type": "region"
+        },
+        "TIRIS ZEMMOUR": {
+          "capitalCity": "Zouérat",
+          "districts": ["Zouérat", "Fderik", "Bir Moghrein"],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Tiris Zemmour",
+          "stateCode": "14",
+          "tribes": ["Moors", "Berber"],
+          "type": "region"
+        },
+        "TRARZA": {
+          "capitalCity": "Rosso",
+          "districts": ["Rosso", "Boutilimit", "Mederdra", "Keur Macène", "R'Kiz"],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Trarza",
+          "stateCode": "15",
+          "tribes": ["Moors", "Wolof", "Fulani"],
+          "type": "region"
+        }
+    }      
+}

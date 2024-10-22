@@ -1,0 +1,184 @@
+{
+    "SD":{
+        "AL QADARIF": {
+          "capitalCity": "Al Qadarif",
+          "districts": ["Al Qadarif", "Al Fashaga", "Gala Al Nah", "Al Mafaza"],
+          "geoPoliticalZone": "East",
+          "location": "Eastern Sudan",
+          "name": "Al Qadarif",
+          "stateCode": "GD",
+          "tribes": ["Beja", "Rashaida", "Shukria"],
+          "type": "state"
+        },
+        "BLUE NILE": {
+          "capitalCity": "Al-Damazin",
+          "districts": ["Al-Damazin", "Roseires", "Baw", "Geissan", "Kurmak"],
+          "geoPoliticalZone": "South East",
+          "location": "Southeastern Sudan",
+          "name": "Blue Nile",
+          "stateCode": "BN",
+          "tribes": ["Ingessana", "Funj", "Burun"],
+          "type": "state"
+        },
+        "CENTRAL DARFUR": {
+          "capitalCity": "Zalingei",
+          "districts": ["Zalingei", "Wadi Saleh", "Mukjar", "Nertiti", "Um Dukhun"],
+          "geoPoliticalZone": "West",
+          "location": "Western Sudan",
+          "name": "Central Darfur",
+          "stateCode": "CD",
+          "tribes": ["Fur", "Zaghawa", "Masalit"],
+          "type": "state"
+        },
+        "EAST DARFUR": {
+          "capitalCity": "Ed Daein",
+          "districts": ["Ed Daein", "Adila", "Abu Karinka", "El Ferdous", "Shearia"],
+          "geoPoliticalZone": "West",
+          "location": "Western Sudan",
+          "name": "East Darfur",
+          "stateCode": "ED",
+          "tribes": ["Rizeigat", "Ma’aliya"],
+          "type": "state"
+        },
+        "GEZIRA": {
+          "capitalCity": "Wad Madani",
+          "districts": ["Wad Madani", "Rufaa", "Hassa Heissa", "Al Kamlin"],
+          "geoPoliticalZone": "Central",
+          "location": "Central Sudan",
+          "name": "Gezira",
+          "stateCode": "GZ",
+          "tribes": ["Gaälien", "Shukria", "Halfa"],
+          "type": "state"
+        },
+        "KASSALA": {
+          "capitalCity": "Kassala",
+          "districts": ["Kassala", "Hamashkoreib", "Halfa Al Jadida", "Wad Al Helew"],
+          "geoPoliticalZone": "East",
+          "location": "Eastern Sudan",
+          "name": "Kassala",
+          "stateCode": "KS",
+          "tribes": ["Beja", "Rashaida"],
+          "type": "state"
+        },
+        "KHARTOUM": {
+          "capitalCity": "Khartoum",
+          "districts": ["Khartoum", "Omdurman", "Khartoum North", "Sharq Elnil", "Jebel Aulia"],
+          "geoPoliticalZone": "Central",
+          "location": "Central Sudan",
+          "name": "Khartoum",
+          "stateCode": "KH",
+          "tribes": ["Ja'alin", "Shagia", "Batahin"],
+          "type": "state"
+        },
+        "NORTH DARFUR": {
+          "capitalCity": "El Fasher",
+          "districts": ["El Fasher", "Kutum", "Tina", "Kabkabiya", "Mellit"],
+          "geoPoliticalZone": "West",
+          "location": "Western Sudan",
+          "name": "North Darfur",
+          "stateCode": "ND",
+          "tribes": ["Zaghawa", "Fur", "Masalit"],
+          "type": "state"
+        },
+        "NORTH KORDOFAN": {
+          "capitalCity": "El Obeid",
+          "districts": ["El Obeid", "En Nuhud", "Umm Rawaba", "Bara", "Abu Zabad"],
+          "geoPoliticalZone": "West",
+          "location": "Western Sudan",
+          "name": "North Kordofan",
+          "stateCode": "NK",
+          "tribes": ["Gawamaa", "Hamar", "Kababish"],
+          "type": "state"
+        },
+        "NORTHERN": {
+          "capitalCity": "Dongola",
+          "districts": ["Dongola", "Merowe", "Karima", "Wadi Halfa", "Delgo"],
+          "geoPoliticalZone": "North",
+          "location": "Northern Sudan",
+          "name": "Northern",
+          "stateCode": "NO",
+          "tribes": ["Nubians", "Shagia", "Mahas"],
+          "type": "state"
+        },
+        "RED SEA": {
+          "capitalCity": "Port Sudan",
+          "districts": ["Port Sudan", "Tokar", "Hala'ib", "Sinkat"],
+          "geoPoliticalZone": "East",
+          "location": "Eastern Sudan",
+          "name": "Red Sea",
+          "stateCode": "RS",
+          "tribes": ["Beja", "Hadendoa", "Beni-Amer"],
+          "type": "state"
+        },
+        "RIVER NILE": {
+          "capitalCity": "Atbara",
+          "districts": ["Atbara", "Shendi", "Berber", "Al Damer"],
+          "geoPoliticalZone": "North",
+          "location": "Northern Sudan",
+          "name": "River Nile",
+          "stateCode": "RN",
+          "tribes": ["Ja'alin", "Shagia", "Manasir"],
+          "type": "state"
+        },
+        "SENNAR": {
+          "capitalCity": "Sennar",
+          "districts": ["Sennar", "Singai", "Dindir"],
+          "geoPoliticalZone": "South East",
+          "location": "Southeastern Sudan",
+          "name": "Sennar",
+          "stateCode": "SN",
+          "tribes": ["Funj", "Gaälien", "Hamaj"],
+          "type": "state"
+        },
+        "SOUTH DARFUR": {
+          "capitalCity": "Nyala",
+          "districts": ["Nyala", "Kass", "Ed al Fursan", "Buram"],
+          "geoPoliticalZone": "West",
+          "location": "Western Sudan",
+          "name": "South Darfur",
+          "stateCode": "SD",
+          "tribes": ["Fur", "Zaghawa", "Masalit"],
+          "type": "state"
+        },
+        "SOUTH KORDOFAN": {
+          "capitalCity": "Kadugli",
+          "districts": ["Kadugli", "Dilling", "Abu Jubaiyah", "Talodi", "Lagawa"],
+          "geoPoliticalZone": "West",
+          "location": "Southern Sudan",
+          "name": "South Kordofan",
+          "stateCode": "SK",
+          "tribes": ["Nuba", "Hawazma", "Missiriya"],
+          "type": "state"
+        },
+        "WEST DARFUR": {
+          "capitalCity": "El Geneina",
+          "districts": ["El Geneina", "Habila", "Kulbus", "Beida"],
+          "geoPoliticalZone": "West",
+          "location": "Western Sudan",
+          "name": "West Darfur",
+          "stateCode": "WD",
+          "tribes": ["Masalit", "Zaghawa", "Fur"],
+          "type": "state"
+        },
+        "WEST KORDOFAN": {
+          "capitalCity": "Al Fula",
+          "districts": ["Al Fula", "Babanusa", "Muglad", "Meiram", "Debabat"],
+          "geoPoliticalZone": "West",
+          "location": "Western Sudan",
+          "name": "West Kordofan",
+          "stateCode": "WK",
+          "tribes": ["Missiriya", "Hawazma", "Baggara"],
+          "type": "state"
+        },
+        "WHITE NILE": {
+          "capitalCity": "Rabak",
+          "districts": ["Rabak", "Kosti", "Ad Douiem", "Tandalti", "Shabasha"],
+          "geoPoliticalZone": "South",
+          "location": "Southern Sudan",
+          "name": "White Nile",
+          "stateCode": "WN",
+          "tribes": ["Gaälien", "Nuba", "Dinka"],
+          "type": "state"
+        }
+    }      
+}

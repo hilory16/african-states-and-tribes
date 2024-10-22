@@ -1,0 +1,64 @@
+{
+    "SL":{
+        "EASTERN PROVINCE": {
+          "capitalCity": "Kenema",
+          "districts": ["Kenema", "Kailahun", "Kono"],
+          "geoPoliticalZone": "East",
+          "location": "Eastern Sierra Leone",
+          "name": "Eastern Province",
+          "stateCode": "EP",
+          "tribes": ["Mende", "Kono", "Kissi"],
+          "type": "province"
+        },
+        "NORTHERN PROVINCE": {
+          "capitalCity": "Makeni",
+          "districts": ["Bombali", "Koinadugu", "Tonkolili", "Kambia"],
+          "geoPoliticalZone": "North",
+          "location": "Northern Sierra Leone",
+          "name": "Northern Province",
+          "stateCode": "NP",
+          "tribes": ["Temne", "Limba", "Loko", "Kuranko"],
+          "type": "province"
+        },
+        "NORTH WEST PROVINCE": {
+          "capitalCity": "Port Loko",
+          "districts": ["Port Loko", "Karene", "Kambia"],
+          "geoPoliticalZone": "Northwest",
+          "location": "Northwestern Sierra Leone",
+          "name": "North West Province",
+          "stateCode": "NWP",
+          "tribes": ["Temne", "Limba", "Mandingo"],
+          "type": "province"
+        },
+        "SOUTHERN PROVINCE": {
+          "capitalCity": "Bo",
+          "districts": ["Bo", "Bonthe", "Moyamba", "Pujehun"],
+          "geoPoliticalZone": "South",
+          "location": "Southern Sierra Leone",
+          "name": "Southern Province",
+          "stateCode": "SP",
+          "tribes": ["Mende", "Sherbro", "Vai"],
+          "type": "province"
+        },
+        "WESTERN AREA RURAL": {
+          "capitalCity": "Waterloo",
+          "districts": ["Western Area Rural"],
+          "geoPoliticalZone": "West",
+          "location": "Western Sierra Leone",
+          "name": "Western Area Rural",
+          "stateCode": "WAR",
+          "tribes": ["Temne", "Krio", "Limba"],
+          "type": "province"
+        },
+        "WESTERN AREA URBAN": {
+          "capitalCity": "Freetown",
+          "districts": ["Freetown"],
+          "geoPoliticalZone": "West",
+          "location": "Western Sierra Leone",
+          "name": "Western Area Urban",
+          "stateCode": "WAU",
+          "tribes": ["Krio", "Temne", "Limba", "Fula"],
+          "type": "province"
+        }
+    }      
+}
