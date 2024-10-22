@@ -1,0 +1,134 @@
+{
+    "MA":{
+        "BENI MELLAL-KHENIFRA": {
+          "capitalCity": "Beni Mellal",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Beni Mellal-Khenifra",
+          "stateCode": "BMK",
+          "tribes": ["Amazigh", "Arab"],
+          "type": "region"
+        },
+        "CASABLANCA-SETTAT": {
+          "capitalCity": "Casablanca",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Casablanca-Settat",
+          "stateCode": "CS",
+          "tribes": ["Arab", "Amazigh"],
+          "type": "region"
+        },
+        "DRAA-TAFILALET": {
+          "capitalCity": "Errachidia",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Draa-Tafilalet",
+          "stateCode": "DT",
+          "tribes": ["Amazigh", "Arab"],
+          "type": "region"
+        },
+        "DAKHLA-OUD EDDAHAB": {
+          "capitalCity": "Dakhla",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Southern",
+          "name": "Dakhla-Oud Ed-Dahab",
+          "stateCode": "DOED",
+          "tribes": ["Sahrawi", "Arab"],
+          "type": "region"
+        },
+        "FES-MEKNES": {
+          "capitalCity": "Fez",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Northern",
+          "name": "Fes-Meknes",
+          "stateCode": "FM",
+          "tribes": ["Arab", "Amazigh"],
+          "type": "region"
+        },
+        "GHARB-CHRARDA-BENI HSSEN": {
+          "capitalCity": "Kenitra",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Gharb-Chrarda-Beni Hssen",
+          "stateCode": "GCBH",
+          "tribes": ["Arab", "Amazigh"],
+          "type": "region"
+        },
+        "GUELMIM-OUED NOUN": {
+          "capitalCity": "Guelmim",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Southern",
+          "name": "Guelmim-Oued Noun",
+          "stateCode": "GON",
+          "tribes": ["Sahrawi", "Arab"],
+          "type": "region"
+        },
+        "LAAYOUNE-SAKIA EL HAMRA": {
+          "capitalCity": "Laayoune",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Laayoune-Sakia El Hamra",
+          "stateCode": "LSH",
+          "tribes": ["Sahrawi", "Arab"],
+          "type": "region"
+        },
+        "MARRAKESH-SAFI": {
+          "capitalCity": "Marrakesh",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Marrakesh-Safi",
+          "stateCode": "MS",
+          "tribes": ["Arab", "Amazigh"],
+          "type": "region"
+        },
+        "ORIENTAL": {
+          "capitalCity": "Oujda",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-East",
+          "name": "Oriental",
+          "stateCode": "OR",
+          "tribes": ["Arab", "Amazigh"],
+          "type": "region"
+        },
+        "RABAT-SALE-KENITRA": {
+          "capitalCity": "Rabat",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Rabat-Sale-Kenitra",
+          "stateCode": "RSK",
+          "tribes": ["Arab", "Amazigh"],
+          "type": "region"
+        },
+        "SOUSS-MASSA": {
+          "capitalCity": "Agadir",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Souss-Massa",
+          "stateCode": "SM",
+          "tribes": ["Amazigh"],
+          "type": "region"
+        },
+        "TANGIER-TETOUAN-AL HOCEIMA": {
+          "capitalCity": "Tangier",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Tangier-Tetouan-Al Hoceima",
+          "stateCode": "TTAH",
+          "tribes": ["Arab", "Amazigh"],
+          "type": "region"
+        }
+    }  
+}

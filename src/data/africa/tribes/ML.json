@@ -1,0 +1,204 @@
+{
+    "ML":{
+        "BAMAKO": {
+          "capitalCity": "Bamako",
+          "districts": ["Bamako Commune I", "Bamako Commune II", "Bamako Commune III", "Bamako Commune IV", "Bamako Commune V", "Bamako Commune VI"],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Bamako",
+          "stateCode": "BK",
+          "tribes": ["Bambara", "Bozo", "Fulani", "Songhai"],
+          "type": "district"
+        },
+        "GAO": {
+          "capitalCity": "Gao",
+          "districts": ["Gao", "Ansongo", "Bourem", "Menaka"],
+          "geoPoliticalZone": "",
+          "location": "North-East",
+          "name": "Gao",
+          "stateCode": "GA",
+          "tribes": ["Songhai", "Tuareg", "Fulani"],
+          "type": "region"
+        },
+        "KAYES": {
+          "capitalCity": "Kayes",
+          "districts": ["Kayes", "Bafoulabe", "Diema", "Kenieba", "Nioro du Sahel", "Yelimane"],
+          "geoPoliticalZone": "",
+          "location": "West",
+          "name": "Kayes",
+          "stateCode": "KY",
+          "tribes": ["Khassonke", "Soninke", "Fulani"],
+          "type": "region"
+        },
+        "KOULIKORO": {
+          "capitalCity": "Koulikoro",
+          "districts": ["Koulikoro", "Banamba", "Dioila", "Kangaba", "Kolokani", "Nara"],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Koulikoro",
+          "stateCode": "KK",
+          "tribes": ["Bambara", "Malinke", "Fulani"],
+          "type": "region"
+        },
+        "MOPTI": {
+          "capitalCity": "Mopti",
+          "districts": ["Mopti", "Bandiagara", "Bankass", "Djenné", "Douentza", "Koro", "Tenenkou", "Youwarou"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Mopti",
+          "stateCode": "MO",
+          "tribes": ["Dogon", "Bozo", "Songhai"],
+          "type": "region"
+        },
+        "SEGOU": {
+          "capitalCity": "Ségou",
+          "districts": ["Ségou", "Bla", "Barouéli", "Macina", "Markala", "Niono", "San", "Tominian"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Ségou",
+          "stateCode": "SG",
+          "tribes": ["Bambara", "Fulani", "Bozo"],
+          "type": "region"
+        },
+        "SIKASSO": {
+          "capitalCity": "Sikasso",
+          "districts": ["Sikasso", "Bougouni", "Kolondieba", "Kadiolo", "Yanfolila", "Yorosso"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Sikasso",
+          "stateCode": "SK",
+          "tribes": ["Senoufo", "Bambara", "Fulani"],
+          "type": "region"
+        },
+        "TAOUDENNI": {
+          "capitalCity": "Taoudenni",
+          "districts": ["Taoudenni", "Achouratt", "Al-Ourche", "Boghassa"],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Taoudenni",
+          "stateCode": "TD",
+          "tribes": ["Tuareg"],
+          "type": "region"
+        },
+        "TOMBOUCTOU": {
+          "capitalCity": "Tombouctou",
+          "districts": ["Tombouctou", "Diré", "Goundam", "Niafunké"],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Tombouctou",
+          "stateCode": "TB",
+          "tribes": ["Songhai", "Tuareg"],
+          "type": "region"
+        },
+        "MENAKA": {
+          "capitalCity": "Menaka",
+          "districts": ["Menaka", "Anderamboukane", "Inekar"],
+          "geoPoliticalZone": "",
+          "location": "North-East",
+          "name": "Menaka",
+          "stateCode": "MN",
+          "tribes": ["Tuareg"],
+          "type": "region"
+        },
+        "KIDAL": {
+          "capitalCity": "Kidal",
+          "districts": ["Kidal", "Abeibara", "Tessalit", "Tin-Essako"],
+          "geoPoliticalZone": "",
+          "location": "North-East",
+          "name": "Kidal",
+          "stateCode": "KD",
+          "tribes": ["Tuareg"],
+          "type": "region"
+        },
+        "BAMBA": {
+          "capitalCity": "Bamba",
+          "districts": ["Bamba", "Bourem", "Gossi"],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Bamba",
+          "stateCode": "BA",
+          "tribes": ["Tuareg", "Songhai"],
+          "type": "region"
+        },
+        "SAN": {
+          "capitalCity": "San",
+          "districts": ["San", "Bla", "Koutiala"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "San",
+          "stateCode": "SN",
+          "tribes": ["Bambara", "Fulani"],
+          "type": "region"
+        },
+        "NARA": {
+          "capitalCity": "Nara",
+          "districts": ["Nara", "Banamba"],
+          "geoPoliticalZone": "",
+          "location": "West",
+          "name": "Nara",
+          "stateCode": "NR",
+          "tribes": ["Bambara", "Soninke"],
+          "type": "region"
+        },
+        "DIRÉ": {
+          "capitalCity": "Diré",
+          "districts": ["Diré", "Goundam"],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Diré",
+          "stateCode": "DR",
+          "tribes": ["Songhai", "Tuareg"],
+          "type": "region"
+        },
+        "DOUENTZA": {
+          "capitalCity": "Douentza",
+          "districts": ["Douentza", "Bandiagara"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Douentza",
+          "stateCode": "DZ",
+          "tribes": ["Dogon", "Songhai"],
+          "type": "region"
+        },
+        "TENENKOU": {
+          "capitalCity": "Tenenkou",
+          "districts": ["Tenenkou", "Youwarou"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Tenenkou",
+          "stateCode": "TN",
+          "tribes": ["Bozo", "Songhai"],
+          "type": "region"
+        },
+        "NARA": {
+          "capitalCity": "Nara",
+          "districts": ["Nara", "Banamba"],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Nara",
+          "stateCode": "NR",
+          "tribes": ["Bambara", "Fulani"],
+          "type": "region"
+        },
+        "YANFOLILA": {
+          "capitalCity": "Yanfolila",
+          "districts": ["Yanfolila", "Kadiolo"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Yanfolila",
+          "stateCode": "YN",
+          "tribes": ["Senoufo", "Fulani"],
+          "type": "region"
+        },
+        "YOROSSO": {
+          "capitalCity": "Yorosso",
+          "districts": ["Yorosso", "Sikasso"],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Yorosso",
+          "stateCode": "YR",
+          "tribes": ["Senoufo", "Bambara"],
+          "type": "region"
+        }
+    }
+}

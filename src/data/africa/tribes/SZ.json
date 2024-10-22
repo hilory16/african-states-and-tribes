@@ -1,0 +1,64 @@
+{
+    "SZ":{
+        "HHOHHO": {
+          "capitalCity": "Hlatikulu",
+          "districts": ["Hlatikulu", "Nhlangano"],
+          "geoPoliticalZone": "Central",
+          "location": "Central Eswatini",
+          "name": "Hhohho",
+          "stateCode": "HH",
+          "tribes": ["Swazi", "Nguni"],
+          "type": "province"
+        },
+        "LUBOMBO": {
+          "capitalCity": "Siteki",
+          "districts": ["Siteki", "Mhlume", "Malkerns"],
+          "geoPoliticalZone": "Eastern",
+          "location": "East Eswatini",
+          "name": "Lubombo",
+          "stateCode": "LB",
+          "tribes": ["Swazi", "Nguni"],
+          "type": "province"
+        },
+        "MANZINI": {
+          "capitalCity": "Manzini",
+          "districts": ["Manzini", "Ngwane Park", "Matsapha", "Kwaluseni"],
+          "geoPoliticalZone": "Central",
+          "location": "Central Eswatini",
+          "name": "Manzini",
+          "stateCode": "MN",
+          "tribes": ["Swazi", "Nguni"],
+          "type": "province"
+        },
+        "SHAWELLE": {
+          "capitalCity": "Mbabane",
+          "districts": ["Mbabane", "Kuyengwane"],
+          "geoPoliticalZone": "Northwest",
+          "location": "Northwest Eswatini",
+          "name": "Shawelle",
+          "stateCode": "SH",
+          "tribes": ["Swazi", "Nguni"],
+          "type": "province"
+        },
+        "SIPHOFANENI": {
+          "capitalCity": "Siphofaneni",
+          "districts": ["Siphofaneni", "Nhlangano"],
+          "geoPoliticalZone": "Southern",
+          "location": "South Eswatini",
+          "name": "Siphofaneni",
+          "stateCode": "SP",
+          "tribes": ["Swazi", "Nguni"],
+          "type": "province"
+        },
+        "TZANE": {
+          "capitalCity": "Lobamba",
+          "districts": ["Lobamba", "Pigg's Peak"],
+          "geoPoliticalZone": "Northwest",
+          "location": "Northwest Eswatini",
+          "name": "Tzane",
+          "stateCode": "TZ",
+          "tribes": ["Swazi", "Nguni"],
+          "type": "province"
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "SN":{
+        "DAKAR": {
+          "capitalCity": "Dakar",
+          "districts": ["Dakar", "Dakar-Plateau", "Fann-Point E-Amitié", "Grand Dakar", "Guédiawaye", "Liberté 6", "Mermoz-Sacré-Cœur", "Parcelles Assainies", "Plateau", "Pikine", "Point E"],
+          "geoPoliticalZone": "Western Senegal",
+          "location": "West",
+          "name": "Dakar",
+          "stateCode": "DK",
+          "tribes": ["Wolof", "Serer", "Lebou", "Peulh"],
+          "type": "region"
+        },
+        "DIOURBEL": {
+          "capitalCity": "Diourbel",
+          "districts": ["Diourbel", "Mbacké", "Touba", "Café Thialaw", "Boulal"],
+          "geoPoliticalZone": "Central Senegal",
+          "location": "Central",
+          "name": "Diourbel",
+          "stateCode": "DB",
+          "tribes": ["Wolof", "Serer", "Peulh"],
+          "type": "region"
+        },
+        "FATICK": {
+          "capitalCity": "Fatick",
+          "districts": ["Fatick", "Gossas", "Foundiougne", "Mbellac", "Koungheul"],
+          "geoPoliticalZone": "Central Senegal",
+          "location": "Central",
+          "name": "Fatick",
+          "stateCode": "FK",
+          "tribes": ["Wolof", "Serer", "Peulh"],
+          "type": "region"
+        },
+        "KAFFRINE": {
+          "capitalCity": "Kaffrine",
+          "districts": ["Kaffrine", "Birkilane", "Malem Hodar", "Koungheul", "Tobisking"],
+          "geoPoliticalZone": "Central Senegal",
+          "location": "Central",
+          "name": "Kaffrine",
+          "stateCode": "KF",
+          "tribes": ["Wolof", "Peulh", "Serer"],
+          "type": "region"
+        },
+        "KAOLACK": {
+          "capitalCity": "Kaolack",
+          "districts": ["Kaolack", "Nioro du Rip", "Koussanar", "Guinguinéo", "Sandiara", "Fatik"],
+          "geoPoliticalZone": "Central Senegal",
+          "location": "Central",
+          "name": "Kaolack",
+          "stateCode": "KL",
+          "tribes": ["Wolof", "Serer", "Peulh"],
+          "type": "region"
+        },
+        "KEDOUGOU": {
+          "capitalCity": "Kédougou",
+          "districts": ["Kédougou", "Salémata", "Saraya", "Bandafassi"],
+          "geoPoliticalZone": "Southeastern Senegal",
+          "location": "Southeast",
+          "name": "Kédougou",
+          "stateCode": "KD",
+          "tribes": ["Bassari", "Wolof", "Peulh"],
+          "type": "region"
+        },
+        "KOLDA": {
+          "capitalCity": "Kolda",
+          "districts": ["Kolda", "Medina Yoro Foula", "Vélingara", "Sakoinsé"],
+          "geoPoliticalZone": "Southern Senegal",
+          "location": "South",
+          "name": "Kolda",
+          "stateCode": "KL",
+          "tribes": ["Diola", "Peulh", "Wolof"],
+          "type": "region"
+        },
+        "LOUGA": {
+          "capitalCity": "Louga",
+          "districts": ["Louga", "Kayar", "Kamb", "Pate", "Sénégal"],
+          "geoPoliticalZone": "Northwestern Senegal",
+          "location": "Northwest",
+          "name": "Louga",
+          "stateCode": "LG",
+          "tribes": ["Wolof", "Serer", "Peulh"],
+          "type": "region"
+        },
+        "MATAM": {
+          "capitalCity": "Matam",
+          "districts": ["Matam", "Kanel", "Ranérou", "Bokidiawé"],
+          "geoPoliticalZone": "Northeastern Senegal",
+          "location": "Northeast",
+          "name": "Matam",
+          "stateCode": "MT",
+          "tribes": ["Peulh", "Wolof"],
+          "type": "region"
+        },
+        "SAINT-LOUIS": {
+          "capitalCity": "Saint-Louis",
+          "districts": ["Saint-Louis", "Podor", "Rufisque", "Dagana"],
+          "geoPoliticalZone": "Northwestern Senegal",
+          "location": "North",
+          "name": "Saint-Louis",
+          "stateCode": "SL",
+          "tribes": ["Wolof", "Serer", "Lebou"],
+          "type": "region"
+        },
+        "SEDHIOU": {
+          "capitalCity": "Sédhiou",
+          "districts": ["Sédhiou", "Bounkiling", "Goudomp"],
+          "geoPoliticalZone": "Southern Senegal",
+          "location": "South",
+          "name": "Sédhiou",
+          "stateCode": "SD",
+          "tribes": ["Wolof", "Diola"],
+          "type": "region"
+        },
+        "TAMBACOUNDA": {
+          "capitalCity": "Tambacounda",
+          "districts": ["Tambacounda", "Bafing", "Kothiary", "Koumpentoum", "Mako"],
+          "geoPoliticalZone": "Eastern Senegal",
+          "location": "East",
+          "name": "Tambacounda",
+          "stateCode": "TC",
+          "tribes": ["Mandinka", "Peulh", "Wolof"],
+          "type": "region"
+        },
+        "THIES": {
+          "capitalCity": "Thiès",
+          "districts": ["Thiès", "Mbour", "Tivaouane", "Pékin"],
+          "geoPoliticalZone": "West Central Senegal",
+          "location": "West Central",
+          "name": "Thiès",
+          "stateCode": "TH",
+          "tribes": ["Wolof", "Serer", "Lebou"],
+          "type": "region"
+        },
+        "ZIGUINCHOR": {
+          "capitalCity": "Ziguinchor",
+          "districts": ["Ziguinchor", "Bignona", "Oussouye"],
+          "geoPoliticalZone": "Southern Senegal",
+          "location": "Southwest",
+          "name": "Ziguinchor",
+          "stateCode": "ZG",
+          "tribes": ["Diola", "Manjaku", "Wolof"],
+          "type": "region"
+        }
+    }      
+}
