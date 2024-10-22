@@ -1,0 +1,185 @@
+
+{
+    "AO":{
+        "BENGO":{
+            "capitalCity":"Caxito",
+            "subdivisions":["Ambriz", "Bula Atumba", "Dande", "Dembos","Nambuangongo", "Pango Aluquém"],
+            "geoPoliticalZone":"",
+            "location":"North",
+            "name": "Bengo",
+            "stateCode": "BGO",
+            "tribes":["Bakongo", "Kimbundu (Mbundu)", "Kikongo","Songo"],
+            "type": "province"
+        },
+        "BENGUELA":{
+            "capitalCity":"Benguela",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"West Central",
+            "name": "Benguela",
+            "stateCode": "BGU",
+            "tribes":["Herero", "Khoisan (San)", "Nyaneka-Nkhumbi", "Ovimbundu"],
+            "type": "province"
+        },
+        "BIÉ":{
+            "capitalCity":"Kuito",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"Central",
+            "name": "Bié",
+            "stateCode": "BIE",
+            "tribes":["Chokwe","Luvale","Ngangela", "Ovimbundu"],
+            "type": "province"
+        },
+        "CABINDA":{
+            "capitalCity":"Cabinda",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"North",
+            "name": "Cabinda",
+            "stateCode": "CAB",
+            "tribes":["Bakongo (Kikongo)", "Fiote", "Lunda", "Mbundu", "Woyo", "Yombe"],
+            "type": "province"
+        },
+        "CUANDO CUBANGO":{
+            "capitalCity":"Menongue",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"South East",
+            "name": "Cuando Cubango",
+            "stateCode": "CCU",
+            "tribes":["Khoisan (San)", "Luchazi", "Mbunda", "Ngangela", "Nyaneka-Nkhumbi", "Ovimbundu"],
+            "type": "province"
+        },
+        "CUANZA NORTE":{
+            "capitalCity":"N'dalatando",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"North Central",
+            "name": "Cuanza Norte",
+            "stateCode": "CNO",
+            "tribes":["Ambundu", "Kimbundu (Mbundu)", "Songo", "Tchokwe"],
+            "type": "province"
+        },
+        "CUANZA SUL":{
+            "capitalCity":"Sumbe",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"West Central",
+            "name": "Cuanza Sul",
+            "stateCode": "CUS",
+            "tribes":["Herero", "Kimbundu (Mbundu)", "Nyaneka-Nkhumbi",  "Ovimbundu"],
+            "type": "province"
+        },
+        "CUNENE":{
+            "capitalCity":"Ondjiva",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"South",
+            "name": "Cunene",
+            "stateCode": "CNN",
+            "tribes":["Herero", "Kwanyama", "Nyaneka-Nkhumbi", "Ovambo (Ovimbundu)"],
+            "type": "province"
+        },
+        "HUAMBO":{
+            "capitalCity":"Huambo",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"South Central",
+            "name": "Huambo",
+            "stateCode": "HUA",
+            "tribes":["Ngangela", "Ovimbundu", "Tchokwe"],
+            "type": "province"
+        },
+        "HUÍLA":{
+            "capitalCity":"Lubango",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"South Central",
+            "name": "Huíla",
+            "stateCode": "HUI",
+            "tribes":["Herero", "Kuvale", "Kwisi", "Muhimba", "Mwila", "Nyaneka-Nkhumbi", "Ovimbundu"],
+            "type": "province"
+        },
+        "LUANDA":{
+            "capitalCity":"Luanda",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"North West",
+            "name": "Luanda",
+            "stateCode": "LUA",
+            "tribes":["Kimbundu (Mbundu)", "Kikongo", "Lunda", "Songo", "Ovimbundu"],
+            "type": "province"
+        },
+        "LUNDA NORTE":{
+            "capitalCity":"Dundo",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"North East",
+            "name": "Lunda Norte",
+            "stateCode": "LNO",
+            "tribes":["Chokwe", "Lunda", "Luvale", "Mbundu", "Ngangela", "Songo"],
+            "type": "province"
+        },
+        "LUNDA SUL":{
+            "capitalCity":"Saurimo",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"East",
+            "name": "Lunda Sul ",
+            "stateCode": "LSU",
+            "tribes":["Chokwe", "Lunda", "Luvale", "Mbundu", "Ngangela"],
+            "type": "province"
+        },
+        "MALANJE":{
+            "capitalCity":"Malanje",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"North Central",
+            "name": "Malanje",
+            "stateCode": "MAL",
+            "tribes":["Chokwe", "Hungu", "Kimbundu (Mbundu)", "Lunda", "Songo"],
+            "type": "province"
+        },
+        "MOXICO":{
+            "capitalCity":"Luena",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"East",
+            "name": "Moxico",
+            "stateCode": "MOX",
+            "tribes":["Chokwe", "Luchazi", "Lunda","Luvale", "Mbunda", "Ngangela"],
+            "type": "province"
+        },
+        "NAMIBE":{
+            "capitalCity":"Moçâmedes",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"South West",
+            "name": "Namibe",
+            "stateCode": "NAM",
+            "tribes":["Khoisan (San)", "Kuvale", "Nyaneka-Nkhumbi", "Ovimbundu", "Herero"],
+            "type": "province"
+        },
+        "UÍGE":{
+            "capitalCity":"Uíge",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"North West",
+            "name": "Uíge",
+            "stateCode": "UIG",
+            "tribes":["Bakongo (Kikongo)", "Nyaneka-Nkhumbi", "Songo", "Tchokwe"],
+            "type": "province"
+        },
+        "ZAIRE":{
+            "capitalCity":"M'banza-Kongo",
+            "subdivisions":[],
+            "geoPoliticalZone":"",
+            "location":"North West",
+            "name": "Zaire",
+            "stateCode": "ZAI",
+            "tribes":["Bakongo (Kikongo)", "Fiote", "Vili", "Woyo",  "Yombe"],
+            "type": "province"
+        }
+    }
+}

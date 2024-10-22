@@ -1,0 +1,104 @@
+{
+    "CM":{
+        "ADAMAOUA": {
+          "capitalCity": "Ngaoundéré",
+          "subdivisions": ["Ngaoundéré", "Bouba Ndjida", "Tignère", "Vina"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Adamaoua",
+          "stateCode": "AD",
+          "tribes": ["Baya", "Fang", "Maka", "Gongola"],
+          "type": "province"
+        },
+        "CENTRE": {
+          "capitalCity": "Yaoundé",
+          "subdivisions": ["Yaoundé", "Esseng", "Lekié", "Mfoundi", "Mbam-et-Kim"],
+          "geoPoliticalZone": "South",
+          "location": "Centre",
+          "name": "Centre",
+          "stateCode": "CE",
+          "tribes": ["Bassa", "Beti", "Ewondo", "Bafia"],
+          "type": "province"
+        },
+        "EAST": {
+          "capitalCity": "Bertoua",
+          "subdivisions": ["Bertoua", "Kékem", "Lom-et-Djerem", "Nde"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "East",
+          "stateCode": "EA",
+          "tribes": ["Baka", "Bantu", "Gbatala"],
+          "type": "province"
+        },
+        "FAR-NORTH": {
+          "capitalCity": "Maroua",
+          "subdivisions": ["Maroua", "Mokolo", "Mora", "Kousseri"],
+          "geoPoliticalZone": "North",
+          "location": "Far North",
+          "name": "Far North",
+          "stateCode": "FN",
+          "tribes": ["Fula", "Moundang", "Mafa", "Musgum"],
+          "type": "province"
+        },
+        "LITTORAL": {
+          "capitalCity": "Douala",
+          "subdivisions": ["Douala", "Edea", "Limbe", "Buea"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Littoral",
+          "stateCode": "LI",
+          "tribes": ["Bassa", "Duala", "Bakweri"],
+          "type": "province"
+        },
+        "NORTH": {
+            "capitalCity": "Garoua",
+            "subdivisions": ["Bénoué", "Faro", "Mayo-Louti", "Mayo-Rey"],
+            "geoPoliticalZone": "North",
+            "location": "North",
+            "name": "North",
+            "stateCode": "NW",
+            "tribes": ["Kapsik", "Fulani", "Shuwa"],
+            "type": "province"
+          },
+        "NORTH-WEST": {
+          "capitalCity": "Bamenda",
+          "subdivisions": ["Bamenda", "Donga-Mantung", "Menchum", "Ngohketunjia"],
+          "geoPoliticalZone": "North West",
+          "location": "North West",
+          "name": "North West",
+          "stateCode": "NO",
+          "tribes": ["Baba", "Kom", "Mbiri", "Widikum"],
+          "type": "province"
+        },
+        "SOUTH-WEST": {
+          "capitalCity": "Buea",
+          "subdivisions": ["Buea", "Limbe", "Fako", "Manyu"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "South West",
+          "stateCode": "SW",
+          "tribes": ["Bakweri", "Mundani", "Piti", "Mfumte"],
+          "type": "province"
+        },
+        "WEST": {
+          "capitalCity": "Bafoussam",
+          "subdivisions": ["Bafoussam", "Foumban", "Dschang", "Foumbot"],
+          "geoPoliticalZone": "West",
+          "location": "West",
+          "name": "West",
+          "stateCode": "WE",
+          "tribes": ["Bamiléké", "Baba", "Ngoumba"],
+          "type": "province"
+        },
+        "SOUTH": {
+          "capitalCity": "Ebolowa",
+          "subdivisions": ["Ebolowa", "Sangmélima", "Mintom"],
+          "geoPoliticalZone": "South",
+          "location": "South",
+          "name": "South",
+          "stateCode": "SO",
+          "tribes": ["Beti", "Ewondo", "Bassa"],
+          "type": "province"
+        }
+    }      
+}

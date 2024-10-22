@@ -1,0 +1,104 @@
+{
+    "ET":{
+        "ADDIS ABABA": {
+          "capitalCity": "Addis Ababa",
+          "subdivisions": ["Arada", "Kirkos", "Lideta", "Bole", "Gulele", "Akaky Kaliti"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Addis Ababa",
+          "stateCode": "AA",
+          "tribes": ["Amhara", "Oromo", "Tigrinya", "Somali"],
+          "type": "Region"
+        },
+        "AFAR": {
+          "capitalCity": "Semera",
+          "subdivisions": ["Abala", "Dikna", "Elidar", "Gachena"],
+          "geoPoliticalZone": "",
+          "location": "Northeast",
+          "name": "Afar",
+          "stateCode": "AF",
+          "tribes": ["Afar"],
+          "type": "Region"
+        },
+        "AMHARA": {
+          "capitalCity": "Bahir Dar",
+          "subdivisions": ["Gonder", "Debre Markos", "Wag Hemra", "South Wollo"],
+          "geoPoliticalZone": "",
+          "location": "Northwest",
+          "name": "Amhara",
+          "stateCode": "AM",
+          "tribes": ["Amhara", "Qemant", "Gurage"],
+          "type": "Region"
+        },
+        "BENISHANGUL-GUMUZ": {
+          "capitalCity": "Bonga",
+          "subdivisions": ["Assosa", "Bonga", "Guba"],
+          "geoPoliticalZone": "",
+          "location": "West",
+          "name": "Benishangul-Gumuz",
+          "stateCode": "BG",
+          "tribes": ["Berta", "Shinasha", "Gumuz"],
+          "type": "Region"
+        },
+        "GAMBELA": {
+          "capitalCity": "Gambela",
+          "subdivisions": ["Gambela", "Abobo", "Itang"],
+          "geoPoliticalZone": "",
+          "location": "Southwest",
+          "name": "Gambela",
+          "stateCode": "GA",
+          "tribes": ["Anuak", "Nuer", "Majang"],
+          "type": "Region"
+        },
+        "HARARI": {
+          "capitalCity": "Harar",
+          "subdivisions": ["Harar", "Babile", "Chiro"],
+          "geoPoliticalZone": "",
+          "location": "East",
+          "name": "Harari",
+          "stateCode": "HA",
+          "tribes": ["Harari", "Oromo"],
+          "type": "Region"
+        },
+        "OROMIA": {
+          "capitalCity": "Adama",
+          "subdivisions": ["Bishoftu", "Shashamane", "Jimma"],
+          "geoPoliticalZone": "",
+          "location": "West and South",
+          "name": "Oromia",
+          "stateCode": "OR",
+          "tribes": ["Oromo"],
+          "type": "Region"
+        },
+        "SNNPR": {
+          "capitalCity": "Hawassa",
+          "subdivisions": ["Hawassa", "Wolkite", "Dila"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Southern Nations, Nationalities, and Peoples' Region",
+          "stateCode": "SN",
+          "tribes": ["Sidama", "Welayta", "Gurage", "Hadiya"],
+          "type": "Region"
+        },
+        "SOMALI": {
+          "capitalCity": "Jijiga",
+          "subdivisions": ["Jijiga", "Degehabur", "Shinile"],
+          "geoPoliticalZone": "",
+          "location": "East",
+          "name": "Somali",
+          "stateCode": "SO",
+          "tribes": ["Somali"],
+          "type": "Region"
+        },
+        "TIGRAY": {
+          "capitalCity": "Mekelle",
+          "subdivisions": ["Mekelle", "Adigrat", "Axum"],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Tigray",
+          "stateCode": "TI",
+          "tribes": ["Tigrinya", "Afar"],
+          "type": "Region"
+        }
+    }      
+}

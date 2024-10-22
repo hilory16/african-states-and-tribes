@@ -1,0 +1,104 @@
+{
+    "ZM":{
+        "CENTRAL PROVINCE":{
+            "capitalCity":"Kabwe",
+            "subdivisions":["Chibombo", "Chisamba", "Chitambo", "Kapiri Mposhi", "Kabwe", "Luano", "Mkushi", "Mumbwa", "Ngabwe", "Serenje"],
+            "geoPoliticalZone":"",
+            "location":"Central",
+            "name": "Central Province",
+            "stateCode": "02",
+            "tribes":["Bemba", "Chewa", "Ngoni", "Lala", "Lamba","Lenje", "Sala", "Swaka", "Tonga"],
+            "type": "province"
+        },
+        "COPPERBELT PROVINCE":{
+            "capitalCity":"Ndola",
+            "subdivisions":["Chililabombwe", "hingola", "Kalulushi", "Kitwe", "Luanshya", "Lufwanyama", "Masaiti", "Mpongwe", "Mufulira", "Mufulira"],
+            "geoPoliticalZone":"",
+            "location":"North",
+            "name": "Copperbelt Province",
+            "stateCode": "08",
+            "tribes":["Bemba", "Chewa", "Kaonde","Lala", "Lamba", "Lozi", "Ngoni", "Nsenga", "Swaka", "Tonga"],
+            "type": "province"
+        },
+        "EASTERN PROVINCE":{
+            "capitalCity":"Chipata",
+            "subdivisions":["Chadiza", "Chasefu", "Chipangali", "Chipata", "Kasenengwa", "Katete", "Lumezi", "Lundazi", "Lusangazi", "Mambwe", "Nyimba", "Petauke", "Sinda", "Vubwi"] ,
+            "geoPoliticalZone":"",
+            "location":"East",
+            "name": "Eastern Province",
+            "stateCode": "03",
+            "tribes":["Ambo", "Chewa", "Chikunda", "Chiwa", "Kunda", "Kunda-Nsenga", "Lomwe", "Ngoni","Ngoni-Chewa","Nsenga", "Senga", "Tumbuka", "Yao"],
+            "type": "province"
+        },
+        "LUAPULA PROVINCE":{
+            "capitalCity":"Mansa",
+            "subdivisions":["Chienge", "Chipili", "Kawambwa", "Lunga", "Mansa", "Milenge", "Mwense", "Mweru-Luapula", "Nchelenge", "Samfya", "Chembe", "Chifunabuli"] ,
+            "geoPoliticalZone":"",
+            "location": "North",
+            "name": "Luapula Province",
+            "stateCode": "",
+            "tribes":["Aushi (Ushi)", "Bemba", "Bwile", "Chishinga", "Kabende", "Kaonde", "Lamba", "Lunda", "Lungu", "Mambwe", "Ndembu", "Ngumbo", "Shila", "Tabwa", "Tonga"],
+            "type": "province"
+        },
+        "LUSAKA PROVINCE":{
+            "capitalCity":"Lusaka",
+            "subdivisions":["Chilanga", "Chongwe", "Kafue", "Lusaka", "Rufunsa", "Shibuyunji"],
+            "geoPoliticalZone":"",
+            "location":"South Central",
+            "name": "Lusaka Province",
+            "stateCode": "09",
+            "tribes":["Bemba", "Chewa", "Goba", "Kaonde", "Lenje", "Lozi", "Ngoni", "Nsenga", "Nyanja",  "Soli", "Tonga"],
+            "type": "province"
+        },
+        "MUCHINGA":{
+            "capitalCity":"Chinsali",
+            "subdivisions":["Chinsali", "Isoka", "Kanchibiya","Lavushimanda", "Mpika", "Mafinga", "Nakonde", "Shiwang'andu"],
+            "geoPoliticalZone":"",
+            "location":"North East",
+            "name": "Muchinga Province",
+            "stateCode": "10",
+            "tribes":["Bemba", "Chewa", "Ila", "Lungu", "Mambwe", "Namwanga", "Ngoni", "Nyika", "Swaka", "Tumbuka"],
+            "type": "province"
+        },
+        "NORTHERN PROVINCE":{
+            "capitalCity":"Kasama",
+            "subdivisions":["Chilubi", "Kaputa", "Kasama", "Lupososhi", "Luwingu", "Mbala", "Mporokoso", "Mpulungu", "Mungwi", "Nsama", "Senga Hill"],
+            "geoPoliticalZone":"",
+            "location":"North",
+            "name": "Northern Province",
+            "stateCode": "05",
+            "tribes":["Bemba", "Bisa", "Chilubi", "Chishinga", "Fwe", "Kunda", "Lamba", "Lunda", "Lungu", "Mambwe", "Namwanga", "Senga", "Shila", "Tabwa", "Tumbuka"],
+            "type": "province"
+        },
+        "NORTHWESTERN PROVINCE":{
+            "capitalCity":"Solwezi",
+            "subdivisions":["Chavuma", "Ikelenge", "Kabompo","Kalumbila", "Kasempa", "Manyinga", "Mufumbwe", "Mushindamo", "Mwinilunga", "Solwezi", "Zambezi"],
+            "geoPoliticalZone":"",
+            "location":"North West",
+            "name": "Northwestern Province",
+            "stateCode": "06",
+            "tribes":["Chibemba", "Chokwe", "Goba", "Kaonde", "Kwangwa", "Luchazi", "Lunda", "Lunda-Luvale", "Luvale", "Mbunda", "Ndembo", "Ngoma", "Ngiemboon", "Samburu", "Shambala"],
+            "type": "province"
+        },
+        "SOUTHERN PROVINCE":{
+            "capitalCity":"Livingstone",
+            "subdivisions":["Chikankata", "Choma", "Gwembe", "Itezhi-Tezhi", "Kalomo", "Kazungula", "Livingstone", "Mazabuka", "Monze", "Namwala", "Pemba", "Siavonga","Sinazongwe", "Zimba"],
+            "geoPoliticalZone":"",
+            "location":"South",
+            "name": "Southern Province",
+            "stateCode": "07",
+            "tribes":["Ila", "Lenje", "Toka-Leya", "Tonga", "Senga", "Subiya"],
+            "type": "province"
+        },
+        "WESTERN PROVINCE":{
+            "capitalCity":"Mongu",
+            "subdivisions":["Kalabo", "Kaoma", "Kasama", "Limulunga", "Lukulu", "Mongu", "Mulobezi", "Mwandi", "Nalolo", "Nkeyema", "Senanga", "Sesheke", "Shangombo", "Sikongo", "Sioma"],
+            "geoPoliticalZone":"",
+            "location":"West",
+            "name": "Western Province",
+            "stateCode": "01",
+            "tribes":["Chokwe","Lozi","Lunda", "Luchazi", "Mbunda", "Kwangwa", "Nkoya", "Nyengo", "Shangwe", "Subiya"],
+            "type": "province"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "CI":{
+        "ABENGOUROU": {
+          "capitalCity": "Abengourou",
+          "subdivisions": ["Abengourou", "Agnibilékrou", "Bélier", "Bongouanou", "Dimbokro"],
+          "geoPoliticalZone": "South East",
+          "location": "South East",
+          "name": "Abengourou",
+          "stateCode": "AB",
+          "tribes": ["Akan", "Krou", "N'Diaga", "Gouin"],
+          "type": "region"
+        },
+        "ABIDJAN": {
+          "capitalCity": "Abidjan",
+          "subdivisions": ["Abidjan", "Yopougon", "Cocody", "Plateau", "Adjamé"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Abidjan",
+          "stateCode": "AB",
+          "tribes": ["Akan", "Krou", "Mandé", "Gouin"],
+          "type": "region"
+        },
+        "BANDAMA": {
+          "capitalCity": "Katiola",
+          "subdivisions": ["Katiola", "Ferkessédougou", "Tanda", "Korhogo", "Dimbokro"],
+          "geoPoliticalZone": "North Central",
+          "location": "North Central",
+          "name": "Bandama",
+          "stateCode": "BA",
+          "tribes": ["Mandé", "Krou", "Akan", "Gouin"],
+          "type": "region"
+        },
+        "BASSAM": {
+          "capitalCity": "Grand-Bassam",
+          "subdivisions": ["Grand-Bassam", "Assinie", "Adiaké", "Ayamé", "Bingerville"],
+          "geoPoliticalZone": "South East",
+          "location": "South East",
+          "name": "Bassam",
+          "stateCode": "BA",
+          "tribes": ["Akan", "Krou", "Mandé", "Gouin"],
+          "type": "region"
+        },
+        "DENGUELÉ": {
+          "capitalCity": "Odienné",
+          "subdivisions": ["Odienné", "Minignan", "Tanda", "Kani", "Kong"],
+          "geoPoliticalZone": "North West",
+          "location": "North West",
+          "name": "Denguelé",
+          "stateCode": "DE",
+          "tribes": ["Mandé", "Gouin", "Krou", "Akan"],
+          "type": "region"
+        },
+        "GONDRY": {
+          "capitalCity": "Gondry",
+          "subdivisions": ["Gondry", "Sassandra", "San Pedro", "Divo", "Lakota"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Gondry",
+          "stateCode": "GO",
+          "tribes": ["Krou", "Akan", "Mandé", "Gouin"],
+          "type": "region"
+        },
+        "HAMBOL": {
+          "capitalCity": "Katiola",
+          "subdivisions": ["Katiola", "Ferkessédougou", "Tanda", "Korhogo", "Dimbokro"],
+          "geoPoliticalZone": "North Central",
+          "location": "North Central",
+          "name": "Hambol",
+          "stateCode": "HA",
+          "tribes": ["Mandé", "Krou", "Akan", "Gouin"],
+          "type": "region"
+        },
+        "LACS": {
+          "capitalCity": "Yamoussoukro",
+          "subdivisions": ["Yamoussoukro", "Treichville", "Attécoubé", "Koumassi", "Port-Bouët"],
+          "geoPoliticalZone": "South Central",
+          "location": "South Central",
+          "name": "Lacs",
+          "stateCode": "LA",
+          "tribes": ["Akan", "Mandé", "Krou", "Gouin"],
+          "type": "region"
+        },
+        "MANGROVES": {
+          "capitalCity": "San Pedro",
+          "subdivisions": ["San Pedro", "Sassandra", "Gagnoa", "Divo", "Lakota"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Mangroves",
+          "stateCode": "MA",
+          "tribes": ["Krou", "Akan", "Mandé", "Gouin"],
+          "type": "region"
+        },
+        "MARAHOUÉ": {
+          "capitalCity": "Daloa",
+          "subdivisions": ["Daloa", "Vavoua", "Issia", "Sinfra", "Zuenoula"],
+          "geoPoliticalZone": "West",
+          "location": "West",
+          "name": "Marahoué",
+          "stateCode": "MA",
+          "tribes": ["Mandé", "Krou", "Akan", "Gouin"],
+          "type": "region"
+        },
+        "MOOSSOU": {
+          "capitalCity": "Abengourou",
+          "subdivisions": ["Abengourou", "Agnibilékrou", "Bélier", "Bongouanou", "Dimbokro"],
+          "geoPoliticalZone": "South East",
+          "location": "South East",
+          "name": "Moossou",
+          "stateCode": "MO",
+          "tribes": ["Akan", "Krou", "Mandé", "Gouin"],
+          "type": "region"
+        },
+        "NZI-COMOE": {
+          "capitalCity": "Bondoukou",
+          "subdivisions": ["Bondoukou", "Bouna", "Bélier", "Tanda", "Kong"],
+          "geoPoliticalZone": "North East",
+          "location": "North East",
+          "name": "Nzi-Comoe",
+          "stateCode": "NI",
+          "tribes": ["Akan", "Mandé", "Krou", "Gouin"],
+          "type": "region"
+        },
+        "SAVANES": {
+          "capitalCity": "Korhogo",
+          "subdivisions": ["Korhogo", "Ferkessédougou", "Katiola", "Tanda", "Dimbokro"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Savanes",
+          "stateCode": "SA",
+          "tribes": ["Mandé", "Krou", "Akan", "Gouin"],
+          "type": "region"
+        },
+        "SUD-COMOE": {
+          "capitalCity": "Tabou",
+          "subdivisions": ["Tabou", "San Pedro", "Sassandra", "Divo", "Lakota"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Sud-Comoe",
+          "stateCode": "SU",
+          "tribes": ["Krou", "Akan", "Mandé", "Gouin"],
+          "type": "region"
+        },
+        "WORODOUGOU": {
+          "capitalCity": "Korhogo",
+          "subdivisions": ["Korhogo", "Ferkessédougou", "Katiola", "Tanda", "Dimbokro"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Worodougou",
+          "stateCode": "WO",
+          "tribes": ["Mandé", "Krou", "Akan", "Gouin"],
+          "type": "region"
+        }
+    }  
+}

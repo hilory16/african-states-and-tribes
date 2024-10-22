@@ -1,130 +1,125 @@
+
 {
-    "BF": {
-      "BUBANZA": {
-        "capitalCity": "Kigali",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Bubanza",
-        "stateCode": "BU",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "BUJUMBURA MAIRIE": {
-        "capitalCity": "Bujumbura",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Bujumbura Mairie",
-        "stateCode": "BM",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "BUJUMBURA RURAL": {
-        "capitalCity": "Isale",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Bujumbura Rural",
-        "stateCode": "BR",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "BURIRI": {
-        "capitalCity": "Bururi",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Bururi",
-        "stateCode": "BU",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "Cibitoke": {
-        "capitalCity": "Cibitoke",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Cibitoke",
-        "stateCode": "CI",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "GITEGA": {
-        "capitalCity": "Gitega",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Gitega",
-        "stateCode": "GI",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "KARUZI": {
-        "capitalCity": "Karuzi",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Karuzi",
-        "stateCode": "KA",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "KAYANZA": {
-        "capitalCity": "Kayanza",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Kayanza",
-        "stateCode": "KY",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "KIRUNDO": {
-        "capitalCity": "Kirundo",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Kirundo",
-        "stateCode": "KI",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "MAKAMBA": {
-        "capitalCity": "Makamba",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Makamba",
-        "stateCode": "MA",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "MURAMVYA ":{
-        "capitalCity": "Muramvya",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Muramvya",
-        "stateCode": "MU",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "MUYINGA": {
-        "capitalCity": "Muyinga",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Muyinga",
-        "stateCode": "MY",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "NGOZI": {
-        "capitalCity": "Ngozi",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Ngozi",
-        "stateCode": "NG",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      },
-      "RUYIGI": {
-        "capitalCity": "Ruyigi",
-        "geoPoliticalZone":"",
-        "location":"",
-        "name": "Ruyigi",
-        "stateCode": "RU",
-        "tribes": ["Hutu", "Tutsi", "Twa"],
-        "type": "province"
-      }
-    }
+    "BF":{
+        "BOUCLE DU MOUHOUN": {
+          "capitalCity": "Dédougou",
+          "subdivisions": ["Dédougou", "Nouna", "Solenzo", "Tougan"],
+          "geoPoliticalZone": "North West",
+          "location": "North West",
+          "name": "Boucle du Mouhoun",
+          "stateCode": "BM",
+          "tribes": ["Mossi", "Gourmantché", "Bobo"],
+          "type": "region"
+        },
+        "CASCADES": {
+          "capitalCity": "Banfora",
+          "subdivisions": ["Banfora", "Léo", "Manga", "Poni"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Cascades",
+          "stateCode": "CA",
+          "tribes": ["Bobo", "Mossi", "Gourmantché"],
+          "type": "region"
+        },
+        "CENTRE": {
+          "capitalCity": "Ouagadougou",
+          "subdivisions": ["Ouagadougou", "Kadiogo", "Oubritenga", "Kourwéogo"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Centre",
+          "stateCode": "CE",
+          "tribes": ["Mossi", "Gourmantché", "Fulani"],
+          "type": "region"
+        },
+        "CENTRE-NORD": {
+          "capitalCity": "Kaya",
+          "subdivisions": ["Kaya", "Sanmatenga", "Namentenga", "Boussé"],
+          "geoPoliticalZone": "Central North",
+          "location": "Central North",
+          "name": "Centre-Nord",
+          "stateCode": "CN",
+          "tribes": ["Mossi", "Gourmantché", "Fulani"],
+          "type": "region"
+        },
+        "CENTRE-OUEST": {
+          "capitalCity": "Koudougou",
+          "subdivisions": ["Koudougou", "Boulkiemdé", "Sourgou", "Oubritenga"],
+          "geoPoliticalZone": "Central West",
+          "location": "Central West",
+          "name": "Centre-Ouest",
+          "stateCode": "CO",
+          "tribes": ["Mossi", "Gourmantché", "Fulani"],
+          "type": "region"
+        },
+        "CENTRE-EST": {
+          "capitalCity": "Tenkodogo",
+          "subdivisions": ["Tenkodogo", "Bittou", "Koulpélogo", "Zoundwéogo"],
+          "geoPoliticalZone": "Central East",
+          "location": "Central East",
+          "name": "Centre-Est",
+          "stateCode": "CE",
+          "tribes": ["Mossi", "Gourmantché", "Bobo"],
+          "type": "region"
+        },
+        "CENTRE-SUD": {
+          "capitalCity": "Manga",
+          "subdivisions": ["Manga", "Zoundwéogo", "Bourzanga", "Namentenga"],
+          "geoPoliticalZone": "Central South",
+          "location": "Central South",
+          "name": "Centre-Sud",
+          "stateCode": "CS",
+          "tribes": ["Mossi", "Fulani", "Gourmantché"],
+          "type": "region"
+        },
+        "EST": {
+          "capitalCity": "Fada N'gourma",
+          "subdivisions": ["Fada N'gourma", "Gourma", "Namentenga"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "Est",
+          "stateCode": "ES",
+          "tribes": ["Mossi", "Gourmantché", "Fulani"],
+          "type": "region"
+        },
+        "HAUTS-BASSINS": {
+          "capitalCity": "Bobo-Dioulasso",
+          "subdivisions": ["Bobo-Dioulasso", "Kongoussi", "Nouna", "Solenzo"],
+          "geoPoliticalZone": "West",
+          "location": "West",
+          "name": "Hauts-Bassins",
+          "stateCode": "HB",
+          "tribes": ["Mossi", "Bobo", "Fulani", "Gourmantché"],
+          "type": "region"
+        },
+        "NORD": {
+          "capitalCity": "Dori",
+          "subdivisions": ["Dori", "Yagha", "Seno", "Oursi"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Nord",
+          "stateCode": "NO",
+          "tribes": ["Mossi", "Gourmantché", "Fulani"],
+          "type": "region"
+        },
+        "SAHEL": {
+          "capitalCity": "Gorom-Gorom",
+          "subdivisions": ["Gorom-Gorom", "Oursi", "Seno", "Yagha"],
+          "geoPoliticalZone": "North East",
+          "location": "North East",
+          "name": "Sahel",
+          "stateCode": "SH",
+          "tribes": ["Mossi", "Fulani", "Gourmantché"],
+          "type": "region"
+        },
+        "SUD-OUEST": {
+          "capitalCity": "Gaoua",
+          "subdivisions": ["Gaoua", "Batié", "Dano", "Pô"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Sud-Ouest",
+          "stateCode": "SO",
+          "tribes": ["Mossi", "Fulani", "Gourmantché"],
+          "type": "region"
+        }
+    }            
 }

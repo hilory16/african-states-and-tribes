@@ -1,0 +1,164 @@
+{
+    "GH":{
+        "AHAFO REGION": {
+            "capitalCity": "Goaso",
+            "subdivisions": ["Asunafo North", "Asunafo South", "Asutifi North", "Asutifi South", "Tano North", "Tano South"],
+            "geoPoliticalZone": "Central",
+            "location": "Central Ghana",
+            "name": "Ahafo",
+            "stateCode": "AHR",
+            "tribes": ["Akan", "Brong", "Ewe"],
+            "type": "region"
+        },
+        "ASHANTI": {
+            "capitalCity": "Kumasi",
+            "subdivisions": ["Adansi North", "Adansi South", "Afigya Sekyere", "Ahafo Ano North", "Ahafo Ano South", "Asante Akim Central", "Asante Akim North", "Asante Akim South", "Bantama", "Bekwai", "Bosome Freho", "Bosomtwe", "Kwabre East", "Obuasi East", "Obuasi West", "Offinso North", "Offinso South", "Sekyere Afram Plains", "Sekyere Central", "Sekyere East", "Amansie Central", "Amansie South", "Amansie West"],
+            "geoPoliticalZone": "Central",
+            "location": "Central Ghana",
+            "name": "Ashanti",
+            "stateCode": "AR",
+            "tribes": ["Akan", "Ashanti", "Fante", "Akuapem", "Akyem", "Brong", "Ewe"],
+            "type": "region"
+        },
+        "BONO EAST": {
+            "capitalCity": "Techiman",
+            "subdivisions": ["Techiman", "Nkoranza North", "Nkoranza South", "Kintampo North", "Kintampo South", "Pru East", "Pru West"],
+            "geoPoliticalZone": "Central",
+            "location": "Central Ghana",
+            "name": "Bono East",
+            "stateCode": "BER",
+            "tribes": ["Akan", "Bono", "Ewe", "Guang"],
+            "type": "region"
+        },
+        "BRONG-AHAFO": {
+            "capitalCity": "Sunyani",
+            "subdivisions": ["Berekum", "Nkoranza", "Sunyani", "Dormaa", "Techiman"],
+            "geoPoliticalZone": "",
+            "location": "Central",
+            "name": "Brong-Ahafo",
+            "stateCode": "BA",
+            "tribes": ["Bono", "Akan"],
+            "type": "region"
+        },
+        "CENTRAL": {
+            "capitalCity": "Cape Coast",
+            "subdivisions": ["Abura-Asebu-Kwamankese", "Awutu Senya East", "Awutu Senya West", "Cape Coast", "Efutu", "Gomoa Central", "Gomoa East", "Gomoa West", "Kwahuman", "Mfantseman", "Twifo Atti-Morkwa", "Assin North", "Assin South"],
+            "geoPoliticalZone": "Southern",
+            "location": "Southern Ghana",
+            "name": "Central",
+            "stateCode": "CR",
+            "tribes": ["Akan", "Fante", "Ewe", "Guan"],
+            "type": "region"
+        },
+        "EASTERN": {
+            "capitalCity": "Koforidua",
+            "subdivisions": ["Abuakwa South", "Abuakwa North", "Asuogyaman", "Birim North", "Birim South", "New Juaben South", "New Juaben North", "Kwahu East", "Kwahu North", "Kwahu South", "Suhum", "Nsawam/Adoagyiri", "Akuapem North", "Akuapem South", "Brewaniase", "Nkawkaw"],
+            "geoPoliticalZone": "Southern",
+            "location": "Southern Ghana",
+            "name": "Eastern",
+            "stateCode": "ER",
+            "tribes": ["Akan", "Akuapem", "Akyem", "Ewe", "Guan"],
+            "type": "region"
+        },
+        "GREATER ACCRA": {
+            "capitalCity": "Accra",
+            "subdivisions": ["Ablekuma Central", "Ablekuma North", "Ablekuma West", "Adenta", "Ashaiman", "Ayawaso Central", "Ayawaso East", "Ayawaso West", "La Dade Kotopon", "La Nkwantanang Madina", "Okaikwei North", "Okaikwei South", "Tema", "Ningo Prampram", "Kpone Katamanso"],
+            "geoPoliticalZone": "Southern",
+            "location": "Southern Ghana",
+            "name": "Greater Accra",
+            "stateCode": "GAR",
+            "tribes": ["Akan", "Ewe", "Ga", "Dangme", "Fante"],
+            "type": "region"
+        },
+        "NORTH EAST": {
+            "capitalCity": "Nalerigu",
+            "subdivisions": ["Nalerigu", "Yunyoo", "Bunkpurugu"],
+            "geoPoliticalZone": "",
+            "location": "Northeast",
+            "name": "North East",
+            "stateCode": "NE",
+            "tribes": ["Mamprusi", "Nanumba"],
+            "type": "region"
+        },
+        "NORTHERN": {
+            "capitalCity": "Tamale",
+            "subdivisions": ["Savelugu", "Tamale Metropolis", "Tolon", "Gushegu", "Karaga", "Kpandai", "Bole", "Daboya", "Nanton", "Navorongo", "Sagnarigu", "Walewale", "Yendi", "Zabzugu"],
+            "geoPoliticalZone": "Northern",
+            "location": "Northern Ghana",
+            "name": "Northern",
+            "stateCode": "NR",
+            "tribes": ["Dagbani", "Nanumba", "Kusaal", "Bimoba", "Mamprusi"],
+            "type": "region"
+        },
+        "OTI": {
+            "capitalCity": "Dambai",
+            "subdivisions": ["Dambai", "Nkwanta South", "Biakoye"],
+            "geoPoliticalZone": "",
+            "location": "Northeast",
+            "name": "Oti",
+            "stateCode": "OT",
+            "tribes": ["Ewe", "Akan"],
+            "type": "region"
+        },
+        "SAVANNAH": {
+            "capitalCity": "Damongo",
+            "subdivisions": ["Damongo", "Bole", "Sawla-Tuna-Kalba"],
+            "geoPoliticalZone": "",
+            "location": "North",
+            "name": "Savannah",
+            "stateCode": "SV",
+            "tribes": ["Gonja"],
+            "type": "region"
+        },
+        "UPPER EAST": {
+            "capitalCity": "Bolgatanga",
+            "subdivisions": ["Bawku", "Bolgatanga", "Bongo", "Kassena Nankana East", "Kassena Nankana West", "Talensi", "Tongo"],
+            "geoPoliticalZone": "Northern",
+            "location": "Northern Ghana",
+            "name": "Upper East",
+            "stateCode": "UER",
+            "tribes": ["Frafra", "Nankani", "Buli", "Bawku", "Kusasi"],
+            "type": "region"
+        },
+        "UPPER WEST": {
+            "capitalCity": "Wa",
+            "subdivisions": ["Nadowli-Kaleo", "Wa East", "Wa West", "Wa", "Sissala East", "Sissala West", "Jirapa", "Lawra"],
+            "geoPoliticalZone": "Northern",
+            "location": "Northern Ghana",
+            "name": "Upper West",
+            "stateCode": "UWR",
+            "tribes": ["Sissala", "Dagaaba", "Wala", "Frafra"],
+            "type": "region"
+        },
+        "VOLTA": {
+            "capitalCity": "Ho",
+            "subdivisions": ["Ho", "Ho West", "Afadjato South", "Ketu North", "Ketu South", "Kpassa", "Nkwanta North", "Nkwanta South", "Gushegu", "Krachi East", "Krachi West", "Dambai"],
+            "geoPoliticalZone": "Southern",
+            "location": "Eastern Ghana",
+            "name": "Volta",
+            "stateCode": "VR",
+            "tribes": ["Ewe", "Akan", "Dangme", "Guang"],
+            "type": "region"
+        },
+        "WESTERN": {
+            "capitalCity": "Sekondi-Takoradi",
+            "subdivisions": ["Amenfi East", "Amenfi West", "Essikado-Ketan", "Effia-Kwesimintsim", "Sekondi-Takoradi", "Shama", "Mpohor", "Prestea-Huni Valley", "Tarkwa-Nsuaem", "Wassa East", "Wassa West", "Bogoso"],
+            "geoPoliticalZone": "Western",
+            "location": "Western Ghana",
+            "name": "Western",
+            "stateCode": "WR",
+            "tribes": ["Akan", "Ewe", "Fante", "Guan"],
+            "type": "region"
+        },
+        "WESTERN NORTH": {
+            "capitalCity": "Sefwi Wiawso",
+            "subdivisions": ["Aowin", "Bia West", "Bia East", "Bodi", "Sefwi Akontombra", "Sefwi Wiawso", "Sefwi Anhwiaso"],
+            "geoPoliticalZone": "Western",
+            "location": "Western Ghana",
+            "name": "Western North",
+            "stateCode": "WNR",
+            "tribes": ["Akan", "Sefwi", "Bono"],
+            "type": "region"
+        }
+    }
+}

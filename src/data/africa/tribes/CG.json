@@ -1,0 +1,124 @@
+{
+    "CG":{
+        "BOUENZA": {
+          "capitalCity": "Madingou",
+          "subdivisions": ["Loudima", "Nkayi", "Mouyondzi", "Madingou"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Bouenza",
+          "stateCode": "BZ",
+          "tribes": ["Teke", "Kongo", "Vili", "Lari", "Sundi"],
+          "type": "province"
+        },
+        "BRAZZAVILLE": {
+          "capitalCity": "Brazzaville",
+          "subdivisions": ["Makélékélé", "Bacongo", "Poto-Poto", "Moungali", "Talangaï", "Mfilou"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Brazzaville",
+          "stateCode": "BZV",
+          "tribes": ["Kongo", "Teke", "Mbochi", "Lari", "Punu"],
+          "type": "province"
+        },
+        "CUVETTE": {
+          "capitalCity": "Owando",
+          "subdivisions": ["Makoua", "Oyo", "Owando", "Mossaka"],
+          "geoPoliticalZone": "",
+          "location": "North-Central",
+          "name": "Cuvette",
+          "stateCode": "CV",
+          "tribes": ["Mbochi", "Teke", "Makaa", "Kouyou"],
+          "type": "province"
+        },
+        "CUVETTE-OUEST": {
+          "capitalCity": "Ewo",
+          "subdivisions": ["Ewo", "Kelle", "Mbama"],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Cuvette-Ouest",
+          "stateCode": "CO",
+          "tribes": ["Teke", "Mbochi", "Mbama", "Kota"],
+          "type": "province"
+        },
+        "KOUILOU": {
+          "capitalCity": "Pointe-Noire",
+          "subdivisions": ["Hinda", "Madingo-Kayes", "Loango"],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Kouilou",
+          "stateCode": "KL",
+          "tribes": ["Vili", "Kongo", "Sundi", "Lari"],
+          "type": "province"
+        },
+        "LEKOUMOU": {
+          "capitalCity": "Sibiti",
+          "subdivisions": ["Sibiti", "Komono", "Zanaga"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Lekoumou",
+          "stateCode": "LK",
+          "tribes": ["Kongo", "Sundi", "Lari", "Nzabi"],
+          "type": "province"
+        },
+        "LIKOUALA": {
+          "capitalCity": "Impfondo",
+          "subdivisions": ["Impfondo", "Dongou", "Epena"],
+          "geoPoliticalZone": "",
+          "location": "North-East",
+          "name": "Likouala",
+          "stateCode": "LK",
+          "tribes": ["Bantu", "Baka", "Mbochi", "Bondjagui"],
+          "type": "province"
+        },
+        "NIARI": {
+          "capitalCity": "Dolisie",
+          "subdivisions": ["Dolisie", "Mossendjo", "Loudima", "Moutamba"],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Niari",
+          "stateCode": "NR",
+          "tribes": ["Kongo", "Sundi", "Vili", "Lari"],
+          "type": "province"
+        },
+        "PLATEAUX": {
+          "capitalCity": "Djambala",
+          "subdivisions": ["Djambala", "Gamboma", "Lekana"],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Plateaux",
+          "stateCode": "PL",
+          "tribes": ["Teke", "Mbochi", "Kota", "Mbama"],
+          "type": "province"
+        },
+        "POINTE-NOIRE": {
+          "capitalCity": "Pointe-Noire",
+          "subdivisions": ["Tié-Tié", "Loandjili", "Mvoumvou"],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Pointe-Noire",
+          "stateCode": "PN",
+          "tribes": ["Vili", "Kongo", "Yombe", "Lari"],
+          "type": "province"
+        },
+        "POOL": {
+          "capitalCity": "Kinkala",
+          "subdivisions": ["Kinkala", "Mindouli", "Mbanza-Ndounga"],
+          "geoPoliticalZone": "",
+          "location": "South",
+          "name": "Pool",
+          "stateCode": "PL",
+          "tribes": ["Lari", "Kongo", "Teke", "Sundi"],
+          "type": "province"
+        },
+        "SANGHA": {
+          "capitalCity": "Ouésso",
+          "subdivisions": ["Ouésso", "Makoua", "Sembe", "Souanké"],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Sangha",
+          "stateCode": "SG",
+          "tribes": ["Mbochi", "Sangha", "Baka", "Mbama"],
+          "type": "province"
+        }
+    }  
+}

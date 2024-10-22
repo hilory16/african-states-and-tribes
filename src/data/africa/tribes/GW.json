@@ -1,0 +1,94 @@
+{
+    "GW":{
+        "BISSAU": {
+            "capitalCity": "Bissau",
+            "subdivisions": ["Bissau", "Bissau Velho", "Bissau Novo"],
+            "geoPoliticalZone": "Western Guinea-Bissau",
+            "location": "Coastal Guinea-Bissau",
+            "name": "Bissau",
+            "stateCode": "BG",
+            "tribes": ["Balanta", "Fula", "Manjaco", "Pepel"],
+            "type": "region"
+        },
+        "BAFATÁ": {
+            "capitalCity": "Bafata",
+            "subdivisions": ["Bafata", "Gabu", "Tchicunda"],
+            "geoPoliticalZone": "Central Guinea-Bissau",
+            "location": "Central Guinea-Bissau",
+            "name": "Bafata",
+            "stateCode": "BF",
+            "tribes": ["Balanta", "Fula"],
+            "type": "region"
+        },
+        "GABÚ": {
+            "capitalCity": "Gabu",
+            "subdivisions": ["Gabu", "Piche", "Samba de Mande"],
+            "geoPoliticalZone": "Eastern Guinea-Bissau",
+            "location": "Eastern Guinea-Bissau",
+            "name": "Gabu",
+            "stateCode": "GB",
+            "tribes": ["Fula", "Mandinga"],
+            "type": "region"
+        },
+        "CACHEU": {
+            "capitalCity": "Cacheu",
+            "subdivisions": ["Cacheu", "Canghande", "Mansoa"],
+            "geoPoliticalZone": "Northern Guinea-Bissau",
+            "location": "Northern Guinea-Bissau",
+            "name": "Cacheu",
+            "stateCode": "CC",
+            "tribes": ["Pepel", "Manjaco"],
+            "type": "region"
+        },
+        "OIO": {
+            "capitalCity": "Farim",
+            "subdivisions": ["Farim", "Mansoa", "Nhacra"],
+            "geoPoliticalZone": "Northern Guinea-Bissau",
+            "location": "Northern Guinea-Bissau",
+            "name": "Oio",
+            "stateCode": "OI",
+            "tribes": ["Manjaco", "Balanta"],
+            "type": "region"
+        },
+        "TOMBALI": {
+            "capitalCity": "Tombali",
+            "subdivisions": ["Tombali", "Buba"],
+            "geoPoliticalZone": "Southern Guinea-Bissau",
+            "location": "Southern Guinea-Bissau",
+            "name": "Tombali",
+            "stateCode": "TB",
+            "tribes": ["Balanta", "Pepel"],
+            "type": "region"
+        },
+        "QUINARA": {
+            "capitalCity": "Quinara",
+            "subdivisions": ["Quinara", "Cacine"],
+            "geoPoliticalZone": "Southern Guinea-Bissau",
+            "location": "Southern Guinea-Bissau",
+            "name": "Quinara",
+            "stateCode": "QN",
+            "tribes": ["Pepel", "Balanta"],
+            "type": "region"
+        },
+        "BIOMBO": {
+            "capitalCity": "Biombo",
+            "subdivisions": ["Biombo", "Bubaque", "Bolama"],
+            "geoPoliticalZone": "Islands",
+            "location": "Southern Guinea-Bissau",
+            "name": "Biombo",
+            "stateCode": "BM",
+            "tribes": ["Pepel", "Balanta"],
+            "type": "region"
+        },
+        "BOLAMA": {
+            "capitalCity": "Bolama",
+            "subdivisions": ["Bolama", "Bijagós"],
+            "geoPoliticalZone": "Islands",
+            "location": "Southern Guinea-Bissau",
+            "name": "Bolama",
+            "stateCode": "BL",
+            "tribes": ["Bijagó", "Pepel"],
+            "type": "region"
+        }
+    }    
+}
