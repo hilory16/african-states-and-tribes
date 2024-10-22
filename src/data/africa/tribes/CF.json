@@ -2,7 +2,7 @@
     "CF":{
         "BAMINGUI-BANGORAN": {
           "capitalCity": "Ndélé",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Bamingui-Bangoran",
@@ -12,7 +12,7 @@
         },
         "BANGUI": {
             "capitalCity": "Bangui",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "",
             "location": "Central",
             "name": "Bangui",
@@ -22,7 +22,7 @@
         },
         "BASSE-KOTTO": {
           "capitalCity": "Mobaye",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Basse-Kotto",
@@ -32,7 +32,7 @@
         },
         "GRÉBIZI": {
             "capitalCity": "Ndémé",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "",
             "location": "North",
             "name": "Grébizi",
@@ -42,7 +42,7 @@
         },
         "HAUT-MBOMOU": {
           "capitalCity": "Obo",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Haut-Mbomou",
@@ -52,7 +52,7 @@
         },
         "HAUTE-KOTTO": {
           "capitalCity": "Bria",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "Central-East",
           "name": "Haute-Kotto",
@@ -62,7 +62,7 @@
         },
         "HAUTE-SANGHA": {
             "capitalCity": "Ndjandja",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "",
             "location": "West",
             "name": "Haute-Sangha",
@@ -72,7 +72,7 @@
         },
         "KÉMO": {
           "capitalCity": "Sibut",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Kémo",
@@ -82,7 +82,7 @@
         },
         "KOUÉMO": {
             "capitalCity": "Gadoui",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "",
             "location": "South-East",
             "name": "Kouémo",
@@ -92,7 +92,7 @@
         },
         "LOBAYE": {
           "capitalCity": "Mbaïki",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Lobaye",
@@ -102,7 +102,7 @@
         },
         "MBOMOU": {
           "capitalCity": "Bangassou",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Mbomou",
@@ -112,7 +112,7 @@
         },
         "MAMBÉRÉ-KADÉÏ": {
             "capitalCity": "Berbérati",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "",
             "location": "West",
             "name": "Mambéré-Kadéï",
@@ -122,7 +122,7 @@
         },
         "NANA-GRÉBIZI": {
           "capitalCity": "Kaga-Bandoro",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "Central-North",
           "name": "Nana-Grébizi",
@@ -132,7 +132,7 @@
         },
         "NANA-MAMBÉRÉ": {
           "capitalCity": "Bouar",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Nana-Mambéré",
@@ -142,7 +142,7 @@
         },
         "OMBELLA-M'POKO": {
             "capitalCity": "Bimbo",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "",
             "location": "Central-South",
             "name": "Ombella-M'Poko",
@@ -152,7 +152,7 @@
         },
         "OUAKA": {
           "capitalCity": "Bambari",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Ouaka",
@@ -162,7 +162,7 @@
         },
         "OUHAM": {
           "capitalCity": "Bossangoa",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Ouham",
@@ -172,7 +172,7 @@
         },
         "OUHAM-PENDÉ": {
           "capitalCity": "Bozoum",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Ouham-Pendé",
@@ -182,7 +182,7 @@
         },
         "SANGHA-MBAÉRÉ": {
             "capitalCity": "Nola",
-            "districts": [],
+            "subdivisions": [],
             "geoPoliticalZone": "",
             "location": "South-West",
             "name": "Sangha-Mbaéré",
@@ -192,7 +192,7 @@
         },
         "VAKAGA": {
           "capitalCity": "Birao",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "North-East",
           "name": "Vakaga",

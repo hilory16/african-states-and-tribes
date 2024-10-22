@@ -2,7 +2,7 @@
     "LR":{
         "BOMI": {
           "capitalCity": "Tubmanburg",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Bomi",
@@ -12,7 +12,7 @@
         },
         "BONG": {
           "capitalCity": "Gbarnga",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Bong",
@@ -22,7 +22,7 @@
         },
         "GBARPOLU": {
           "capitalCity": "Bopolu",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Gbarpolu",
@@ -32,7 +32,7 @@
         },
         "GRAND BASSA": {
           "capitalCity": "Buchanan",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-Central",
           "name": "Grand Bassa",
@@ -42,7 +42,7 @@
         },
         "GRAND CAPE MOUNT": {
           "capitalCity": "Robertsport",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Grand Cape Mount",
@@ -52,7 +52,7 @@
         },
         "GRAND GEDEH": {
           "capitalCity": "Zwedru",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Grand Gedeh",
@@ -62,7 +62,7 @@
         },
         "GRAND KRU": {
           "capitalCity": "Barclayville",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Grand Kru",
@@ -72,7 +72,7 @@
         },
         "LOFA": {
           "capitalCity": "Voinjama",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Lofa",
@@ -82,7 +82,7 @@
         },
         "MARGIBI": {
           "capitalCity": "Kakata",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Margibi",
@@ -92,7 +92,7 @@
         },
         "MARYLAND": {
           "capitalCity": "Harper",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Maryland",
@@ -102,7 +102,7 @@
         },
         "MONTSERRADO": {
           "capitalCity": "Bensonville",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "Central-West",
           "name": "Montserrado",
@@ -112,7 +112,7 @@
         },
         "NIMBA": {
           "capitalCity": "Sanniquellie",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "North-East",
           "name": "Nimba",
@@ -122,7 +122,7 @@
         },
         "RIVER CESS": {
           "capitalCity": "Cestos",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-Central",
           "name": "River Cess",
@@ -132,7 +132,7 @@
         },
         "RIVER GEE": {
           "capitalCity": "Fish Town",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "River Gee",
@@ -142,7 +142,7 @@
         },
         "SINOE": {
           "capitalCity": "Greenville",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Sinoe",

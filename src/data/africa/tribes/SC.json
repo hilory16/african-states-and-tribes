@@ -2,7 +2,7 @@
     "SC":{
         "ANSE AUX PINS": {
           "capitalCity": "Anse Aux Pins",
-          "districts": ["Anse Aux Pins"],
+          "subdivisions": ["Anse Aux Pins"],
           "geoPoliticalZone": "East Mahé",
           "location": "East",
           "name": "Anse Aux Pins",
@@ -12,7 +12,7 @@
         },
         "ANSE BOILEAU": {
           "capitalCity": "Anse Boileau",
-          "districts": ["Anse Boileau"],
+          "subdivisions": ["Anse Boileau"],
           "geoPoliticalZone": "West Mahé",
           "location": "West",
           "name": "Anse Boileau",
@@ -22,7 +22,7 @@
         },
         "ANSE ETOILE": {
           "capitalCity": "Anse Etoile",
-          "districts": ["Anse Etoile"],
+          "subdivisions": ["Anse Etoile"],
           "geoPoliticalZone": "North Mahé",
           "location": "North",
           "name": "Anse Etoile",
@@ -32,7 +32,7 @@
         },
         "ANSE ROYALE": {
           "capitalCity": "Anse Royale",
-          "districts": ["Anse Royale"],
+          "subdivisions": ["Anse Royale"],
           "geoPoliticalZone": "South East Mahé",
           "location": "South East",
           "name": "Anse Royale",
@@ -42,7 +42,7 @@
         },
         "AUX CAP": {
           "capitalCity": "Aux Cap",
-          "districts": ["Aux Cap"],
+          "subdivisions": ["Aux Cap"],
           "geoPoliticalZone": "East Mahé",
           "location": "East",
           "name": "Aux Cap",
@@ -52,7 +52,7 @@
         },
         "BAIE LAZARE": {
           "capitalCity": "Baie Lazare",
-          "districts": ["Baie Lazare"],
+          "subdivisions": ["Baie Lazare"],
           "geoPoliticalZone": "South West Mahé",
           "location": "South West",
           "name": "Baie Lazare",
@@ -62,7 +62,7 @@
         },
         "BAIE STE ANNE": {
           "capitalCity": "Baie Ste Anne",
-          "districts": ["Baie Ste Anne"],
+          "subdivisions": ["Baie Ste Anne"],
           "geoPoliticalZone": "Praslin",
           "location": "North East",
           "name": "Baie Ste Anne",
@@ -72,7 +72,7 @@
         },
         "BEAU VALLON": {
           "capitalCity": "Beau Vallon",
-          "districts": ["Beau Vallon"],
+          "subdivisions": ["Beau Vallon"],
           "geoPoliticalZone": "North Mahé",
           "location": "North West",
           "name": "Beau Vallon",
@@ -82,7 +82,7 @@
         },
         "BEL AIR": {
           "capitalCity": "Bel Air",
-          "districts": ["Bel Air"],
+          "subdivisions": ["Bel Air"],
           "geoPoliticalZone": "Central Mahé",
           "location": "Central",
           "name": "Bel Air",
@@ -92,7 +92,7 @@
         },
         "BEL OMBRE": {
           "capitalCity": "Bel Ombre",
-          "districts": ["Bel Ombre"],
+          "subdivisions": ["Bel Ombre"],
           "geoPoliticalZone": "North West Mahé",
           "location": "North West",
           "name": "Bel Ombre",
@@ -102,7 +102,7 @@
         },
         "CASCADE": {
           "capitalCity": "Cascade",
-          "districts": ["Cascade"],
+          "subdivisions": ["Cascade"],
           "geoPoliticalZone": "East Mahé",
           "location": "East",
           "name": "Cascade",
@@ -112,7 +112,7 @@
         },
         "ENGLISH RIVER": {
           "capitalCity": "English River",
-          "districts": ["English River"],
+          "subdivisions": ["English River"],
           "geoPoliticalZone": "Central Mahé",
           "location": "Central",
           "name": "English River",
@@ -122,7 +122,7 @@
         },
         "GLACIS": {
           "capitalCity": "Glacis",
-          "districts": ["Glacis"],
+          "subdivisions": ["Glacis"],
           "geoPoliticalZone": "North Mahé",
           "location": "North",
           "name": "Glacis",
@@ -132,7 +132,7 @@
         },
         "GRAND ANSE MAHE": {
           "capitalCity": "Grand Anse",
-          "districts": ["Grand Anse"],
+          "subdivisions": ["Grand Anse"],
           "geoPoliticalZone": "West Mahé",
           "location": "West",
           "name": "Grand Anse Mahé",
@@ -142,7 +142,7 @@
         },
         "GRAND ANSE PRASLIN": {
           "capitalCity": "Grand Anse",
-          "districts": ["Grand Anse"],
+          "subdivisions": ["Grand Anse"],
           "geoPoliticalZone": "Praslin",
           "location": "South West",
           "name": "Grand Anse Praslin",
@@ -152,7 +152,7 @@
         },
         "ILE PERSEVERANCE": {
           "capitalCity": "Ile Perseverance",
-          "districts": ["Ile Perseverance"],
+          "subdivisions": ["Ile Perseverance"],
           "geoPoliticalZone": "Central Mahé",
           "location": "Central",
           "name": "Ile Perseverance",
@@ -162,7 +162,7 @@
         },
         "INNER ISLANDS": {
           "capitalCity": "Victoria",
-          "districts": ["La Digue", "Curieuse", "Félicité", "Silhouette", "Frégate"],
+          "subdivisions": ["La Digue", "Curieuse", "Félicité", "Silhouette", "Frégate"],
           "geoPoliticalZone": "Central Seychelles",
           "location": "Central",
           "name": "Inner Islands",
@@ -172,7 +172,7 @@
         },
         "LES MAMELLES": {
           "capitalCity": "Les Mamelles",
-          "districts": ["Les Mamelles"],
+          "subdivisions": ["Les Mamelles"],
           "geoPoliticalZone": "East Mahé",
           "location": "East",
           "name": "Les Mamelles",
@@ -182,7 +182,7 @@
         },
         "MONT BUXTON": {
           "capitalCity": "Mont Buxton",
-          "districts": ["Mont Buxton"],
+          "subdivisions": ["Mont Buxton"],
           "geoPoliticalZone": "Central Mahé",
           "location": "Central",
           "name": "Mont Buxton",
@@ -192,7 +192,7 @@
         },
         "MONT FLEURI": {
           "capitalCity": "Mont Fleuri",
-          "districts": ["Mont Fleuri"],
+          "subdivisions": ["Mont Fleuri"],
           "geoPoliticalZone": "Central Mahé",
           "location": "Central",
           "name": "Mont Fleuri",
@@ -202,7 +202,7 @@
         },
         "OUTER ISLANDS": {
           "capitalCity": "Victoria",
-          "districts": ["Aldabra", "Amirantes", "Cosmoledo", "Farquhar", "Desroches", "Alphonse"],
+          "subdivisions": ["Aldabra", "Amirantes", "Cosmoledo", "Farquhar", "Desroches", "Alphonse"],
           "geoPoliticalZone": "Outer Seychelles",
           "location": "West",
           "name": "Outer Islands",
@@ -212,7 +212,7 @@
         },
         "POINTE LARUE": {
           "capitalCity": "Pointe Larue",
-          "districts": ["Pointe Larue"],
+          "subdivisions": ["Pointe Larue"],
           "geoPoliticalZone": "East Mahé",
           "location": "East",
           "name": "Pointe Larue",
@@ -222,7 +222,7 @@
         },
         "PORT GLAUD": {
           "capitalCity": "Port Glaud",
-          "districts": ["Port Glaud"],
+          "subdivisions": ["Port Glaud"],
           "geoPoliticalZone": "West Mahé",
           "location": "West",
           "name": "Port Glaud",
@@ -232,7 +232,7 @@
         },
         "ROCHE CAIMAN": {
           "capitalCity": "Roche Caiman",
-          "districts": ["Roche Caiman"],
+          "subdivisions": ["Roche Caiman"],
           "geoPoliticalZone": "East Mahé",
           "location": "East",
           "name": "Roche Caiman",
@@ -242,7 +242,7 @@
         },
         "SAINTE LOUIS": {
           "capitalCity": "Sainte Louis",
-          "districts": ["Sainte Louis"],
+          "subdivisions": ["Sainte Louis"],
           "geoPoliticalZone": "Central Mahé",
           "location": "Central",
           "name": "Sainte Louis",
@@ -252,7 +252,7 @@
         },
         "TAKAMAKA": {
           "capitalCity": "Takamaka",
-          "districts": ["Takamaka"],
+          "subdivisions": ["Takamaka"],
           "geoPoliticalZone": "South Mahé",
           "location": "South",
           "name": "Takamaka",

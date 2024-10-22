@@ -2,7 +2,7 @@
     "MZ":{
         "BLACK RIVER": {
           "capitalCity": "Bambous",
-          "districts": ["Albion", "Cascavelle", "Flic en Flac", "Tamarin", "Grande Rivière Noire", "Le Morne"],
+          "subdivisions": ["Albion", "Cascavelle", "Flic en Flac", "Tamarin", "Grande Rivière Noire", "Le Morne"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Black River",
@@ -12,7 +12,7 @@
         },
         "FLACQ": {
           "capitalCity": "Centre de Flacq",
-          "districts": ["Bel Air", "Camp de Masque", "Trou d'Eau Douce", "Roches Noires", "Poste de Flacq"],
+          "subdivisions": ["Bel Air", "Camp de Masque", "Trou d'Eau Douce", "Roches Noires", "Poste de Flacq"],
           "geoPoliticalZone": "",
           "location": "East",
           "name": "Flacq",
@@ -22,7 +22,7 @@
         },
         "GRAND PORT": {
           "capitalCity": "Mahebourg",
-          "districts": ["Vieux Grand Port", "Old Grand Port", "Plaine Magnien", "Mahebourg", "Blue Bay"],
+          "subdivisions": ["Vieux Grand Port", "Old Grand Port", "Plaine Magnien", "Mahebourg", "Blue Bay"],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Grand Port",
@@ -32,7 +32,7 @@
         },
         "MOKA": {
           "capitalCity": "Moka",
-          "districts": ["Montagne Ory", "Saint Pierre", "Pailles", "Bagatelle", "Eureka"],
+          "subdivisions": ["Montagne Ory", "Saint Pierre", "Pailles", "Bagatelle", "Eureka"],
           "geoPoliticalZone": "",
           "location": "Center",
           "name": "Moka",
@@ -42,7 +42,7 @@
         },
         "PAMPLEMOUSSES": {
           "capitalCity": "Triolet",
-          "districts": ["Triolet", "Pointe aux Piments", "Balaclava", "Bois Rouge", "Beau Plan"],
+          "subdivisions": ["Triolet", "Pointe aux Piments", "Balaclava", "Bois Rouge", "Beau Plan"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Pamplemousses",
@@ -52,7 +52,7 @@
         },
         "PLAINE WILHEMS": {
           "capitalCity": "Beau Bassin-Rose Hill",
-          "districts": ["Curepipe", "Quatre Bornes", "Vacoas-Phoenix", "Beau Bassin-Rose Hill"],
+          "subdivisions": ["Curepipe", "Quatre Bornes", "Vacoas-Phoenix", "Beau Bassin-Rose Hill"],
           "geoPoliticalZone": "",
           "location": "Center",
           "name": "Plaine Wilhems",
@@ -62,7 +62,7 @@
         },
         "PORT LOUIS": {
           "capitalCity": "Port Louis",
-          "districts": ["Caudan", "Champ de Mars", "Les Salines", "Plaine Verte", "Cité Vallijee"],
+          "subdivisions": ["Caudan", "Champ de Mars", "Les Salines", "Plaine Verte", "Cité Vallijee"],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Port Louis",
@@ -72,7 +72,7 @@
         },
         "RIVIERE DU REMPART": {
           "capitalCity": "Mapou",
-          "districts": ["Cap Malheureux", "Grand Baie", "Goodlands", "Petit Raffray"],
+          "subdivisions": ["Cap Malheureux", "Grand Baie", "Goodlands", "Petit Raffray"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Rivière du Rempart",
@@ -82,7 +82,7 @@
         },
         "SAVANNE": {
           "capitalCity": "Souillac",
-          "districts": ["Bel Ombre", "Surinam", "Riambel", "Saint Felix", "Chemin Grenier"],
+          "subdivisions": ["Bel Ombre", "Surinam", "Riambel", "Saint Felix", "Chemin Grenier"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Savanne",
@@ -92,7 +92,7 @@
         },
         "RODRIGUES": {
           "capitalCity": "Port Mathurin",
-          "districts": ["Port Mathurin", "Baie aux Huitres", "Coromandel", "Mount Lubin", "La Ferme"],
+          "subdivisions": ["Port Mathurin", "Baie aux Huitres", "Coromandel", "Mount Lubin", "La Ferme"],
           "geoPoliticalZone": "",
           "location": "East of Mauritius",
           "name": "Rodrigues",

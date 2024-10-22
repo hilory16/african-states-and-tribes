@@ -2,7 +2,7 @@
     "TZ": {
       "ARUSHA": {
           "capitalCity": "Arusha",
-          "districts": ["Arusha", "Meru", "Longido", "Ngorongoro", "Karatu", "Arusha City"],
+          "subdivisions": ["Arusha", "Meru", "Longido", "Ngorongoro", "Karatu", "Arusha City"],
           "geoPoliticalZone": "Northern",
           "location": "North Central",
           "name": "Arusha",
@@ -12,7 +12,7 @@
       },
       "DAR ES SALAAM": {
           "capitalCity": "Dar es Salaam",
-          "districts": ["Ilala", "Kinondoni", "Temeke", "Dodoma"],
+          "subdivisions": ["Ilala", "Kinondoni", "Temeke", "Dodoma"],
           "geoPoliticalZone": "Eastern",
           "location": "Coastal",
           "name": "Dar es Salaam",
@@ -22,7 +22,7 @@
       },
       "DODOMA": {
           "capitalCity": "Dodoma",
-          "districts": ["Dodoma Urban", "Dodoma Rural", "Bahi", "Chamwino", "Mpwapwa"],
+          "subdivisions": ["Dodoma Urban", "Dodoma Rural", "Bahi", "Chamwino", "Mpwapwa"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Dodoma",
@@ -32,7 +32,7 @@
       },
       "GIGITI": {
           "capitalCity": "Gigiti",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Gigiti",
@@ -42,7 +42,7 @@
       },
       "KAGERA": {
           "capitalCity": "Bukoba",
-          "districts": ["Bukoba", "Kagera", "Ngara", "Misenyi", "Biharamulo", "Karagwe"],
+          "subdivisions": ["Bukoba", "Kagera", "Ngara", "Misenyi", "Biharamulo", "Karagwe"],
           "geoPoliticalZone": "Lake",
           "location": "Northwest",
           "name": "Kagera",
@@ -52,7 +52,7 @@
       },
       "KILIMANJARO": {
           "capitalCity": "Moshi",
-          "districts": ["Moshi Urban", "Moshi Rural", "Hai", "Rombo", "Kilindi", "Same"],
+          "subdivisions": ["Moshi Urban", "Moshi Rural", "Hai", "Rombo", "Kilindi", "Same"],
           "geoPoliticalZone": "Northern",
           "location": "Northeast",
           "name": "Kilimanjaro",
@@ -62,7 +62,7 @@
       },
       "KIGOMA": {
           "capitalCity": "Kigoma",
-          "districts": ["Kigoma Urban", "Kigoma Rural", "Uvinza", "Buhigwe", "Kasulu"],
+          "subdivisions": ["Kigoma Urban", "Kigoma Rural", "Uvinza", "Buhigwe", "Kasulu"],
           "geoPoliticalZone": "Lake",
           "location": "Western",
           "name": "Kigoma",
@@ -72,7 +72,7 @@
       },
       "LINDI": {
           "capitalCity": "Lindi",
-          "districts": ["Lindi Rural", "Lindi Urban", "Kilwa", "Nachingwea"],
+          "subdivisions": ["Lindi Rural", "Lindi Urban", "Kilwa", "Nachingwea"],
           "geoPoliticalZone": "Southern",
           "location": "Southeast",
           "name": "Lindi",
@@ -82,7 +82,7 @@
       },
       "MANYARA": {
           "capitalCity": "Babati",
-          "districts": ["Babati", "Simanjiro", "Ngorongoro", "Kiteto"],
+          "subdivisions": ["Babati", "Simanjiro", "Ngorongoro", "Kiteto"],
           "geoPoliticalZone": "Northern",
           "location": "North Central",
           "name": "Manyara",
@@ -92,7 +92,7 @@
       },
       "MARA": {
           "capitalCity": "Musoma",
-          "districts": ["Musoma Urban", "Musoma Rural", "Bunda", "Tarime"],
+          "subdivisions": ["Musoma Urban", "Musoma Rural", "Bunda", "Tarime"],
           "geoPoliticalZone": "Lake",
           "location": "Northwest",
           "name": "Mara",
@@ -102,7 +102,7 @@
       },
       "MBEYA": {
           "capitalCity": "Mbeya",
-          "districts": ["Mbeya Urban", "Mbeya Rural", "Rungwe", "Chunya", "Mbarali"],
+          "subdivisions": ["Mbeya Urban", "Mbeya Rural", "Rungwe", "Chunya", "Mbarali"],
           "geoPoliticalZone": "Southern Highlands",
           "location": "Southwest",
           "name": "Mbeya",
@@ -112,7 +112,7 @@
       },
       "MOROGORO": {
           "capitalCity": "Morogoro",
-          "districts": ["Morogoro Urban", "Morogoro Rural", "Kilombero", "Ulanga"],
+          "subdivisions": ["Morogoro Urban", "Morogoro Rural", "Kilombero", "Ulanga"],
           "geoPoliticalZone": "Eastern",
           "location": "East Central",
           "name": "Morogoro",
@@ -122,7 +122,7 @@
       },
       "MTWARA": {
           "capitalCity": "Mtwara",
-          "districts": ["Mtwara Urban", "Mtwara Rural", "Nanyumbu", "Masasi", "Newala"],
+          "subdivisions": ["Mtwara Urban", "Mtwara Rural", "Nanyumbu", "Masasi", "Newala"],
           "geoPoliticalZone": "Southern",
           "location": "Southeast",
           "name": "Mtwara",
@@ -132,7 +132,7 @@
       },
       "NIAS": {
           "capitalCity": "Nias",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "",
           "location": "",
           "name": "Nias",
@@ -142,7 +142,7 @@
       },
       "PWANI": {
           "capitalCity": "Chalinze",
-          "districts": ["Bagamoyo", "Chalinze", "Kibaha", "Mafia"],
+          "subdivisions": ["Bagamoyo", "Chalinze", "Kibaha", "Mafia"],
           "geoPoliticalZone": "Eastern",
           "location": "Coastal",
           "name": "Pwani",
@@ -152,7 +152,7 @@
       },
       "RUKWA": {
           "capitalCity": "Sumbawanga",
-          "districts": ["Sumbawanga Urban", "Sumbawanga Rural", "Nkasi", "Kalambo"],
+          "subdivisions": ["Sumbawanga Urban", "Sumbawanga Rural", "Nkasi", "Kalambo"],
           "geoPoliticalZone": "Western",
           "location": "Southwest",
           "name": "Rukwa",
@@ -162,7 +162,7 @@
       },
       "RUVUMA": {
           "capitalCity": "Songea",
-          "districts": ["Songea Urban", "Songea Rural", "Mbinga", "Namtumbo"],
+          "subdivisions": ["Songea Urban", "Songea Rural", "Mbinga", "Namtumbo"],
           "geoPoliticalZone": "Southern",
           "location": "Southwest",
           "name": "Ruvuma",
@@ -172,7 +172,7 @@
       },
       "SHINYANGA": {
           "capitalCity": "Shinyanga",
-          "districts": ["Shinyanga Urban", "Shinyanga Rural", "Kahama"],
+          "subdivisions": ["Shinyanga Urban", "Shinyanga Rural", "Kahama"],
           "geoPoliticalZone": "Lake",
           "location": "Northwest",
           "name": "Shinyanga",
@@ -182,7 +182,7 @@
       },
       "SIMIYU": {
           "capitalCity": "Bariadi",
-          "districts": ["Bariadi", "Meatu", "Maswa"],
+          "subdivisions": ["Bariadi", "Meatu", "Maswa"],
           "geoPoliticalZone": "Lake",
           "location": "Northwest",
           "name": "Simiyu",
@@ -192,7 +192,7 @@
       },
       "TABORA": {
           "capitalCity": "Tabora",
-          "districts": ["Tabora Urban", "Tabora Rural", "Urambo", "Nzega"],
+          "subdivisions": ["Tabora Urban", "Tabora Rural", "Urambo", "Nzega"],
           "geoPoliticalZone": "Western",
           "location": "Central",
           "name": "Tabora",
@@ -202,7 +202,7 @@
       },
       "TANGA": {
           "capitalCity": "Tanga",
-          "districts": ["Tanga Urban", "Tanga Rural", "Pangani", "Muheza"],
+          "subdivisions": ["Tanga Urban", "Tanga Rural", "Pangani", "Muheza"],
           "geoPoliticalZone": "Eastern",
           "location": "Northeast",
           "name": "Tanga",

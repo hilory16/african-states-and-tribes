@@ -2,7 +2,7 @@
     "MW":{
         "BALAKA": {
           "capitalCity": "Balaka",
-          "districts": ["Balaka Town", "Ulongwe", "Namanolo", "Mponda"],
+          "subdivisions": ["Balaka Town", "Ulongwe", "Namanolo", "Mponda"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Balaka",
@@ -12,7 +12,7 @@
         },
         "BLANTYRE": {
           "capitalCity": "Blantyre",
-          "districts": ["Blantyre City", "Chirimba", "Ndirande", "Limbe", "Chilomoni"],
+          "subdivisions": ["Blantyre City", "Chirimba", "Ndirande", "Limbe", "Chilomoni"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Blantyre",
@@ -22,7 +22,7 @@
         },
         "CHIKWAWA": {
           "capitalCity": "Chikwawa",
-          "districts": ["Ngabu", "Chapananga", "Ndakwera"],
+          "subdivisions": ["Ngabu", "Chapananga", "Ndakwera"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Chikwawa",
@@ -32,7 +32,7 @@
         },
         "CHIRADZULU": {
           "capitalCity": "Chiradzulu",
-          "districts": ["Chiradzulu Town", "Mbulumbuzi", "Namadzi"],
+          "subdivisions": ["Chiradzulu Town", "Mbulumbuzi", "Namadzi"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Chiradzulu",
@@ -42,7 +42,7 @@
         },
         "DEDZA": {
           "capitalCity": "Dedza",
-          "districts": ["Dedza Town", "Linthipe", "Mtakataka"],
+          "subdivisions": ["Dedza Town", "Linthipe", "Mtakataka"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Dedza",
@@ -52,7 +52,7 @@
         },
         "DOWA": {
           "capitalCity": "Dowa",
-          "districts": ["Dowa Town", "Mponela", "Madisi"],
+          "subdivisions": ["Dowa Town", "Mponela", "Madisi"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Dowa",
@@ -62,7 +62,7 @@
         },
         "KARONGA": {
           "capitalCity": "Karonga",
-          "districts": ["Karonga Town", "Chitipa", "Wenje"],
+          "subdivisions": ["Karonga Town", "Chitipa", "Wenje"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Karonga",
@@ -72,7 +72,7 @@
         },
         "KASUNGU": {
           "capitalCity": "Kasungu",
-          "districts": ["Kasungu Town", "Nkhamenya", "Chisemphere"],
+          "subdivisions": ["Kasungu Town", "Nkhamenya", "Chisemphere"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Kasungu",
@@ -82,7 +82,7 @@
         },
         "LILONGWE": {
           "capitalCity": "Lilongwe",
-          "districts": ["Lilongwe City", "Area 25", "Kanengo", "Chinsapo", "Mitundu"],
+          "subdivisions": ["Lilongwe City", "Area 25", "Kanengo", "Chinsapo", "Mitundu"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Lilongwe",
@@ -92,7 +92,7 @@
         },
         "MANGOCHI": {
           "capitalCity": "Mangochi",
-          "districts": ["Mangochi Town", "Monkey Bay", "Liwonde", "Malindi"],
+          "subdivisions": ["Mangochi Town", "Monkey Bay", "Liwonde", "Malindi"],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Mangochi",
@@ -102,7 +102,7 @@
         },
         "MCHINJI": {
           "capitalCity": "Mchinji",
-          "districts": ["Mchinji Town", "Mkanda", "Kawere"],
+          "subdivisions": ["Mchinji Town", "Mkanda", "Kawere"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Mchinji",
@@ -112,7 +112,7 @@
         },
         "MULANJE": {
           "capitalCity": "Mulanje",
-          "districts": ["Mulanje Town", "Chambe", "Muloza"],
+          "subdivisions": ["Mulanje Town", "Chambe", "Muloza"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Mulanje",
@@ -122,7 +122,7 @@
         },
         "MZIMBA": {
           "capitalCity": "Mzimba",
-          "districts": ["Mzimba Town", "Ekwendeni", "Mzuzu", "Nkhata Bay"],
+          "subdivisions": ["Mzimba Town", "Ekwendeni", "Mzuzu", "Nkhata Bay"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Mzimba",
@@ -132,7 +132,7 @@
         },
         "NTCHEU": {
           "capitalCity": "Ntcheu",
-          "districts": ["Ntcheu Town", "Lizulu", "Bwanje"],
+          "subdivisions": ["Ntcheu Town", "Lizulu", "Bwanje"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Ntcheu",
@@ -142,7 +142,7 @@
         },
         "NKHOTAKOTA": {
           "capitalCity": "Nkhotakota",
-          "districts": ["Nkhotakota Town", "Benga", "Linga"],
+          "subdivisions": ["Nkhotakota Town", "Benga", "Linga"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Nkhotakota",
@@ -152,7 +152,7 @@
         },
         "NSANJE": {
           "capitalCity": "Nsanje",
-          "districts": ["Bangula", "Ndamera", "Thyolo"],
+          "subdivisions": ["Bangula", "Ndamera", "Thyolo"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Nsanje",
@@ -162,7 +162,7 @@
         },
         "NTCHISI": {
           "capitalCity": "Ntchisi",
-          "districts": ["Malomo", "Chinguluwe", "Buwali"],
+          "subdivisions": ["Malomo", "Chinguluwe", "Buwali"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Ntchisi",
@@ -172,7 +172,7 @@
         },
         "PHALOMBE": {
           "capitalCity": "Phalombe",
-          "districts": ["Phalombe Town", "Chitekesa", "Migowi"],
+          "subdivisions": ["Phalombe Town", "Chitekesa", "Migowi"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Phalombe",
@@ -182,7 +182,7 @@
         },
         "RUMPHI": {
           "capitalCity": "Rumphi",
-          "districts": ["Rumphi Town", "Nyika", "Bolero"],
+          "subdivisions": ["Rumphi Town", "Nyika", "Bolero"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Rumphi",
@@ -192,7 +192,7 @@
         },
         "SALIMA": {
           "capitalCity": "Salima",
-          "districts": ["Salima Town", "Senga Bay", "Chipoka"],
+          "subdivisions": ["Salima Town", "Senga Bay", "Chipoka"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Salima",
@@ -202,7 +202,7 @@
         },
         "THYOLO": {
           "capitalCity": "Thyolo",
-          "districts": ["Thyolo Town", "Masambanjati", "Nsanje"],
+          "subdivisions": ["Thyolo Town", "Masambanjati", "Nsanje"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Thyolo",
@@ -212,7 +212,7 @@
         },
         "ZOMBA": {
             "capitalCity": "Zomba",
-            "districts": ["Zomba Urban", "Zomba Rural", "Chikanda", "Chingale", "Mkoloweni"],
+            "subdivisions": ["Zomba Urban", "Zomba Rural", "Chikanda", "Chingale", "Mkoloweni"],
             "geoPoliticalZone": "",
             "location": "South-Central",
             "name": "Zomba",

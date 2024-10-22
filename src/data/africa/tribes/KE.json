@@ -2,7 +2,7 @@
     "KE": {
       "BARINGO": {
         "capitalCity": "Kabarnet",
-        "districts": ["Baringo Central", "Baringo North", "Baringo South", "Eldama Ravine"],
+        "subdivisions": ["Baringo Central", "Baringo North", "Baringo South", "Eldama Ravine"],
         "geoPoliticalZone": "Rift Valley",
         "location": "Central Kenya",
         "name": "Baringo",
@@ -12,7 +12,7 @@
       },
       "BOMET": {
         "capitalCity": "Bomet Town",
-        "districts": ["Bomet Central", "Bomet East", "Bomet West"],
+        "subdivisions": ["Bomet Central", "Bomet East", "Bomet West"],
         "geoPoliticalZone": "Rift Valley",
         "location": "South Rift",
         "name": "Bomet",
@@ -22,7 +22,7 @@
       },
       "BUNGOMA": {
         "capitalCity": "Bungoma",
-        "districts": ["Bungoma Central", "Bungoma East", "Bungoma West"],
+        "subdivisions": ["Bungoma Central", "Bungoma East", "Bungoma West"],
         "geoPoliticalZone": "Western",
         "location": "Western Kenya",
         "name": "Bungoma",
@@ -32,7 +32,7 @@
       },
       "BUSIA": {
         "capitalCity": "Busia",
-        "districts": ["Busia", "Teso South", "Teso North"],
+        "subdivisions": ["Busia", "Teso South", "Teso North"],
         "geoPoliticalZone": "Western",
         "location": "Western Kenya",
         "name": "Busia",
@@ -42,7 +42,7 @@
       },
       "EMBU": {
         "capitalCity": "Embu",
-        "districts": ["Embu East", "Embu North", "Embu West"],
+        "subdivisions": ["Embu East", "Embu North", "Embu West"],
         "geoPoliticalZone": "Eastern",
         "location": "Central Eastern Kenya",
         "name": "Embu",
@@ -52,7 +52,7 @@
       },
       "GARISSA": {
         "capitalCity": "Garissa",
-        "districts": ["Garissa Town", "Ijara", "Fafi"],
+        "subdivisions": ["Garissa Town", "Ijara", "Fafi"],
         "geoPoliticalZone": "Northeastern",
         "location": "Northeastern Kenya",
         "name": "Garissa",
@@ -62,7 +62,7 @@
       },
       "HOMABAY": {
         "capitalCity": "Homa Bay",
-        "districts": ["Homa Bay Town", "Ndhiwa", "Mbita"],
+        "subdivisions": ["Homa Bay Town", "Ndhiwa", "Mbita"],
         "geoPoliticalZone": "Nyanza",
         "location": "Western Kenya",
         "name": "Homa Bay",
@@ -72,7 +72,7 @@
       },
       "ISIOLO": {
         "capitalCity": "Isolo",
-        "districts": ["Isolo", "Meru South"],
+        "subdivisions": ["Isolo", "Meru South"],
         "geoPoliticalZone": "Eastern",
         "location": "Northeastern Kenya",
         "name": "Isiolo",
@@ -82,7 +82,7 @@
       },
       "KAKAMEGA": {
         "capitalCity": "Kakamega",
-        "districts": ["Kakamega North", "Kakamega Central", "Kakamega South"],
+        "subdivisions": ["Kakamega North", "Kakamega Central", "Kakamega South"],
         "geoPoliticalZone": "Western",
         "location": "Western Kenya",
         "name": "Kakamega",
@@ -92,7 +92,7 @@
       },
       "KERUGOYA": {
         "capitalCity": "Kerugoya",
-        "districts": ["Kirinyaga Central", "Kirinyaga East", "Kirinyaga West"],
+        "subdivisions": ["Kirinyaga Central", "Kirinyaga East", "Kirinyaga West"],
         "geoPoliticalZone": "Central",
         "location": "Central Kenya",
         "name": "Kirinyaga",
@@ -102,7 +102,7 @@
       },
       "KILIFI": {
         "capitalCity": "Kilifi",
-        "districts": ["Kilifi North", "Kilifi South", "Malindi"],
+        "subdivisions": ["Kilifi North", "Kilifi South", "Malindi"],
         "geoPoliticalZone": "Coastal",
         "location": "Coastal Kenya",
         "name": "Kilifi",
@@ -112,7 +112,7 @@
       },
       "KISII": {
         "capitalCity": "Kisii",
-        "districts": ["Kisii Central", "Kisii South", "Kisii North"],
+        "subdivisions": ["Kisii Central", "Kisii South", "Kisii North"],
         "geoPoliticalZone": "Nyanza",
         "location": "Western Kenya",
         "name": "Kisii",
@@ -122,7 +122,7 @@
       },
       "KISUMU": {
         "capitalCity": "Kisumu",
-        "districts": ["Kisumu Central", "Kisumu East", "Kisumu West"],
+        "subdivisions": ["Kisumu Central", "Kisumu East", "Kisumu West"],
         "geoPoliticalZone": "Nyanza",
         "location": "Western Kenya",
         "name": "Kisumu",
@@ -132,7 +132,7 @@
       },
       "LAIKIPIA": {
         "capitalCity": "Nanyuki",
-        "districts": ["Laikipia East", "Laikipia North", "Laikipia West"],
+        "subdivisions": ["Laikipia East", "Laikipia North", "Laikipia West"],
         "geoPoliticalZone": "Rift Valley",
         "location": "Central Kenya",
         "name": "Laikipia",
@@ -142,7 +142,7 @@
       },
       "LAMU": {
         "capitalCity": "Lamu",
-        "districts": ["Lamu East", "Lamu West"],
+        "subdivisions": ["Lamu East", "Lamu West"],
         "geoPoliticalZone": "Coastal",
         "location": "Coastal Kenya",
         "name": "Lamu",
@@ -152,7 +152,7 @@
       },
       "MACHAKOS": {
         "capitalCity": "Machakos",
-        "districts": ["Machakos", "Masinga", "Matungulu"],
+        "subdivisions": ["Machakos", "Masinga", "Matungulu"],
         "geoPoliticalZone": "Eastern",
         "location": "Central Kenya",
         "name": "Machakos",
@@ -162,7 +162,7 @@
       },
       "MOMBASA": {
         "capitalCity": "Mombasa",
-        "districts": ["Mombasa Island", "Nyali", "Likoni"],
+        "subdivisions": ["Mombasa Island", "Nyali", "Likoni"],
         "geoPoliticalZone": "Coastal",
         "location": "Coastal Kenya",
         "name": "Mombasa",
@@ -172,7 +172,7 @@
       },
       "MURANG'A": {
         "capitalCity": "Murang'a",
-        "districts": ["Murang'a South", "Murang'a North", "Kangema"],
+        "subdivisions": ["Murang'a South", "Murang'a North", "Kangema"],
         "geoPoliticalZone": "Central",
         "location": "Central Kenya",
         "name": "Murang'a",
@@ -182,7 +182,7 @@
       },
       "NAIROBI": {
         "capitalCity": "Nairobi",
-        "districts": ["Nairobi Central", "Lang'ata", "Kibera"],
+        "subdivisions": ["Nairobi Central", "Lang'ata", "Kibera"],
         "geoPoliticalZone": "Nairobi",
         "location": "Central Kenya",
         "name": "Nairobi",
@@ -192,7 +192,7 @@
       },
       "NAKURU": {
         "capitalCity": "Nakuru",
-        "districts": ["Nakuru East", "Nakuru West", "Naivasha"],
+        "subdivisions": ["Nakuru East", "Nakuru West", "Naivasha"],
         "geoPoliticalZone": "Rift Valley",
         "location": "Rift Valley",
         "name": "Nakuru",
@@ -202,7 +202,7 @@
       },
       "NAROK": {
         "capitalCity": "Narok",
-        "districts": ["Narok North", "Narok South", "Narok West"],
+        "subdivisions": ["Narok North", "Narok South", "Narok West"],
         "geoPoliticalZone": "Rift Valley",
         "location": "Rift Valley",
         "name": "Narok",
@@ -212,7 +212,7 @@
       },
       "NYANDARUA": {
         "capitalCity": "Njiru",
-        "districts": ["Nyandarua North", "Nyandarua South"],
+        "subdivisions": ["Nyandarua North", "Nyandarua South"],
         "geoPoliticalZone": "Central",
         "location": "Central Kenya",
         "name": "Nyandarua",
@@ -222,7 +222,7 @@
       },
       "NYERI": {
         "capitalCity": "Nyeri",
-        "districts": ["Nyeri Central", "Nyeri South", "Nyeri North"],
+        "subdivisions": ["Nyeri Central", "Nyeri South", "Nyeri North"],
         "geoPoliticalZone": "Central",
         "location": "Central Kenya",
         "name": "Nyeri",
@@ -232,7 +232,7 @@
       },
       "SAMBURU": {
         "capitalCity": "Maralal",
-        "districts": ["Samburu East", "Samburu North", "Samburu West"],
+        "subdivisions": ["Samburu East", "Samburu North", "Samburu West"],
         "geoPoliticalZone": "Rift Valley",
         "location": "Northern Kenya",
         "name": "Samburu",
@@ -242,7 +242,7 @@
       },
       "SIAYA": {
         "capitalCity": "Siaya",
-        "districts": ["Siaya", "Bondo", "Rarieda"],
+        "subdivisions": ["Siaya", "Bondo", "Rarieda"],
         "geoPoliticalZone": "Nyanza",
         "location": "Western Kenya",
         "name": "Siaya",
@@ -252,7 +252,7 @@
       },
       "TANA RIVER": {
         "capitalCity": "Hola",
-        "districts": ["Tana River", "Garsen", "Bura"],
+        "subdivisions": ["Tana River", "Garsen", "Bura"],
         "geoPoliticalZone": "Coastal",
         "location": "Eastern Coast",
         "name": "Tana River",
@@ -262,7 +262,7 @@
       },
       "Taita Taveta": {
         "capitalCity": "Voi",
-        "districts": ["Taita", "Taveta"],
+        "subdivisions": ["Taita", "Taveta"],
         "geoPoliticalZone": "Coastal",
         "location": "Coastal Kenya",
         "name": "Taita Taveta",
@@ -272,7 +272,7 @@
       },
       "UASIN GISHU": {
         "capitalCity": "Eldoret",
-        "districts": ["Uasin Gishu", "Turbo"],
+        "subdivisions": ["Uasin Gishu", "Turbo"],
         "geoPoliticalZone": "Rift Valley",
         "location": "Rift Valley",
         "name": "Uasin Gishu",
@@ -282,7 +282,7 @@
       },
       "Vihiga": {
         "capitalCity": "Mbale",
-        "districts": ["Vihiga", "Hamisi", "Luanda"],
+        "subdivisions": ["Vihiga", "Hamisi", "Luanda"],
         "geoPoliticalZone": "Western",
         "location": "Western Kenya",
         "name": "Vihiga",
@@ -292,7 +292,7 @@
       },
       "Wajir": {
         "capitalCity": "Wajir",
-        "districts": ["Wajir East", "Wajir North", "Wajir South"],
+        "subdivisions": ["Wajir East", "Wajir North", "Wajir South"],
         "geoPoliticalZone": "Northeastern",
         "location": "Northeastern Kenya",
         "name": "Wajir",
@@ -302,7 +302,7 @@
       },
       "West Pokot": {
         "capitalCity": "Kapenguria",
-        "districts": ["West Pokot", "Pokot North", "Pokot South"],
+        "subdivisions": ["West Pokot", "Pokot North", "Pokot South"],
         "geoPoliticalZone": "Rift Valley",
         "location": "Western Kenya",
         "name": "West Pokot",
@@ -312,7 +312,7 @@
       },
       "Trans Nzoia": {
         "capitalCity": "Kitale",
-        "districts": ["Trans Nzoia West", "Trans Nzoia East"],
+        "subdivisions": ["Trans Nzoia West", "Trans Nzoia East"],
         "geoPoliticalZone": "Rift Valley",
         "location": "Western Kenya",
         "name": "Trans Nzoia",

@@ -2,7 +2,7 @@
     "SD":{
         "AL QADARIF": {
           "capitalCity": "Al Qadarif",
-          "districts": ["Al Qadarif", "Al Fashaga", "Gala Al Nah", "Al Mafaza"],
+          "subdivisions": ["Al Qadarif", "Al Fashaga", "Gala Al Nah", "Al Mafaza"],
           "geoPoliticalZone": "East",
           "location": "Eastern Sudan",
           "name": "Al Qadarif",
@@ -12,7 +12,7 @@
         },
         "BLUE NILE": {
           "capitalCity": "Al-Damazin",
-          "districts": ["Al-Damazin", "Roseires", "Baw", "Geissan", "Kurmak"],
+          "subdivisions": ["Al-Damazin", "Roseires", "Baw", "Geissan", "Kurmak"],
           "geoPoliticalZone": "South East",
           "location": "Southeastern Sudan",
           "name": "Blue Nile",
@@ -22,7 +22,7 @@
         },
         "CENTRAL DARFUR": {
           "capitalCity": "Zalingei",
-          "districts": ["Zalingei", "Wadi Saleh", "Mukjar", "Nertiti", "Um Dukhun"],
+          "subdivisions": ["Zalingei", "Wadi Saleh", "Mukjar", "Nertiti", "Um Dukhun"],
           "geoPoliticalZone": "West",
           "location": "Western Sudan",
           "name": "Central Darfur",
@@ -32,7 +32,7 @@
         },
         "EAST DARFUR": {
           "capitalCity": "Ed Daein",
-          "districts": ["Ed Daein", "Adila", "Abu Karinka", "El Ferdous", "Shearia"],
+          "subdivisions": ["Ed Daein", "Adila", "Abu Karinka", "El Ferdous", "Shearia"],
           "geoPoliticalZone": "West",
           "location": "Western Sudan",
           "name": "East Darfur",
@@ -42,7 +42,7 @@
         },
         "GEZIRA": {
           "capitalCity": "Wad Madani",
-          "districts": ["Wad Madani", "Rufaa", "Hassa Heissa", "Al Kamlin"],
+          "subdivisions": ["Wad Madani", "Rufaa", "Hassa Heissa", "Al Kamlin"],
           "geoPoliticalZone": "Central",
           "location": "Central Sudan",
           "name": "Gezira",
@@ -52,7 +52,7 @@
         },
         "KASSALA": {
           "capitalCity": "Kassala",
-          "districts": ["Kassala", "Hamashkoreib", "Halfa Al Jadida", "Wad Al Helew"],
+          "subdivisions": ["Kassala", "Hamashkoreib", "Halfa Al Jadida", "Wad Al Helew"],
           "geoPoliticalZone": "East",
           "location": "Eastern Sudan",
           "name": "Kassala",
@@ -62,7 +62,7 @@
         },
         "KHARTOUM": {
           "capitalCity": "Khartoum",
-          "districts": ["Khartoum", "Omdurman", "Khartoum North", "Sharq Elnil", "Jebel Aulia"],
+          "subdivisions": ["Khartoum", "Omdurman", "Khartoum North", "Sharq Elnil", "Jebel Aulia"],
           "geoPoliticalZone": "Central",
           "location": "Central Sudan",
           "name": "Khartoum",
@@ -72,7 +72,7 @@
         },
         "NORTH DARFUR": {
           "capitalCity": "El Fasher",
-          "districts": ["El Fasher", "Kutum", "Tina", "Kabkabiya", "Mellit"],
+          "subdivisions": ["El Fasher", "Kutum", "Tina", "Kabkabiya", "Mellit"],
           "geoPoliticalZone": "West",
           "location": "Western Sudan",
           "name": "North Darfur",
@@ -82,7 +82,7 @@
         },
         "NORTH KORDOFAN": {
           "capitalCity": "El Obeid",
-          "districts": ["El Obeid", "En Nuhud", "Umm Rawaba", "Bara", "Abu Zabad"],
+          "subdivisions": ["El Obeid", "En Nuhud", "Umm Rawaba", "Bara", "Abu Zabad"],
           "geoPoliticalZone": "West",
           "location": "Western Sudan",
           "name": "North Kordofan",
@@ -92,7 +92,7 @@
         },
         "NORTHERN": {
           "capitalCity": "Dongola",
-          "districts": ["Dongola", "Merowe", "Karima", "Wadi Halfa", "Delgo"],
+          "subdivisions": ["Dongola", "Merowe", "Karima", "Wadi Halfa", "Delgo"],
           "geoPoliticalZone": "North",
           "location": "Northern Sudan",
           "name": "Northern",
@@ -102,7 +102,7 @@
         },
         "RED SEA": {
           "capitalCity": "Port Sudan",
-          "districts": ["Port Sudan", "Tokar", "Hala'ib", "Sinkat"],
+          "subdivisions": ["Port Sudan", "Tokar", "Hala'ib", "Sinkat"],
           "geoPoliticalZone": "East",
           "location": "Eastern Sudan",
           "name": "Red Sea",
@@ -112,7 +112,7 @@
         },
         "RIVER NILE": {
           "capitalCity": "Atbara",
-          "districts": ["Atbara", "Shendi", "Berber", "Al Damer"],
+          "subdivisions": ["Atbara", "Shendi", "Berber", "Al Damer"],
           "geoPoliticalZone": "North",
           "location": "Northern Sudan",
           "name": "River Nile",
@@ -122,7 +122,7 @@
         },
         "SENNAR": {
           "capitalCity": "Sennar",
-          "districts": ["Sennar", "Singai", "Dindir"],
+          "subdivisions": ["Sennar", "Singai", "Dindir"],
           "geoPoliticalZone": "South East",
           "location": "Southeastern Sudan",
           "name": "Sennar",
@@ -132,7 +132,7 @@
         },
         "SOUTH DARFUR": {
           "capitalCity": "Nyala",
-          "districts": ["Nyala", "Kass", "Ed al Fursan", "Buram"],
+          "subdivisions": ["Nyala", "Kass", "Ed al Fursan", "Buram"],
           "geoPoliticalZone": "West",
           "location": "Western Sudan",
           "name": "South Darfur",
@@ -142,7 +142,7 @@
         },
         "SOUTH KORDOFAN": {
           "capitalCity": "Kadugli",
-          "districts": ["Kadugli", "Dilling", "Abu Jubaiyah", "Talodi", "Lagawa"],
+          "subdivisions": ["Kadugli", "Dilling", "Abu Jubaiyah", "Talodi", "Lagawa"],
           "geoPoliticalZone": "West",
           "location": "Southern Sudan",
           "name": "South Kordofan",
@@ -152,7 +152,7 @@
         },
         "WEST DARFUR": {
           "capitalCity": "El Geneina",
-          "districts": ["El Geneina", "Habila", "Kulbus", "Beida"],
+          "subdivisions": ["El Geneina", "Habila", "Kulbus", "Beida"],
           "geoPoliticalZone": "West",
           "location": "Western Sudan",
           "name": "West Darfur",
@@ -162,7 +162,7 @@
         },
         "WEST KORDOFAN": {
           "capitalCity": "Al Fula",
-          "districts": ["Al Fula", "Babanusa", "Muglad", "Meiram", "Debabat"],
+          "subdivisions": ["Al Fula", "Babanusa", "Muglad", "Meiram", "Debabat"],
           "geoPoliticalZone": "West",
           "location": "Western Sudan",
           "name": "West Kordofan",
@@ -172,7 +172,7 @@
         },
         "WHITE NILE": {
           "capitalCity": "Rabak",
-          "districts": ["Rabak", "Kosti", "Ad Douiem", "Tandalti", "Shabasha"],
+          "subdivisions": ["Rabak", "Kosti", "Ad Douiem", "Tandalti", "Shabasha"],
           "geoPoliticalZone": "South",
           "location": "Southern Sudan",
           "name": "White Nile",

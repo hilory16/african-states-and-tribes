@@ -2,7 +2,7 @@
     "ZA": {
         "EASTERN CAPE": {
           "capitalCity": "Bhisho",
-          "districts": ["Alfred Nzo", "Amathole", "Buffalo City", "Chris Hani", "Joe Gqabi", "Nelson Mandela Bay", "OR Tambo", "Sarah Baartman"],
+          "subdivisions": ["Alfred Nzo", "Amathole", "Buffalo City", "Chris Hani", "Joe Gqabi", "Nelson Mandela Bay", "OR Tambo", "Sarah Baartman"],
           "geoPoliticalZone": "South East",
           "location": "South East",
           "name": "Eastern Cape",
@@ -12,7 +12,7 @@
         },
         "FREE STATE": {
           "capitalCity": "Bloemfontein",
-          "districts": ["Fezile Dabi", "Lejweleputswa", "Mangaung", "Thabo Mofutsanyana", "Xhariep"],
+          "subdivisions": ["Fezile Dabi", "Lejweleputswa", "Mangaung", "Thabo Mofutsanyana", "Xhariep"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Free State",
@@ -22,7 +22,7 @@
         },
         "GAUTENG": {
           "capitalCity": "Johannesburg",
-          "districts": ["City of Ekurhuleni", "City of Johannesburg", "City of Tshwane", "Sedibeng", "West Rand"],
+          "subdivisions": ["City of Ekurhuleni", "City of Johannesburg", "City of Tshwane", "Sedibeng", "West Rand"],
           "geoPoliticalZone": "North East",
           "location": "North East",
           "name": "Gauteng",
@@ -32,7 +32,7 @@
         },
         "KWAZULU-NATAL": {
           "capitalCity": "Pietermaritzburg",
-          "districts": ["Amajuba", "eThekwini", "Harry Gwala", "iLembe", "King Cetshwayo", "Ugu", "uMgungundlovu", "uMkhanyakude", "uMzinyathi", "uThukela", "Zululand"],
+          "subdivisions": ["Amajuba", "eThekwini", "Harry Gwala", "iLembe", "King Cetshwayo", "Ugu", "uMgungundlovu", "uMkhanyakude", "uMzinyathi", "uThukela", "Zululand"],
           "geoPoliticalZone": "East",
           "location": "East",
           "name": "KwaZulu-Natal",
@@ -42,7 +42,7 @@
         },
         "LIMPOPO": {
           "capitalCity": "Polokwane",
-          "districts": ["Capricorn", "Mopani", "Sekhukhune", "Vhembe", "Waterberg"],
+          "subdivisions": ["Capricorn", "Mopani", "Sekhukhune", "Vhembe", "Waterberg"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Limpopo",
@@ -52,7 +52,7 @@
         },
         "MPUMALANGA": {
           "capitalCity": "Mbombela",
-          "districts": ["Ehlanzeni", "Gert Sibande", "Nkangala"],
+          "subdivisions": ["Ehlanzeni", "Gert Sibande", "Nkangala"],
           "geoPoliticalZone": "North East",
           "location": "North East",
           "name": "Mpumalanga",
@@ -62,7 +62,7 @@
         },
         "NORTHERN CAPE": {
           "capitalCity": "Kimberley",
-          "districts": ["Frances Baard", "John Taolo Gaetsewe", "Namakwa", "Pixley ka Seme", "ZF Mgcawu"],
+          "subdivisions": ["Frances Baard", "John Taolo Gaetsewe", "Namakwa", "Pixley ka Seme", "ZF Mgcawu"],
           "geoPoliticalZone": "West",
           "location": "West",
           "name": "Northern Cape",
@@ -72,7 +72,7 @@
         },
         "NORTH WEST": {
           "capitalCity": "Mahikeng",
-          "districts": ["Bojanala Platinum", "Dr Kenneth Kaunda", "Dr Ruth Segomotsi Mompati", "Ngaka Modiri Molema"],
+          "subdivisions": ["Bojanala Platinum", "Dr Kenneth Kaunda", "Dr Ruth Segomotsi Mompati", "Ngaka Modiri Molema"],
           "geoPoliticalZone": "North West",
           "location": "North West",
           "name": "North West",
@@ -82,7 +82,7 @@
         },
         "WESTERN CAPE": {
           "capitalCity": "Cape Town",
-          "districts": ["Cape Winelands", "Central Karoo", "City of Cape Town", "Eden", "Overberg", "West Coast"],
+          "subdivisions": ["Cape Winelands", "Central Karoo", "City of Cape Town", "Eden", "Overberg", "West Coast"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Western Cape",

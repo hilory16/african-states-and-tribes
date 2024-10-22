@@ -2,7 +2,7 @@
     "ML":{
         "BAMAKO": {
           "capitalCity": "Bamako",
-          "districts": ["Bamako Commune I", "Bamako Commune II", "Bamako Commune III", "Bamako Commune IV", "Bamako Commune V", "Bamako Commune VI"],
+          "subdivisions": ["Bamako Commune I", "Bamako Commune II", "Bamako Commune III", "Bamako Commune IV", "Bamako Commune V", "Bamako Commune VI"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Bamako",
@@ -12,7 +12,7 @@
         },
         "GAO": {
           "capitalCity": "Gao",
-          "districts": ["Gao", "Ansongo", "Bourem", "Menaka"],
+          "subdivisions": ["Gao", "Ansongo", "Bourem", "Menaka"],
           "geoPoliticalZone": "",
           "location": "North-East",
           "name": "Gao",
@@ -22,7 +22,7 @@
         },
         "KAYES": {
           "capitalCity": "Kayes",
-          "districts": ["Kayes", "Bafoulabe", "Diema", "Kenieba", "Nioro du Sahel", "Yelimane"],
+          "subdivisions": ["Kayes", "Bafoulabe", "Diema", "Kenieba", "Nioro du Sahel", "Yelimane"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Kayes",
@@ -32,7 +32,7 @@
         },
         "KOULIKORO": {
           "capitalCity": "Koulikoro",
-          "districts": ["Koulikoro", "Banamba", "Dioila", "Kangaba", "Kolokani", "Nara"],
+          "subdivisions": ["Koulikoro", "Banamba", "Dioila", "Kangaba", "Kolokani", "Nara"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Koulikoro",
@@ -42,7 +42,7 @@
         },
         "MOPTI": {
           "capitalCity": "Mopti",
-          "districts": ["Mopti", "Bandiagara", "Bankass", "Djenné", "Douentza", "Koro", "Tenenkou", "Youwarou"],
+          "subdivisions": ["Mopti", "Bandiagara", "Bankass", "Djenné", "Douentza", "Koro", "Tenenkou", "Youwarou"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Mopti",
@@ -52,7 +52,7 @@
         },
         "SEGOU": {
           "capitalCity": "Ségou",
-          "districts": ["Ségou", "Bla", "Barouéli", "Macina", "Markala", "Niono", "San", "Tominian"],
+          "subdivisions": ["Ségou", "Bla", "Barouéli", "Macina", "Markala", "Niono", "San", "Tominian"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Ségou",
@@ -62,7 +62,7 @@
         },
         "SIKASSO": {
           "capitalCity": "Sikasso",
-          "districts": ["Sikasso", "Bougouni", "Kolondieba", "Kadiolo", "Yanfolila", "Yorosso"],
+          "subdivisions": ["Sikasso", "Bougouni", "Kolondieba", "Kadiolo", "Yanfolila", "Yorosso"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Sikasso",
@@ -72,7 +72,7 @@
         },
         "TAOUDENNI": {
           "capitalCity": "Taoudenni",
-          "districts": ["Taoudenni", "Achouratt", "Al-Ourche", "Boghassa"],
+          "subdivisions": ["Taoudenni", "Achouratt", "Al-Ourche", "Boghassa"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Taoudenni",
@@ -82,7 +82,7 @@
         },
         "TOMBOUCTOU": {
           "capitalCity": "Tombouctou",
-          "districts": ["Tombouctou", "Diré", "Goundam", "Niafunké"],
+          "subdivisions": ["Tombouctou", "Diré", "Goundam", "Niafunké"],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Tombouctou",
@@ -92,7 +92,7 @@
         },
         "MENAKA": {
           "capitalCity": "Menaka",
-          "districts": ["Menaka", "Anderamboukane", "Inekar"],
+          "subdivisions": ["Menaka", "Anderamboukane", "Inekar"],
           "geoPoliticalZone": "",
           "location": "North-East",
           "name": "Menaka",
@@ -102,7 +102,7 @@
         },
         "KIDAL": {
           "capitalCity": "Kidal",
-          "districts": ["Kidal", "Abeibara", "Tessalit", "Tin-Essako"],
+          "subdivisions": ["Kidal", "Abeibara", "Tessalit", "Tin-Essako"],
           "geoPoliticalZone": "",
           "location": "North-East",
           "name": "Kidal",
@@ -112,7 +112,7 @@
         },
         "BAMBA": {
           "capitalCity": "Bamba",
-          "districts": ["Bamba", "Bourem", "Gossi"],
+          "subdivisions": ["Bamba", "Bourem", "Gossi"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Bamba",
@@ -122,7 +122,7 @@
         },
         "SAN": {
           "capitalCity": "San",
-          "districts": ["San", "Bla", "Koutiala"],
+          "subdivisions": ["San", "Bla", "Koutiala"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "San",
@@ -132,7 +132,7 @@
         },
         "NARA": {
           "capitalCity": "Nara",
-          "districts": ["Nara", "Banamba"],
+          "subdivisions": ["Nara", "Banamba"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Nara",
@@ -142,7 +142,7 @@
         },
         "DIRÉ": {
           "capitalCity": "Diré",
-          "districts": ["Diré", "Goundam"],
+          "subdivisions": ["Diré", "Goundam"],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Diré",
@@ -152,7 +152,7 @@
         },
         "DOUENTZA": {
           "capitalCity": "Douentza",
-          "districts": ["Douentza", "Bandiagara"],
+          "subdivisions": ["Douentza", "Bandiagara"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Douentza",
@@ -162,7 +162,7 @@
         },
         "TENENKOU": {
           "capitalCity": "Tenenkou",
-          "districts": ["Tenenkou", "Youwarou"],
+          "subdivisions": ["Tenenkou", "Youwarou"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Tenenkou",
@@ -172,7 +172,7 @@
         },
         "NARA": {
           "capitalCity": "Nara",
-          "districts": ["Nara", "Banamba"],
+          "subdivisions": ["Nara", "Banamba"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Nara",
@@ -182,7 +182,7 @@
         },
         "YANFOLILA": {
           "capitalCity": "Yanfolila",
-          "districts": ["Yanfolila", "Kadiolo"],
+          "subdivisions": ["Yanfolila", "Kadiolo"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Yanfolila",
@@ -192,7 +192,7 @@
         },
         "YOROSSO": {
           "capitalCity": "Yorosso",
-          "districts": ["Yorosso", "Sikasso"],
+          "subdivisions": ["Yorosso", "Sikasso"],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Yorosso",

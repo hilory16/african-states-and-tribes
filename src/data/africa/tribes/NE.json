@@ -2,7 +2,7 @@
     "NE":{
         "AGADEZ": {
           "capitalCity": "Agadez",
-          "districts": ["Aderbissinat", "Tchirozerine", "Arlit", "Bilma", "Ingal"],
+          "subdivisions": ["Aderbissinat", "Tchirozerine", "Arlit", "Bilma", "Ingal"],
           "geoPoliticalZone": "North",
           "location": "Northern Niger",
           "name": "Agadez",
@@ -12,7 +12,7 @@
         },
         "DIFFA": {
           "capitalCity": "Diffa",
-          "districts": ["Diffa", "N'Guigmi", "Maïné-Soroa", "Bosso", "Goudoumaria"],
+          "subdivisions": ["Diffa", "N'Guigmi", "Maïné-Soroa", "Bosso", "Goudoumaria"],
           "geoPoliticalZone": "South East",
           "location": "Southeastern Niger",
           "name": "Diffa",
@@ -22,7 +22,7 @@
         },
         "DOSSO": {
           "capitalCity": "Dosso",
-          "districts": ["Dosso", "Gaya", "Dogondoutchi", "Boboye", "Falmey"],
+          "subdivisions": ["Dosso", "Gaya", "Dogondoutchi", "Boboye", "Falmey"],
           "geoPoliticalZone": "South West",
           "location": "Southwestern Niger",
           "name": "Dosso",
@@ -32,7 +32,7 @@
         },
         "MARADI": {
           "capitalCity": "Maradi",
-          "districts": ["Maradi", "Madarounfa", "Mayahi", "Guidan Roumdji", "Tessaoua"],
+          "subdivisions": ["Maradi", "Madarounfa", "Mayahi", "Guidan Roumdji", "Tessaoua"],
           "geoPoliticalZone": "South",
           "location": "Southern Niger",
           "name": "Maradi",
@@ -42,7 +42,7 @@
         },
         "NIAMEY": {
           "capitalCity": "Niamey",
-          "districts": ["Niamey I", "Niamey II", "Niamey III", "Niamey IV", "Niamey V"],
+          "subdivisions": ["Niamey I", "Niamey II", "Niamey III", "Niamey IV", "Niamey V"],
           "geoPoliticalZone": "South West",
           "location": "Southwestern Niger",
           "name": "Niamey",
@@ -52,7 +52,7 @@
         },
         "TAHOUA": {
           "capitalCity": "Tahoua",
-          "districts": ["Tahoua", "Illéla", "Madaoua", "Keita", "Abalak"],
+          "subdivisions": ["Tahoua", "Illéla", "Madaoua", "Keita", "Abalak"],
           "geoPoliticalZone": "West",
           "location": "Western Niger",
           "name": "Tahoua",
@@ -62,7 +62,7 @@
         },
         "TILLABERI": {
           "capitalCity": "Tillaberi",
-          "districts": ["Tillaberi", "Ouallam", "Téra", "Filingué", "Say"],
+          "subdivisions": ["Tillaberi", "Ouallam", "Téra", "Filingué", "Say"],
           "geoPoliticalZone": "West",
           "location": "Western Niger",
           "name": "Tillaberi",
@@ -72,7 +72,7 @@
         },
         "ZINDER": {
           "capitalCity": "Zinder",
-          "districts": ["Zinder", "Magaria", "Mirriah", "Goure", "Matameye"],
+          "subdivisions": ["Zinder", "Magaria", "Mirriah", "Goure", "Matameye"],
           "geoPoliticalZone": "South East",
           "location": "Southeastern Niger",
           "name": "Zinder",
