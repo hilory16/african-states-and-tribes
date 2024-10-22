@@ -1,0 +1,55 @@
+{
+    "TG": {
+        "CENTRALE": {
+          "capitalCity": "Sokodé",
+          "districts": ["Bafilo", "Sokodé", "Tchamba", "Sotouboua", "Blitta"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Centrale",
+          "stateCode": "CE",
+          "tribes": ["Tem", "Kabye", "Gurma", "Tchamba"],
+          "type": "province"
+        },
+        "KARA": {
+          "capitalCity": "Kara",
+          "districts": ["Bassar", "Binah", "Dankpen", "Doufelgou", "Kéran", "Kozah"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Kara",
+          "stateCode": "KA",
+          "tribes": ["Kabye", "Lamba", "Gurma", "Losso"],
+          "type": "province"
+        },
+        "MARITIME": {
+          "capitalCity": "Lomé",
+          "districts": ["Avé", "Lacs", "Vo", "Yoto", "Zio", "Golfe"],
+          "geoPoliticalZone": "South",
+          "location": "South",
+          "name": "Maritime",
+          "stateCode": "MA",
+          "tribes": ["Ewe", "Mina", "Guin", "Watchi"],
+          "type": "province"
+        },
+        "PLATEAUX": {
+          "capitalCity": "Atakpamé",
+          "districts": ["Amou", "Danyi", "Est-Mono", "Haho", "Kloto", "Kpélé", "Ogou", "Wawa", "Akébou", "Anié"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Plateaux",
+          "stateCode": "PL",
+          "tribes": ["Ewe", "Akposso", "Akébou", "Ana", "Tchamba"],
+          "type": "province"
+        },
+        "SAVANNAH": {
+          "capitalCity": "Dapaong",
+          "districts": ["Cinkassé", "Kpendjal", "Oti", "Tandjouaré", "Tône"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Savannah",
+          "stateCode": "SA",
+          "tribes": ["Gurma", "Moba", "Konkomba", "Tchokossi"],
+          "type": "province"
+        }
+      }
+      
+}
