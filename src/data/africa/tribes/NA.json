@@ -2,7 +2,7 @@
     "NA":{
         "ERONGO": {
           "capitalCity": "Swakopmund",
-          "districts": ["Swakopmund", "Walvis Bay", "Omaruru", "Usakos", "Karibib"],
+          "subdivisions": ["Swakopmund", "Walvis Bay", "Omaruru", "Usakos", "Karibib"],
           "geoPoliticalZone": "West",
           "location": "Western Namibia",
           "name": "Erongo",
@@ -12,7 +12,7 @@
         },
         "HARDAP": {
           "capitalCity": "Mariental",
-          "districts": ["Mariental", "Rehoboth", "Gibeon", "Aranos", "Hoachanas"],
+          "subdivisions": ["Mariental", "Rehoboth", "Gibeon", "Aranos", "Hoachanas"],
           "geoPoliticalZone": "South",
           "location": "Southern Namibia",
           "name": "Hardap",
@@ -22,7 +22,7 @@
         },
         "KARAS": {
           "capitalCity": "Keetmanshoop",
-          "districts": ["Keetmanshoop", "Lüderitz", "Oranjemund", "Karasburg"],
+          "subdivisions": ["Keetmanshoop", "Lüderitz", "Oranjemund", "Karasburg"],
           "geoPoliticalZone": "South",
           "location": "Southern Namibia",
           "name": "Karas",
@@ -32,7 +32,7 @@
         },
         "KAVANGO EAST": {
           "capitalCity": "Rundu",
-          "districts": ["Rundu", "Mukwe", "Ndiyona", "Mashare"],
+          "subdivisions": ["Rundu", "Mukwe", "Ndiyona", "Mashare"],
           "geoPoliticalZone": "North East",
           "location": "Northeastern Namibia",
           "name": "Kavango East",
@@ -42,7 +42,7 @@
         },
         "KAVANGO WEST": {
           "capitalCity": "Nkurenkuru",
-          "districts": ["Nkurenkuru", "Mpungu", "Ncamagoro"],
+          "subdivisions": ["Nkurenkuru", "Mpungu", "Ncamagoro"],
           "geoPoliticalZone": "North East",
           "location": "Northeastern Namibia",
           "name": "Kavango West",
@@ -52,7 +52,7 @@
         },
         "KUNENE": {
           "capitalCity": "Opuwo",
-          "districts": ["Opuwo", "Kamanjab", "Sesfontein", "Outjo", "Khorixas"],
+          "subdivisions": ["Opuwo", "Kamanjab", "Sesfontein", "Outjo", "Khorixas"],
           "geoPoliticalZone": "North West",
           "location": "Northwestern Namibia",
           "name": "Kunene",
@@ -62,7 +62,7 @@
         },
         "KHOMAS": {
           "capitalCity": "Windhoek",
-          "districts": ["Windhoek", "Katutura"],
+          "subdivisions": ["Windhoek", "Katutura"],
           "geoPoliticalZone": "Central",
           "location": "Central Namibia",
           "name": "Khomas",
@@ -72,7 +72,7 @@
         },
         "OHANGWENA": {
           "capitalCity": "Eenhana",
-          "districts": ["Eenhana", "Helao Nafidi", "Ondobe", "Okongo"],
+          "subdivisions": ["Eenhana", "Helao Nafidi", "Ondobe", "Okongo"],
           "geoPoliticalZone": "North",
           "location": "Northern Namibia",
           "name": "Ohangwena",
@@ -82,7 +82,7 @@
         },
         "OMAHEKE": {
           "capitalCity": "Gobabis",
-          "districts": ["Gobabis", "Leonardville", "Aminuis", "Epukiro", "Otjinene"],
+          "subdivisions": ["Gobabis", "Leonardville", "Aminuis", "Epukiro", "Otjinene"],
           "geoPoliticalZone": "East",
           "location": "Eastern Namibia",
           "name": "Omaheke",
@@ -92,7 +92,7 @@
         },
         "OMUSATI": {
           "capitalCity": "Outapi",
-          "districts": ["Outapi", "Ruacana", "Okahao", "Oshikuku"],
+          "subdivisions": ["Outapi", "Ruacana", "Okahao", "Oshikuku"],
           "geoPoliticalZone": "North",
           "location": "Northern Namibia",
           "name": "Omusati",
@@ -102,7 +102,7 @@
         },
         "OSHANA": {
           "capitalCity": "Oshakati",
-          "districts": ["Oshakati", "Ondangwa", "Ongwediva"],
+          "subdivisions": ["Oshakati", "Ondangwa", "Ongwediva"],
           "geoPoliticalZone": "North",
           "location": "Northern Namibia",
           "name": "Oshana",
@@ -112,7 +112,7 @@
         },
         "OSHIKOTO": {
           "capitalCity": "Omuthiya",
-          "districts": ["Omuthiya", "Tsumeb", "Onayena", "Onayoko"],
+          "subdivisions": ["Omuthiya", "Tsumeb", "Onayena", "Onayoko"],
           "geoPoliticalZone": "North",
           "location": "Northern Namibia",
           "name": "Oshikoto",
@@ -122,7 +122,7 @@
         },
         "OTJOZONDJUPA": {
           "capitalCity": "Otjiwarongo",
-          "districts": ["Otjiwarongo", "Grootfontein", "Okahandja", "Okakarara"],
+          "subdivisions": ["Otjiwarongo", "Grootfontein", "Okahandja", "Okakarara"],
           "geoPoliticalZone": "North Central",
           "location": "Northern Central Namibia",
           "name": "Otjozondjupa",
@@ -132,7 +132,7 @@
         },
         "ZAMBEZI": {
           "capitalCity": "Katima Mulilo",
-          "districts": ["Katima Mulilo", "Linyanti", "Sibbinda"],
+          "subdivisions": ["Katima Mulilo", "Linyanti", "Sibbinda"],
           "geoPoliticalZone": "North East",
           "location": "Northeastern Namibia",
           "name": "Zambezi",

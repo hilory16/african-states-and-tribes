@@ -2,7 +2,7 @@
     "SL":{
         "EASTERN PROVINCE": {
           "capitalCity": "Kenema",
-          "districts": ["Kenema", "Kailahun", "Kono"],
+          "subdivisions": ["Kenema", "Kailahun", "Kono"],
           "geoPoliticalZone": "East",
           "location": "Eastern Sierra Leone",
           "name": "Eastern Province",
@@ -12,7 +12,7 @@
         },
         "NORTHERN PROVINCE": {
           "capitalCity": "Makeni",
-          "districts": ["Bombali", "Koinadugu", "Tonkolili", "Kambia"],
+          "subdivisions": ["Bombali", "Koinadugu", "Tonkolili", "Kambia"],
           "geoPoliticalZone": "North",
           "location": "Northern Sierra Leone",
           "name": "Northern Province",
@@ -22,7 +22,7 @@
         },
         "NORTH WEST PROVINCE": {
           "capitalCity": "Port Loko",
-          "districts": ["Port Loko", "Karene", "Kambia"],
+          "subdivisions": ["Port Loko", "Karene", "Kambia"],
           "geoPoliticalZone": "Northwest",
           "location": "Northwestern Sierra Leone",
           "name": "North West Province",
@@ -32,7 +32,7 @@
         },
         "SOUTHERN PROVINCE": {
           "capitalCity": "Bo",
-          "districts": ["Bo", "Bonthe", "Moyamba", "Pujehun"],
+          "subdivisions": ["Bo", "Bonthe", "Moyamba", "Pujehun"],
           "geoPoliticalZone": "South",
           "location": "Southern Sierra Leone",
           "name": "Southern Province",
@@ -42,7 +42,7 @@
         },
         "WESTERN AREA RURAL": {
           "capitalCity": "Waterloo",
-          "districts": ["Western Area Rural"],
+          "subdivisions": ["Western Area Rural"],
           "geoPoliticalZone": "West",
           "location": "Western Sierra Leone",
           "name": "Western Area Rural",
@@ -52,7 +52,7 @@
         },
         "WESTERN AREA URBAN": {
           "capitalCity": "Freetown",
-          "districts": ["Freetown"],
+          "subdivisions": ["Freetown"],
           "geoPoliticalZone": "West",
           "location": "Western Sierra Leone",
           "name": "Western Area Urban",

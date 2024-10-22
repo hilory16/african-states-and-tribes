@@ -2,7 +2,7 @@
     "LY": {
         "AJDABIYA": {
             "capitalCity": "Ajdabiya",
-            "districts": ["Ajdabiya District"],
+            "subdivisions": ["Ajdabiya District"],
             "geoPoliticalZone": "Eastern Libya",
             "location": "Eastern",
             "name": "Ajdabiya",
@@ -12,7 +12,7 @@
         },
         "AL JUFRA": {
             "capitalCity": "Jufra",
-            "districts": ["Jufra District"],
+            "subdivisions": ["Jufra District"],
             "geoPoliticalZone": "Central Libya",
             "location": "Central",
             "name": "Al Jufra",
@@ -22,7 +22,7 @@
         },
         "AL KUFRA": {
             "capitalCity": "Kufra",
-            "districts": ["Kufra District"],
+            "subdivisions": ["Kufra District"],
             "geoPoliticalZone": "Southern Libya",
             "location": "South East",
             "name": "Al Kufra",
@@ -32,7 +32,7 @@
         },
         "AL MARJ": {
             "capitalCity": "Marj",
-            "districts": ["Marj District"],
+            "subdivisions": ["Marj District"],
             "geoPoliticalZone": "Eastern Libya",
             "location": "Eastern",
             "name": "Al Marj",
@@ -42,7 +42,7 @@
         },
         "AL WAHAT": {
             "capitalCity": "Wahat",
-            "districts": ["Wahat District"],
+            "subdivisions": ["Wahat District"],
             "geoPoliticalZone": "Southern Libya",
             "location": "South",
             "name": "Al Wahat",
@@ -52,7 +52,7 @@
         },
         "BENGHAZI": {
             "capitalCity": "Benghazi",
-            "districts": ["Benghazi District"],
+            "subdivisions": ["Benghazi District"],
             "geoPoliticalZone": "Eastern Libya",
             "location": "Eastern",
             "name": "Benghazi",
@@ -62,7 +62,7 @@
         },
         "DERNA": {
             "capitalCity": "Derna",
-            "districts": ["Derna District"],
+            "subdivisions": ["Derna District"],
             "geoPoliticalZone": "Eastern Libya",
             "location": "Eastern",
             "name": "Derna",
@@ -72,7 +72,7 @@
         },
         "GHARYAN": {
             "capitalCity": "Gharyan",
-            "districts": ["Gharyan District"],
+            "subdivisions": ["Gharyan District"],
             "geoPoliticalZone": "Northern Libya",
             "location": "North West",
             "name": "Gharyan",
@@ -82,7 +82,7 @@
         },
         "MISRATA": {
             "capitalCity": "Misrata",
-            "districts": ["Misrata District"],
+            "subdivisions": ["Misrata District"],
             "geoPoliticalZone": "Northern Libya",
             "location": "North Central",
             "name": "Misrata",
@@ -92,7 +92,7 @@
         },
         "NALUT": {
             "capitalCity": "Nalut",
-            "districts": ["Nalut District"],
+            "subdivisions": ["Nalut District"],
             "geoPoliticalZone": "Northern Libya",
             "location": "North West",
             "name": "Nalut",
@@ -102,7 +102,7 @@
         },
         "SIRT": {
             "capitalCity": "Sirte",
-            "districts": ["Sirte District"],
+            "subdivisions": ["Sirte District"],
             "geoPoliticalZone": "Central Libya",
             "location": "Central",
             "name": "Sirt",
@@ -112,7 +112,7 @@
         },
         "TRIPOLI": {
             "capitalCity": "Tripoli",
-            "districts": ["Tripoli District"],
+            "subdivisions": ["Tripoli District"],
             "geoPoliticalZone": "Northern Libya",
             "location": "North West",
             "name": "Tripoli",
@@ -122,7 +122,7 @@
         },
         "WADI AL HAYAA": {
             "capitalCity": "Wadi al Hayaa",
-            "districts": ["Wadi al Hayaa District"],
+            "subdivisions": ["Wadi al Hayaa District"],
             "geoPoliticalZone": "Central Libya",
             "location": "Central",
             "name": "Wadi al Hayaa",
@@ -132,7 +132,7 @@
         },
         "ZAWIYA": {
             "capitalCity": "Zawiya",
-            "districts": ["Zawiya District"],
+            "subdivisions": ["Zawiya District"],
             "geoPoliticalZone": "Northern Libya",
             "location": "North West",
             "name": "Zawiya",

@@ -2,7 +2,7 @@
     "TG": {
         "CENTRALE": {
           "capitalCity": "Sokodé",
-          "districts": ["Bafilo", "Sokodé", "Tchamba", "Sotouboua", "Blitta"],
+          "subdivisions": ["Bafilo", "Sokodé", "Tchamba", "Sotouboua", "Blitta"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Centrale",
@@ -12,7 +12,7 @@
         },
         "KARA": {
           "capitalCity": "Kara",
-          "districts": ["Bassar", "Binah", "Dankpen", "Doufelgou", "Kéran", "Kozah"],
+          "subdivisions": ["Bassar", "Binah", "Dankpen", "Doufelgou", "Kéran", "Kozah"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Kara",
@@ -22,7 +22,7 @@
         },
         "MARITIME": {
           "capitalCity": "Lomé",
-          "districts": ["Avé", "Lacs", "Vo", "Yoto", "Zio", "Golfe"],
+          "subdivisions": ["Avé", "Lacs", "Vo", "Yoto", "Zio", "Golfe"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Maritime",
@@ -32,7 +32,7 @@
         },
         "PLATEAUX": {
           "capitalCity": "Atakpamé",
-          "districts": ["Amou", "Danyi", "Est-Mono", "Haho", "Kloto", "Kpélé", "Ogou", "Wawa", "Akébou", "Anié"],
+          "subdivisions": ["Amou", "Danyi", "Est-Mono", "Haho", "Kloto", "Kpélé", "Ogou", "Wawa", "Akébou", "Anié"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Plateaux",
@@ -42,7 +42,7 @@
         },
         "SAVANNAH": {
           "capitalCity": "Dapaong",
-          "districts": ["Cinkassé", "Kpendjal", "Oti", "Tandjouaré", "Tône"],
+          "subdivisions": ["Cinkassé", "Kpendjal", "Oti", "Tandjouaré", "Tône"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Savannah",

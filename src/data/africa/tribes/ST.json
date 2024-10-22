@@ -2,7 +2,7 @@
     "ST": {
         "PRINCIPE": {
           "capitalCity": "Santo António",
-          "districts": [],
+          "subdivisions": [],
           "geoPoliticalZone": "Autonomous Region",
           "location": "North East",
           "name": "Príncipe",
@@ -12,7 +12,7 @@
         },
         "SAO TOME": {
           "capitalCity": "São Tomé",
-          "districts": ["Água Grande", "Cantagalo", "Caué", "Lembá", "Lobata", "Mé-Zóchi"],
+          "subdivisions": ["Água Grande", "Cantagalo", "Caué", "Lembá", "Lobata", "Mé-Zóchi"],
           "geoPoliticalZone": "Island",
           "location": "Central",
           "name": "São Tomé",

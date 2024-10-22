@@ -2,7 +2,7 @@
     "MZ":{
         "CABO DELGADO": {
           "capitalCity": "Pemba",
-          "districts": ["Ancuabe", "Balama", "Chiure", "Ibo", "Macomia", "Mecufi", "Meluco", "Mocimboa da Praia", "Montepuez", "Mueda", "Muidumbe", "Namuno", "Nangade", "Pemba", "Quissanga", "Palma"],
+          "subdivisions": ["Ancuabe", "Balama", "Chiure", "Ibo", "Macomia", "Mecufi", "Meluco", "Mocimboa da Praia", "Montepuez", "Mueda", "Muidumbe", "Namuno", "Nangade", "Pemba", "Quissanga", "Palma"],
           "geoPoliticalZone": "Northern Mozambique",
           "location": "North",
           "name": "Cabo Delgado",
@@ -12,7 +12,7 @@
         },
         "GAZA": {
           "capitalCity": "Xai-Xai",
-          "districts": ["Bilene", "Chibuto", "Chicualacuala", "Chigubo", "Chokwe", "Guija", "Mabalane", "Manjacaze", "Massangena", "Massingir", "Xai-Xai"],
+          "subdivisions": ["Bilene", "Chibuto", "Chicualacuala", "Chigubo", "Chokwe", "Guija", "Mabalane", "Manjacaze", "Massangena", "Massingir", "Xai-Xai"],
           "geoPoliticalZone": "Southern Mozambique",
           "location": "South",
           "name": "Gaza",
@@ -22,7 +22,7 @@
         },
         "INHAMBANE": {
           "capitalCity": "Inhambane",
-          "districts": ["Funhalouro", "Govuro", "Homoine", "Inharrime", "Inhassoro", "Jangamo", "Mabote", "Massinga", "Maxixe", "Morrumbene", "Panda", "Vilanculos", "Zavala"],
+          "subdivisions": ["Funhalouro", "Govuro", "Homoine", "Inharrime", "Inhassoro", "Jangamo", "Mabote", "Massinga", "Maxixe", "Morrumbene", "Panda", "Vilanculos", "Zavala"],
           "geoPoliticalZone": "Southern Mozambique",
           "location": "Southeast",
           "name": "Inhambane",
@@ -32,7 +32,7 @@
         },
         "MANICA": {
           "capitalCity": "Chimoio",
-          "districts": ["Barue", "Chimoio", "Gondola", "Guro", "Macate", "Machaze", "Macossa", "Manica", "Mossurize", "Sussundenga", "Tambara"],
+          "subdivisions": ["Barue", "Chimoio", "Gondola", "Guro", "Macate", "Machaze", "Macossa", "Manica", "Mossurize", "Sussundenga", "Tambara"],
           "geoPoliticalZone": "Central Mozambique",
           "location": "Central West",
           "name": "Manica",
@@ -42,7 +42,7 @@
         },
         "MAPUTO": {
           "capitalCity": "Matola",
-          "districts": ["Boane", "Magude", "Manhiça", "Marracuene", "Matola", "Moamba", "Namaacha"],
+          "subdivisions": ["Boane", "Magude", "Manhiça", "Marracuene", "Matola", "Moamba", "Namaacha"],
           "geoPoliticalZone": "Southern Mozambique",
           "location": "Southwest",
           "name": "Maputo",
@@ -52,7 +52,7 @@
         },
         "MAPUTO CITY": {
           "capitalCity": "Maputo",
-          "districts": ["KaMavota", "KaMaxaquene", "KaMpfumo", "KaTembe", "KaNyaka"],
+          "subdivisions": ["KaMavota", "KaMaxaquene", "KaMpfumo", "KaTembe", "KaNyaka"],
           "geoPoliticalZone": "Southern Mozambique",
           "location": "South",
           "name": "Maputo City",
@@ -62,7 +62,7 @@
         },
         "NAMPULA": {
           "capitalCity": "Nampula",
-          "districts": ["Angoche", "Eráti", "Ilha de Moçambique", "Lalaua", "Larde", "Malema", "Meconta", "Mecubúri", "Memba", "Mogincual", "Mogovolas", "Moma", "Monapo", "Mossuril", "Muecate", "Murrupula", "Nacala", "Nacaroa", "Nampula"],
+          "subdivisions": ["Angoche", "Eráti", "Ilha de Moçambique", "Lalaua", "Larde", "Malema", "Meconta", "Mecubúri", "Memba", "Mogincual", "Mogovolas", "Moma", "Monapo", "Mossuril", "Muecate", "Murrupula", "Nacala", "Nacaroa", "Nampula"],
           "geoPoliticalZone": "Northern Mozambique",
           "location": "Northeast",
           "name": "Nampula",
@@ -72,7 +72,7 @@
         },
         "NIASSA": {
           "capitalCity": "Lichinga",
-          "districts": ["Chimbonila", "Cuamba", "Lago", "Lichinga", "Majune", "Mandimba", "Marrupa", "Maúa", "Mavago", "Mecanhelas", "Mecula", "Metarica", "Muembe", "Ngauma", "Nipepe", "Sanga"],
+          "subdivisions": ["Chimbonila", "Cuamba", "Lago", "Lichinga", "Majune", "Mandimba", "Marrupa", "Maúa", "Mavago", "Mecanhelas", "Mecula", "Metarica", "Muembe", "Ngauma", "Nipepe", "Sanga"],
           "geoPoliticalZone": "Northern Mozambique",
           "location": "Northwest",
           "name": "Niassa",
@@ -82,7 +82,7 @@
         },
         "SOFALA": {
           "capitalCity": "Beira",
-          "districts": ["Búzi", "Caia", "Chemba", "Cheringoma", "Chibabava", "Dondo", "Gorongosa", "Machanga", "Marínguè", "Marromeu", "Muanza", "Nhamatanda"],
+          "subdivisions": ["Búzi", "Caia", "Chemba", "Cheringoma", "Chibabava", "Dondo", "Gorongosa", "Machanga", "Marínguè", "Marromeu", "Muanza", "Nhamatanda"],
           "geoPoliticalZone": "Central Mozambique",
           "location": "Central East",
           "name": "Sofala",
@@ -92,7 +92,7 @@
         },
         "TETE": {
           "capitalCity": "Tete",
-          "districts": ["Angónia", "Cahora-Bassa", "Changara", "Chifunde", "Chiuta", "Dôa", "Macanga", "Magoé", "Marara", "Moatize", "Mutarara", "Tete", "Tsangano", "Zumbo"],
+          "subdivisions": ["Angónia", "Cahora-Bassa", "Changara", "Chifunde", "Chiuta", "Dôa", "Macanga", "Magoé", "Marara", "Moatize", "Mutarara", "Tete", "Tsangano", "Zumbo"],
           "geoPoliticalZone": "Central Mozambique",
           "location": "Central West",
           "name": "Tete",
@@ -102,7 +102,7 @@
         },
         "ZAMBEZIA": {
           "capitalCity": "Quelimane",
-          "districts": ["Alto Molócuè", "Chinde", "Derre", "Gilé", "Gurué", "Ile", "Inhassunge", "Lugela", "Maganja da Costa", "Milange", "Mocuba", "Mopeia", "Morrumbala", "Namacurra", "Namarroi", "Nicoadala", "Pebane", "Quelimane"],
+          "subdivisions": ["Alto Molócuè", "Chinde", "Derre", "Gilé", "Gurué", "Ile", "Inhassunge", "Lugela", "Maganja da Costa", "Milange", "Mocuba", "Mopeia", "Morrumbala", "Namacurra", "Namarroi", "Nicoadala", "Pebane", "Quelimane"],
           "geoPoliticalZone": "Central Mozambique",
           "location": "Central East",
           "name": "Zambezia",

@@ -2,7 +2,7 @@
     "ZW": {
         "BULAWAYO": {
           "capitalCity": "Bulawayo",
-          "districts": ["Bulawayo District"],
+          "subdivisions": ["Bulawayo District"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Bulawayo",
@@ -12,7 +12,7 @@
         },
         "HARARE": {
           "capitalCity": "Harare",
-          "districts": ["Harare District"],
+          "subdivisions": ["Harare District"],
           "geoPoliticalZone": "North East",
           "location": "North East",
           "name": "Harare",
@@ -22,7 +22,7 @@
         },
         "MANICALAND": {
           "capitalCity": "Mutare",
-          "districts": ["Buhera", "Chimanimani", "Chipinge", "Makoni", "Mutare", "Mutasa", "Nyanga"],
+          "subdivisions": ["Buhera", "Chimanimani", "Chipinge", "Makoni", "Mutare", "Mutasa", "Nyanga"],
           "geoPoliticalZone": "East",
           "location": "East",
           "name": "Manicaland",
@@ -32,7 +32,7 @@
         },
         "MASHONALAND CENTRAL": {
           "capitalCity": "Bindura",
-          "districts": ["Bindura", "Guruve", "Mazowe", "Mount Darwin", "Mukumbura", "Shamva"],
+          "subdivisions": ["Bindura", "Guruve", "Mazowe", "Mount Darwin", "Mukumbura", "Shamva"],
           "geoPoliticalZone": "North East",
           "location": "North East",
           "name": "Mashonaland Central",
@@ -42,7 +42,7 @@
         },
         "MASHONALAND EAST": {
           "capitalCity": "Marondera",
-          "districts": ["Chikomba", "Goromonzi", "Hwedza", "Marondera", "Murehwa", "Mutoko", "Seke", "Uzumba-Maramba-Pfungwe"],
+          "subdivisions": ["Chikomba", "Goromonzi", "Hwedza", "Marondera", "Murehwa", "Mutoko", "Seke", "Uzumba-Maramba-Pfungwe"],
           "geoPoliticalZone": "East",
           "location": "East",
           "name": "Mashonaland East",
@@ -52,7 +52,7 @@
         },
         "MASHONALAND WEST": {
           "capitalCity": "Chinhoyi",
-          "districts": ["Chegutu", "Hurungwe", "Kariba", "Makonde", "Mhondoro-Ngezi", "Sanyati", "Zvimba"],
+          "subdivisions": ["Chegutu", "Hurungwe", "Kariba", "Makonde", "Mhondoro-Ngezi", "Sanyati", "Zvimba"],
           "geoPoliticalZone": "North West",
           "location": "North West",
           "name": "Mashonaland West",
@@ -62,7 +62,7 @@
         },
         "MASVINGO": {
           "capitalCity": "Masvingo",
-          "districts": ["Bikita", "Chiredzi", "Gutu", "Masvingo", "Mwenezi", "Zaka"],
+          "subdivisions": ["Bikita", "Chiredzi", "Gutu", "Masvingo", "Mwenezi", "Zaka"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Masvingo",
@@ -72,7 +72,7 @@
         },
         "MATABELALAND NORTH": {
           "capitalCity": "Lupane",
-          "districts": ["Binga", "Hwange", "Lupane", "Nkayi", "Tsholotsho", "Umguza"],
+          "subdivisions": ["Binga", "Hwange", "Lupane", "Nkayi", "Tsholotsho", "Umguza"],
           "geoPoliticalZone": "West",
           "location": "West",
           "name": "Matabeleland North",
@@ -82,7 +82,7 @@
         },
         "MATABELALAND SOUTH": {
           "capitalCity": "Gwanda",
-          "districts": ["Beitbridge", "Bulilima", "Gwanda", "Insiza", "Mangwe", "Matobo", "Umzingwane"],
+          "subdivisions": ["Beitbridge", "Bulilima", "Gwanda", "Insiza", "Mangwe", "Matobo", "Umzingwane"],
           "geoPoliticalZone": "South West",
           "location": "South West",
           "name": "Matabeleland South",
@@ -92,7 +92,7 @@
         },
         "MIDLANDS": {
           "capitalCity": "Gweru",
-          "districts": ["Chirumhanzu", "Gokwe North", "Gokwe South", "Gweru", "Kwekwe", "Mberengwa", "Shurugwi", "Zvishavane"],
+          "subdivisions": ["Chirumhanzu", "Gokwe North", "Gokwe South", "Gweru", "Kwekwe", "Mberengwa", "Shurugwi", "Zvishavane"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Midlands",

@@ -2,7 +2,7 @@
     "UG": {
         "ABIM": {
             "capitalCity": "Abim Town",
-            "districts": ["Abim"],
+            "subdivisions": ["Abim"],
             "geoPoliticalZone": "Northern Region",
             "location": "North East",
             "name": "Abim",
@@ -12,7 +12,7 @@
         },
         "ADJUMANI": {
             "capitalCity": "Adjumani Town",
-            "districts": ["Adjumani"],
+            "subdivisions": ["Adjumani"],
             "geoPoliticalZone": "Northern Region",
             "location": "North West",
             "name": "Adjumani",
@@ -22,7 +22,7 @@
         },
         "AMOLATAR": {
             "capitalCity": "Amolatar Town",
-            "districts": ["Amolatar"],
+            "subdivisions": ["Amolatar"],
             "geoPoliticalZone": "Northern Region",
             "location": "North Central",
             "name": "Amolatar",
@@ -32,7 +32,7 @@
         },
         "AMURIA": {
             "capitalCity": "Amuria Town",
-            "districts": ["Amuria"],
+            "subdivisions": ["Amuria"],
             "geoPoliticalZone": "Eastern Region",
             "location": "East Central",
             "name": "Amuria",
@@ -42,7 +42,7 @@
         },
         "APAC": {
             "capitalCity": "Apac Town",
-            "districts": ["Apac"],
+            "subdivisions": ["Apac"],
             "geoPoliticalZone": "Northern Region",
             "location": "North Central",
             "name": "Apac",
@@ -52,7 +52,7 @@
         },
         "ARUA": {
             "capitalCity": "Arua Town",
-            "districts": ["Arua"],
+            "subdivisions": ["Arua"],
             "geoPoliticalZone": "Northern Region",
             "location": "North West",
             "name": "Arua",
@@ -62,7 +62,7 @@
         },
         "BUNDIBUGYO": {
             "capitalCity": "Bundibugyo Town",
-            "districts": ["Bundibugyo"],
+            "subdivisions": ["Bundibugyo"],
             "geoPoliticalZone": "Western Region",
             "location": "West",
             "name": "Bundibugyo",
@@ -72,7 +72,7 @@
         },
         "BUSHENYI": {
             "capitalCity": "Bushenyi Town",
-            "districts": ["Bushenyi"],
+            "subdivisions": ["Bushenyi"],
             "geoPoliticalZone": "Western Region",
             "location": "South West",
             "name": "Bushenyi",
@@ -82,7 +82,7 @@
         },
         "BUSIA": {
             "capitalCity": "Busia Town",
-            "districts": ["Busia"],
+            "subdivisions": ["Busia"],
             "geoPoliticalZone": "Eastern Region",
             "location": "East",
             "name": "Busia",
@@ -92,7 +92,7 @@
         },
         "GULU": {
             "capitalCity": "Gulu Town",
-            "districts": ["Gulu"],
+            "subdivisions": ["Gulu"],
             "geoPoliticalZone": "Northern Region",
             "location": "North",
             "name": "Gulu",
@@ -102,7 +102,7 @@
         },
         "HOIMA": {
             "capitalCity": "Hoima Town",
-            "districts": ["Hoima"],
+            "subdivisions": ["Hoima"],
             "geoPoliticalZone": "Western Region",
             "location": "West",
             "name": "Hoima",
@@ -112,7 +112,7 @@
         },
         "IGANGA": {
             "capitalCity": "Iganga Town",
-            "districts": ["Iganga"],
+            "subdivisions": ["Iganga"],
             "geoPoliticalZone": "Eastern Region",
             "location": "East Central",
             "name": "Iganga",
@@ -122,7 +122,7 @@
         },
         "KABALE": {
             "capitalCity": "Kabale Town",
-            "districts": ["Kabale"],
+            "subdivisions": ["Kabale"],
             "geoPoliticalZone": "Western Region",
             "location": "South West",
             "name": "Kabale",
@@ -132,7 +132,7 @@
         },
         "KAMPALA": {
             "capitalCity": "Kampala",
-            "districts": ["Kampala"],
+            "subdivisions": ["Kampala"],
             "geoPoliticalZone": "Central Region",
             "location": "Central",
             "name": "Kampala",
@@ -142,7 +142,7 @@
         },
         "KASESE": {
             "capitalCity": "Kasese Town",
-            "districts": ["Kasese"],
+            "subdivisions": ["Kasese"],
             "geoPoliticalZone": "Western Region",
             "location": "South West",
             "name": "Kasese",
@@ -152,7 +152,7 @@
         },
         "KIBUKU": {
             "capitalCity": "Kibuku Town",
-            "districts": ["Kibuku"],
+            "subdivisions": ["Kibuku"],
             "geoPoliticalZone": "Eastern Region",
             "location": "East Central",
             "name": "Kibuku",
@@ -162,7 +162,7 @@
         },
         "KISORO": {
             "capitalCity": "Kisoro Town",
-            "districts": ["Kisoro"],
+            "subdivisions": ["Kisoro"],
             "geoPoliticalZone": "Western Region",
             "location": "South West",
             "name": "Kisoro",
@@ -172,7 +172,7 @@
         },
         "KITGUM": {
             "capitalCity": "Kitgum Town",
-            "districts": ["Kitgum"],
+            "subdivisions": ["Kitgum"],
             "geoPoliticalZone": "Northern Region",
             "location": "North",
             "name": "Kitgum",
@@ -182,7 +182,7 @@
         },
         "KOTIDO": {
             "capitalCity": "Kotido Town",
-            "districts": ["Kotido"],
+            "subdivisions": ["Kotido"],
             "geoPoliticalZone": "Northern Region",
             "location": "North East",
             "name": "Kotido",
@@ -192,7 +192,7 @@
         },
         "KUMI": {
             "capitalCity": "Kumi Town",
-            "districts": ["Kumi"],
+            "subdivisions": ["Kumi"],
             "geoPoliticalZone": "Eastern Region",
             "location": "East Central",
             "name": "Kumi",
@@ -202,7 +202,7 @@
         },
         "LIRA": {
             "capitalCity": "Lira Town",
-            "districts": ["Lira"],
+            "subdivisions": ["Lira"],
             "geoPoliticalZone": "Northern Region",
             "location": "North Central",
             "name": "Lira",
@@ -212,7 +212,7 @@
         },
         "MASINDI": {
             "capitalCity": "Masindi Town",
-            "districts": ["Masindi"],
+            "subdivisions": ["Masindi"],
             "geoPoliticalZone": "Western Region",
             "location": "North West",
             "name": "Masindi",
@@ -222,7 +222,7 @@
         },
         "MBARARA": {
             "capitalCity": "Mbarara Town",
-            "districts": ["Mbarara"],
+            "subdivisions": ["Mbarara"],
             "geoPoliticalZone": "Western Region",
             "location": "South West",
             "name": "Mbarara",
@@ -232,7 +232,7 @@
         },
         "MITYANA": {
             "capitalCity": "Mityana Town",
-            "districts": ["Mityana"],
+            "subdivisions": ["Mityana"],
             "geoPoliticalZone": "Central Region",
             "location": "Central",
             "name": "Mityana",
@@ -242,7 +242,7 @@
         },
         "MOROTO": {
             "capitalCity": "Moroto Town",
-            "districts": ["Moroto"],
+            "subdivisions": ["Moroto"],
             "geoPoliticalZone": "Northern Region",
             "location": "North East",
             "name": "Moroto",
@@ -252,7 +252,7 @@
         },
         "MPIGI": {
             "capitalCity": "Mpigi Town",
-            "districts": ["Mpigi"],
+            "subdivisions": ["Mpigi"],
             "geoPoliticalZone": "Central Region",
             "location": "Central",
             "name": "Mpigi",
@@ -262,7 +262,7 @@
         },
         "NAKASEKE": {
             "capitalCity": "Nakaseke Town",
-            "districts": ["Nakaseke"],
+            "subdivisions": ["Nakaseke"],
             "geoPoliticalZone": "Central Region",
             "location": "Central",
             "name": "Nakaseke",
@@ -272,7 +272,7 @@
         },
         "NAMUTUMBA": {
             "capitalCity": "Namutumba Town",
-            "districts": ["Namutumba"],
+            "subdivisions": ["Namutumba"],
             "geoPoliticalZone": "Eastern Region",
             "location": "East Central",
             "name": "Namutumba",
@@ -282,7 +282,7 @@
         },
         "NANSANA": {
             "capitalCity": "Nansana",
-            "districts": ["Nansana"],
+            "subdivisions": ["Nansana"],
             "geoPoliticalZone": "Central Region",
             "location": "Central",
             "name": "Nansana",
@@ -292,7 +292,7 @@
         },
         "NEBBI": {
             "capitalCity": "Nebbi Town",
-            "districts": ["Nebbi"],
+            "subdivisions": ["Nebbi"],
             "geoPoliticalZone": "Northern Region",
             "location": "North West",
             "name": "Nebbi",
@@ -302,7 +302,7 @@
         },
         "NTUNGAMO": {
             "capitalCity": "Ntungamo Town",
-            "districts": ["Ntungamo"],
+            "subdivisions": ["Ntungamo"],
             "geoPoliticalZone": "Western Region",
             "location": "South West",
             "name": "Ntungamo",
@@ -312,7 +312,7 @@
         },
         "OMURUSHI": {
             "capitalCity": "Omurushi Town",
-            "districts": ["Omurushi"],
+            "subdivisions": ["Omurushi"],
             "geoPoliticalZone": "Western Region",
             "location": "South West",
             "name": "Omurushi",
@@ -322,7 +322,7 @@
         },
         "PADER": {
             "capitalCity": "Pader Town",
-            "districts": ["Pader"],
+            "subdivisions": ["Pader"],
             "geoPoliticalZone": "Northern Region",
             "location": "North",
             "name": "Pader",
@@ -332,7 +332,7 @@
         },
         "RAKAI": {
             "capitalCity": "Rakai Town",
-            "districts": ["Rakai"],
+            "subdivisions": ["Rakai"],
             "geoPoliticalZone": "Central Region",
             "location": "South",
             "name": "Rakai",
@@ -342,7 +342,7 @@
         },
         "SHEEMA": {
             "capitalCity": "Sheema Town",
-            "districts": ["Sheema"],
+            "subdivisions": ["Sheema"],
             "geoPoliticalZone": "Western Region",
             "location": "South West",
             "name": "Sheema",
@@ -352,7 +352,7 @@
         },
         "SOROTI": {
             "capitalCity": "Soroti Town",
-            "districts": ["Soroti"],
+            "subdivisions": ["Soroti"],
             "geoPoliticalZone": "Eastern Region",
             "location": "East",
             "name": "Soroti",
@@ -362,7 +362,7 @@
         },
         "TORORO": {
             "capitalCity": "Tororo Town",
-            "districts": ["Tororo"],
+            "subdivisions": ["Tororo"],
             "geoPoliticalZone": "Eastern Region",
             "location": "East",
             "name": "Tororo",
@@ -372,7 +372,7 @@
         },
         "WAKISO": {
             "capitalCity": "Wakiso Town",
-            "districts": ["Wakiso"],
+            "subdivisions": ["Wakiso"],
             "geoPoliticalZone": "Central Region",
             "location": "Central",
             "name": "Wakiso",
@@ -382,7 +382,7 @@
         },
         "YUMBE": {
             "capitalCity": "Yumbe Town",
-            "districts": ["Yumbe"],
+            "subdivisions": ["Yumbe"],
             "geoPoliticalZone": "Northern Region",
             "location": "North West",
             "name": "Yumbe",

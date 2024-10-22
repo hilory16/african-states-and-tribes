@@ -2,7 +2,7 @@
     "MG":{
         "ANTANANARIVO": {
           "capitalCity": "Antananarivo",
-          "districts": ["Antananarivo Renivohitra", "Antananarivo Atsimondrano", "Ambohidratrimo", "Anjozorobe", "Manjakandriana"],
+          "subdivisions": ["Antananarivo Renivohitra", "Antananarivo Atsimondrano", "Ambohidratrimo", "Anjozorobe", "Manjakandriana"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Antananarivo",
@@ -12,7 +12,7 @@
         },
         "ANTSIRANANA": {
           "capitalCity": "Antsiranana",
-          "districts": ["Antsiranana I", "Antsiranana II", "Ambilobe", "Ambanja"],
+          "subdivisions": ["Antsiranana I", "Antsiranana II", "Ambilobe", "Ambanja"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Antsiranana",
@@ -22,7 +22,7 @@
         },
         "FIANARANTSOA": {
           "capitalCity": "Fianarantsoa",
-          "districts": ["Fianarantsoa I", "Ambalavao", "Ikalamavony", "Isandra", "Lalangina"],
+          "subdivisions": ["Fianarantsoa I", "Ambalavao", "Ikalamavony", "Isandra", "Lalangina"],
           "geoPoliticalZone": "",
           "location": "South-Central",
           "name": "Fianarantsoa",
@@ -32,7 +32,7 @@
         },
         "MAHAJANGA": {
           "capitalCity": "Mahajanga",
-          "districts": ["Mahajanga I", "Mahajanga II", "Marovoay", "Soalala", "Ambato-Boeny"],
+          "subdivisions": ["Mahajanga I", "Mahajanga II", "Marovoay", "Soalala", "Ambato-Boeny"],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Mahajanga",
@@ -42,7 +42,7 @@
         },
         "TOAMASINA": {
           "capitalCity": "Toamasina",
-          "districts": ["Toamasina I", "Toamasina II", "Vatomandry", "Brickaville", "Mahanoro"],
+          "subdivisions": ["Toamasina I", "Toamasina II", "Vatomandry", "Brickaville", "Mahanoro"],
           "geoPoliticalZone": "",
           "location": "East",
           "name": "Toamasina",
@@ -52,7 +52,7 @@
         },
         "TOLIARA": {
           "capitalCity": "Toliara",
-          "districts": ["Toliara I", "Toliara II", "Betioky", "Ampanihy", "Ankazoabo"],
+          "subdivisions": ["Toliara I", "Toliara II", "Betioky", "Ampanihy", "Ankazoabo"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Toliara",

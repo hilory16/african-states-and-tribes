@@ -2,7 +2,7 @@
     "TD": {
         "BATHA": {
           "capitalCity": "Ati",
-          "districts": ["Batha Est", "Batha Ouest", "Fitri"],
+          "subdivisions": ["Batha Est", "Batha Ouest", "Fitri"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Batha",
@@ -12,7 +12,7 @@
         },
         "BAHR EL GHAZAL": {
           "capitalCity": "Moussoro",
-          "districts": ["Bahr El Ghazal Nord", "Bahr El Ghazal Sud"],
+          "subdivisions": ["Bahr El Ghazal Nord", "Bahr El Ghazal Sud"],
           "geoPoliticalZone": "Central",
           "location": "Central West",
           "name": "Bahr el Ghazal",
@@ -22,7 +22,7 @@
         },
         "BORKOU": {
           "capitalCity": "Faya-Largeau",
-          "districts": ["Borkou"],
+          "subdivisions": ["Borkou"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Borkou",
@@ -32,7 +32,7 @@
         },
         "CHARI-BAGUIRMI": {
           "capitalCity": "Massenya",
-          "districts": ["Baguirmi", "Chari", "Loumia"],
+          "subdivisions": ["Baguirmi", "Chari", "Loumia"],
           "geoPoliticalZone": "South",
           "location": "South West",
           "name": "Chari-Baguirmi",
@@ -42,7 +42,7 @@
         },
         "ENNERI": {
           "capitalCity": "Fada",
-          "districts": ["Ennedi Ouest"],
+          "subdivisions": ["Ennedi Ouest"],
           "geoPoliticalZone": "North",
           "location": "North East",
           "name": "Ennedi Ouest",
@@ -52,7 +52,7 @@
         },
         "GUERA": {
           "capitalCity": "Mongo",
-          "districts": ["Guera"],
+          "subdivisions": ["Guera"],
           "geoPoliticalZone": "Central",
           "location": "Central",
           "name": "Guera",
@@ -62,7 +62,7 @@
         },
         "HADJER-LAMIS": {
           "capitalCity": "Massakory",
-          "districts": ["Dandi", "Dagana", "Haraze Al Biar"],
+          "subdivisions": ["Dandi", "Dagana", "Haraze Al Biar"],
           "geoPoliticalZone": "South",
           "location": "South West",
           "name": "Hadjer-Lamis",
@@ -72,7 +72,7 @@
         },
         "KANEM": {
           "capitalCity": "Mao",
-          "districts": ["Kanem Nord", "Kanem Sud"],
+          "subdivisions": ["Kanem Nord", "Kanem Sud"],
           "geoPoliticalZone": "North",
           "location": "North West",
           "name": "Kanem",
@@ -82,7 +82,7 @@
         },
         "LAC": {
           "capitalCity": "Bol",
-          "districts": ["Mamdi", "Wayi"],
+          "subdivisions": ["Mamdi", "Wayi"],
           "geoPoliticalZone": "West",
           "location": "West",
           "name": "Lac",
@@ -92,7 +92,7 @@
         },
         "LOGONE OCCIDENTAL": {
           "capitalCity": "Moundou",
-          "districts": ["Moundou", "Lai", "Bébédja"],
+          "subdivisions": ["Moundou", "Lai", "Bébédja"],
           "geoPoliticalZone": "South",
           "location": "South West",
           "name": "Logone Occidental",
@@ -102,7 +102,7 @@
         },
         "LOGONE ORIENTAL": {
           "capitalCity": "Doba",
-          "districts": ["Doba", "Moïssala"],
+          "subdivisions": ["Doba", "Moïssala"],
           "geoPoliticalZone": "South",
           "location": "South East",
           "name": "Logone Oriental",
@@ -112,7 +112,7 @@
         },
         "MANDOUL": {
           "capitalCity": "Koumra",
-          "districts": ["Koumra", "Bédjondo"],
+          "subdivisions": ["Koumra", "Bédjondo"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Mandoul",
@@ -122,7 +122,7 @@
         },
         "MAYO-KEBBI EST": {
           "capitalCity": "Bongor",
-          "districts": ["Mayo Boneye", "Mont Illi", "Mayo Lemay"],
+          "subdivisions": ["Mayo Boneye", "Mont Illi", "Mayo Lemay"],
           "geoPoliticalZone": "South",
           "location": "South West",
           "name": "Mayo-Kebbi Est",
@@ -132,7 +132,7 @@
         },
         "MAYO-KEBBI OUEST": {
           "capitalCity": "Pala",
-          "districts": ["Léré", "Pala", "Binder"],
+          "subdivisions": ["Léré", "Pala", "Binder"],
           "geoPoliticalZone": "South",
           "location": "South West",
           "name": "Mayo-Kebbi Ouest",
@@ -142,7 +142,7 @@
         },
         "MOYEN-CHARI": {
           "capitalCity": "Sarh",
-          "districts": ["Barh Kôh", "Bahr Sara", "Kou"], 
+          "subdivisions": ["Barh Kôh", "Bahr Sara", "Kou"], 
           "geoPoliticalZone": "South",
           "location": "South East",
           "name": "Moyen-Chari",
@@ -152,7 +152,7 @@
         },
         "N'DJAMENA": {
           "capitalCity": "N'Djamena",
-          "districts": ["1st Arrondissement", "2nd Arrondissement", "3rd Arrondissement", "4th Arrondissement", "5th Arrondissement", "6th Arrondissement", "7th Arrondissement", "8th Arrondissement", "9th Arrondissement", "10th Arrondissement"],
+          "subdivisions": ["1st Arrondissement", "2nd Arrondissement", "3rd Arrondissement", "4th Arrondissement", "5th Arrondissement", "6th Arrondissement", "7th Arrondissement", "8th Arrondissement", "9th Arrondissement", "10th Arrondissement"],
           "geoPoliticalZone": "Capital",
           "location": "West",
           "name": "N'Djamena",
@@ -162,7 +162,7 @@
         },
         "OUADDAI": {
           "capitalCity": "Abéché",
-          "districts": ["Assoungha", "Ouara"],
+          "subdivisions": ["Assoungha", "Ouara"],
           "geoPoliticalZone": "East",
           "location": "East",
           "name": "Ouaddai",
@@ -172,7 +172,7 @@
         },
         "SALAMAT": {
           "capitalCity": "Am Timan",
-          "districts": ["Aboudeïa", "Haraze Mangueigne"],
+          "subdivisions": ["Aboudeïa", "Haraze Mangueigne"],
           "geoPoliticalZone": "South East",
           "location": "South East",
           "name": "Salamat",
@@ -182,7 +182,7 @@
         },
         "SILA": {
           "capitalCity": "Goz Beïda",
-          "districts": ["Kimiti", "Djourf Al Ahmar"],
+          "subdivisions": ["Kimiti", "Djourf Al Ahmar"],
           "geoPoliticalZone": "East",
           "location": "East",
           "name": "Sila",
@@ -192,7 +192,7 @@
         },
         "TANDJILE": {
           "capitalCity": "Laï",
-          "districts": ["Tandjilé Ouest", "Tandjilé Est"],
+          "subdivisions": ["Tandjilé Ouest", "Tandjilé Est"],
           "geoPoliticalZone": "South",
           "location": "South",
           "name": "Tandjile",
@@ -202,7 +202,7 @@
         },
         "TIBESTI": {
           "capitalCity": "Bardaï",
-          "districts": ["Tibesti"],
+          "subdivisions": ["Tibesti"],
           "geoPoliticalZone": "North",
           "location": "North",
           "name": "Tibesti",
@@ -212,7 +212,7 @@
         },
         "WADI FIRA": {
           "capitalCity": "Biltine",
-          "districts": ["Biltine", "Dar Tama", "Kobé"],
+          "subdivisions": ["Biltine", "Dar Tama", "Kobé"],
           "geoPoliticalZone": "East",
           "location": "North East",
           "name": "Wadi Fira",

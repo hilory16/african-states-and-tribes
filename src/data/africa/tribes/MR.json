@@ -2,7 +2,7 @@
     "MR":{
         "ADRAR": {
           "capitalCity": "Atar",
-          "districts": ["Aoujeft", "Chinguetti", "Ouadane", "Atar"],
+          "subdivisions": ["Aoujeft", "Chinguetti", "Ouadane", "Atar"],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Adrar",
@@ -12,7 +12,7 @@
         },
         "ASSABA": {
           "capitalCity": "Kiffa",
-          "districts": ["Barkéol", "Boumdid", "Guerou", "Kankossa", "Kiffa"],
+          "subdivisions": ["Barkéol", "Boumdid", "Guerou", "Kankossa", "Kiffa"],
           "geoPoliticalZone": "",
           "location": "South-East",
           "name": "Assaba",
@@ -22,7 +22,7 @@
         },
         "BRAKNA": {
           "capitalCity": "Aleg",
-          "districts": ["Aleg", "Bababé", "Boghe", "Mbagne", "Magta Lahjar"],
+          "subdivisions": ["Aleg", "Bababé", "Boghe", "Mbagne", "Magta Lahjar"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Brakna",
@@ -32,7 +32,7 @@
         },
         "DAKHLET NOUADHIBOU": {
           "capitalCity": "Nouadhibou",
-          "districts": ["Nouadhibou", "Inchiri"],
+          "subdivisions": ["Nouadhibou", "Inchiri"],
           "geoPoliticalZone": "",
           "location": "North-West Coast",
           "name": "Dakhlet Nouadhibou",
@@ -42,7 +42,7 @@
         },
         "GORGOL": {
           "capitalCity": "Kaédi",
-          "districts": ["Kaédi", "Monguel", "Mbout", "Maghama"],
+          "subdivisions": ["Kaédi", "Monguel", "Mbout", "Maghama"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Gorgol",
@@ -52,7 +52,7 @@
         },
         "GUIDIMAKA": {
           "capitalCity": "Selibaby",
-          "districts": ["Selibaby", "Ould Yengé", "Ghabou"],
+          "subdivisions": ["Selibaby", "Ould Yengé", "Ghabou"],
           "geoPoliticalZone": "",
           "location": "South",
           "name": "Guidimaka",
@@ -62,7 +62,7 @@
         },
         "HODH ECH CHARGHI": {
           "capitalCity": "Néma",
-          "districts": ["Néma", "Amourj", "Dhar", "Djiguenni", "Oualata"],
+          "subdivisions": ["Néma", "Amourj", "Dhar", "Djiguenni", "Oualata"],
           "geoPoliticalZone": "",
           "location": "East",
           "name": "Hodh Ech Chargui",
@@ -72,7 +72,7 @@
         },
         "HODH EL GHARBI": {
           "capitalCity": "Aïoun",
-          "districts": ["Aïoun", "Kobeni", "Tintane", "Timbédra"],
+          "subdivisions": ["Aïoun", "Kobeni", "Tintane", "Timbédra"],
           "geoPoliticalZone": "",
           "location": "East",
           "name": "Hodh El Gharbi",
@@ -82,7 +82,7 @@
         },
         "INCHIRI": {
           "capitalCity": "Akjoujt",
-          "districts": ["Akjoujt"],
+          "subdivisions": ["Akjoujt"],
           "geoPoliticalZone": "",
           "location": "North-West",
           "name": "Inchiri",
@@ -92,7 +92,7 @@
         },
         "NOUAKCHOTT-NORD": {
           "capitalCity": "Nouakchott",
-          "districts": ["Dar-Naim", "Teyarett", "Toujounine"],
+          "subdivisions": ["Dar-Naim", "Teyarett", "Toujounine"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Nouakchott-Nord",
@@ -102,7 +102,7 @@
         },
         "NOUAKCHOTT-OUEST": {
           "capitalCity": "Nouakchott",
-          "districts": ["Ksar", "Sebkha", "Tevragh-Zeina"],
+          "subdivisions": ["Ksar", "Sebkha", "Tevragh-Zeina"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Nouakchott-Ouest",
@@ -112,7 +112,7 @@
         },
         "NOUAKCHOTT-SUD": {
           "capitalCity": "Nouakchott",
-          "districts": ["Arafat", "El Mina", "Riyadh"],
+          "subdivisions": ["Arafat", "El Mina", "Riyadh"],
           "geoPoliticalZone": "",
           "location": "West",
           "name": "Nouakchott-Sud",
@@ -122,7 +122,7 @@
         },
         "TAGANT": {
           "capitalCity": "Tidjikja",
-          "districts": ["Tidjikja", "Tichit", "Rachid"],
+          "subdivisions": ["Tidjikja", "Tichit", "Rachid"],
           "geoPoliticalZone": "",
           "location": "Central",
           "name": "Tagant",
@@ -132,7 +132,7 @@
         },
         "TIRIS ZEMMOUR": {
           "capitalCity": "Zouérat",
-          "districts": ["Zouérat", "Fderik", "Bir Moghrein"],
+          "subdivisions": ["Zouérat", "Fderik", "Bir Moghrein"],
           "geoPoliticalZone": "",
           "location": "North",
           "name": "Tiris Zemmour",
@@ -142,7 +142,7 @@
         },
         "TRARZA": {
           "capitalCity": "Rosso",
-          "districts": ["Rosso", "Boutilimit", "Mederdra", "Keur Macène", "R'Kiz"],
+          "subdivisions": ["Rosso", "Boutilimit", "Mederdra", "Keur Macène", "R'Kiz"],
           "geoPoliticalZone": "",
           "location": "South-West",
           "name": "Trarza",
