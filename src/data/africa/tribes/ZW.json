@@ -1,0 +1,105 @@
+{
+    "ZW": {
+        "BULAWAYO": {
+          "capitalCity": "Bulawayo",
+          "districts": ["Bulawayo District"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Bulawayo",
+          "stateCode": "BU",
+          "tribes": ["Ndebele", "Shona", "Kalanga"],
+          "type": "province"
+        },
+        "HARARE": {
+          "capitalCity": "Harare",
+          "districts": ["Harare District"],
+          "geoPoliticalZone": "North East",
+          "location": "North East",
+          "name": "Harare",
+          "stateCode": "HA",
+          "tribes": ["Shona", "Zezuru", "Manyika"],
+          "type": "province"
+        },
+        "MANICALAND": {
+          "capitalCity": "Mutare",
+          "districts": ["Buhera", "Chimanimani", "Chipinge", "Makoni", "Mutare", "Mutasa", "Nyanga"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "Manicaland",
+          "stateCode": "MA",
+          "tribes": ["Shona", "Manyika", "Ndau"],
+          "type": "province"
+        },
+        "MASHONALAND CENTRAL": {
+          "capitalCity": "Bindura",
+          "districts": ["Bindura", "Guruve", "Mazowe", "Mount Darwin", "Mukumbura", "Shamva"],
+          "geoPoliticalZone": "North East",
+          "location": "North East",
+          "name": "Mashonaland Central",
+          "stateCode": "MC",
+          "tribes": ["Shona", "Korekore"],
+          "type": "province"
+        },
+        "MASHONALAND EAST": {
+          "capitalCity": "Marondera",
+          "districts": ["Chikomba", "Goromonzi", "Hwedza", "Marondera", "Murehwa", "Mutoko", "Seke", "Uzumba-Maramba-Pfungwe"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "Mashonaland East",
+          "stateCode": "ME",
+          "tribes": ["Shona", "Zezuru"],
+          "type": "province"
+        },
+        "MASHONALAND WEST": {
+          "capitalCity": "Chinhoyi",
+          "districts": ["Chegutu", "Hurungwe", "Kariba", "Makonde", "Mhondoro-Ngezi", "Sanyati", "Zvimba"],
+          "geoPoliticalZone": "North West",
+          "location": "North West",
+          "name": "Mashonaland West",
+          "stateCode": "MW",
+          "tribes": ["Shona", "Zezuru", "Ndebele"],
+          "type": "province"
+        },
+        "MASVINGO": {
+          "capitalCity": "Masvingo",
+          "districts": ["Bikita", "Chiredzi", "Gutu", "Masvingo", "Mwenezi", "Zaka"],
+          "geoPoliticalZone": "South",
+          "location": "South",
+          "name": "Masvingo",
+          "stateCode": "MS",
+          "tribes": ["Shona", "Karanga", "Ndau"],
+          "type": "province"
+        },
+        "MATABELALAND NORTH": {
+          "capitalCity": "Lupane",
+          "districts": ["Binga", "Hwange", "Lupane", "Nkayi", "Tsholotsho", "Umguza"],
+          "geoPoliticalZone": "West",
+          "location": "West",
+          "name": "Matabeleland North",
+          "stateCode": "MN",
+          "tribes": ["Ndebele", "Tonga", "Kalanga", "Nambya"],
+          "type": "province"
+        },
+        "MATABELALAND SOUTH": {
+          "capitalCity": "Gwanda",
+          "districts": ["Beitbridge", "Bulilima", "Gwanda", "Insiza", "Mangwe", "Matobo", "Umzingwane"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Matabeleland South",
+          "stateCode": "MS",
+          "tribes": ["Ndebele", "Kalanga", "Venda"],
+          "type": "province"
+        },
+        "MIDLANDS": {
+          "capitalCity": "Gweru",
+          "districts": ["Chirumhanzu", "Gokwe North", "Gokwe South", "Gweru", "Kwekwe", "Mberengwa", "Shurugwi", "Zvishavane"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Midlands",
+          "stateCode": "MI",
+          "tribes": ["Shona", "Ndebele", "Karanga", "Tonga"],
+          "type": "province"
+        }
+      }
+      
+}

@@ -1,0 +1,25 @@
+{
+    "ST": {
+        "PRINCIPE": {
+          "capitalCity": "Santo António",
+          "districts": [],
+          "geoPoliticalZone": "Autonomous Region",
+          "location": "North East",
+          "name": "Príncipe",
+          "stateCode": "PR",
+          "tribes": ["Forros", "Angolares"],
+          "type": "autonomous region"
+        },
+        "SAO TOME": {
+          "capitalCity": "São Tomé",
+          "districts": ["Água Grande", "Cantagalo", "Caué", "Lembá", "Lobata", "Mé-Zóchi"],
+          "geoPoliticalZone": "Island",
+          "location": "Central",
+          "name": "São Tomé",
+          "stateCode": "ST",
+          "tribes": ["Forros", "Angolares", "Tonga", "Moncós"],
+          "type": "island"
+        }
+      }
+      
+}

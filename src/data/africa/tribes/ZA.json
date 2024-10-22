@@ -1,0 +1,95 @@
+{
+    "ZA": {
+        "EASTERN CAPE": {
+          "capitalCity": "Bhisho",
+          "districts": ["Alfred Nzo", "Amathole", "Buffalo City", "Chris Hani", "Joe Gqabi", "Nelson Mandela Bay", "OR Tambo", "Sarah Baartman"],
+          "geoPoliticalZone": "South East",
+          "location": "South East",
+          "name": "Eastern Cape",
+          "stateCode": "EC",
+          "tribes": ["Xhosa", "Thembu", "Pondo"],
+          "type": "province"
+        },
+        "FREE STATE": {
+          "capitalCity": "Bloemfontein",
+          "districts": ["Fezile Dabi", "Lejweleputswa", "Mangaung", "Thabo Mofutsanyana", "Xhariep"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Free State",
+          "stateCode": "FS",
+          "tribes": ["Sotho", "Tswana", "Zulu"],
+          "type": "province"
+        },
+        "GAUTENG": {
+          "capitalCity": "Johannesburg",
+          "districts": ["City of Ekurhuleni", "City of Johannesburg", "City of Tshwane", "Sedibeng", "West Rand"],
+          "geoPoliticalZone": "North East",
+          "location": "North East",
+          "name": "Gauteng",
+          "stateCode": "GP",
+          "tribes": ["Sotho", "Zulu", "Tswana", "Xhosa"],
+          "type": "province"
+        },
+        "KWAZULU-NATAL": {
+          "capitalCity": "Pietermaritzburg",
+          "districts": ["Amajuba", "eThekwini", "Harry Gwala", "iLembe", "King Cetshwayo", "Ugu", "uMgungundlovu", "uMkhanyakude", "uMzinyathi", "uThukela", "Zululand"],
+          "geoPoliticalZone": "East",
+          "location": "East",
+          "name": "KwaZulu-Natal",
+          "stateCode": "KZN",
+          "tribes": ["Zulu", "Xhosa"],
+          "type": "province"
+        },
+        "LIMPOPO": {
+          "capitalCity": "Polokwane",
+          "districts": ["Capricorn", "Mopani", "Sekhukhune", "Vhembe", "Waterberg"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Limpopo",
+          "stateCode": "LP",
+          "tribes": ["Venda", "Pedi", "Tsonga", "Ndebele"],
+          "type": "province"
+        },
+        "MPUMALANGA": {
+          "capitalCity": "Mbombela",
+          "districts": ["Ehlanzeni", "Gert Sibande", "Nkangala"],
+          "geoPoliticalZone": "North East",
+          "location": "North East",
+          "name": "Mpumalanga",
+          "stateCode": "MP",
+          "tribes": ["Swazi", "Zulu", "Ndebele", "Tsonga"],
+          "type": "province"
+        },
+        "NORTHERN CAPE": {
+          "capitalCity": "Kimberley",
+          "districts": ["Frances Baard", "John Taolo Gaetsewe", "Namakwa", "Pixley ka Seme", "ZF Mgcawu"],
+          "geoPoliticalZone": "West",
+          "location": "West",
+          "name": "Northern Cape",
+          "stateCode": "NC",
+          "tribes": ["Tswana", "Griqua", "Coloured", "Nama"],
+          "type": "province"
+        },
+        "NORTH WEST": {
+          "capitalCity": "Mahikeng",
+          "districts": ["Bojanala Platinum", "Dr Kenneth Kaunda", "Dr Ruth Segomotsi Mompati", "Ngaka Modiri Molema"],
+          "geoPoliticalZone": "North West",
+          "location": "North West",
+          "name": "North West",
+          "stateCode": "NW",
+          "tribes": ["Tswana", "Sotho", "Xhosa"],
+          "type": "province"
+        },
+        "WESTERN CAPE": {
+          "capitalCity": "Cape Town",
+          "districts": ["Cape Winelands", "Central Karoo", "City of Cape Town", "Eden", "Overberg", "West Coast"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Western Cape",
+          "stateCode": "WC",
+          "tribes": ["Coloured", "Xhosa", "Afrikaner"],
+          "type": "province"
+        }
+      }
+      
+}

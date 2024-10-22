@@ -1,0 +1,245 @@
+{
+    "TN": {
+        "ARIANA": {
+          "capitalCity": "Ariana",
+          "districts": ["Ariana Ville", "Ettadhamen", "Kalâat el-Andalous", "La Soukra", "Mnihla", "Raoued"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Ariana",
+          "stateCode": "AR",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "BEJA": {
+          "capitalCity": "Beja",
+          "districts": ["Amdoun", "Béja Nord", "Béja Sud", "Goubellat", "Medjez el-Bab", "Nefza", "Teboursouk", "Testour"],
+          "geoPoliticalZone": "North West",
+          "location": "North West",
+          "name": "Beja",
+          "stateCode": "BJ",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "BEN AROUS": {
+          "capitalCity": "Ben Arous",
+          "districts": ["Ben Arous", "Bou Mhel el-Bassatine", "El Mourouj", "Ezzahra", "Fouchana", "Hammam Chott", "Hammam Lif", "M'Hamdia", "Medina Jedida", "Mohamedia", "Radès"],
+          "geoPoliticalZone": "North East",
+          "location": "North East",
+          "name": "Ben Arous",
+          "stateCode": "BA",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "BIZERTE": {
+          "capitalCity": "Bizerte",
+          "districts": ["Bizerte Nord", "Bizerte Sud", "El Alia", "Ghar El Melh", "Ghezala", "Joumine", "Mateur", "Menzel Bourguiba", "Menzel Jemil", "Ras Jebel", "Sejnane", "Tinja", "Utique", "Zarzouna"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Bizerte",
+          "stateCode": "BZ",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "GABES": {
+          "capitalCity": "Gabes",
+          "districts": ["Gabès Sud", "Gabès Ouest", "Gabès Médina", "Ghannouch", "El Hamma", "Mareth", "Matmata", "Menzel El Habib", "Nouvelle Matmata"],
+          "geoPoliticalZone": "South East",
+          "location": "South East",
+          "name": "Gabes",
+          "stateCode": "GB",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "GAFSA": {
+          "capitalCity": "Gafsa",
+          "districts": ["Belkhir", "El Guettar", "Gafsa Nord", "Gafsa Sud", "Ksar", "Mdhilla", "Moularès", "Redeyef", "Sened", "Sidi Aich"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Gafsa",
+          "stateCode": "GF",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "JENDOUBA": {
+          "capitalCity": "Jendouba",
+          "districts": ["Aïn Draham", "Balta-Bou Aouane", "Bou Salem", "Fernana", "Ghardimaou", "Jendouba Nord", "Jendouba Sud", "Oued Melliz"],
+          "geoPoliticalZone": "North West",
+          "location": "North West",
+          "name": "Jendouba",
+          "stateCode": "JD",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "KAIROUAN": {
+          "capitalCity": "Kairouan",
+          "districts": ["Bou Hajla", "Chebika", "Echrarda", "El Alâa", "Haffouz", "Hajeb El Ayoun", "Kairouan Nord", "Kairouan Sud", "Nasrallah", "Oueslatia"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Kairouan",
+          "stateCode": "KR",
+          "tribes": ["Arab"],
+          "type": "province"
+        },
+        "KASSERINE": {
+          "capitalCity": "Kasserine",
+          "districts": ["El Ayoun", "Ezzouhour", "Fériana", "Foussana", "Hassi El Ferid", "Jedelienne", "Kasserine Nord", "Kasserine Sud", "Majel Bel Abbès", "Sbeitla", "Sbiba", "Thala"],
+          "geoPoliticalZone": "Central West",
+          "location": "Central West",
+          "name": "Kasserine",
+          "stateCode": "KS",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "KEBILI": {
+          "capitalCity": "Kebili",
+          "districts": ["Douz Nord", "Douz Sud", "Faouar", "Kebili Nord", "Kebili Sud", "Souk El Ahed"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Kebili",
+          "stateCode": "KB",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "KEF": {
+          "capitalCity": "Le Kef",
+          "districts": ["Dahmani", "Jerissa", "Kalaat Khasba", "Kalaat Senan", "Kef Est", "Kef Ouest", "Nebeur", "Sakiet Sidi Youssef", "Tajerouine"],
+          "geoPoliticalZone": "North West",
+          "location": "North West",
+          "name": "Kef",
+          "stateCode": "KF",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "MAHDIA": {
+          "capitalCity": "Mahdia",
+          "districts": ["Bou Merdes", "Chorbane", "El Jem", "Essouassi", "Hebira", "Ksour Essef", "Mahdia", "Melloulèche", "Ouled Chamekh", "Sidi Alouane"],
+          "geoPoliticalZone": "Central East",
+          "location": "Central East",
+          "name": "Mahdia",
+          "stateCode": "MH",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "MANOUBA": {
+          "capitalCity": "Manouba",
+          "districts": ["Borj El Amri", "Douar Hicher", "El Batan", "Jedaida", "Manouba", "Mornaguia", "Oued Ellil", "Tebourba"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Manouba",
+          "stateCode": "MN",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "MEDENINE": {
+          "capitalCity": "Medenine",
+          "districts": ["Ben Gardane", "Beni Khedache", "Djerba - Ajim", "Djerba - Houmt Souk", "Djerba - Midoun", "Medenine Nord", "Medenine Sud", "Sidi Makhlouf", "Zarzis"],
+          "geoPoliticalZone": "South East",
+          "location": "South East",
+          "name": "Medenine",
+          "stateCode": "MD",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "MONASTIR": {
+          "capitalCity": "Monastir",
+          "districts": ["Bekalta", "Bembla", "Beni Hassen", "Jemmal", "Ksar Hellal", "Ksibet el-Médiouni", "Monastir", "Moknine", "Sahline", "Sayada-Lamta-Bou Hajar", "Teboulba", "Zéramdine"],
+          "geoPoliticalZone": "Central East",
+          "location": "Central East",
+          "name": "Monastir",
+          "stateCode": "MS",
+          "tribes": ["Arab"],
+          "type": "province"
+        },
+        "NABEUL": {
+          "capitalCity": "Nabeul",
+          "districts": ["Béni Khiar", "Bou Argoub", "Dar Chaâbane", "El Haouaria", "Grombalia", "Hammamet", "Kélibia", "Korba", "Menzel Bouzelfa", "Menzel Temime", "Nabeul", "Soliman", "Takelsa"],
+          "geoPoliticalZone": "North East",
+          "location": "North East",
+          "name": "Nabeul",
+          "stateCode": "NB",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "SFAX": {
+          "capitalCity": "Sfax",
+          "districts": ["Agareb", "Bir Ali Ben Khalifa", "El Amra", "El Hencha", "Graïba", "Jebiniana", "Kerkennah", "Mahres", "Menzel Chaker", "Sakiet Eddaïer", "Sakiet Ezzit", "Sfax Ouest", "Sfax Sud", "Sfax Ville", "Skhira"],
+          "geoPoliticalZone": "Central East",
+          "location": "Central East",
+          "name": "Sfax",
+          "stateCode": "SF",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "SIDI BOUZID": {
+          "capitalCity": "Sidi Bouzid",
+          "districts": ["Bir El Hafey", "Cebbala Ouled Asker", "Jilma", "Mazzouna", "Meknassy", "Menzel Bouzaiane", "Ouled Haffouz", "Regueb", "Sidi Ali Ben Aoun", "Sidi Bouzid Est", "Sidi Bouzid Ouest", "Souk Jedid"],
+          "geoPoliticalZone": "Central",
+          "location": "Central",
+          "name": "Sidi Bouzid",
+          "stateCode": "SB",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "SILIANA": {
+          "capitalCity": "Siliana",
+          "districts": ["Bargou", "Bou Arada", "El Aroussa", "El Krib", "Gaâfour", "Kesra", "Makthar", "Rouhia", "Siliana Nord", "Siliana Sud"],
+          "geoPoliticalZone": "North West",
+          "location": "North West",
+          "name": "Siliana",
+          "stateCode": "SL",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "SOUSSE": {
+          "capitalCity": "Sousse",
+          "districts": ["Akouda", "Bou Ficha", "Enfidha", "Hammam Sousse", "Hergla", "Kalaa Kebira", "Kalaa Seghira", "Kondar", "M'saken", "Sidi Bou Ali", "Sidi El Hani", "Sousse Jawhara", "Sousse Medina", "Sousse Riadh", "Sousse Sidi Abdelhamid"],
+          "geoPoliticalZone": "Central East",
+          "location": "Central East",
+          "name": "Sousse",
+          "stateCode": "SS",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "TATAOUINE": {
+          "capitalCity": "Tataouine",
+          "districts": ["Bir Lahmar", "Dehiba", "Ghomrassen", "Remada", "Smar", "Tataouine Nord", "Tataouine Sud"],
+          "geoPoliticalZone": "South",
+          "location": "South",
+          "name": "Tataouine",
+          "stateCode": "TT",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "TOZEUR": {
+          "capitalCity": "Tozeur",
+          "districts": ["Degache", "Hazoua", "Nefta", "Tamaghza", "Tozeur"],
+          "geoPoliticalZone": "South West",
+          "location": "South West",
+          "name": "Tozeur",
+          "stateCode": "TZ",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        },
+        "TUNIS": {
+          "capitalCity": "Tunis",
+          "districts": ["Bab Bhar", "Bab Souika", "Carthage", "Cité El Khadra", "Djebel Jelloud", "El Kabaria", "El Menzah", "El Omrane", "El Omrane Supérieur", "El Ouardia", "Ettahrir", "Ezzouhour", "Hrairia", "La Goulette", "La Marsa", "Le Bardo", "Le Kram", "Médina", "Séjoumi", "Sidi El Béchir", "Sidi Hassine"],
+          "geoPoliticalZone": "North",
+          "location": "North",
+          "name": "Tunis",
+          "stateCode": "TN",
+          "tribes": ["Arab", "Berber"],
+          "type": "province"
+        },
+        "ZAGHOUAN": {
+          "capitalCity": "Zaghouan",
+          "districts": ["Bir Mcherga", "El Fahs", "Nadhour", "Saouaf", "Zaghouan"],
+          "geoPoliticalZone": "North East",
+          "location": "North East",
+          "name": "Zaghouan",
+          "stateCode": "ZG",
+          "tribes": ["Berber", "Arab"],
+          "type": "province"
+        }
+      }
+      
+}
