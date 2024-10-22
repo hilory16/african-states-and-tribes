@@ -1,0 +1,395 @@
+{
+    "UG": {
+        "ABIM": {
+            "capitalCity": "Abim Town",
+            "districts": ["Abim"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North East",
+            "name": "Abim",
+            "stateCode": "ABM",
+            "tribes": ["Ateso", "Luo"],
+            "type": "district"
+        },
+        "ADJUMANI": {
+            "capitalCity": "Adjumani Town",
+            "districts": ["Adjumani"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North West",
+            "name": "Adjumani",
+            "stateCode": "ADM",
+            "tribes": ["Madi", "Lugbara"],
+            "type": "district"
+        },
+        "AMOLATAR": {
+            "capitalCity": "Amolatar Town",
+            "districts": ["Amolatar"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North Central",
+            "name": "Amolatar",
+            "stateCode": "AML",
+            "tribes": ["Luo"],
+            "type": "district"
+        },
+        "AMURIA": {
+            "capitalCity": "Amuria Town",
+            "districts": ["Amuria"],
+            "geoPoliticalZone": "Eastern Region",
+            "location": "East Central",
+            "name": "Amuria",
+            "stateCode": "AMR",
+            "tribes": ["Ateso"],
+            "type": "district"
+        },
+        "APAC": {
+            "capitalCity": "Apac Town",
+            "districts": ["Apac"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North Central",
+            "name": "Apac",
+            "stateCode": "APC",
+            "tribes": ["Luo"],
+            "type": "district"
+        },
+        "ARUA": {
+            "capitalCity": "Arua Town",
+            "districts": ["Arua"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North West",
+            "name": "Arua",
+            "stateCode": "ARU",
+            "tribes": ["Madi", "Lugbara"],
+            "type": "district"
+        },
+        "BUNDIBUGYO": {
+            "capitalCity": "Bundibugyo Town",
+            "districts": ["Bundibugyo"],
+            "geoPoliticalZone": "Western Region",
+            "location": "West",
+            "name": "Bundibugyo",
+            "stateCode": "BUN",
+            "tribes": ["Bamba", "Bakonzo"],
+            "type": "district"
+        },
+        "BUSHENYI": {
+            "capitalCity": "Bushenyi Town",
+            "districts": ["Bushenyi"],
+            "geoPoliticalZone": "Western Region",
+            "location": "South West",
+            "name": "Bushenyi",
+            "stateCode": "BUS",
+            "tribes": ["Banyankore"],
+            "type": "district"
+        },
+        "BUSIA": {
+            "capitalCity": "Busia Town",
+            "districts": ["Busia"],
+            "geoPoliticalZone": "Eastern Region",
+            "location": "East",
+            "name": "Busia",
+            "stateCode": "BUS",
+            "tribes": ["Jaluo", "Bagishu"],
+            "type": "district"
+        },
+        "GULU": {
+            "capitalCity": "Gulu Town",
+            "districts": ["Gulu"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North",
+            "name": "Gulu",
+            "stateCode": "GUL",
+            "tribes": ["Luo"],
+            "type": "district"
+        },
+        "HOIMA": {
+            "capitalCity": "Hoima Town",
+            "districts": ["Hoima"],
+            "geoPoliticalZone": "Western Region",
+            "location": "West",
+            "name": "Hoima",
+            "stateCode": "HOI",
+            "tribes": ["Bunyoro"],
+            "type": "district"
+        },
+        "IGANGA": {
+            "capitalCity": "Iganga Town",
+            "districts": ["Iganga"],
+            "geoPoliticalZone": "Eastern Region",
+            "location": "East Central",
+            "name": "Iganga",
+            "stateCode": "IGA",
+            "tribes": ["Baganda"],
+            "type": "district"
+        },
+        "KABALE": {
+            "capitalCity": "Kabale Town",
+            "districts": ["Kabale"],
+            "geoPoliticalZone": "Western Region",
+            "location": "South West",
+            "name": "Kabale",
+            "stateCode": "KAB",
+            "tribes": ["Bakiga"],
+            "type": "district"
+        },
+        "KAMPALA": {
+            "capitalCity": "Kampala",
+            "districts": ["Kampala"],
+            "geoPoliticalZone": "Central Region",
+            "location": "Central",
+            "name": "Kampala",
+            "stateCode": "KAM",
+            "tribes": ["Baganda", "Basoga"],
+            "type": "city"
+        },
+        "KASESE": {
+            "capitalCity": "Kasese Town",
+            "districts": ["Kasese"],
+            "geoPoliticalZone": "Western Region",
+            "location": "South West",
+            "name": "Kasese",
+            "stateCode": "KAS",
+            "tribes": ["Bakonzo", "Basongora"],
+            "type": "district"
+        },
+        "KIBUKU": {
+            "capitalCity": "Kibuku Town",
+            "districts": ["Kibuku"],
+            "geoPoliticalZone": "Eastern Region",
+            "location": "East Central",
+            "name": "Kibuku",
+            "stateCode": "KIB",
+            "tribes": ["Basoga"],
+            "type": "district"
+        },
+        "KISORO": {
+            "capitalCity": "Kisoro Town",
+            "districts": ["Kisoro"],
+            "geoPoliticalZone": "Western Region",
+            "location": "South West",
+            "name": "Kisoro",
+            "stateCode": "KIS",
+            "tribes": ["Bafumbira"],
+            "type": "district"
+        },
+        "KITGUM": {
+            "capitalCity": "Kitgum Town",
+            "districts": ["Kitgum"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North",
+            "name": "Kitgum",
+            "stateCode": "KIT",
+            "tribes": ["Luo"],
+            "type": "district"
+        },
+        "KOTIDO": {
+            "capitalCity": "Kotido Town",
+            "districts": ["Kotido"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North East",
+            "name": "Kotido",
+            "stateCode": "KOT",
+            "tribes": ["Karamojong"],
+            "type": "district"
+        },
+        "KUMI": {
+            "capitalCity": "Kumi Town",
+            "districts": ["Kumi"],
+            "geoPoliticalZone": "Eastern Region",
+            "location": "East Central",
+            "name": "Kumi",
+            "stateCode": "KUM",
+            "tribes": ["Ateso"],
+            "type": "district"
+        },
+        "LIRA": {
+            "capitalCity": "Lira Town",
+            "districts": ["Lira"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North Central",
+            "name": "Lira",
+            "stateCode": "LIR",
+            "tribes": ["Luo"],
+            "type": "district"
+        },
+        "MASINDI": {
+            "capitalCity": "Masindi Town",
+            "districts": ["Masindi"],
+            "geoPoliticalZone": "Western Region",
+            "location": "North West",
+            "name": "Masindi",
+            "stateCode": "MAS",
+            "tribes": ["Bunyoro"],
+            "type": "district"
+        },
+        "MBARARA": {
+            "capitalCity": "Mbarara Town",
+            "districts": ["Mbarara"],
+            "geoPoliticalZone": "Western Region",
+            "location": "South West",
+            "name": "Mbarara",
+            "stateCode": "MBA",
+            "tribes": ["Banyankore"],
+            "type": "district"
+        },
+        "MITYANA": {
+            "capitalCity": "Mityana Town",
+            "districts": ["Mityana"],
+            "geoPoliticalZone": "Central Region",
+            "location": "Central",
+            "name": "Mityana",
+            "stateCode": "MIT",
+            "tribes": ["Baganda"],
+            "type": "district"
+        },
+        "MOROTO": {
+            "capitalCity": "Moroto Town",
+            "districts": ["Moroto"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North East",
+            "name": "Moroto",
+            "stateCode": "MOR",
+            "tribes": ["Karamojong"],
+            "type": "district"
+        },
+        "MPIGI": {
+            "capitalCity": "Mpigi Town",
+            "districts": ["Mpigi"],
+            "geoPoliticalZone": "Central Region",
+            "location": "Central",
+            "name": "Mpigi",
+            "stateCode": "MPI",
+            "tribes": ["Baganda"],
+            "type": "district"
+        },
+        "NAKASEKE": {
+            "capitalCity": "Nakaseke Town",
+            "districts": ["Nakaseke"],
+            "geoPoliticalZone": "Central Region",
+            "location": "Central",
+            "name": "Nakaseke",
+            "stateCode": "NAK",
+            "tribes": ["Baganda"],
+            "type": "district"
+        },
+        "NAMUTUMBA": {
+            "capitalCity": "Namutumba Town",
+            "districts": ["Namutumba"],
+            "geoPoliticalZone": "Eastern Region",
+            "location": "East Central",
+            "name": "Namutumba",
+            "stateCode": "NAM",
+            "tribes": ["Bagisu"],
+            "type": "district"
+        },
+        "NANSANA": {
+            "capitalCity": "Nansana",
+            "districts": ["Nansana"],
+            "geoPoliticalZone": "Central Region",
+            "location": "Central",
+            "name": "Nansana",
+            "stateCode": "NAN",
+            "tribes": ["Baganda"],
+            "type": "municipality"
+        },
+        "NEBBI": {
+            "capitalCity": "Nebbi Town",
+            "districts": ["Nebbi"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North West",
+            "name": "Nebbi",
+            "stateCode": "NEB",
+            "tribes": ["Lugbara"],
+            "type": "district"
+        },
+        "NTUNGAMO": {
+            "capitalCity": "Ntungamo Town",
+            "districts": ["Ntungamo"],
+            "geoPoliticalZone": "Western Region",
+            "location": "South West",
+            "name": "Ntungamo",
+            "stateCode": "NTU",
+            "tribes": ["Banyankore"],
+            "type": "district"
+        },
+        "OMURUSHI": {
+            "capitalCity": "Omurushi Town",
+            "districts": ["Omurushi"],
+            "geoPoliticalZone": "Western Region",
+            "location": "South West",
+            "name": "Omurushi",
+            "stateCode": "OMU",
+            "tribes": ["Bafumbira"],
+            "type": "district"
+        },
+        "PADER": {
+            "capitalCity": "Pader Town",
+            "districts": ["Pader"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North",
+            "name": "Pader",
+            "stateCode": "PAD",
+            "tribes": ["Luo"],
+            "type": "district"
+        },
+        "RAKAI": {
+            "capitalCity": "Rakai Town",
+            "districts": ["Rakai"],
+            "geoPoliticalZone": "Central Region",
+            "location": "South",
+            "name": "Rakai",
+            "stateCode": "RAK",
+            "tribes": ["Baganda"],
+            "type": "district"
+        },
+        "SHEEMA": {
+            "capitalCity": "Sheema Town",
+            "districts": ["Sheema"],
+            "geoPoliticalZone": "Western Region",
+            "location": "South West",
+            "name": "Sheema",
+            "stateCode": "SHE",
+            "tribes": ["Banyankore"],
+            "type": "district"
+        },
+        "SOROTI": {
+            "capitalCity": "Soroti Town",
+            "districts": ["Soroti"],
+            "geoPoliticalZone": "Eastern Region",
+            "location": "East",
+            "name": "Soroti",
+            "stateCode": "SOR",
+            "tribes": ["Ateso"],
+            "type": "district"
+        },
+        "TORORO": {
+            "capitalCity": "Tororo Town",
+            "districts": ["Tororo"],
+            "geoPoliticalZone": "Eastern Region",
+            "location": "East",
+            "name": "Tororo",
+            "stateCode": "TOR",
+            "tribes": ["Bagishu"],
+            "type": "district"
+        },
+        "WAKISO": {
+            "capitalCity": "Wakiso Town",
+            "districts": ["Wakiso"],
+            "geoPoliticalZone": "Central Region",
+            "location": "Central",
+            "name": "Wakiso",
+            "stateCode": "WAK",
+            "tribes": ["Baganda"],
+            "type": "district"
+        },
+        "YUMBE": {
+            "capitalCity": "Yumbe Town",
+            "districts": ["Yumbe"],
+            "geoPoliticalZone": "Northern Region",
+            "location": "North West",
+            "name": "Yumbe",
+            "stateCode": "YUM",
+            "tribes": ["Madi", "Lugbara"],
+            "type": "district"
+        }
+    }
+    
+}

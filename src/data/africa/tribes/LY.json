@@ -1,0 +1,145 @@
+{
+    "LY": {
+        "AJDABIYA": {
+            "capitalCity": "Ajdabiya",
+            "districts": ["Ajdabiya District"],
+            "geoPoliticalZone": "Eastern Libya",
+            "location": "Eastern",
+            "name": "Ajdabiya",
+            "stateCode": "AD",
+            "tribes": ["Obeidat", "Zway", "Magharba"],
+            "type": "province"
+        },
+        "AL JUFRA": {
+            "capitalCity": "Jufra",
+            "districts": ["Jufra District"],
+            "geoPoliticalZone": "Central Libya",
+            "location": "Central",
+            "name": "Al Jufra",
+            "stateCode": "JF",
+            "tribes": ["Furjan", "Awlad Suleiman"],
+            "type": "province"
+        },
+        "AL KUFRA": {
+            "capitalCity": "Kufra",
+            "districts": ["Kufra District"],
+            "geoPoliticalZone": "Southern Libya",
+            "location": "South East",
+            "name": "Al Kufra",
+            "stateCode": "KF",
+            "tribes": ["Zaghawa", "Tama", "Awlad Suleiman"],
+            "type": "province"
+        },
+        "AL MARJ": {
+            "capitalCity": "Marj",
+            "districts": ["Marj District"],
+            "geoPoliticalZone": "Eastern Libya",
+            "location": "Eastern",
+            "name": "Al Marj",
+            "stateCode": "MJ",
+            "tribes": ["Ahdar", "Bani Abid"],
+            "type": "province"
+        },
+        "AL WAHAT": {
+            "capitalCity": "Wahat",
+            "districts": ["Wahat District"],
+            "geoPoliticalZone": "Southern Libya",
+            "location": "South",
+            "name": "Al Wahat",
+            "stateCode": "WH",
+            "tribes": ["Berber", "Tuareg"],
+            "type": "province"
+        },
+        "BENGHAZI": {
+            "capitalCity": "Benghazi",
+            "districts": ["Benghazi District"],
+            "geoPoliticalZone": "Eastern Libya",
+            "location": "Eastern",
+            "name": "Benghazi",
+            "stateCode": "BG",
+            "tribes": ["Barasa", "Magharba", "Amazigh"],
+            "type": "province"
+        },
+        "DERNA": {
+            "capitalCity": "Derna",
+            "districts": ["Derna District"],
+            "geoPoliticalZone": "Eastern Libya",
+            "location": "Eastern",
+            "name": "Derna",
+            "stateCode": "DR",
+            "tribes": ["Warfalla", "Awlad Abu Firas"],
+            "type": "province"
+        },
+        "GHARYAN": {
+            "capitalCity": "Gharyan",
+            "districts": ["Gharyan District"],
+            "geoPoliticalZone": "Northern Libya",
+            "location": "North West",
+            "name": "Gharyan",
+            "stateCode": "GH",
+            "tribes": ["Libi", "Gharian"],
+            "type": "province"
+        },
+        "MISRATA": {
+            "capitalCity": "Misrata",
+            "districts": ["Misrata District"],
+            "geoPoliticalZone": "Northern Libya",
+            "location": "North Central",
+            "name": "Misrata",
+            "stateCode": "MS",
+            "tribes": ["Misrati", "Rafla"],
+            "type": "province"
+        },
+        "NALUT": {
+            "capitalCity": "Nalut",
+            "districts": ["Nalut District"],
+            "geoPoliticalZone": "Northern Libya",
+            "location": "North West",
+            "name": "Nalut",
+            "stateCode": "NT",
+            "tribes": ["Amazigh", "Berber"],
+            "type": "province"
+        },
+        "SIRT": {
+            "capitalCity": "Sirte",
+            "districts": ["Sirte District"],
+            "geoPoliticalZone": "Central Libya",
+            "location": "Central",
+            "name": "Sirt",
+            "stateCode": "SR",
+            "tribes": ["Qadhadhfa", "Warshafana"],
+            "type": "province"
+        },
+        "TRIPOLI": {
+            "capitalCity": "Tripoli",
+            "districts": ["Tripoli District"],
+            "geoPoliticalZone": "Northern Libya",
+            "location": "North West",
+            "name": "Tripoli",
+            "stateCode": "TP",
+            "tribes": ["Warshafana", "Jadhran"],
+            "type": "province"
+        },
+        "WADI AL HAYAA": {
+            "capitalCity": "Wadi al Hayaa",
+            "districts": ["Wadi al Hayaa District"],
+            "geoPoliticalZone": "Central Libya",
+            "location": "Central",
+            "name": "Wadi al Hayaa",
+            "stateCode": "WH",
+            "tribes": ["Awlad al-Mahjoub"],
+            "type": "province"
+        },
+        "ZAWIYA": {
+            "capitalCity": "Zawiya",
+            "districts": ["Zawiya District"],
+            "geoPoliticalZone": "Northern Libya",
+            "location": "North West",
+            "name": "Zawiya",
+            "stateCode": "ZW",
+            "tribes": ["Zawyia"],
+            "type": "province"
+        }
+    }
+    
+}
