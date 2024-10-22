@@ -1,0 +1,154 @@
+{
+    "LR":{
+        "BOMI": {
+          "capitalCity": "Tubmanburg",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Bomi",
+          "stateCode": "BM",
+          "tribes": ["Vai", "Gola", "Kpelle"],
+          "type": "county"
+        },
+        "BONG": {
+          "capitalCity": "Gbarnga",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Bong",
+          "stateCode": "BG",
+          "tribes": ["Kpelle", "Mandingo", "Gbandi"],
+          "type": "county"
+        },
+        "GBARPOLU": {
+          "capitalCity": "Bopolu",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Gbarpolu",
+          "stateCode": "GP",
+          "tribes": ["Gola", "Loma", "Kpelle"],
+          "type": "county"
+        },
+        "GRAND BASSA": {
+          "capitalCity": "Buchanan",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-Central",
+          "name": "Grand Bassa",
+          "stateCode": "GB",
+          "tribes": ["Bassa", "Kru", "Gio"],
+          "type": "county"
+        },
+        "GRAND CAPE MOUNT": {
+          "capitalCity": "Robertsport",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Grand Cape Mount",
+          "stateCode": "CM",
+          "tribes": ["Vai", "Gola", "Mandingo"],
+          "type": "county"
+        },
+        "GRAND GEDEH": {
+          "capitalCity": "Zwedru",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Grand Gedeh",
+          "stateCode": "GG",
+          "tribes": ["Krahn", "Grebo", "Gio"],
+          "type": "county"
+        },
+        "GRAND KRU": {
+          "capitalCity": "Barclayville",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Grand Kru",
+          "stateCode": "GK",
+          "tribes": ["Kru", "Grebo"],
+          "type": "county"
+        },
+        "LOFA": {
+          "capitalCity": "Voinjama",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Lofa",
+          "stateCode": "LF",
+          "tribes": ["Loma", "Kissi", "Gbandi"],
+          "type": "county"
+        },
+        "MARGIBI": {
+          "capitalCity": "Kakata",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Margibi",
+          "stateCode": "MG",
+          "tribes": ["Kpelle", "Bassa"],
+          "type": "county"
+        },
+        "MARYLAND": {
+          "capitalCity": "Harper",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Maryland",
+          "stateCode": "ML",
+          "tribes": ["Grebo", "Kru"],
+          "type": "county"
+        },
+        "MONTSERRADO": {
+          "capitalCity": "Bensonville",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Central-West",
+          "name": "Montserrado",
+          "stateCode": "MT",
+          "tribes": ["Kpelle", "Vai", "Bassa"],
+          "type": "county"
+        },
+        "NIMBA": {
+          "capitalCity": "Sanniquellie",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-East",
+          "name": "Nimba",
+          "stateCode": "NM",
+          "tribes": ["Gio", "Mano", "Mandingo"],
+          "type": "county"
+        },
+        "RIVER CESS": {
+          "capitalCity": "Cestos",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-Central",
+          "name": "River Cess",
+          "stateCode": "RC",
+          "tribes": ["Kru", "Bassa"],
+          "type": "county"
+        },
+        "RIVER GEE": {
+          "capitalCity": "Fish Town",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "River Gee",
+          "stateCode": "RG",
+          "tribes": ["Grebo", "Krahn"],
+          "type": "county"
+        },
+        "SINOE": {
+          "capitalCity": "Greenville",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Sinoe",
+          "stateCode": "SN",
+          "tribes": ["Kru", "Sapo", "Bassa"],
+          "type": "county"
+        }
+      }      
+}

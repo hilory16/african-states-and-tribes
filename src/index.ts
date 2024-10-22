@@ -1,7 +1,17 @@
 import AfricanCountries from "./data/africa/countries.json";
+import NGTribes from "./data/africa/tribes/NG.json";
 
-function getAllAfricaCountries() {
-  return AfricanCountries;
+function getAllAfricanCountries() {
+  const countries = Object.keys(AfricanCountries).map((item) => ({
+    ...AfricanCountries[item as keyof typeof AfricanCountries],
+    countryCode: item,
+  }));
+
+  return countries;
 }
 
-export { getAllAfricaCountries };
+function getCountryByCode(countryCode: string) {}
+
+function getTribalDataByCode(countryCode: string) {}
+
+export { getAllAfricanCountries, getCountryByCode, getTribalDataByCode };
