@@ -1,3 +1,204 @@
 {
-    "CF":{}
+    "CF":{
+        "BAMINGUI-BANGORAN": {
+          "capitalCity": "Ndélé",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North",
+          "name": "Bamingui-Bangoran",
+          "stateCode": "BB",
+          "tribes": ["Gula", "Rounga", "Kaba"],
+          "type": "prefecture"
+        },
+        "BANGUI": {
+            "capitalCity": "Bangui",
+            "districts": [],
+            "geoPoliticalZone": "",
+            "location": "Central",
+            "name": "Bangui",
+            "stateCode": "BG",
+            "tribes": ["Gbaya", "Mandja", "Ngbandi"],
+            "type": "prefecture"
+        },
+        "BASSE-KOTTO": {
+          "capitalCity": "Mobaye",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Basse-Kotto",
+          "stateCode": "BK",
+          "tribes": ["Bandia", "Ngbugu", "Zandé"],
+          "type": "prefecture"
+        },
+        "GRÉBIZI": {
+            "capitalCity": "Ndémé",
+            "districts": [],
+            "geoPoliticalZone": "",
+            "location": "North",
+            "name": "Grébizi",
+            "stateCode": "GR",
+            "tribes": ["Banda", "Kotto"],
+            "type": "prefecture"
+        },
+        "HAUT-MBOMOU": {
+          "capitalCity": "Obo",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Haut-Mbomou",
+          "stateCode": "HM",
+          "tribes": ["Azande", "Ngbandi"],
+          "type": "prefecture"
+        },
+        "HAUTE-KOTTO": {
+          "capitalCity": "Bria",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Central-East",
+          "name": "Haute-Kotto",
+          "stateCode": "HK",
+          "tribes": ["Kotto", "Gula"],
+          "type": "prefecture"
+        },
+        "HAUTE-SANGHA": {
+            "capitalCity": "Ndjandja",
+            "districts": [],
+            "geoPoliticalZone": "",
+            "location": "West",
+            "name": "Haute-Sangha",
+            "stateCode": "HS",
+            "tribes": ["Sangha", "Mandja"],
+            "type": "prefecture"
+        },
+        "KÉMO": {
+          "capitalCity": "Sibut",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Kémo",
+          "stateCode": "KM",
+          "tribes": ["Mbati", "Kara", "Gbanziri"],
+          "type": "prefecture"
+        },
+        "KOUÉMO": {
+            "capitalCity": "Gadoui",
+            "districts": [],
+            "geoPoliticalZone": "",
+            "location": "South-East",
+            "name": "Kouémo",
+            "stateCode": "K",
+            "tribes": ["Kara", "Ngbugu"],
+            "type": "prefecture"
+        },
+        "LOBAYE": {
+          "capitalCity": "Mbaïki",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-West",
+          "name": "Lobaye",
+          "stateCode": "LB",
+          "tribes": ["Baka", "Bandia", "Mandja"],
+          "type": "prefecture"
+        },
+        "MBOMOU": {
+          "capitalCity": "Bangassou",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "South-East",
+          "name": "Mbomou",
+          "stateCode": "MB",
+          "tribes": ["Yakoma", "Azande"],
+          "type": "prefecture"
+        },
+        "MAMBÉRÉ-KADÉÏ": {
+            "capitalCity": "Berbérati",
+            "districts": [],
+            "geoPoliticalZone": "",
+            "location": "West",
+            "name": "Mambéré-Kadéï",
+            "stateCode": "MK",
+            "tribes": ["Gbaya", "Kara"],
+            "type": "prefecture"
+        },
+        "NANA-GRÉBIZI": {
+          "capitalCity": "Kaga-Bandoro",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Central-North",
+          "name": "Nana-Grébizi",
+          "stateCode": "NG",
+          "tribes": ["Gbaya", "Kaba"],
+          "type": "prefecture"
+        },
+        "NANA-MAMBÉRÉ": {
+          "capitalCity": "Bouar",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "West",
+          "name": "Nana-Mambéré",
+          "stateCode": "NM",
+          "tribes": ["Gbaya", "Ngoundi"],
+          "type": "prefecture"
+        },
+        "OMBELLA-M'POKO": {
+            "capitalCity": "Bimbo",
+            "districts": [],
+            "geoPoliticalZone": "",
+            "location": "Central-South",
+            "name": "Ombella-M'Poko",
+            "stateCode": "OM",
+            "tribes": ["Gbaya", "Mandja"],
+            "type": "prefecture"
+        },
+        "OUAKA": {
+          "capitalCity": "Bambari",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "Central",
+          "name": "Ouaka",
+          "stateCode": "OK",
+          "tribes": ["Banda", "Mandja"],
+          "type": "prefecture"
+        },
+        "OUHAM": {
+          "capitalCity": "Bossangoa",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Ouham",
+          "stateCode": "OH",
+          "tribes": ["Gbaya", "Ngbugu"],
+          "type": "prefecture"
+        },
+        "OUHAM-PENDÉ": {
+          "capitalCity": "Bozoum",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-West",
+          "name": "Ouham-Pendé",
+          "stateCode": "OP",
+          "tribes": ["Gbaya", "Fulani"],
+          "type": "prefecture"
+        },
+        "SANGHA-MBAÉRÉ": {
+            "capitalCity": "Nola",
+            "districts": [],
+            "geoPoliticalZone": "",
+            "location": "South-West",
+            "name": "Sangha-Mbaéré",
+            "stateCode": "SM",
+            "tribes": ["Baka", "Mbati"],
+            "type": "prefecture"
+        },
+        "VAKAGA": {
+          "capitalCity": "Birao",
+          "districts": [],
+          "geoPoliticalZone": "",
+          "location": "North-East",
+          "name": "Vakaga",
+          "stateCode": "VK",
+          "tribes": ["Rounga", "Sara"],
+          "type": "prefecture"
+        }
+    }
 }
