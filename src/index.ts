@@ -12,6 +12,13 @@ function getAllAfricanCountries() {
 
 function getCountryByCode(countryCode: string) {}
 
-function getTribalDataByCode(countryCode: string) {}
+function getCountryAndTribeByCode(countryCode: string) {}
 
-export { getAllAfricanCountries, getCountryByCode, getTribalDataByCode };
+function getTribesByCountryCode(countryCode: string) {}
+
+export {
+  getAllAfricanCountries,
+  getCountryByCode,
+  getCountryAndTribeByCode,
+  getTribesByCountryCode,
+};
