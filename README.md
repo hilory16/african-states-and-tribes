@@ -31,6 +31,7 @@
     ```
 
     Output:
+
     ```
         [
             {
@@ -62,9 +63,8 @@
             ...
         ]
     ```
-
-   - **Get All African Countries + Tribal Data**
-
+  - **Get All African Countries + Tribal Data**
+  
     ```js
     import * as africanState from 'african-states-and-tribes'
 
@@ -73,6 +73,7 @@
     ```
 
     Output:
+
     ```
      [
         {
@@ -113,6 +114,7 @@
         }
         ...
      ]
+
     ```
 
   - **Get Specific Country by CountryCode**
@@ -125,6 +127,7 @@
     ```
 
     Output:
+
     ```
         {
             "phoneCode": 234,
@@ -139,6 +142,7 @@
             "officialLanguage": "English",
             "majorEthnicGroups":["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
         }
+
     ```
 
     - **Get Specific Country + Tribal Data by CountryCode**
@@ -151,6 +155,7 @@
     ```
 
     Output:
+
     ```
         {
             "phoneCode": 234,
@@ -177,6 +182,7 @@
                 }
             ]
         }
+
     ```
 
 
@@ -190,6 +196,7 @@
     ```
 
     Output:
+
     ```
       [
          {
@@ -214,6 +221,7 @@
         },
         ...
       ]
+      
     ```
 
 # Countries Covered.
