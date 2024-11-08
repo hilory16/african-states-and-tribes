@@ -144,8 +144,7 @@
         }
 
     ```
-
-    - **Get Specific Country + Tribal Data by CountryCode**
+  - **Get Specific Country + Tribal Data by CountryCode**
 
     ```js
     import * as africanState from 'african-states-and-tribes'
@@ -185,8 +184,7 @@
 
     ```
 
-
-    - **Get a Country's Tribal Data Only**
+  - **Get a Country's Tribal Data Only**
 
     ```js
     import * as africanState from 'african-states-and-tribes'
@@ -221,7 +219,7 @@
         },
         ...
       ]
-      
+
     ```
 
 # Countries Covered.
