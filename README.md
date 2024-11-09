@@ -10,13 +10,13 @@
   - ES6 Module usage
    
      ```js
-     import * as africanState from 'african-states-and-tribes'
+     import * as africanStates from 'african-states-and-tribes'
      ```
 
   - ES5 Module usage
   
     ```js
-    let africanState = require('cafrican-states-and-tribes')
+    let africanStates = require('cafrican-states-and-tribes')
     ```
 
 # Docs
@@ -24,10 +24,11 @@
   - **Get all African Countries**
 
     ```js
-    import * as africanState from 'african-states-and-tribes'
+    import * as africanStates from 'african-states-and-tribes'
 
-    const country = africanState.getAfricanCountries()
-    console.log(country)
+    africanStates.getCountries().then(countries =>{
+        console.log(countries)
+    })
     ```
 
     Output:
@@ -66,10 +67,11 @@
   - **Get All African Countries + Tribal Data**
   
     ```js
-    import * as africanState from 'african-states-and-tribes'
+    import * as africanStates from 'african-states-and-tribes'
 
-    const country = africanState.getAfricanCountriesAndTribes("NG")
-    console.log(country)
+    africanStates.getCountriesAndTribes("NG").then(countries =>{
+        console.log(countries)
+    })
     ```
 
     Output:
@@ -120,10 +122,12 @@
   - **Get Specific Country by CountryCode**
 
     ```js
-    import * as africanState from 'african-states-and-tribes'
+    import * as africanStates from 'african-states-and-tribes'
 
-    const country = africanState.getCountryCode('NG')
-    console.log(country)
+    africanStates.getCountry("NG").then(country =>{
+        console.log(country)
+    })
+
     ```
 
     Output:
@@ -147,10 +151,11 @@
   - **Get Specific Country + Tribal Data by CountryCode**
 
     ```js
-    import * as africanState from 'african-states-and-tribes'
+    import * as africanStates from 'african-states-and-tribes'
 
-    const country = africanState.getCountryAndTribeByCode("NG")
-    console.log(country)
+     africanStates.getCountryAndTribe("NG").then(country =>{
+        console.log(country)
+    })
     ```
 
     Output:
@@ -187,10 +192,11 @@
   - **Get a Country's Tribal Data Only**
 
     ```js
-    import * as africanState from 'african-states-and-tribes'
+    import * as africanStates from 'african-states-and-tribes'
 
-    const country = africanState.getTribesByCountry("NG")
-    console.log(country)
+    africanStates.getTribesByCountry("NG").then(tribes =>{
+        console.log(tribes)
+    })
     ```
 
     Output:

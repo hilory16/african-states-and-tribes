@@ -1,18 +1,51 @@
+// {
+//     "compilerOptions": {
+//         "strict": true,
+//         "noImplicitAny": true,
+//         "esModuleInterop": true,
+//         "strictNullChecks": true,
+//         "target": "ES2022",
+//         "moduleResolution": "Node",
+//         "module": "CommonJS",
+//         "declaration": true,
+//         "isolatedModules": true,
+//         "noEmit": true,
+//         "outDir": "dist",
+//         "resolveJsonModule": true,
+//     },
+//     "include": ["src"],
+   
+// }
+// {
+//     "compilerOptions": {
+//       "target": "ESNext",
+//       "module": "ESNext",
+//       "moduleResolution": "Node",
+//       "strict": true,
+//       "noImplicitAny": true,
+//       "esModuleInterop": true,
+//       "skipLibCheck": true,
+//       "forceConsistentCasingInFileNames": true,
+//       "declaration": true,
+//       "isolatedModules": true,
+//       "resolveJsonModule": true,
+//       "noEmit": true,
+//       "outDir": "dist",
+//     },
+//     "include": ["src/**/*.ts"],
+//     "exclude": ["node_modules"]
+//   }
+
 {
     "compilerOptions": {
-        "strict": true,
-        "noImplicitAny": true,
-        "esModuleInterop": true,
-        "strictNullChecks": true,
-        "target": "ES2022",
-        "moduleResolution": "Node",
-        "module": "CommonJS",
-        "declaration": true,
-        "isolatedModules": true,
-        "noEmit": true,
-        "outDir": "dist",
-        "resolveJsonModule": true,
+      "target": "ESNext",        // Use ESNext for modern JavaScript features
+      "module": "CommonJS",        // Use ESNext to handle imports/exports
+      "moduleResolution": "Node",
+      "resolveJsonModule": true, // If you're importing JSON files
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./dist"
     },
-    "include": ["src"],
-    "exclude": ["node_modules"]
-}
+    "include": ["src/**/*.ts"]
+  }
