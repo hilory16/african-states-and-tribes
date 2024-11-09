@@ -36,30 +36,30 @@
     ```
         [
             {
-                    "phoneCode": 244,
-                    "capitalCity": "Luanda",
-                    "colonialMaster":"",
-                    "countryCode":"AO",
-                    "flagEmoji": "🇦🇴",
-                    "name": "Angola",
-                    "currency": "Angolan kwanza",
-                    "currencyCode":"AOA",
-                    "currencySymbol":"Kz",
-                    "officialLanguage": "Portuguese",
-                    "majorEthnicGroups":["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"]
+                    phoneCode: 244,
+                    capitalCity: "Luanda",
+                    colonialMaster:"",
+                    countryCode:"AO",
+                    flagEmoji: "🇦🇴",
+                    name: "Angola",
+                    currency: "Angolan kwanza",
+                    currencyCode:"AOA",
+                    currencySymbol:"Kz",
+                    officialLanguage: "Portuguese",
+                    majorEthnicGroups:["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"]
             },
             {
-                    "phoneCode": 229,
-                    "capitalCity": "Porto-Novo",
-                    "colonialMaster":"",
-                    "countryCode":"BJ",
-                    "flagEmoji": "🇧🇯",
-                    "name": "Benin",
-                    "currency": "West African CFA franc",
-                    "currencyCode":"XOF",
-                    "currencySymbol":"Fr",
-                    "officialLanguage": "French",
-                    "majorEthnicGroups":["Adja (Aja)","Bariba","Dendi (Songhai)","Fon (Dahomey)","Fulani","Lukpa","Tammari (Betammaribe)","Yoruba"]
+                    phoneCode: 229,
+                    capitalCity: "Porto-Novo",
+                    colonialMaster:"",
+                    countryCode:"BJ",
+                    flagEmoji: "🇧🇯",
+                    name: "Benin",
+                    currency: "West African CFA franc",
+                    currencyCode:"XOF",
+                    currencySymbol:"Fr",
+                    officialLanguage: "French",
+                    majorEthnicGroups:["Adja (Aja)","Bariba","Dendi (Songhai)","Fon (Dahomey)","Fulani","Lukpa","Tammari (Betammaribe)","Yoruba"]
             },
             ...
         ]
@@ -79,37 +79,37 @@
     ```
      [
         {
-            "phoneCode": 244,
-            "capitalCity": "Luanda",
-            "colonialMaster":"",
-            "countryCode":"AO",
-            "flagEmoji": "🇦🇴",
-            "name": "Angola",
-            "currency": "Angolan kwanza",
-            "currencyCode":"AOA",
-            "currencySymbol":"Kz",
-            "officialLanguage": "Portuguese",
-            "majorEthnicGroups":["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"]
+            phoneCode: 244,
+            capitalCity: "Luanda",
+            colonialMaster:"",
+            countryCode:"AO",
+            flagEmoji: "🇦🇴",
+            name: "Angola",
+            currency: "Angolan kwanza",
+            currencyCode:"AOA",
+            currencySymbol:"Kz",
+            officialLanguage: "Portuguese",
+            majorEthnicGroups:["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"]
             tribalDistribution:[
                 {
-                    "capitalCity":"Caxito",
-                    "subdivisions":["Ambriz", "Bula Atumba", "Dande", "Dembos","Nambuangongo", "Pango Aluquém"],
-                    "geoPoliticalZone":"",
-                    "location":"North",
-                    "name": "Bengo",
-                    "stateCode": "BGO",
-                    "tribes":["Bakongo", "Kimbundu (Mbundu)", "Kikongo","Songo"],
-                    "type": "province"
+                    capitalCity:"Caxito",
+                    subdivisions:["Ambriz", "Bula Atumba", "Dande", "Dembos","Nambuangongo", "Pango Aluquém"],
+                    geoPoliticalZone:"",
+                    location:"North",
+                    name: "Bengo",
+                    stateCode: "BGO",
+                    tribes:["Bakongo", "Kimbundu (Mbundu)", "Kikongo","Songo"],
+                    type: "province"
                 },
                 {
-                    "capitalCity":"Benguela",
-                    "subdivisions":[],
-                    "geoPoliticalZone":"",
-                    "location":"West Central",
-                    "name": "Benguela",
-                    "stateCode": "BGU",
-                    "tribes":["Herero", "Khoisan (San)", "Nyaneka-Nkhumbi", "Ovimbundu"],
-                    "type": "province"
+                    capitalCity:"Benguela",
+                    subdivisions:[],
+                    geoPoliticalZone:"",
+                    location:"West Central",
+                    name: "Benguela",
+                    stateCode: "BGU",
+                    tribes:["Herero", "Khoisan (San)", "Nyaneka-Nkhumbi", "Ovimbundu"],
+                    type: "province"
                 },
                 ... // list of state/province/region and tribes that can be found there.
             ]
@@ -134,17 +134,17 @@
 
     ```
         {
-            "phoneCode": 234,
-            "capitalCity": "Abuja",
-            "colonialMaster":"",
-            "countryCode":"NG",
-            "flagEmoji": "🇳🇬",
-            "name": "Nigeria",
-            "currency": "Nigerian naira",
-            "currencyCode":"NGN",
-            "currencySymbol":"₦",
-            "officialLanguage": "English",
-            "majorEthnicGroups":["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
+            phoneCode: 234,
+            capitalCity: "Abuja",
+            colonialMaster:"",
+            countryCode:"NG",
+            flagEmoji: "🇳🇬",
+            name: "Nigeria",
+            currency: "Nigerian naira",
+            currencyCode:"NGN",
+            currencySymbol:"₦",
+            officialLanguage: "English",
+            majorEthnicGroups:["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
         }
 
     ```
@@ -162,27 +162,27 @@
 
     ```
         {
-            "phoneCode": 234,
-            "capitalCity": "Abuja",
-            "colonialMaster":"",
-            "countryCode":"NG",
-            "flagEmoji": "🇳🇬",
-            "name": "Nigeria",
-            "currency": "Nigerian naira",
-            "currencyCode":"NGN",
-            "currencySymbol":"₦",
-            "officialLanguage": "English",
-            "majorEthnicGroups":["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
+            phoneCode: 234,
+            capitalCity: "Abuja",
+            colonialMaster:"",
+            countryCode:"NG",
+            flagEmoji: "🇳🇬",
+            name: "Nigeria",
+            currency: "Nigerian naira",
+            currencyCode:"NGN",
+            currencySymbol:"₦",
+            officialLanguage: "English",
+            majorEthnicGroups:["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
             tribalDistribution:[
                  {
-                    "capitalCity":"Umuahia",
-                    "subdivisions": ["Aba North", "Aba South", "Arochukwu", "Bende", "Ikwuano", "Isiala Ngwa North", "Isiala Ngwa South", "Isuikwuato", "Obi Ngwa", "Ohafia", "Osisioma", "Ugwunagbo", "Ukwa East", "Ukwa West", "Umuahia North", "Umuahia South"],
-                    "geoPoliticalZone": "South East",
-                    "location":"South East",
-                    "name": "Abia",
-                    "stateCode": "AB",
-                    "tribes":["Igbo"],
-                    "type": "state"
+                    capitalCity:"Umuahia",
+                    subdivisions: ["Aba North", "Aba South", "Arochukwu", "Bende", "Ikwuano", "Isiala Ngwa North", "Isiala Ngwa South", "Isuikwuato", "Obi Ngwa", "Ohafia", "Osisioma", "Ugwunagbo", "Ukwa East", "Ukwa West", "Umuahia North", "Umuahia South"],
+                    geoPoliticalZone: "South East",
+                    location:"South East",
+                    name: "Abia",
+                    stateCode: "AB",
+                    tribes:["Igbo"],
+                    type: "state"
                 }
             ]
         }
@@ -204,24 +204,24 @@
     ```
       [
          {
-            "capitalCity":"Umuahia",
-            "subdivisions": ["Aba North", "Aba South", "Arochukwu", "Bende", "Ikwuano", "Isiala Ngwa North", "Isiala Ngwa South", "Isuikwuato", "Obi Ngwa", "Ohafia", "Osisioma", "Ugwunagbo", "Ukwa East", "Ukwa West", "Umuahia North", "Umuahia South"],
-            "geoPoliticalZone": "South East",
-            "location":"South East",
-            "name": "Abia",
-            "stateCode": "AB",
-            "tribes":["Igbo"],
-            "type": "state"
+            capitalCity:"Umuahia",
+            subdivisions: ["Aba North", "Aba South", "Arochukwu", "Bende", "Ikwuano", "Isiala Ngwa North", "Isiala Ngwa South", "Isuikwuato", "Obi Ngwa", "Ohafia", "Osisioma", "Ugwunagbo", "Ukwa East", "Ukwa West", "Umuahia North", "Umuahia South"],
+            geoPoliticalZone: "South East",
+            location:"South East",
+            name: "Abia",
+            stateCode: "AB",
+            tribes:["Igbo"],
+            type: "state"
         },
         {
-            "capitalCity":"Uyo",
-            "subdivisions": ["Abak", "Eastern Obolo", "Eket", "Esit Eket", "Essien Udim", "Etim Ekpo", "Etinan", "Ibeno", "Ibesikpo Asutan", "Ibiono Ibom", "Ika", "Ikono", "Ikot Abasi", "Ikot Ekpene", "Ini", "Itu", "Mbo", "Mkpat Enin", "Nsit Atai", "Nsit Ibom", "Nsit Ubium", "Obot Akara", "Okobo", "Onna", "Oron", "Oruk Anam", "Udung Uko", "Ukanafun", "Uruan", "Urue Offong/Oruko", "Uyo"],
-            "geoPoliticalZone": "South South",
-            "location":"South South",
-            "name": "Akwa Ibom",
-            "stateCode": "AK",
-            "tribes":["Anang","Andoni", "Eket", "Ibeno", "Ibibio", "Obolo", "Okobo (Okkobor)", "Oron" ],
-            "type": "state"
+            capitalCity:"Uyo",
+            subdivisions: ["Abak", "Eastern Obolo", "Eket", "Esit Eket", "Essien Udim", "Etim Ekpo", "Etinan", "Ibeno", "Ibesikpo Asutan", "Ibiono Ibom", "Ika", "Ikono", "Ikot Abasi", "Ikot Ekpene", "Ini", "Itu", "Mbo", "Mkpat Enin", "Nsit Atai", "Nsit Ibom", "Nsit Ubium", "Obot Akara", "Okobo", "Onna", "Oron", "Oruk Anam", "Udung Uko", "Ukanafun", "Uruan", "Urue Offong/Oruko", "Uyo"],
+            geoPoliticalZone: "South South",
+            location:"South South",
+            name: "Akwa Ibom",
+            stateCode: "AK",
+            tribes:["Anang","Andoni", "Eket", "Ibeno", "Ibibio", "Obolo", "Okobo (Okkobor)", "Oron" ],
+            type: "state"
         },
         ...
       ]
