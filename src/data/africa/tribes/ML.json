@@ -170,16 +170,6 @@
           "tribes": ["Bozo", "Songhai"],
           "type": "region"
         },
-        "NARA": {
-          "capitalCity": "Nara",
-          "subdivisions": ["Nara", "Banamba"],
-          "geoPoliticalZone": "",
-          "location": "South-West",
-          "name": "Nara",
-          "stateCode": "NR",
-          "tribes": ["Bambara", "Fulani"],
-          "type": "region"
-        },
         "YANFOLILA": {
           "capitalCity": "Yanfolila",
           "subdivisions": ["Yanfolila", "Kadiolo"],

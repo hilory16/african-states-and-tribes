@@ -1,6 +1,6 @@
-# African-states-and-tribes.
+# African-states-and-tribes
 
-"African States & Tribes" is an open source project that simplifies the management of data related to African states and tribes. It enables users to easily fetch, sort, and filter information about various states and tribal groups across Africa. This project is ideal for developers working on projects involving regional data, educational resources, or applications that focus on the rich cultural diversity of Africa. Enhance your application's geographical and cultural data integration with this comprehensive tool.
+This project provides comprehensive insights into African countries, the origins of various tribes, and their geographic distributions. Built to celebrate and document Africa’s rich multicultural landscape, it allows users to explore the continent’s diverse cultural heritage, discovering the roots and locations of countless ethnic groups across Africa.
 
 # Install
 `npm i country-state-city`
@@ -16,7 +16,7 @@
   - ES5 Module usage
   
     ```js
-    const africanStates = require('cafrican-states-and-tribes')
+    const africanStates = require('african-states-and-tribes')
     ```
 
 # Docs
