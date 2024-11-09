@@ -16,7 +16,7 @@
   - ES5 Module usage
   
     ```js
-    let africanStates = require('cafrican-states-and-tribes')
+    const africanStates = require('cafrican-states-and-tribes')
     ```
 
 # Docs
@@ -227,6 +227,8 @@
       ]
     ```
 
+
+
     | Key                                    | Description                        
     |----------------------------------------|-----------------------------
     | capitalCity                            | Country's capital city   
@@ -248,6 +250,7 @@
     | tribalDistribution.stateCode           | state/region/province official code
     | tribalDistribution.tribes              | Tribes found in state/region/province
     | tribalDistribution.type                | type of either state/region/province
+
 
 
 
