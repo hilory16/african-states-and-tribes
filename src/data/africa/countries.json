@@ -10,7 +10,7 @@
         "currencyCode":"AOA",
         "currencySymbol":"Kz",
         "officialLanguage": "Portuguese",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"]
     },
     "BJ": {
         "phoneCode": 229,
