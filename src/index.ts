@@ -18,12 +18,12 @@ async function getCountries() {
   return countries;
 }
 
-async function getCountriesAndTribes(countryCode: string) {
+async function getCountriesAndTribalData(countryCode: string) {
   const countries = await getCountries();
   const tribeData = await getTribeData(countryCode);
   const embeddedData = countries.map((item) => ({
     ...item,
-    tribes: tribeData,
+    tribalDistribution: tribeData,
   }));
 
   return embeddedData;
@@ -41,13 +41,13 @@ async function getCountry(countryCode: string) {
   return {};
 }
 
-async function getCountryAndTribe(countryCode: string) {
+async function getCountryAndTribalData(countryCode: string) {
   const country = await getCountry(countryCode);
   const tribes = await getTribeData(countryCode);
   if (Object.keys(country).length > 0) {
     return {
       ...country,
-      tribes,
+      tribalDistribution: tribes,
     };
   }
 
@@ -64,8 +64,8 @@ async function getTribesByCountry(countryCode: string) {
 
 export {
   getCountries,
-  getCountriesAndTribes,
+  getCountriesAndTribalData,
   getCountry,
-  getCountryAndTribe,
+  getCountryAndTribalData,
   getTribesByCountry,
 };

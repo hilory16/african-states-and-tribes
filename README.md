@@ -69,7 +69,7 @@
     ```js
     import * as africanStates from 'african-states-and-tribes'
 
-    africanStates.getCountriesAndTribes("NG").then(countries =>{
+    africanStates.getCountriesAndTribalData("NG").then(countries =>{
         console.log(countries)
     })
     ```
@@ -90,7 +90,7 @@
             "currencySymbol":"Kz",
             "officialLanguage": "Portuguese",
             "majorEthnicGroups":["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"]
-            tribes:[
+            tribalDistribution:[
                 {
                     "capitalCity":"Caxito",
                     "subdivisions":["Ambriz", "Bula Atumba", "Dande", "Dembos","Nambuangongo", "Pango Aluquém"],
@@ -153,7 +153,7 @@
     ```js
     import * as africanStates from 'african-states-and-tribes'
 
-     africanStates.getCountryAndTribe("NG").then(country =>{
+     africanStates.getCountryAndTribalData("NG").then(country =>{
         console.log(country)
     })
     ```
@@ -173,8 +173,8 @@
             "currencySymbol":"₦",
             "officialLanguage": "English",
             "majorEthnicGroups":["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
-            tribes:[
-                 "ABIA":{
+            tribalDistribution:[
+                 {
                     "capitalCity":"Umuahia",
                     "subdivisions": ["Aba North", "Aba South", "Arochukwu", "Bende", "Ikwuano", "Isiala Ngwa North", "Isiala Ngwa South", "Isuikwuato", "Obi Ngwa", "Ohafia", "Osisioma", "Ugwunagbo", "Ukwa East", "Ukwa West", "Umuahia North", "Umuahia South"],
                     "geoPoliticalZone": "South East",
@@ -225,8 +225,31 @@
         },
         ...
       ]
-
     ```
+
+    | Key                                    | Description                        
+    |----------------------------------------|-----------------------------
+    | capitalCity                            | Country's capital city   
+    | colonialMaster                         | Country's colonial master   
+    | countryCode                            | Country's 2-alphabet country code   
+    | flagEmoji                              | Country's flag emoji
+    | name                                   | Country name
+    | currency                               | Country's official currency
+    | currencyCode                           | Country's official currency code
+    | currencySymbol                         | Country's official currency symbol
+    | officialLanguage                       | Country's official language
+    | majorEthnicGroups                      | Major ethnic found in the country
+    | tribalDistribution                     | Array containing country's tribal origin grouped by state/region/province found in. 
+    | tribalDistribution.capitalCity         | state/region/province capital city
+    | tribalDistribution.subdivisions        | state/region/province administrative sub divisions such as Local Government
+    | tribalDistribution.geoPoliticalZone    | Geopolitical zone in which the state/region/province falls under
+    | tribalDistribution.location            | state/region/province location on country's map
+    | tribalDistribution.name                | state/region/province
+    | tribalDistribution.stateCode           | state/region/province official code
+    | tribalDistribution.tribes              | Tribes found in state/region/province
+    | tribalDistribution.type                | type of either state/region/province
+
+
 
 # Countries Covered.
 - Angola
