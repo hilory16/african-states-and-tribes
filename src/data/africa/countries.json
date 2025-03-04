@@ -504,7 +504,7 @@
         "currencyCode":"RWF",
         "currencySymbol":"Fr",
         "officialLanguage": "Kinyarwanda", 
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":["Hutu", "Tutsi", "Twa"]
     },
     "ST": {
         "phoneCode": 239,
@@ -530,7 +530,7 @@
         "currencyCode":"XOF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":["Wolof", "Fulani", "Serer", "Diola", "Mandinka", "Soninke"]
     },
     "SC": {
         "phoneCode": 248,

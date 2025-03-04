@@ -52,7 +52,7 @@
         },
         "KEDOUGOU": {
           "capitalCity": "Kédougou",
-          "subdivisions": ["Kédougou", "Salémata", "Saraya", "Bandafassi"],
+          "subdivisions": ["Bandafassi", "Kédougou", "Salémata", "Saraya", "Soninke"],
           "geoPoliticalZone": "Southeastern Senegal",
           "location": "Southeast",
           "name": "Kédougou",
@@ -112,7 +112,7 @@
         },
         "TAMBACOUNDA": {
           "capitalCity": "Tambacounda",
-          "subdivisions": ["Tambacounda", "Bafing", "Kothiary", "Koumpentoum", "Mako"],
+          "subdivisions": ["Tambacounda", "Bafing", "Kothiary", "Koumpentoum", "Mako", "Soninke"],
           "geoPoliticalZone": "Eastern Senegal",
           "location": "East",
           "name": "Tambacounda",
