@@ -12,7 +12,7 @@
         },
         "DIOURBEL": {
           "capitalCity": "Diourbel",
-          "subdivisions": ["Diourbel", "Mbacké", "Touba", "Café Thialaw", "Boulal"],
+          "subdivisions": ["Diourbel", "Fulani", "Mbacké", "Touba", "Café Thialaw", "Boulal"],
           "geoPoliticalZone": "Central Senegal",
           "location": "Central",
           "name": "Diourbel",
@@ -22,7 +22,7 @@
         },
         "FATICK": {
           "capitalCity": "Fatick",
-          "subdivisions": ["Fatick", "Gossas", "Foundiougne", "Mbellac", "Koungheul"],
+          "subdivisions": ["Fatick","Fulani", "Gossas", "Foundiougne", "Mbellac", "Koungheul"],
           "geoPoliticalZone": "Central Senegal",
           "location": "Central",
           "name": "Fatick",
@@ -42,7 +42,7 @@
         },
         "KAOLACK": {
           "capitalCity": "Kaolack",
-          "subdivisions": ["Kaolack", "Nioro du Rip", "Koussanar", "Guinguinéo", "Sandiara", "Fatik"],
+          "subdivisions": ["Fulani", "Kaolack", "Nioro du Rip", "Koussanar", "Guinguinéo", "Sandiara", "Fatik"],
           "geoPoliticalZone": "Central Senegal",
           "location": "Central",
           "name": "Kaolack",
@@ -52,7 +52,7 @@
         },
         "KEDOUGOU": {
           "capitalCity": "Kédougou",
-          "subdivisions": ["Bandafassi", "Kédougou", "Salémata", "Saraya", "Soninke"],
+          "subdivisions": ["Bandafassi","Fulani", "Kédougou", "Salémata", "Saraya", "Soninke"],
           "geoPoliticalZone": "Southeastern Senegal",
           "location": "Southeast",
           "name": "Kédougou",
@@ -62,7 +62,7 @@
         },
         "KOLDA": {
           "capitalCity": "Kolda",
-          "subdivisions": ["Kolda", "Medina Yoro Foula", "Vélingara", "Sakoinsé"],
+          "subdivisions": ["Fulani","Kolda", "Medina Yoro Foula", "Vélingara", "Sakoinsé"],
           "geoPoliticalZone": "Southern Senegal",
           "location": "South",
           "name": "Kolda",
@@ -72,7 +72,7 @@
         },
         "LOUGA": {
           "capitalCity": "Louga",
-          "subdivisions": ["Louga", "Kayar", "Kamb", "Pate", "Sénégal"],
+          "subdivisions": ["Fulani","Kayar", "Kamb","Louga", "Pate", "Sénégal"],
           "geoPoliticalZone": "Northwestern Senegal",
           "location": "Northwest",
           "name": "Louga",
@@ -82,7 +82,7 @@
         },
         "MATAM": {
           "capitalCity": "Matam",
-          "subdivisions": ["Matam", "Kanel", "Ranérou", "Bokidiawé"],
+          "subdivisions": ["Matam", "Fulani","Kanel", "Ranérou", "Bokidiawé"],
           "geoPoliticalZone": "Northeastern Senegal",
           "location": "Northeast",
           "name": "Matam",
@@ -92,7 +92,7 @@
         },
         "SAINT-LOUIS": {
           "capitalCity": "Saint-Louis",
-          "subdivisions": ["Saint-Louis", "Podor", "Rufisque", "Dagana"],
+          "subdivisions": ["Dagana","Fulani","Saint-Louis", "Podor", "Rufisque"],
           "geoPoliticalZone": "Northwestern Senegal",
           "location": "North",
           "name": "Saint-Louis",
@@ -102,7 +102,7 @@
         },
         "SEDHIOU": {
           "capitalCity": "Sédhiou",
-          "subdivisions": ["Sédhiou", "Bounkiling", "Goudomp"],
+          "subdivisions": [ "Bounkiling", "Fulani","Goudomp","Sédhiou"],
           "geoPoliticalZone": "Southern Senegal",
           "location": "South",
           "name": "Sédhiou",
@@ -112,7 +112,7 @@
         },
         "TAMBACOUNDA": {
           "capitalCity": "Tambacounda",
-          "subdivisions": ["Tambacounda", "Bafing", "Kothiary", "Koumpentoum", "Mako", "Soninke"],
+          "subdivisions": [ "Bafing","Fulani", "Kothiary", "Koumpentoum", "Mako", "Soninke","Tambacounda"],
           "geoPoliticalZone": "Eastern Senegal",
           "location": "East",
           "name": "Tambacounda",
