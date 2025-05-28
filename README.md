@@ -3,7 +3,7 @@
 This project provides comprehensive insights into African countries, the origins of various tribes, and their geographic distributions. Built to celebrate and document Africa’s rich multicultural landscape, it allows users to explore the continent’s diverse cultural heritage, discovering the roots and locations of countless ethnic groups across Africa.
 
 # Install
-`npm i country-state-city`
+`npm i african-states-and-tribes`
 
 # Usage
 
