@@ -16,8 +16,6 @@ Fixes # (if applicable)
 
 ## Checklist
 
-Please check all that apply:
-
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my changes
 - [ ] I have commented my code, particularly in hard-to-understand areas
