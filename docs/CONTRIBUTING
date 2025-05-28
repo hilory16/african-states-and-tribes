@@ -38,4 +38,18 @@ If you've spotted incorrect or outdated data, feel free to correct it and raise 
 
 ---
 
-Thank you for helping make this project better!
+
+## 📋 How to Contribute via Pull Request
+
+1. **Fork** the repository to your own GitHub account.
+2. **Clone** your forked repo locally:
+   ```bash
+   git clone https://github.com/your-username/african-states-and-tribes.git
+   cd african-states-and-tribes
+3. git checkout -b your-branch-name
+4. git commit -m "Short description of your change"
+5. git push origin your-branch-name
+6. Open a Pull Request from your branch to the main branch of the original repo.
+
+
+Thank you for helping make this project better! Happy contributing!
