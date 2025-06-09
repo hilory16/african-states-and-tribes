@@ -1,3 +1,9 @@
+// PLEASE CONFIRM TO THE FORMAT BELOW WHEN CREATING NEW CONSTANTS
+// e.g Ga’anda = GAANDA, Bura-Pabir = BURA_PABIR, Buba Angola = BUBAANGOLA
+
+// ARRANGED IN ALPHABETICAL ORDER
+// export const TRIBE = 'Tribe'
+
 export const ANANG = "Anang";
 export const ANDONI = "Andoni";
 export const BABUR = "Babur";
@@ -6,7 +12,7 @@ export const BANSO = "Banso";
 export const BATTA = "Batta";
 export const BAYA = "Baya";
 export const BOTLERE = "Botlere";
-export const BURAPABIR = "Bura-Pabir";
+export const BURA_PABIR = "Bura-Pabir";
 export const BWATIYE = "Bwatiye";
 export const BWAZZA = "Bwazza";
 export const CHAMBA = "Chamba";
