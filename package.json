@@ -1,6 +1,6 @@
 {
   "name": "african-states-and-tribes",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "This project provides comprehensive insights into African countries, the origins of various tribes, and their geographic distributions. Built to celebrate and document Africa’s rich multicultural landscape, it allows users to explore the continent’s diverse cultural heritage, discovering the roots and locations of countless ethnic groups across Africa.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
