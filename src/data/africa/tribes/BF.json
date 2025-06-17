@@ -8,7 +8,7 @@
           "location": "North West",
           "name": "Boucle du Mouhoun",
           "stateCode": "BM",
-          "tribes": ["Mossi", "Gourmantché", "Bobo"],
+          "tribes": ["Bobo", "Gourmantché","Mossi" ],
           "type": "region"
         },
         "CASCADES": {
@@ -18,7 +18,7 @@
           "location": "South West",
           "name": "Cascades",
           "stateCode": "CA",
-          "tribes": ["Bobo", "Mossi", "Gourmantché"],
+          "tribes": ["Bobo","Gourmantché", "Mossi"],
           "type": "region"
         },
         "CENTRE": {
