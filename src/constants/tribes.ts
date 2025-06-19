@@ -40,6 +40,7 @@ export const BUDZA = "Budza";
 export const BURA_PABIR = "Bura-Pabir";
 export const BWATIYE = "Bwatiye";
 export const BWAZZA = "Bwazza";
+export const CAPE_VERDEAN = "Cape Verdean";
 export const CHAKOSI = "Chakosi (Anufo)";
 export const CHAMBA = "Chamba";
 export const CHOKWE = "Chokwe";
