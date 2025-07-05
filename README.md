@@ -1,6 +1,10 @@
 # African-states-and-tribes
+A zero-dependency JavaScript utility library that provides structured access to comprehensive data on African countries and their administrative geography and ethnic groups.
 
-This project provides comprehensive insights into African countries, the origins of various tribes, and their geographic distributions. Built to celebrate and document Africa’s rich multicultural landscape, it allows users to explore the continent’s diverse cultural heritage, discovering the roots and locations of countless ethnic groups across Africa.
+The library includes country-level metadata (such as name, capital, currency, phone code, flag, and ISO codes), supports geographic hierarchies including local government areas (LGAs) and other administrative subdivisions across all countries, and offers detailed tribal distributions by region or state, as well as major ethnic group data per country.
+
+<!-- A zero-dependency JavaScript library for structured access to African countries’ metadata, ethnic groups, and administrative divisions — including tribal distributions and local government areas. -->
+
 
 # Install
 `npm i african-states-and-tribes`
