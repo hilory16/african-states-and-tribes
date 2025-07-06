@@ -10,7 +10,13 @@
         "currencyCode":"AOA",
         "currencySymbol":"Kz",
         "officialLanguage": "Portuguese",
-        "majorEthnicGroups":["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"]
+        "majorEthnicGroups":["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"],
+        "timezones": [
+            {
+            "iana": "Africa/Luanda",
+            "gmtOffset": "+01:00"
+            }
+        ]
     },
     "BJ": {
         "phoneCode": 229,
@@ -23,7 +29,13 @@
         "currencyCode":"XOF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":["Adja (Aja)","Bariba","Dendi (Songhai)","Fon (Dahomey)","Fulani","Lukpa","Tammari (Betammaribe)","Yoruba"]
+        "majorEthnicGroups":["Adja (Aja)","Bariba","Dendi (Songhai)","Fon (Dahomey)","Fulani","Lukpa","Tammari (Betammaribe)","Yoruba"],
+        "timezones": [
+            {
+            "iana": "Africa/Porto-Novo",
+            "gmtOffset": "+01:00"
+            }
+        ]
     },
     "BW": {
         "phoneCode": 267,
@@ -36,7 +48,13 @@
         "currencyCode":"BWP",
         "currencySymbol":"P",
         "officialLanguage": "Setswana",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Africa/Gaborone",
+            "gmtOffset": "+02:00"
+            }
+        ]
     },
     "BF": {
         "phoneCode": 226,
@@ -49,7 +67,13 @@
         "currencyCode":"XOF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Africa/Ouagadougou",
+            "gmtOffset": "+00:00"
+            }
+        ]
     },
     "BI": {
         "phoneCode": 257,
@@ -62,7 +86,13 @@
         "currencyCode":"BIF",
         "currencySymbol":"FBu",
         "officialLanguage": "Kirundi",
-        "majorEthnicGroups":["Hutu", "Tutsi", "Twa"]
+        "majorEthnicGroups":["Hutu", "Tutsi", "Twa"],
+        "timezones": [
+            {
+            "iana": "Africa/Bujumbura",
+            "gmtOffset": "+02:00"
+            }
+        ]
     },
     "CV": {
         "phoneCode": 238,
@@ -75,7 +105,13 @@
         "currencyCode":"CVE",
         "currencySymbol":"$",
         "officialLanguage": "Portuguese",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Atlantic/Cape_Verde",
+            "gmtOffset": "-01:00"
+            }
+        ]
     },
     "CM": {
         "phoneCode": 237,
@@ -88,7 +124,13 @@
         "currencyCode":"XAF",
         "currencySymbol":"Fr",
         "officialLanguage": "Major African languages",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Africa/Douala",
+            "gmtOffset": "+01:00"
+            }
+        ]
     },
     "CF": {
         "phoneCode": 236,
@@ -101,7 +143,13 @@
         "currencyCode":"XAF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Africa/Bangui",
+            "gmtOffset": "+01:00"
+            }
+        ]
     },
     "DZ": {
       "phoneCode": 213,
@@ -114,20 +162,32 @@
       "currencyCode":"DZD",
       "currencySymbol":"د.ج",
       "officialLanguage": "Arabic",
-      "majorEthnicGroups":["Arabs", "Berbers", "Harratin"]
+      "majorEthnicGroups":["Arabs", "Berbers", "Harratin"],
+      "timezones": [
+            {
+            "iana": "Africa/Algiers",
+            "gmtOffset": "+01:00"
+            }
+     ]
     },
     "TD": {
         "phoneCode": 235,
         "capitalCity": "N'Djamena",
-        "colonialMaster":"",
-        "countryCode":"TD",
+        "colonialMaster": "",
+        "countryCode": "TD",
         "flagEmoji": "🇹🇩",
         "name": "Chad",
         "currency": "Central African CFA franc",
-        "currencyCode":"XAF",
-        "currencySymbol":"Fr",
+        "currencyCode": "XAF",
+        "currencySymbol": "Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups": [],
+        "timezones": [
+            {
+            "iana": "Africa/Ndjamena",
+            "gmtOffset": "+01:00"
+            }
+        ]
     },
     "KM": {
         "phoneCode": 269,
@@ -140,7 +200,13 @@
         "currencyCode":"KMF",
         "currencySymbol":"CF",
         "officialLanguage": "Arabic",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Indian/Comoro",
+            "gmtOffset": "+03:00"
+            }
+        ]
     },
     "CD": {
         "phoneCode": 243,
@@ -153,7 +219,17 @@
         "currencyCode":"CDF",
         "currencySymbol":"FC",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Africa/Kinshasa",
+            "gmtOffset": "+01:00"
+            },
+            {
+            "iana": "Africa/Lubumbashi",
+            "gmtOffset": "+02:00"
+            }
+        ]
     },
     "CG": {
         "phoneCode": 242,
@@ -166,7 +242,13 @@
         "currencyCode":"XAF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Africa/Brazzaville",
+            "gmtOffset": "+01:00"
+            }
+        ]
     },
     "CI": {
         "phoneCode": 225,
@@ -179,7 +261,13 @@
         "currencyCode":"XOF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Africa/Abidjan",
+            "gmtOffset": "+00:00"
+            }
+        ]
     },
     "DJ": {
         "phoneCode": 253,
@@ -192,7 +280,13 @@
         "currencyCode":"DJF",
         "currencySymbol":"Fdj",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones": [
+            {
+            "iana": "Africa/Djibouti",
+            "gmtOffset": "+03:00"
+            }
+        ]
     },
     "EG": {
         "phoneCode": 20,
@@ -205,7 +299,13 @@
         "currencyCode":"EGP",
         "currencySymbol":"£",
         "officialLanguage": "Arabic",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Cairo", 
+                "gmtOffset": "+02:00" 
+            }
+        ]
     },
     "GQ": {
         "phoneCode": 240,
@@ -218,7 +318,13 @@
         "currencyCode":"XAF",
         "currencySymbol":"Fr",
         "officialLanguage": "Spanish",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+            {    
+               "iana": "Africa/Malabo", 
+               "gmtOffset": "+01:00"
+            }
+        ]
     },
     "ER": {
         "phoneCode": 291,
@@ -231,7 +337,13 @@
         "currencyCode":"ERN",
         "currencySymbol":"Nkf",
         "officialLanguage": "Afar",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Asmara", 
+                "gmtOffset": "+03:00"
+             }
+        ]
     },
     "ET": {
         "phoneCode": 251,
@@ -244,7 +356,13 @@
         "currencyCode":"ETB",
         "currencySymbol":"Br",
         "officialLanguage": "Amharic",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+               "iana": "Africa/Addis_Ababa", 
+               "gmtOffset": "+03:00"
+             }
+        ]
     },
     "GA": {
         "phoneCode": 241,
@@ -257,7 +375,13 @@
         "currencyCode":"XAF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Libreville", 
+                "gmtOffset": "+01:00"
+             }
+        ]
     },
     "GH": {
         "phoneCode": 233,
@@ -270,7 +394,13 @@
         "currencyCode":"GHS",
         "currencySymbol":"₵",
         "officialLanguage": "English",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Accra", 
+                "gmtOffset": "+00:00"
+             }
+        ]
     },
     "GM": {
         "phoneCode": 220,
@@ -283,7 +413,13 @@
         "currencyCode":"GMD",
         "currencySymbol":"D",
         "officialLanguage": "English",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+             "iana": "Africa/Banjul", 
+             "gmtOffset": "+00:00"
+             }
+        ]
     },
     "GN": {
         "phoneCode": 224,
@@ -296,20 +432,31 @@
         "currencyCode":"GNF",
         "currencySymbol":"FG",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+         "timezones":[
+             { 
+                "iana": "Africa/Conakry", 
+                "gmtOffset": "+00:00"
+             }
+        ]
     },
     "GW": {
         "phoneCode": 245,
         "capitalCity": "Bissau",
         "colonialMaster":"",
         "countryCode":"GW",
-        "flagEmoji": "🇬🇼",
+        "flagEmoji": "��🇼",
         "name": "Guinea-Bissau",
         "currency": "West African CFA franc",
         "currencyCode":"XOF",
         "currencySymbol":"Fr",
         "officialLanguage": "Portuguese",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Bissau", "gmtOffset": "+00:00" 
+             }
+        ]
     },
     "KE": {
         "phoneCode": 254,
@@ -322,7 +469,13 @@
         "currencyCode":"KES",
         "currencySymbol":"KSh",
         "officialLanguage": "English",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Nairobi", 
+                "gmtOffset": "+03:00"
+             }
+        ]
     },
     "LS": {
         "phoneCode": 266,
@@ -335,7 +488,13 @@
         "currencyCode":"LSL",
         "currencySymbol":"L",
         "officialLanguage": "Sesotho",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+               "iana": "Africa/Maseru", 
+               "gmtOffset": "+02:00"
+             }
+        ]
     },
     "LR": {
         "phoneCode": 231,
@@ -348,7 +507,13 @@
         "currencyCode":"LRD",
         "currencySymbol":"**$",
         "officialLanguage": "English",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Monrovia", 
+                "gmtOffset": "+00:00"
+             }
+        ]
     },
     "LY": {
         "phoneCode": 218,
@@ -361,7 +526,13 @@
         "currencyCode":"LYD",
         "currencySymbol":"د.ل",
         "officialLanguage": "Arabic",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Tripoli", 
+                "gmtOffset": "+02:00"
+             }
+        ]
     },
     "MG": {
         "phoneCode": 261,
@@ -374,7 +545,13 @@
         "currencyCode":"MGA",
         "currencySymbol":"Ar",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Indian/Antananarivo", 
+                "gmtOffset": "+03:00"
+             }
+        ]
     },
     "MW": {
         "phoneCode": 265,
@@ -387,7 +564,13 @@
         "currencyCode":"MWK",
         "currencySymbol":"K",
         "officialLanguage": "Chichewa",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+         "timezones":[
+             { 
+                "iana": "Indian/Antananarivo", 
+                "gmtOffset": "+03:00"
+             }
+        ]
     },
     "ML": {
         "phoneCode": 223,
@@ -400,7 +583,13 @@
         "currencyCode":"XOF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+         "timezones":[
+             { 
+                "iana": "Africa/Bamako", 
+                "gmtOffset": "+00:00"
+             }
+        ]
     },
     "MR": {
         "phoneCode": 222,
@@ -413,7 +602,13 @@
         "currencyCode":"MRU",
         "currencySymbol":"UM",
         "officialLanguage": "Arabic",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Nouakchott", 
+                "gmtOffset": "+00:00"
+             }
+        ]
     },
     "MU": {
         "phoneCode": 230,
@@ -426,7 +621,13 @@
         "currencyCode":"MUR",
         "currencySymbol":"₨",
         "officialLanguage": "Creole",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Indian/Mauritius", 
+                "gmtOffset": "+04:00"
+             }
+        ]
     },
     "MA": {
         "phoneCode": 212,
@@ -439,7 +640,13 @@
         "currencyCode":"MAD",
         "currencySymbol":"د.م.",
         "officialLanguage": "Arabic",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Casablanca", 
+                "gmtOffset": "+01:00"
+             }
+        ]
     },
     "MZ": {
         "phoneCode": 258,
@@ -452,7 +659,13 @@
         "currencyCode":"MZN",
         "currencySymbol":"MT",
         "officialLanguage": "Emakhuwa",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Maputo", 
+                "gmtOffset": "+02:00"
+             }
+        ]
     },
     "NA": {
         "phoneCode": 264,
@@ -465,7 +678,13 @@
         "currencyCode":"NAD",
         "currencySymbol":"$",
         "officialLanguage": null,
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Windhoek", 
+                "gmtOffset": "+02:00"
+             }
+        ]
     },
     "NE": {
         "phoneCode": 227,
@@ -478,7 +697,13 @@
         "currencyCode":"XOF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Niamey", 
+                "gmtOffset": "+01:00"
+             }
+        ]
     },
     "NG": {
         "phoneCode": 234,
@@ -491,7 +716,13 @@
         "currencyCode":"NGN",
         "currencySymbol":"₦",
         "officialLanguage": "English",
-        "majorEthnicGroups":["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
+        "majorEthnicGroups":["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"],
+        "timezones":[
+             { 
+                "iana": "Africa/Lagos", 
+                "gmtOffset": "+01:00"
+             }
+        ]
     },
     "RW": {
         "phoneCode": 250,
@@ -504,7 +735,13 @@
         "currencyCode":"RWF",
         "currencySymbol":"Fr",
         "officialLanguage": "Kinyarwanda", 
-        "majorEthnicGroups":["Hutu", "Tutsi", "Twa"]
+        "majorEthnicGroups":["Hutu", "Tutsi", "Twa"],
+        "timezones":[
+             { 
+                "iana": "Africa/Kigali", 
+                "gmtOffset": "+02:00"
+             }
+        ]
     },
     "ST": {
         "phoneCode": 239,
@@ -517,7 +754,13 @@
         "currencyCode":"STN",
         "currencySymbol":"Db",
         "officialLanguage": "Portuguese",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Sao_Tome", 
+                "gmtOffset": "+00:00"
+             }
+        ]
     },
     "SN": {
         "phoneCode": 221,
@@ -530,7 +773,14 @@
         "currencyCode":"XOF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":["Wolof", "Fulani", "Serer", "Diola", "Mandinka", "Soninke"]
+        "majorEthnicGroups":["Wolof", "Fulani", "Serer", "Diola", "Mandinka", "Soninke"],
+        "timezones":[
+             { 
+                "iana": "Africa/Dakar", 
+                "gmtOffset": "+00:00"
+             }
+        ]
+
     },
     "SC": {
         "phoneCode": 248,
@@ -543,7 +793,13 @@
         "currencyCode":"SCR",
         "currencySymbol":"₨",
         "officialLanguage": "Creole",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Indian/Mahe", 
+                "gmtOffset": "+04:00"
+             }
+        ]
     },
     "SL": {
         "phoneCode": 232,
@@ -556,7 +812,13 @@
         "currencyCode":"SLL",
         "currencySymbol":"Le",
         "officialLanguage": "English",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Freetown", 
+                "gmtOffset": "+00:00"
+             }
+        ]
     },
     "SO": {
         "phoneCode": 252,
@@ -569,7 +831,13 @@
         "currencyCode":"SOS",
         "currencySymbol":"Sh",
         "officialLanguage": "Somali",
-        "majorEthnicGroups":["The Darood","The Dir",  "The Hawiye","The Isaaq","The Rahanweyn"]
+        "majorEthnicGroups":["The Darood","The Dir",  "The Hawiye","The Isaaq","The Rahanweyn"],
+        "timezones":[
+             { 
+                "iana": "Africa/Mogadishu", 
+                "gmtOffset": "+03:00"
+             }
+        ]
     },
     "ZA": {
         "phoneCode": 27,
@@ -582,7 +850,13 @@
         "currencyCode":"ZAR",
         "currencySymbol":"R",
         "officialLanguage": "IsiZulu",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Johannesburg", 
+                "gmtOffset": "+02:00"
+             }
+        ]
     },
     "SS": {
         "phoneCode": 211,
@@ -595,7 +869,13 @@
         "currencyCode":"SSP",
         "currencySymbol":"£",
         "officialLanguage": "Arabic",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Juba", 
+                "gmtOffset": "+03:00"
+             }
+        ]
     },
     "SD": {
         "phoneCode": 249,
@@ -608,7 +888,13 @@
         "currencyCode":"SDG",
         "currencySymbol":"ج.س.",
         "officialLanguage": "Arabic",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Khartoum", 
+                "gmtOffset": "+02:00"
+             }
+        ]
     },
     "SZ": {
         "phoneCode": 268,
@@ -621,7 +907,13 @@
         "currencyCode":"SZL",
         "currencySymbol":"E",
         "officialLanguage": "English",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Mbabane", 
+                "gmtOffset": "+02:00"
+             }
+        ]
     },
     "TZ": {
         "phoneCode": 255,
@@ -634,7 +926,13 @@
         "currencyCode":"TZS",
         "currencySymbol":"TSh",
         "officialLanguage": "Kiswahili or Swahili",
-        "majorEthnicGroups":["Sukuma", "Nyamwezi", "Chaga", "Haya", "Makonde", "Zigua", "Wazaramo", "Ngoni"]
+        "majorEthnicGroups":["Sukuma", "Nyamwezi", "Chaga", "Haya", "Makonde", "Zigua", "Wazaramo", "Ngoni"],
+        "timezones":[
+             { 
+                "iana": "Africa/Dar_es_Salaam", 
+                "gmtOffset": "+03:00"
+             }
+        ]
     },
     "TG": {
         "phoneCode": 228,
@@ -647,7 +945,13 @@
         "currencyCode":"XOF",
         "currencySymbol":"Fr",
         "officialLanguage": "French",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Lome", 
+                "gmtOffset": "+00:00"
+             }
+        ]
     },
     "TN": {
         "phoneCode": 216,
@@ -660,7 +964,13 @@
         "currencyCode":"TND",
         "currencySymbol":"د.ت",
         "officialLanguage": "Arabic",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Tunis", 
+                "gmtOffset": "+01:00"
+             }
+        ]
     },
     "UG": {
         "phoneCode": 256,
@@ -673,7 +983,13 @@
         "currencyCode":"UGX",
         "currencySymbol":"USh",
         "officialLanguage": "English",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Kampala", 
+                "gmtOffset": "+03:00"
+             }
+        ]
     },
     "ZM": {
         "phoneCode": 260,
@@ -686,7 +1002,13 @@
         "currencyCode":"ZMW",
         "currencySymbol":"ZK",
         "officialLanguage": "English",
-        "majorEthnicGroups":["Bemba", "Chewa", "Kaonde", "Lamba", "Lozi", "Lunda", "Luvale", "Nsenga", "Tonga"]
+        "majorEthnicGroups":["Bemba", "Chewa", "Kaonde", "Lamba", "Lozi", "Lunda", "Luvale", "Nsenga", "Tonga"],
+        "timezones":[
+             { 
+                "iana": "Africa/Lusaka", 
+                "gmtOffset": "+02:00"
+             }
+        ]
     },
     "ZW": {
         "phoneCode": 263,
@@ -699,6 +1021,12 @@
         "currencyCode":"ZWL",
         "currencySymbol":"$",
         "officialLanguage": "English",
-        "majorEthnicGroups":[]
+        "majorEthnicGroups":[],
+        "timezones":[
+             { 
+                "iana": "Africa/Harare", 
+                "gmtOffset": "+02:00"
+             }
+        ]
     }
   }
