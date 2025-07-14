@@ -1,9 +1,28 @@
 # African-states-and-tribes
-A zero-dependency JavaScript utility library that provides structured access to comprehensive data on African countries and their administrative geography and ethnic groups.
+
+A lightweight, async-based JavaScript/TypeScript module to access structured data for African countries and their corresponding states/tribes — dynamically loaded by country code.
+
+
+
+A lightweight zero-dependency JavaScript/TypeScript utility library for African countries and their corresponding states/tribes — dynamically loaded by country code. It provides structured access to comprehensive data on African countries and their administrative geography and ethnic groups.
 
 The library includes country-level metadata (such as name, capital, currency, phone code, flag, and ISO codes), supports geographic hierarchies including local government areas (LGAs) and other administrative subdivisions across all countries, and offers detailed tribal distributions by region or state, as well as major ethnic group data per country.
 
 <!-- A zero-dependency JavaScript library for structured access to African countries’ metadata, ethnic groups, and administrative divisions — including tribal distributions and local government areas. -->
+
+<!-- african-countries-data -->
+
+
+🚀 Features
+✅ List all African countries
+
+✅ Fetch a single country by its ISO code
+
+✅ Get state/tribal data for each country (on-demand)
+
+✅ Lightweight and async — loads only what you need
+
+✅ Simple, modular, and TypeScript-friendly
 
 
 # Install
@@ -14,7 +33,13 @@ The library includes country-level metadata (such as name, capital, currency, ph
   - ES6 Module usage
    
      ```js
-     import { getCountries } as africanStates from 'african-states-and-tribes'
+     import { 
+        getCountries, 
+        getCountry, 
+        getCountryStates, 
+        getCountriesAndStates, 
+        getCountryAndState 
+    } from 'african-states-and-tribes'
      ```
 
   - ES5 Module usage
@@ -25,10 +50,10 @@ The library includes country-level metadata (such as name, capital, currency, ph
 
 # Docs
 
-  - **Get all African Countries**
+  - **Get all Countries** 
 
     ```js
-    import { getCountries } as africanStates from 'african-states-and-tribes'
+    import { getCountries } from 'african-states-and-tribes'
 
     getCountries().then(countries =>{
         console.log(countries)
@@ -90,12 +115,12 @@ The library includes country-level metadata (such as name, capital, currency, ph
             ...
         ]
     ```
-  - **Get All African Countries + Tribal Data**
+  - **Get All African Countries + State/Tribal Data**
   
     ```js
-    import { getCountriesAndTribalData } from 'african-states-and-tribes'
+    import { getCountriesAndStates } from 'african-states-and-tribes'
 
-    getCountriesAndTribalData("NG").then(countries =>{
+    getCountriesAndStates().then(countries =>{
         console.log(countries)
     })
     ```
@@ -116,7 +141,7 @@ The library includes country-level metadata (such as name, capital, currency, ph
             currencySymbol:"Kz",
             officialLanguage: "Portuguese",
             majorEthnicGroups: ["Bakongo", "Mbundu", "Ovimbundu"],
-            tribalDistribution:[
+            states:[
                 {
                     capitalCity:"Caxito",
                     subdivisions:["Ambriz", "Bula Atumba", "Dande", "Dembos","Nambuangongo", "Pango Aluquém"],
@@ -185,12 +210,12 @@ The library includes country-level metadata (such as name, capital, currency, ph
         }
 
     ```
-  - **Get Specific Country + Tribal Data by CountryCode**
+  - **Get Specific Country + State/Tribal Data by CountryCode**
 
     ```js
-    import { getCountryAndTribalData} from 'african-states-and-tribes'
+    import { getCountryAndState } from 'african-states-and-tribes'
 
-     getCountryAndTribalData("NG").then(country =>{
+     getCountryAndState("NG").then(country =>{
         console.log(country)
     })
     ```
@@ -214,8 +239,8 @@ The library includes country-level metadata (such as name, capital, currency, ph
             currencyCode:"NGN",
             currencySymbol:"₦",
             officialLanguage: "English",
-           majorEthnicGroups:["Fulani", "Hausa", "Igbo", "Yoruba"],
-            tribalDistribution:[
+            majorEthnicGroups:["Fulani", "Hausa", "Igbo", "Yoruba"],
+            states:[
                  {
                     capitalCity:"Umuahia",
                     subdivisions: ["Aba North", "Aba South", "Arochukwu", "Bende", "Ikwuano", "Isiala Ngwa North", "Isiala Ngwa South", "Isuikwuato", "Obi Ngwa", "Ohafia", "Osisioma", "Ugwunagbo", "Ukwa East", "Ukwa West", "Umuahia North", "Umuahia South"],
@@ -231,12 +256,12 @@ The library includes country-level metadata (such as name, capital, currency, ph
 
     ```
 
-  - **Get a Country's Tribal Data Only**
+  - **Get a Country's State/Tribal Data Only**
 
     ```js
-    import { getTribesByCountry } from 'african-states-and-tribes'
+    import { getCountryStates } from 'african-states-and-tribes'
 
-    getTribesByCountry("NG").then(tribes =>{
+    getCountryStates("NG").then(tribes =>{
         console.log(tribes)
     })
     ```
@@ -270,6 +295,12 @@ The library includes country-level metadata (such as name, capital, currency, ph
     ```
 
 
+    Notes
+    - All functions are asynchronous – you must use await or .then()
+
+    - Tribe/state data is dynamically imported using import() for performance
+
+
 
     | Key                                    | Description                        
     |----------------------------------------|-----------------------------
@@ -283,15 +314,15 @@ The library includes country-level metadata (such as name, capital, currency, ph
     | currencySymbol                         | Country's official currency symbol
     | officialLanguage                       | Country's official language
     | majorEthnicGroups                      | Major ethnic found in the country
-    | tribalDistribution                     | Array containing country's tribal origin grouped by state/region/province found in. 
-    | tribalDistribution.capitalCity         | state/region/province capital city
-    | tribalDistribution.subdivisions        | state/region/province administrative sub divisions such as Local Government
-    | tribalDistribution.geoPoliticalZone    | Geopolitical zone in which the state/region/province falls under
-    | tribalDistribution.location            | state/region/province location on country's map
-    | tribalDistribution.name                | state/region/province
-    | tribalDistribution.stateCode           | state/region/province official code
-    | tribalDistribution.tribes              | Tribes found in state/region/province
-    | tribalDistribution.type                | type of either state/region/province
+    | states                                 | Array containing country's states/provinces/regions
+    | states.capitalCity                     | state/region/province capital city
+    | states.subdivisions                    | state/region/province administrative sub divisions such as Local Government
+    | states.geoPoliticalZone                | Geopolitical zone in which the state/region/province falls under
+    | states.location                        | state/region/province location on country's map
+    | states.name                            | state/region/province
+    | states.stateCode                       | state/region/province official code
+    | states.tribes                          | Tribes found in state/region/province
+    | states.type                            | type of either state/region/province
 
 
 
