@@ -10,6 +10,7 @@ The library includes country-level metadata (such as name, capital, currency, ph
 
 
 🚀 Features
+
 ✅ List all African countries
 
 ✅ Fetch a single country by its ISO code
