@@ -42,29 +42,51 @@ The library includes country-level metadata (such as name, capital, currency, ph
             {
                     phoneCode: 244,
                     capitalCity: "Luanda",
-                    colonialMaster:"",
-                    countryCode:"AO",
+                    colonialMaster: [
+                        {
+                            name: "Portugal",
+                            countryCode: "PT"
+                        }
+                    ],
+                    countryCode: "AO",
                     flagEmoji: "🇦🇴",
                     name: "Angola",
                     currency: "Angolan kwanza",
-                    currencyCode:"AOA",
-                    currencySymbol:"Kz",
+                    currencyCode: "AOA",
+                    currencySymbol: "Kz",
                     officialLanguage: "Portuguese",
-                    majorEthnicGroups:["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"]
+                    majorEthnicGroups: ["Bakongo", "Mbundu", "Ovimbundu"],
+                    timezones: [
+                        {
+                            iana: "Africa/Luanda",
+                            gmtOffset: "+01:00"
+                        }
+                    ]
             },
             {
                     phoneCode: 229,
                     capitalCity: "Porto-Novo",
-                    colonialMaster:"",
-                    countryCode:"BJ",
+                    colonialMaster: [
+                        {
+                            name: "France",
+                            countryCode: "FR"
+                        }
+                    ],
+                    countryCode: "BJ",
                     flagEmoji: "🇧🇯",
                     name: "Benin",
                     currency: "West African CFA franc",
-                    currencyCode:"XOF",
-                    currencySymbol:"Fr",
+                    currencyCode: "XOF",
+                    currencySymbol: "Fr",
                     officialLanguage: "French",
-                    majorEthnicGroups:["Adja (Aja)","Bariba","Dendi (Songhai)","Fon (Dahomey)","Fulani","Lukpa","Tammari (Betammaribe)","Yoruba"]
-            },
+                    majorEthnicGroups: ["Bariba", "Fon (Dahomey)", "Yoruba"],
+                     timezones: [
+                        {
+                            iana: "Africa/Porto-Novo",
+                            gmtOffset: "+01:00"
+                        }
+                    ]
+            }
             ...
         ]
     ```
@@ -93,7 +115,7 @@ The library includes country-level metadata (such as name, capital, currency, ph
             currencyCode:"AOA",
             currencySymbol:"Kz",
             officialLanguage: "Portuguese",
-            majorEthnicGroups:["Bakongo", "Chokwe", "Herero", "Humbi", "Kimbundu", "Mbundu", "Ngangela", "Ovimbundu"]
+            majorEthnicGroups: ["Bakongo", "Mbundu", "Ovimbundu"],
             tribalDistribution:[
                 {
                     capitalCity:"Caxito",
@@ -140,7 +162,12 @@ The library includes country-level metadata (such as name, capital, currency, ph
         {
             phoneCode: 234,
             capitalCity: "Abuja",
-            colonialMaster:"",
+            colonialMaster: [
+                {
+                    name: "United Kingdom",
+                    countryCode: "GB"
+                }
+            ],
             countryCode:"NG",
             flagEmoji: "🇳🇬",
             name: "Nigeria",
@@ -148,7 +175,13 @@ The library includes country-level metadata (such as name, capital, currency, ph
             currencyCode:"NGN",
             currencySymbol:"₦",
             officialLanguage: "English",
-            majorEthnicGroups:["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
+            majorEthnicGroups:["Fulani", "Hausa", "Igbo", "Yoruba"],
+            timezones: [
+                {
+                    "iana": "Africa/Lagos",
+                    "gmtOffset": "+01:00"
+                }
+            ]
         }
 
     ```
@@ -168,7 +201,12 @@ The library includes country-level metadata (such as name, capital, currency, ph
         {
             phoneCode: 234,
             capitalCity: "Abuja",
-            colonialMaster:"",
+            colonialMaster: [
+                {
+                    name: "United Kingdom",
+                    countryCode: "GB"
+                }
+            ],
             countryCode:"NG",
             flagEmoji: "🇳🇬",
             name: "Nigeria",
@@ -176,7 +214,7 @@ The library includes country-level metadata (such as name, capital, currency, ph
             currencyCode:"NGN",
             currencySymbol:"₦",
             officialLanguage: "English",
-            majorEthnicGroups:["Fulani", "Hausa","Kanuri","Ibibio", "Igbo","Ijaw", "Tiv","Yoruba"]
+           majorEthnicGroups:["Fulani", "Hausa", "Igbo", "Yoruba"],
             tribalDistribution:[
                  {
                     capitalCity:"Umuahia",
