@@ -14,7 +14,7 @@ The library includes country-level metadata (such as name, capital, currency, ph
   - ES6 Module usage
    
      ```js
-     import * as africanStates from 'african-states-and-tribes'
+     import { getCountries } as africanStates from 'african-states-and-tribes'
      ```
 
   - ES5 Module usage
@@ -28,9 +28,9 @@ The library includes country-level metadata (such as name, capital, currency, ph
   - **Get all African Countries**
 
     ```js
-    import * as africanStates from 'african-states-and-tribes'
+    import { getCountries } as africanStates from 'african-states-and-tribes'
 
-    africanStates.getCountries().then(countries =>{
+    getCountries().then(countries =>{
         console.log(countries)
     })
     ```
@@ -93,9 +93,9 @@ The library includes country-level metadata (such as name, capital, currency, ph
   - **Get All African Countries + Tribal Data**
   
     ```js
-    import * as africanStates from 'african-states-and-tribes'
+    import { getCountriesAndTribalData } from 'african-states-and-tribes'
 
-    africanStates.getCountriesAndTribalData("NG").then(countries =>{
+    getCountriesAndTribalData("NG").then(countries =>{
         console.log(countries)
     })
     ```
@@ -148,9 +148,9 @@ The library includes country-level metadata (such as name, capital, currency, ph
   - **Get Specific Country by CountryCode**
 
     ```js
-    import * as africanStates from 'african-states-and-tribes'
+    import { getCountry } from 'african-states-and-tribes'
 
-    africanStates.getCountry("NG").then(country =>{
+    getCountry("NG").then(country =>{
         console.log(country)
     })
 
@@ -188,9 +188,9 @@ The library includes country-level metadata (such as name, capital, currency, ph
   - **Get Specific Country + Tribal Data by CountryCode**
 
     ```js
-    import * as africanStates from 'african-states-and-tribes'
+    import { getCountryAndTribalData} from 'african-states-and-tribes'
 
-     africanStates.getCountryAndTribalData("NG").then(country =>{
+     getCountryAndTribalData("NG").then(country =>{
         console.log(country)
     })
     ```
@@ -234,9 +234,9 @@ The library includes country-level metadata (such as name, capital, currency, ph
   - **Get a Country's Tribal Data Only**
 
     ```js
-    import * as africanStates from 'african-states-and-tribes'
+    import { getTribesByCountry } from 'african-states-and-tribes'
 
-    africanStates.getTribesByCountry("NG").then(tribes =>{
+    getTribesByCountry("NG").then(tribes =>{
         console.log(tribes)
     })
     ```
