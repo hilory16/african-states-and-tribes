@@ -15,16 +15,7 @@
     "currencyCode": "AOA",
     "currencySymbol": "Kz",
     "officialLanguage": "Portuguese",
-    "majorEthnicGroups": [
-      "Bakongo",
-      "Chokwe",
-      "Herero",
-      "Humbi",
-      "Kimbundu",
-      "Mbundu",
-      "Ngangela",
-      "Ovimbundu"
-    ],
+    "majorEthnicGroups": ["Bakongo", "Mbundu", "Ovimbundu"],
     "timezones": [
       {
         "iana": "Africa/Luanda",
@@ -48,16 +39,7 @@
     "currencyCode": "XOF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [
-      "Adja (Aja)",
-      "Bariba",
-      "Dendi (Songhai)",
-      "Fon (Dahomey)",
-      "Fulani",
-      "Lukpa",
-      "Tammari (Betammaribe)",
-      "Yoruba"
-    ],
+    "majorEthnicGroups": ["Bariba", "Fon (Dahomey)", "Yoruba"],
     "timezones": [
       {
         "iana": "Africa/Porto-Novo",
@@ -81,7 +63,7 @@
     "currencyCode": "BWP",
     "currencySymbol": "P",
     "officialLanguage": "Setswana",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Basarwa", "Kalanga", "Tswana"],
     "timezones": [
       {
         "iana": "Africa/Gaborone",
@@ -105,7 +87,7 @@
     "currencyCode": "XOF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Mossi"],
     "timezones": [
       {
         "iana": "Africa/Ouagadougou",
@@ -157,7 +139,7 @@
     "currencyCode": "CVE",
     "currencySymbol": "$",
     "officialLanguage": "Portuguese",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Creole"],
     "timezones": [
       {
         "iana": "Atlantic/Cape_Verde",
@@ -189,7 +171,7 @@
     "currencyCode": "XAF",
     "currencySymbol": "Fr",
     "officialLanguage": "Major African languages",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Beti", "Fang", "Fulani"],
     "timezones": [
       {
         "iana": "Africa/Douala",
@@ -213,7 +195,7 @@
     "currencyCode": "XAF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Banda", "Gbaya", "Mandja"],
     "timezones": [
       {
         "iana": "Africa/Bangui",
@@ -237,7 +219,7 @@
     "currencyCode": "DZD",
     "currencySymbol": "د.ج",
     "officialLanguage": "Arabic",
-    "majorEthnicGroups": ["Arabs", "Berbers", "Harratin"],
+    "majorEthnicGroups": ["Arabs", "Berbers"],
     "timezones": [
       {
         "iana": "Africa/Algiers",
@@ -261,7 +243,7 @@
     "currencyCode": "XAF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Arabs", "Mayo-Kebbi", "Sara"],
     "timezones": [
       {
         "iana": "Africa/Ndjamena",
@@ -285,7 +267,7 @@
     "currencyCode": "KMF",
     "currencySymbol": "CF",
     "officialLanguage": "Arabic",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Comorian"],
     "timezones": [
       {
         "iana": "Indian/Comoro",
@@ -309,7 +291,7 @@
     "currencyCode": "CDF",
     "currencySymbol": "FC",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Kongo", "Luba", "Mongo", "Tutsi"],
     "timezones": [
       {
         "iana": "Africa/Kinshasa",
@@ -337,7 +319,7 @@
     "currencyCode": "XAF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Kongo", "Teke", "Sangha"],
     "timezones": [
       {
         "iana": "Africa/Brazzaville",
@@ -361,7 +343,7 @@
     "currencyCode": "XOF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Akan", "Mandé", "Krou", "Gur"],
     "timezones": [
       {
         "iana": "Africa/Abidjan",
@@ -385,7 +367,7 @@
     "currencyCode": "DJF",
     "currencySymbol": "Fdj",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Afar", "Issa"],
     "timezones": [
       {
         "iana": "Africa/Djibouti",
@@ -409,7 +391,7 @@
     "currencyCode": "EGP",
     "currencySymbol": "£",
     "officialLanguage": "Arabic",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Arabs", "Bedouin", "Nubian"],
     "timezones": [
       {
         "iana": "Africa/Cairo",
@@ -433,7 +415,7 @@
     "currencyCode": "XAF",
     "currencySymbol": "Fr",
     "officialLanguage": "Spanish",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Bubi", "Fang"],
     "timezones": [
       {
         "iana": "Africa/Malabo",
@@ -461,7 +443,7 @@
     "currencyCode": "ERN",
     "currencySymbol": "Nkf",
     "officialLanguage": "Afar",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Afar", "Tigrinya"],
     "timezones": [
       {
         "iana": "Africa/Asmara",
@@ -480,7 +462,7 @@
     "currencyCode": "ETB",
     "currencySymbol": "Br",
     "officialLanguage": "Amharic",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Amhara", "Oromo", "Somali", "Tigray"],
     "timezones": [
       {
         "iana": "Africa/Addis_Ababa",
@@ -504,7 +486,7 @@
     "currencyCode": "XAF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Fang", "Nzebi", "Punu"],
     "timezones": [
       {
         "iana": "Africa/Libreville",
@@ -528,7 +510,7 @@
     "currencyCode": "GHS",
     "currencySymbol": "₵",
     "officialLanguage": "English",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Akan", "Ewe"],
     "timezones": [
       {
         "iana": "Africa/Accra",
@@ -552,7 +534,7 @@
     "currencyCode": "GMD",
     "currencySymbol": "D",
     "officialLanguage": "English",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Fula", "Mandinka", "Wolof"],
     "timezones": [
       {
         "iana": "Africa/Banjul",
@@ -576,7 +558,7 @@
     "currencyCode": "GNF",
     "currencySymbol": "FG",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Fulani", "Malinke", "Susu"],
     "timezones": [
       {
         "iana": "Africa/Conakry",
@@ -600,7 +582,7 @@
     "currencyCode": "XOF",
     "currencySymbol": "Fr",
     "officialLanguage": "Portuguese",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Balanta", "Fula", "Mandinka"],
     "timezones": [
       {
         "iana": "Africa/Bissau",
@@ -624,7 +606,7 @@
     "currencyCode": "KES",
     "currencySymbol": "KSh",
     "officialLanguage": "English",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Kalenjin", "Kikuyu", "Luo", "Maasai"],
     "timezones": [
       {
         "iana": "Africa/Nairobi",
@@ -648,7 +630,7 @@
     "currencyCode": "LSL",
     "currencySymbol": "L",
     "officialLanguage": "Sesotho",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Basotho"],
     "timezones": [
       {
         "iana": "Africa/Maseru",
@@ -667,7 +649,7 @@
     "currencyCode": "LRD",
     "currencySymbol": "**$",
     "officialLanguage": "English",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Bassa", "Kpelle", "Gio"],
     "timezones": [
       {
         "iana": "Africa/Monrovia",
@@ -699,7 +681,7 @@
     "currencyCode": "LYD",
     "currencySymbol": "د.ل",
     "officialLanguage": "Arabic",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Arabs", "Berbers"],
     "timezones": [
       {
         "iana": "Africa/Tripoli",
@@ -723,7 +705,7 @@
     "currencyCode": "MGA",
     "currencySymbol": "Ar",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Betsileo", "Betsimisaraka", "Merina"],
     "timezones": [
       {
         "iana": "Indian/Antananarivo",
@@ -747,7 +729,7 @@
     "currencyCode": "MWK",
     "currencySymbol": "K",
     "officialLanguage": "Chichewa",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Chewa", "Tumbuka", "Yao"],
     "timezones": [
       {
         "iana": "Indian/Antananarivo",
@@ -771,7 +753,7 @@
     "currencyCode": "XOF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Bambara", "Dogon", "Tuareg"],
     "timezones": [
       {
         "iana": "Africa/Bamako",
@@ -795,7 +777,7 @@
     "currencyCode": "MRU",
     "currencySymbol": "UM",
     "officialLanguage": "Arabic",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Moor", "Soninke"],
     "timezones": [
       {
         "iana": "Africa/Nouakchott",
@@ -827,7 +809,7 @@
     "currencyCode": "MUR",
     "currencySymbol": "₨",
     "officialLanguage": "Creole",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Indo-Mauritian", "Creole"],
     "timezones": [
       {
         "iana": "Indian/Mauritius",
@@ -855,7 +837,7 @@
     "currencyCode": "MAD",
     "currencySymbol": "د.م.",
     "officialLanguage": "Arabic",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Arabs", "Berbers"],
     "timezones": [
       {
         "iana": "Africa/Casablanca",
@@ -879,7 +861,7 @@
     "currencyCode": "MZN",
     "currencySymbol": "MT",
     "officialLanguage": "Emakhuwa",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Makua", "Sena", "Tsonga"],
     "timezones": [
       {
         "iana": "Africa/Maputo",
@@ -903,7 +885,7 @@
     "currencyCode": "NAD",
     "currencySymbol": "$",
     "officialLanguage": null,
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Herero", "Nama", "Ovambo"],
     "timezones": [
       {
         "iana": "Africa/Windhoek",
@@ -927,7 +909,7 @@
     "currencyCode": "XOF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Hausa", "Tuareg", "Zarma"],
     "timezones": [
       {
         "iana": "Africa/Niamey",
@@ -951,16 +933,7 @@
     "currencyCode": "NGN",
     "currencySymbol": "₦",
     "officialLanguage": "English",
-    "majorEthnicGroups": [
-      "Fulani",
-      "Hausa",
-      "Kanuri",
-      "Ibibio",
-      "Igbo",
-      "Ijaw",
-      "Tiv",
-      "Yoruba"
-    ],
+    "majorEthnicGroups": ["Fulani", "Hausa", "Igbo", "Yoruba"],
     "timezones": [
       {
         "iana": "Africa/Lagos",
@@ -1012,7 +985,7 @@
     "currencyCode": "STN",
     "currencySymbol": "Db",
     "officialLanguage": "Portuguese",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Angolares", "Forro"],
     "timezones": [
       {
         "iana": "Africa/Sao_Tome",
@@ -1036,14 +1009,7 @@
     "currencyCode": "XOF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [
-      "Wolof",
-      "Fulani",
-      "Serer",
-      "Diola",
-      "Mandinka",
-      "Soninke"
-    ],
+    "majorEthnicGroups": ["Peulh", "Serer", "Wolof"],
     "timezones": [
       {
         "iana": "Africa/Dakar",
@@ -1071,7 +1037,7 @@
     "currencyCode": "SCR",
     "currencySymbol": "₨",
     "officialLanguage": "Creole",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Creole"],
     "timezones": [
       {
         "iana": "Indian/Mahe",
@@ -1095,7 +1061,7 @@
     "currencyCode": "SLL",
     "currencySymbol": "Le",
     "officialLanguage": "English",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Limba", "Mende", "Temne"],
     "timezones": [
       {
         "iana": "Africa/Freetown",
@@ -1123,13 +1089,7 @@
     "currencyCode": "SOS",
     "currencySymbol": "Sh",
     "officialLanguage": "Somali",
-    "majorEthnicGroups": [
-      "The Darood",
-      "The Dir",
-      "The Hawiye",
-      "The Isaaq",
-      "The Rahanweyn"
-    ],
+    "majorEthnicGroups": ["Arabs", "Bantu", "Somali"],
     "timezones": [
       {
         "iana": "Africa/Mogadishu",
@@ -1157,7 +1117,7 @@
     "currencyCode": "ZAR",
     "currencySymbol": "R",
     "officialLanguage": "IsiZulu",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Afrikaner", "Sotho", "Xhosa", "Zulu"],
     "timezones": [
       {
         "iana": "Africa/Johannesburg",
@@ -1181,7 +1141,7 @@
     "currencyCode": "SSP",
     "currencySymbol": "£",
     "officialLanguage": "Arabic",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Dinka", "Nuer", "Shilluk"],
     "timezones": [
       {
         "iana": "Africa/Juba",
@@ -1209,7 +1169,7 @@
     "currencyCode": "SDG",
     "currencySymbol": "ج.س.",
     "officialLanguage": "Arabic",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Fur", "Nubian"],
     "timezones": [
       {
         "iana": "Africa/Khartoum",
@@ -1233,7 +1193,7 @@
     "currencyCode": "SZL",
     "currencySymbol": "E",
     "officialLanguage": "English",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Swazi", "Nguni"],
     "timezones": [
       {
         "iana": "Africa/Mbabane",
@@ -1261,16 +1221,7 @@
     "currencyCode": "TZS",
     "currencySymbol": "TSh",
     "officialLanguage": "Kiswahili or Swahili",
-    "majorEthnicGroups": [
-      "Sukuma",
-      "Nyamwezi",
-      "Chaga",
-      "Haya",
-      "Makonde",
-      "Zigua",
-      "Wazaramo",
-      "Ngoni"
-    ],
+    "majorEthnicGroups": ["Sukuma", "Chaga", "Haya"],
     "timezones": [
       {
         "iana": "Africa/Dar_es_Salaam",
@@ -1302,7 +1253,7 @@
     "currencyCode": "XOF",
     "currencySymbol": "Fr",
     "officialLanguage": "French",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Ewe", "Kabye"],
     "timezones": [
       {
         "iana": "Africa/Lome",
@@ -1326,7 +1277,7 @@
     "currencyCode": "TND",
     "currencySymbol": "د.ت",
     "officialLanguage": "Arabic",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Arabs", "Berbers"],
     "timezones": [
       {
         "iana": "Africa/Tunis",
@@ -1350,7 +1301,7 @@
     "currencyCode": "UGX",
     "currencySymbol": "USh",
     "officialLanguage": "English",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Baganda", "Banyankore", "Basoga"],
     "timezones": [
       {
         "iana": "Africa/Kampala",
@@ -1374,17 +1325,7 @@
     "currencyCode": "ZMW",
     "currencySymbol": "ZK",
     "officialLanguage": "English",
-    "majorEthnicGroups": [
-      "Bemba",
-      "Chewa",
-      "Kaonde",
-      "Lamba",
-      "Lozi",
-      "Lunda",
-      "Luvale",
-      "Nsenga",
-      "Tonga"
-    ],
+    "majorEthnicGroups": ["Bemba", "Lozi", "Tonga"],
     "timezones": [
       {
         "iana": "Africa/Lusaka",
@@ -1408,7 +1349,7 @@
     "currencyCode": "ZWL",
     "currencySymbol": "$",
     "officialLanguage": "English",
-    "majorEthnicGroups": [],
+    "majorEthnicGroups": ["Ndebele", "Shona"],
     "timezones": [
       {
         "iana": "Africa/Harare",

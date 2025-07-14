@@ -1,225 +1,235 @@
 {
-    "TD": {
-        "BATHA": {
-          "capitalCity": "Ati",
-          "subdivisions": ["Batha Est", "Batha Ouest", "Fitri"],
-          "geoPoliticalZone": "Central",
-          "location": "Central",
-          "name": "Batha",
-          "stateCode": "BT",
-          "tribes": ["Arab", "Bilala", "Kuka"],
-          "type": "province"
-        },
-        "BAHR EL GHAZAL": {
-          "capitalCity": "Moussoro",
-          "subdivisions": ["Bahr El Ghazal Nord", "Bahr El Ghazal Sud"],
-          "geoPoliticalZone": "Central",
-          "location": "Central West",
-          "name": "Bahr el Ghazal",
-          "stateCode": "BG",
-          "tribes": ["Goran", "Arab", "Dazaga"],
-          "type": "province"
-        },
-        "BORKOU": {
-          "capitalCity": "Faya-Largeau",
-          "subdivisions": ["Borkou"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "Borkou",
-          "stateCode": "BK",
-          "tribes": ["Toubou", "Goran"],
-          "type": "province"
-        },
-        "CHARI-BAGUIRMI": {
-          "capitalCity": "Massenya",
-          "subdivisions": ["Baguirmi", "Chari", "Loumia"],
-          "geoPoliticalZone": "South",
-          "location": "South West",
-          "name": "Chari-Baguirmi",
-          "stateCode": "CB",
-          "tribes": ["Baguirmi", "Arab", "Kotoko"],
-          "type": "province"
-        },
-        "ENNERI": {
-          "capitalCity": "Fada",
-          "subdivisions": ["Ennedi Ouest"],
-          "geoPoliticalZone": "North",
-          "location": "North East",
-          "name": "Ennedi Ouest",
-          "stateCode": "EO",
-          "tribes": ["Toubou", "Zaghawa"],
-          "type": "province"
-        },
-        "GUERA": {
-          "capitalCity": "Mongo",
-          "subdivisions": ["Guera"],
-          "geoPoliticalZone": "Central",
-          "location": "Central",
-          "name": "Guera",
-          "stateCode": "GR",
-          "tribes": ["Hadjarai", "Arab", "Kenga"],
-          "type": "province"
-        },
-        "HADJER-LAMIS": {
-          "capitalCity": "Massakory",
-          "subdivisions": ["Dandi", "Dagana", "Haraze Al Biar"],
-          "geoPoliticalZone": "South",
-          "location": "South West",
-          "name": "Hadjer-Lamis",
-          "stateCode": "HL",
-          "tribes": ["Arab", "Kanembu", "Boulala"],
-          "type": "province"
-        },
-        "KANEM": {
-          "capitalCity": "Mao",
-          "subdivisions": ["Kanem Nord", "Kanem Sud"],
-          "geoPoliticalZone": "North",
-          "location": "North West",
-          "name": "Kanem",
-          "stateCode": "KM",
-          "tribes": ["Kanembu", "Goran", "Arab"],
-          "type": "province"
-        },
-        "LAC": {
-          "capitalCity": "Bol",
-          "subdivisions": ["Mamdi", "Wayi"],
-          "geoPoliticalZone": "West",
-          "location": "West",
-          "name": "Lac",
-          "stateCode": "LC",
-          "tribes": ["Kanembu", "Buduma", "Kouri"],
-          "type": "province"
-        },
-        "LOGONE OCCIDENTAL": {
-          "capitalCity": "Moundou",
-          "subdivisions": ["Moundou", "Lai", "Bébédja"],
-          "geoPoliticalZone": "South",
-          "location": "South West",
-          "name": "Logone Occidental",
-          "stateCode": "LO",
-          "tribes": ["Ngambaye", "Gor", "Mbaye"],
-          "type": "province"
-        },
-        "LOGONE ORIENTAL": {
-          "capitalCity": "Doba",
-          "subdivisions": ["Doba", "Moïssala"],
-          "geoPoliticalZone": "South",
-          "location": "South East",
-          "name": "Logone Oriental",
-          "stateCode": "LR",
-          "tribes": ["Gor", "Mboum", "Sara"],
-          "type": "province"
-        },
-        "MANDOUL": {
-          "capitalCity": "Koumra",
-          "subdivisions": ["Koumra", "Bédjondo"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "Mandoul",
-          "stateCode": "MD",
-          "tribes": ["Sara", "Gor", "Kaba"],
-          "type": "province"
-        },
-        "MAYO-KEBBI EST": {
-          "capitalCity": "Bongor",
-          "subdivisions": ["Mayo Boneye", "Mont Illi", "Mayo Lemay"],
-          "geoPoliticalZone": "South",
-          "location": "South West",
-          "name": "Mayo-Kebbi Est",
-          "stateCode": "ME",
-          "tribes": ["Moundang", "Toupouri", "Ngambaye"],
-          "type": "province"
-        },
-        "MAYO-KEBBI OUEST": {
-          "capitalCity": "Pala",
-          "subdivisions": ["Léré", "Pala", "Binder"],
-          "geoPoliticalZone": "South",
-          "location": "South West",
-          "name": "Mayo-Kebbi Ouest",
-          "stateCode": "MW",
-          "tribes": ["Toupouri", "Massa", "Ngambaye"],
-          "type": "province"
-        },
-        "MOYEN-CHARI": {
-          "capitalCity": "Sarh",
-          "subdivisions": ["Barh Kôh", "Bahr Sara", "Kou"], 
-          "geoPoliticalZone": "South",
-          "location": "South East",
-          "name": "Moyen-Chari",
-          "stateCode": "MC",
-          "tribes": ["Sara", "Mbaye", "Ngambaye"],
-          "type": "province"
-        },
-        "N'DJAMENA": {
-          "capitalCity": "N'Djamena",
-          "subdivisions": ["1st Arrondissement", "2nd Arrondissement", "3rd Arrondissement", "4th Arrondissement", "5th Arrondissement", "6th Arrondissement", "7th Arrondissement", "8th Arrondissement", "9th Arrondissement", "10th Arrondissement"],
-          "geoPoliticalZone": "Capital",
-          "location": "West",
-          "name": "N'Djamena",
-          "stateCode": "ND",
-          "tribes": ["Arab", "Sara", "Kanembu"],
-          "type": "city"
-        },
-        "OUADDAI": {
-          "capitalCity": "Abéché",
-          "subdivisions": ["Assoungha", "Ouara"],
-          "geoPoliticalZone": "East",
-          "location": "East",
-          "name": "Ouaddai",
-          "stateCode": "OD",
-          "tribes": ["Zaghawa", "Masalit", "Arab"],
-          "type": "province"
-        },
-        "SALAMAT": {
-          "capitalCity": "Am Timan",
-          "subdivisions": ["Aboudeïa", "Haraze Mangueigne"],
-          "geoPoliticalZone": "South East",
-          "location": "South East",
-          "name": "Salamat",
-          "stateCode": "SM",
-          "tribes": ["Goran", "Maba", "Arab"],
-          "type": "province"
-        },
-        "SILA": {
-          "capitalCity": "Goz Beïda",
-          "subdivisions": ["Kimiti", "Djourf Al Ahmar"],
-          "geoPoliticalZone": "East",
-          "location": "East",
-          "name": "Sila",
-          "stateCode": "SI",
-          "tribes": ["Masalit", "Zaghawa"],
-          "type": "province"
-        },
-        "TANDJILE": {
-          "capitalCity": "Laï",
-          "subdivisions": ["Tandjilé Ouest", "Tandjilé Est"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "Tandjile",
-          "stateCode": "TA",
-          "tribes": ["Ngambaye", "Mbay", "Kabalai"],
-          "type": "province"
-        },
-        "TIBESTI": {
-          "capitalCity": "Bardaï",
-          "subdivisions": ["Tibesti"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "Tibesti",
-          "stateCode": "TB",
-          "tribes": ["Toubou"],
-          "type": "province"
-        },
-        "WADI FIRA": {
-          "capitalCity": "Biltine",
-          "subdivisions": ["Biltine", "Dar Tama", "Kobé"],
-          "geoPoliticalZone": "East",
-          "location": "North East",
-          "name": "Wadi Fira",
-          "stateCode": "WF",
-          "tribes": ["Tama", "Zaghawa", "Arab"],
-          "type": "province"
-        }
-      }
-      
+  "TD": {
+    "BATHA": {
+      "capitalCity": "Ati",
+      "subdivisions": ["Batha Est", "Batha Ouest", "Fitri"],
+      "geoPoliticalZone": "Central",
+      "location": "Central",
+      "name": "Batha",
+      "stateCode": "BT",
+      "tribes": ["Arabs", "Bilala", "Kuka"],
+      "type": "province"
+    },
+    "BAHR EL GHAZAL": {
+      "capitalCity": "Moussoro",
+      "subdivisions": ["Bahr El Ghazal Nord", "Bahr El Ghazal Sud"],
+      "geoPoliticalZone": "Central",
+      "location": "Central West",
+      "name": "Bahr el Ghazal",
+      "stateCode": "BG",
+      "tribes": ["Goran", "Arabs", "Dazaga"],
+      "type": "province"
+    },
+    "BORKOU": {
+      "capitalCity": "Faya-Largeau",
+      "subdivisions": ["Borkou"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "Borkou",
+      "stateCode": "BK",
+      "tribes": ["Toubou", "Goran"],
+      "type": "province"
+    },
+    "CHARI-BAGUIRMI": {
+      "capitalCity": "Massenya",
+      "subdivisions": ["Baguirmi", "Chari", "Loumia"],
+      "geoPoliticalZone": "South",
+      "location": "South West",
+      "name": "Chari-Baguirmi",
+      "stateCode": "CB",
+      "tribes": ["Baguirmi", "Arabs", "Kotoko"],
+      "type": "province"
+    },
+    "ENNERI": {
+      "capitalCity": "Fada",
+      "subdivisions": ["Ennedi Ouest"],
+      "geoPoliticalZone": "North",
+      "location": "North East",
+      "name": "Ennedi Ouest",
+      "stateCode": "EO",
+      "tribes": ["Toubou", "Zaghawa"],
+      "type": "province"
+    },
+    "GUERA": {
+      "capitalCity": "Mongo",
+      "subdivisions": ["Guera"],
+      "geoPoliticalZone": "Central",
+      "location": "Central",
+      "name": "Guera",
+      "stateCode": "GR",
+      "tribes": ["Hadjarai", "Arabs", "Kenga"],
+      "type": "province"
+    },
+    "HADJER-LAMIS": {
+      "capitalCity": "Massakory",
+      "subdivisions": ["Dandi", "Dagana", "Haraze Al Biar"],
+      "geoPoliticalZone": "South",
+      "location": "South West",
+      "name": "Hadjer-Lamis",
+      "stateCode": "HL",
+      "tribes": ["Arabs", "Kanembu", "Boulala"],
+      "type": "province"
+    },
+    "KANEM": {
+      "capitalCity": "Mao",
+      "subdivisions": ["Kanem Nord", "Kanem Sud"],
+      "geoPoliticalZone": "North",
+      "location": "North West",
+      "name": "Kanem",
+      "stateCode": "KM",
+      "tribes": ["Kanembu", "Goran", "Arabs"],
+      "type": "province"
+    },
+    "LAC": {
+      "capitalCity": "Bol",
+      "subdivisions": ["Mamdi", "Wayi"],
+      "geoPoliticalZone": "West",
+      "location": "West",
+      "name": "Lac",
+      "stateCode": "LC",
+      "tribes": ["Kanembu", "Buduma", "Kouri"],
+      "type": "province"
+    },
+    "LOGONE OCCIDENTAL": {
+      "capitalCity": "Moundou",
+      "subdivisions": ["Moundou", "Lai", "Bébédja"],
+      "geoPoliticalZone": "South",
+      "location": "South West",
+      "name": "Logone Occidental",
+      "stateCode": "LO",
+      "tribes": ["Ngambaye", "Gor", "Mbaye"],
+      "type": "province"
+    },
+    "LOGONE ORIENTAL": {
+      "capitalCity": "Doba",
+      "subdivisions": ["Doba", "Moïssala"],
+      "geoPoliticalZone": "South",
+      "location": "South East",
+      "name": "Logone Oriental",
+      "stateCode": "LR",
+      "tribes": ["Gor", "Mboum", "Sara"],
+      "type": "province"
+    },
+    "MANDOUL": {
+      "capitalCity": "Koumra",
+      "subdivisions": ["Koumra", "Bédjondo"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "Mandoul",
+      "stateCode": "MD",
+      "tribes": ["Sara", "Gor", "Kaba"],
+      "type": "province"
+    },
+    "MAYO-KEBBI EST": {
+      "capitalCity": "Bongor",
+      "subdivisions": ["Mayo Boneye", "Mont Illi", "Mayo Lemay"],
+      "geoPoliticalZone": "South",
+      "location": "South West",
+      "name": "Mayo-Kebbi Est",
+      "stateCode": "ME",
+      "tribes": ["Moundang", "Toupouri", "Ngambaye"],
+      "type": "province"
+    },
+    "MAYO-KEBBI OUEST": {
+      "capitalCity": "Pala",
+      "subdivisions": ["Léré", "Pala", "Binder"],
+      "geoPoliticalZone": "South",
+      "location": "South West",
+      "name": "Mayo-Kebbi Ouest",
+      "stateCode": "MW",
+      "tribes": ["Toupouri", "Massa", "Ngambaye"],
+      "type": "province"
+    },
+    "MOYEN-CHARI": {
+      "capitalCity": "Sarh",
+      "subdivisions": ["Barh Kôh", "Bahr Sara", "Kou"],
+      "geoPoliticalZone": "South",
+      "location": "South East",
+      "name": "Moyen-Chari",
+      "stateCode": "MC",
+      "tribes": ["Sara", "Mbaye", "Ngambaye"],
+      "type": "province"
+    },
+    "N'DJAMENA": {
+      "capitalCity": "N'Djamena",
+      "subdivisions": [
+        "1st Arrondissement",
+        "2nd Arrondissement",
+        "3rd Arrondissement",
+        "4th Arrondissement",
+        "5th Arrondissement",
+        "6th Arrondissement",
+        "7th Arrondissement",
+        "8th Arrondissement",
+        "9th Arrondissement",
+        "10th Arrondissement"
+      ],
+      "geoPoliticalZone": "Capital",
+      "location": "West",
+      "name": "N'Djamena",
+      "stateCode": "ND",
+      "tribes": ["Arabs", "Sara", "Kanembu"],
+      "type": "city"
+    },
+    "OUADDAI": {
+      "capitalCity": "Abéché",
+      "subdivisions": ["Assoungha", "Ouara"],
+      "geoPoliticalZone": "East",
+      "location": "East",
+      "name": "Ouaddai",
+      "stateCode": "OD",
+      "tribes": ["Zaghawa", "Masalit", "Arabs"],
+      "type": "province"
+    },
+    "SALAMAT": {
+      "capitalCity": "Am Timan",
+      "subdivisions": ["Aboudeïa", "Haraze Mangueigne"],
+      "geoPoliticalZone": "South East",
+      "location": "South East",
+      "name": "Salamat",
+      "stateCode": "SM",
+      "tribes": ["Goran", "Maba", "Arabs"],
+      "type": "province"
+    },
+    "SILA": {
+      "capitalCity": "Goz Beïda",
+      "subdivisions": ["Kimiti", "Djourf Al Ahmar"],
+      "geoPoliticalZone": "East",
+      "location": "East",
+      "name": "Sila",
+      "stateCode": "SI",
+      "tribes": ["Masalit", "Zaghawa"],
+      "type": "province"
+    },
+    "TANDJILE": {
+      "capitalCity": "Laï",
+      "subdivisions": ["Tandjilé Ouest", "Tandjilé Est"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "Tandjile",
+      "stateCode": "TA",
+      "tribes": ["Ngambaye", "Mbay", "Kabalai"],
+      "type": "province"
+    },
+    "TIBESTI": {
+      "capitalCity": "Bardaï",
+      "subdivisions": ["Tibesti"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "Tibesti",
+      "stateCode": "TB",
+      "tribes": ["Toubou"],
+      "type": "province"
+    },
+    "WADI FIRA": {
+      "capitalCity": "Biltine",
+      "subdivisions": ["Biltine", "Dar Tama", "Kobé"],
+      "geoPoliticalZone": "East",
+      "location": "North East",
+      "name": "Wadi Fira",
+      "stateCode": "WF",
+      "tribes": ["Tama", "Zaghawa", "Arabs"],
+      "type": "province"
+    }
+  }
 }
