@@ -1,234 +1,234 @@
 {
-    "CV":{
-        "BOA VISTA": {
-          "capitalCity": "Sal Rei",
-          "subdivisions": ["Sal Rei", "Rabil"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "Boa Vista",
-          "stateCode": "BV",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "BRAVA": {
-          "capitalCity": "Nova Sintra",
-          "subdivisions": ["Nova Sintra"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "Brava",
-          "stateCode": "BR",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "CHÃO BOM": {
-          "capitalCity": "Chão Bom",
-          "subdivisions": ["Chão Bom"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "Chão Bom",
-          "stateCode": "CB",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "CONCEIÇÃO": {
-          "capitalCity": "Conceição",
-          "subdivisions": ["Conceição"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "Conceição",
-          "stateCode": "CE",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "FOGO": {
-          "capitalCity": "São Filipe",
-          "subdivisions": ["São Filipe", "Mosteiros", "Santa Catarina do Fogo"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "Fogo",
-          "stateCode": "FO",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "MAIO": {
-          "capitalCity": "Vila do Maio",
-          "subdivisions": ["Vila do Maio"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "Maio",
-          "stateCode": "MA",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "PAUL": {
-          "capitalCity": "Paul",
-          "subdivisions": ["Paul"],
-          "geoPoliticalZone": "North West",
-          "location": "North West",
-          "name": "Paul",
-          "stateCode": "PA",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "PRAIA": {
-          "capitalCity": "Praia",
-          "subdivisions": ["Praia"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "Praia",
-          "stateCode": "PR",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "RIBEIRA GRANDE": {
-          "capitalCity": "Ribeira Grande",
-          "subdivisions": ["Ribeira Grande"],
-          "geoPoliticalZone": "North West",
-          "location": "North West",
-          "name": "Ribeira Grande",
-          "stateCode": "RG",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "RIBEIRA GRANDE DE SANTIAGO": {
-          "capitalCity": "Ribeira Grande de Santiago",
-          "subdivisions": ["Ribeira Grande de Santiago"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "Ribeira Grande de Santiago",
-          "stateCode": "RG",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "RIBEIRA PRATA": {
-          "capitalCity": "Ribeira Prata",
-          "subdivisions": ["Ribeira Prata"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "Ribeira Prata",
-          "stateCode": "RP",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "SANTA CATARINA": {
-          "capitalCity": "Santa Catarina",
-          "subdivisions": ["Santa Catarina"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "Santa Catarina",
-          "stateCode": "SC",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "SANTA CRUZ": {
-          "capitalCity": "Santa Cruz",
-          "subdivisions": ["Santa Cruz"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "Santa Cruz",
-          "stateCode": "SC",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "SANTO ANTÃO": {
-          "capitalCity": "Ponta do Sol",
-          "subdivisions": ["Ponta do Sol", "Ribeira Grande", "Paul", "Porto Novo"],
-          "geoPoliticalZone": "North West",
-          "location": "North West",
-          "name": "Santo Antão",
-          "stateCode": "SA",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "SANTO MIGUEL": {
-          "capitalCity": "Santo Miguel",
-          "subdivisions": ["Santo Miguel"],
-          "geoPoliticalZone": "North East",
-          "location": "North East",
-          "name": "Santo Miguel",
-          "stateCode": "SM",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "SÃO DOMINGOS": {
-          "capitalCity": "São Domingos",
-          "subdivisions": ["São Domingos"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "São Domingos",
-          "stateCode": "SD",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "SÃO FILIPE": {
-          "capitalCity": "São Filipe",
-          "subdivisions": ["São Filipe"],
-          "geoPoliticalZone": "South",
-          "location": "South",
-          "name": "São Filipe",
-          "stateCode": "SF",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "SÃO NICOLAU": {
-          "capitalCity": "Ribeira Brava",
-          "subdivisions": ["Ribeira Brava"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "São Nicolau",
-          "stateCode": "SN",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "SÃO VICTOR": {
-          "capitalCity": "São Victor",
-          "subdivisions": ["São Victor"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "São Victor",
-          "stateCode": "SV",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "SÃO VICENTE": {
-          "capitalCity": "Mindelo",
-          "subdivisions": ["Mindelo", "São Pedro"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "São Vicente",
-          "stateCode": "SV",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "TARFAYA": {
-          "capitalCity": "Tarfaya",
-          "subdivisions": ["Tarfaya"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "Tarfaya",
-          "stateCode": "TA",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "TAVARES": {
-          "capitalCity": "Tavares",
-          "subdivisions": ["Tavares"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "Tavares",
-          "stateCode": "TA",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        },
-        "TOMBO": {
-          "capitalCity": "Tombo",
-          "subdivisions": ["Tombo"],
-          "geoPoliticalZone": "North",
-          "location": "North",
-          "name": "Tombo",
-          "stateCode": "TO",
-          "tribes": ["Cape Verdean"],
-          "type": "municipality"
-        }
-    }      
+  "CV": {
+    "BOA VISTA": {
+      "capitalCity": "Sal Rei",
+      "subdivisions": ["Sal Rei", "Rabil"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "Boa Vista",
+      "stateCode": "BV",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "BRAVA": {
+      "capitalCity": "Nova Sintra",
+      "subdivisions": ["Nova Sintra"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "Brava",
+      "stateCode": "BR",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "CHÃO BOM": {
+      "capitalCity": "Chão Bom",
+      "subdivisions": ["Chão Bom"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "Chão Bom",
+      "stateCode": "CB",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "CONCEIÇÃO": {
+      "capitalCity": "Conceição",
+      "subdivisions": ["Conceição"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "Conceição",
+      "stateCode": "CE",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "FOGO": {
+      "capitalCity": "São Filipe",
+      "subdivisions": ["São Filipe", "Mosteiros", "Santa Catarina do Fogo"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "Fogo",
+      "stateCode": "FO",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "MAIO": {
+      "capitalCity": "Vila do Maio",
+      "subdivisions": ["Vila do Maio"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "Maio",
+      "stateCode": "MA",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "PAUL": {
+      "capitalCity": "Paul",
+      "subdivisions": ["Paul"],
+      "geoPoliticalZone": "North West",
+      "location": "North West",
+      "name": "Paul",
+      "stateCode": "PA",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "PRAIA": {
+      "capitalCity": "Praia",
+      "subdivisions": ["Praia"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "Praia",
+      "stateCode": "PR",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "RIBEIRA GRANDE": {
+      "capitalCity": "Ribeira Grande",
+      "subdivisions": ["Ribeira Grande"],
+      "geoPoliticalZone": "North West",
+      "location": "North West",
+      "name": "Ribeira Grande",
+      "stateCode": "RG",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "RIBEIRA GRANDE DE SANTIAGO": {
+      "capitalCity": "Ribeira Grande de Santiago",
+      "subdivisions": ["Ribeira Grande de Santiago"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "Ribeira Grande de Santiago",
+      "stateCode": "RG",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "RIBEIRA PRATA": {
+      "capitalCity": "Ribeira Prata",
+      "subdivisions": ["Ribeira Prata"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "Ribeira Prata",
+      "stateCode": "RP",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "SANTA CATARINA": {
+      "capitalCity": "Santa Catarina",
+      "subdivisions": ["Santa Catarina"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "Santa Catarina",
+      "stateCode": "SC",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "SANTA CRUZ": {
+      "capitalCity": "Santa Cruz",
+      "subdivisions": ["Santa Cruz"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "Santa Cruz",
+      "stateCode": "SC",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "SANTO ANTÃO": {
+      "capitalCity": "Ponta do Sol",
+      "subdivisions": ["Ponta do Sol", "Ribeira Grande", "Paul", "Porto Novo"],
+      "geoPoliticalZone": "North West",
+      "location": "North West",
+      "name": "Santo Antão",
+      "stateCode": "SA",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "SANTO MIGUEL": {
+      "capitalCity": "Santo Miguel",
+      "subdivisions": ["Santo Miguel"],
+      "geoPoliticalZone": "North East",
+      "location": "North East",
+      "name": "Santo Miguel",
+      "stateCode": "SM",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "SÃO DOMINGOS": {
+      "capitalCity": "São Domingos",
+      "subdivisions": ["São Domingos"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "São Domingos",
+      "stateCode": "SD",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "SÃO FILIPE": {
+      "capitalCity": "São Filipe",
+      "subdivisions": ["São Filipe"],
+      "geoPoliticalZone": "South",
+      "location": "South",
+      "name": "São Filipe",
+      "stateCode": "SF",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "SÃO NICOLAU": {
+      "capitalCity": "Ribeira Brava",
+      "subdivisions": ["Ribeira Brava"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "São Nicolau",
+      "stateCode": "SN",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "SÃO VICTOR": {
+      "capitalCity": "São Victor",
+      "subdivisions": ["São Victor"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "São Victor",
+      "stateCode": "SV",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "SÃO VICENTE": {
+      "capitalCity": "Mindelo",
+      "subdivisions": ["Mindelo", "São Pedro"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "São Vicente",
+      "stateCode": "SV",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "TARFAYA": {
+      "capitalCity": "Tarfaya",
+      "subdivisions": ["Tarfaya"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "Tarfaya",
+      "stateCode": "TA",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "TAVARES": {
+      "capitalCity": "Tavares",
+      "subdivisions": ["Tavares"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "Tavares",
+      "stateCode": "TA",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    },
+    "TOMBO": {
+      "capitalCity": "Tombo",
+      "subdivisions": ["Tombo"],
+      "geoPoliticalZone": "North",
+      "location": "North",
+      "name": "Tombo",
+      "stateCode": "TO",
+      "tribes": ["Creole"],
+      "type": "municipality"
+    }
+  }
 }

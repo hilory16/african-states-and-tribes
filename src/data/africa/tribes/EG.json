@@ -1,274 +1,280 @@
 {
-    "EG":{
-        "ALEXANDRIA": {
-          "capitalCity": "Alexandria",
-          "subdivisions": ["Dekhela", "Montaza", "Attarine", "East Alexandria", "West Alexandria"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Alexandria",
-          "stateCode": "ALX",
-          "tribes": ["Arab", "Bedouin", "Nubian"],
-          "type": "governorates"
-        },
-        "ASWAN": {
-          "capitalCity": "Aswan",
-          "subdivisions": ["Daraw", "Kom Ombo", "Edfu"],
-          "geoPoliticalZone": "",
-          "location": "South",
-          "name": "Aswan",
-          "stateCode": "ASN",
-          "tribes": ["Nubian", "Arab", "Beja"],
-          "type": "governorates"
-        },
-        "ASYUT": {
-          "capitalCity": "Asyut",
-          "subdivisions": ["Dairut", "Abnoub", "Abu Tig", "El Badari"],
-          "geoPoliticalZone": "",
-          "location": "Upper Egypt",
-          "name": "Asyut",
-          "stateCode": "AST",
-          "tribes": ["Arab", "Saidi"],
-          "type": "governorates"
-        },
-        "BEHEIRA": {
-          "capitalCity": "Damanhour",
-          "subdivisions": ["Kafr El-Dawwar", "Rashid", "Edku"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Beheira",
-          "stateCode": "BHR",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        },
-        "BENI SUEF": {
-          "capitalCity": "Beni Suef",
-          "subdivisions": ["Al-Fashn", "Sumusta", "Biba"],
-          "geoPoliticalZone": "",
-          "location": "Upper Egypt",
-          "name": "Beni Suef",
-          "stateCode": "BSF",
-          "tribes": ["Saidi", "Arab"],
-          "type": "governorates"
-        },
-        "CAIRO": {
-          "capitalCity": "Cairo",
-          "subdivisions": ["Zamalek", "Heliopolis", "Maadi", "Nasr City", "Shubra"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Cairo",
-          "stateCode": "CAI",
-          "tribes": ["Arab", "Copts", "Nubian"],
-          "type": "governorates"
-        },
-        "DAKAHLIA": {
-          "capitalCity": "Mansoura",
-          "subdivisions": ["Mit Ghamr", "Talkha", "Dekernes"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Dakahlia",
-          "stateCode": "DKL",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        },
-        "DAMANHUR": {
-          "capitalCity": "Damanhur",
-          "subdivisions": ["Itay El Baroud", "Hosh Issa", "Shubrakhit"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Damanhur",
-          "stateCode": "DMN",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        },
-        "FAYOUM": {
-          "capitalCity": "Fayoum",
-          "subdivisions": ["Tamia", "Etsa", "Ibshway"],
-          "geoPoliticalZone": "",
-          "location": "Middle Egypt",
-          "name": "Fayoum",
-          "stateCode": "FYM",
-          "tribes": ["Arab", "Beja"],
-          "type": "governorates"
-        },
-        "GARBIA": {
-          "capitalCity": "Tanta",
-          "subdivisions": ["El-Mahalla El-Kubra", "Zefta", "Kafr El-Zayat"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Garbia",
-          "stateCode": "GRB",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        },
-        "GIZA": {
-          "capitalCity": "Giza",
-          "subdivisions": ["Imbaba", "Sixth of October", "Hawamdiya"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Giza",
-          "stateCode": "GZ",
-          "tribes": ["Arab", "Saidi", "Bedouin"],
-          "type": "governorates"
-        },
-        "ISMAILIA": {
-          "capitalCity": "Ismailia",
-          "subdivisions": ["Fayed", "Qantara", "Abu Suweir"],
-          "geoPoliticalZone": "",
-          "location": "Suez Canal Region",
-          "name": "Ismailia",
-          "stateCode": "ISM",
-          "tribes": ["Bedouin", "Arab"],
-          "type": "governorates"
-        },
-        "KAFR EL-SHEIKH": {
-          "capitalCity": "Kafr El-Sheikh",
-          "subdivisions": ["Desouk", "Fuwa", "Sidi Salem"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Kafr El-Sheikh",
-          "stateCode": "KFS",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        },
-        "LUXOR": {
-          "capitalCity": "Luxor",
-          "subdivisions": ["Esna", "Armant", "Qurna"],
-          "geoPoliticalZone": "",
-          "location": "South",
-          "name": "Luxor",
-          "stateCode": "LXR",
-          "tribes": ["Saidi", "Arab"],
-          "type": "governorates"
-        },
-        "MATROUH": {
-          "capitalCity": "Marsa Matrouh",
-          "subdivisions": ["Sallum", "Siwa", "El Dabaa"],
-          "geoPoliticalZone": "",
-          "location": "West",
-          "name": "Matrouh",
-          "stateCode": "MT",
-          "tribes": ["Bedouin", "Arab", "Berber"],
-          "type": "governorates"
-        },
-        "MINYA": {
-          "capitalCity": "Minya",
-          "subdivisions": ["Samalut", "Malawi", "Beni Mazar"],
-          "geoPoliticalZone": "",
-          "location": "Upper Egypt",
-          "name": "Minya",
-          "stateCode": "MYN",
-          "tribes": ["Saidi", "Arab"],
-          "type": "governorates"
-        },
-        "MONUFIA": {
-          "capitalCity": "Shibin El-Kom",
-          "subdivisions": ["Sadat City", "Menouf", "Quesna"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Monufia",
-          "stateCode": "MNF",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        },
-        "NEW VALLEY": {
-          "capitalCity": "Kharga",
-          "subdivisions": ["Dakhla", "Farafra", "Baris"],
-          "geoPoliticalZone": "",
-          "location": "West",
-          "name": "New Valley",
-          "stateCode": "NV",
-          "tribes": ["Bedouin", "Arab"],
-          "type": "governorates"
-        },
-        "NORTH SINAI": {
-          "capitalCity": "Arish",
-          "subdivisions": ["Bir al-Abed", "Rafah", "Sheikh Zuweid"],
-          "geoPoliticalZone": "",
-          "location": "North-East",
-          "name": "North Sinai",
-          "stateCode": "NS",
-          "tribes": ["Bedouin", "Arab"],
-          "type": "governorates"
-        },
-        "PORT SAID": {
-          "capitalCity": "Port Said",
-          "subdivisions": ["Port Fouad"],
-          "geoPoliticalZone": "",
-          "location": "Suez Canal Region",
-          "name": "Port Said",
-          "stateCode": "PSD",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        },
-        "QALYUBIA": {
-          "capitalCity": "Banha",
-          "subdivisions": ["Qaha", "Qalyub", "Shubra El Kheima"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Qalyubia",
-          "stateCode": "QLB",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        },
-        "QENA": {
-          "capitalCity": "Qena",
-          "subdivisions": ["Qift", "Nag Hammadi", "Qus"],
-          "geoPoliticalZone": "",
-          "location": "Upper Egypt",
-          "name": "Qena",
-          "stateCode": "QEN",
-          "tribes": ["Saidi", "Arab"],
-          "type": "governorates"
-        },
-        "RED SEA": {
-          "capitalCity": "Hurghada",
-          "subdivisions": ["Safaga", "Marsa Alam", "Ras Gharib"],
-          "geoPoliticalZone": "",
-          "location": "East",
-          "name": "Red Sea",
-          "stateCode": "RS",
-          "tribes": ["Beja", "Bedouin", "Arab"],
-          "type": "governorates"
-        },
-        "SHARQIA": {
-          "capitalCity": "Zagazig",
-          "subdivisions": ["Belbeis", "Minya El-Qamh", "Abu Hammad"],
-          "geoPoliticalZone": "",
-          "location": "North",
-          "name": "Sharqia",
-          "stateCode": "SHQ",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        },
-        "SOHAG": {
-          "capitalCity": "Sohag",
-          "subdivisions": ["Akhmim", "Gerga", "Tahta"],
-          "geoPoliticalZone": "",
-          "location": "Upper Egypt",
-          "name": "Sohag",
-          "stateCode": "SHG",
-          "tribes": ["Saidi", "Arab"],
-          "type": "governorates"
-        },
-        "SOUTH SINAI": {
-          "capitalCity": "El Tor",
-          "subdivisions": ["Sharm El-Sheikh", "Dahab", "Nuweiba"],
-          "geoPoliticalZone": "",
-          "location": "South-East",
-          "name": "South Sinai",
-          "stateCode": "SS",
-          "tribes": ["Bedouin", "Arab"],
-          "type": "governorates"
-        },
-        "SUEZ": {
-          "capitalCity": "Suez",
-          "subdivisions": ["Al Ganayen", "Ataka", "Ain Sokhna"],
-          "geoPoliticalZone": "",
-          "location": "Suez Canal Region",
-          "name": "Suez",
-          "stateCode": "SUZ",
-          "tribes": ["Arab", "Bedouin"],
-          "type": "governorates"
-        }
-    }  
+  "EG": {
+    "ALEXANDRIA": {
+      "capitalCity": "Alexandria",
+      "subdivisions": [
+        "Dekhela",
+        "Montaza",
+        "Attarine",
+        "East Alexandria",
+        "West Alexandria"
+      ],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Alexandria",
+      "stateCode": "ALX",
+      "tribes": ["Arabs", "Bedouin", "Nubian"],
+      "type": "governorates"
+    },
+    "ASWAN": {
+      "capitalCity": "Aswan",
+      "subdivisions": ["Daraw", "Kom Ombo", "Edfu"],
+      "geoPoliticalZone": "",
+      "location": "South",
+      "name": "Aswan",
+      "stateCode": "ASN",
+      "tribes": ["Nubian", "Arabs", "Beja"],
+      "type": "governorates"
+    },
+    "ASYUT": {
+      "capitalCity": "Asyut",
+      "subdivisions": ["Dairut", "Abnoub", "Abu Tig", "El Badari"],
+      "geoPoliticalZone": "",
+      "location": "Upper Egypt",
+      "name": "Asyut",
+      "stateCode": "AST",
+      "tribes": ["Arabs", "Saidi"],
+      "type": "governorates"
+    },
+    "BEHEIRA": {
+      "capitalCity": "Damanhour",
+      "subdivisions": ["Kafr El-Dawwar", "Rashid", "Edku"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Beheira",
+      "stateCode": "BHR",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    },
+    "BENI SUEF": {
+      "capitalCity": "Beni Suef",
+      "subdivisions": ["Al-Fashn", "Sumusta", "Biba"],
+      "geoPoliticalZone": "",
+      "location": "Upper Egypt",
+      "name": "Beni Suef",
+      "stateCode": "BSF",
+      "tribes": ["Saidi", "Arabs"],
+      "type": "governorates"
+    },
+    "CAIRO": {
+      "capitalCity": "Cairo",
+      "subdivisions": ["Zamalek", "Heliopolis", "Maadi", "Nasr City", "Shubra"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Cairo",
+      "stateCode": "CAI",
+      "tribes": ["Arabs", "Copts", "Nubian"],
+      "type": "governorates"
+    },
+    "DAKAHLIA": {
+      "capitalCity": "Mansoura",
+      "subdivisions": ["Mit Ghamr", "Talkha", "Dekernes"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Dakahlia",
+      "stateCode": "DKL",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    },
+    "DAMANHUR": {
+      "capitalCity": "Damanhur",
+      "subdivisions": ["Itay El Baroud", "Hosh Issa", "Shubrakhit"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Damanhur",
+      "stateCode": "DMN",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    },
+    "FAYOUM": {
+      "capitalCity": "Fayoum",
+      "subdivisions": ["Tamia", "Etsa", "Ibshway"],
+      "geoPoliticalZone": "",
+      "location": "Middle Egypt",
+      "name": "Fayoum",
+      "stateCode": "FYM",
+      "tribes": ["Arabs", "Beja"],
+      "type": "governorates"
+    },
+    "GARBIA": {
+      "capitalCity": "Tanta",
+      "subdivisions": ["El-Mahalla El-Kubra", "Zefta", "Kafr El-Zayat"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Garbia",
+      "stateCode": "GRB",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    },
+    "GIZA": {
+      "capitalCity": "Giza",
+      "subdivisions": ["Imbaba", "Sixth of October", "Hawamdiya"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Giza",
+      "stateCode": "GZ",
+      "tribes": ["Arabs", "Saidi", "Bedouin"],
+      "type": "governorates"
+    },
+    "ISMAILIA": {
+      "capitalCity": "Ismailia",
+      "subdivisions": ["Fayed", "Qantara", "Abu Suweir"],
+      "geoPoliticalZone": "",
+      "location": "Suez Canal Region",
+      "name": "Ismailia",
+      "stateCode": "ISM",
+      "tribes": ["Bedouin", "Arabs"],
+      "type": "governorates"
+    },
+    "KAFR EL-SHEIKH": {
+      "capitalCity": "Kafr El-Sheikh",
+      "subdivisions": ["Desouk", "Fuwa", "Sidi Salem"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Kafr El-Sheikh",
+      "stateCode": "KFS",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    },
+    "LUXOR": {
+      "capitalCity": "Luxor",
+      "subdivisions": ["Esna", "Armant", "Qurna"],
+      "geoPoliticalZone": "",
+      "location": "South",
+      "name": "Luxor",
+      "stateCode": "LXR",
+      "tribes": ["Saidi", "Arabs"],
+      "type": "governorates"
+    },
+    "MATROUH": {
+      "capitalCity": "Marsa Matrouh",
+      "subdivisions": ["Sallum", "Siwa", "El Dabaa"],
+      "geoPoliticalZone": "",
+      "location": "West",
+      "name": "Matrouh",
+      "stateCode": "MT",
+      "tribes": ["Bedouin", "Arabs", "Berber"],
+      "type": "governorates"
+    },
+    "MINYA": {
+      "capitalCity": "Minya",
+      "subdivisions": ["Samalut", "Malawi", "Beni Mazar"],
+      "geoPoliticalZone": "",
+      "location": "Upper Egypt",
+      "name": "Minya",
+      "stateCode": "MYN",
+      "tribes": ["Saidi", "Arabs"],
+      "type": "governorates"
+    },
+    "MONUFIA": {
+      "capitalCity": "Shibin El-Kom",
+      "subdivisions": ["Sadat City", "Menouf", "Quesna"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Monufia",
+      "stateCode": "MNF",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    },
+    "NEW VALLEY": {
+      "capitalCity": "Kharga",
+      "subdivisions": ["Dakhla", "Farafra", "Baris"],
+      "geoPoliticalZone": "",
+      "location": "West",
+      "name": "New Valley",
+      "stateCode": "NV",
+      "tribes": ["Bedouin", "Arabs"],
+      "type": "governorates"
+    },
+    "NORTH SINAI": {
+      "capitalCity": "Arish",
+      "subdivisions": ["Bir al-Abed", "Rafah", "Sheikh Zuweid"],
+      "geoPoliticalZone": "",
+      "location": "North-East",
+      "name": "North Sinai",
+      "stateCode": "NS",
+      "tribes": ["Bedouin", "Arabs"],
+      "type": "governorates"
+    },
+    "PORT SAID": {
+      "capitalCity": "Port Said",
+      "subdivisions": ["Port Fouad"],
+      "geoPoliticalZone": "",
+      "location": "Suez Canal Region",
+      "name": "Port Said",
+      "stateCode": "PSD",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    },
+    "QALYUBIA": {
+      "capitalCity": "Banha",
+      "subdivisions": ["Qaha", "Qalyub", "Shubra El Kheima"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Qalyubia",
+      "stateCode": "QLB",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    },
+    "QENA": {
+      "capitalCity": "Qena",
+      "subdivisions": ["Qift", "Nag Hammadi", "Qus"],
+      "geoPoliticalZone": "",
+      "location": "Upper Egypt",
+      "name": "Qena",
+      "stateCode": "QEN",
+      "tribes": ["Saidi", "Arabs"],
+      "type": "governorates"
+    },
+    "RED SEA": {
+      "capitalCity": "Hurghada",
+      "subdivisions": ["Safaga", "Marsa Alam", "Ras Gharib"],
+      "geoPoliticalZone": "",
+      "location": "East",
+      "name": "Red Sea",
+      "stateCode": "RS",
+      "tribes": ["Beja", "Bedouin", "Arabs"],
+      "type": "governorates"
+    },
+    "SHARQIA": {
+      "capitalCity": "Zagazig",
+      "subdivisions": ["Belbeis", "Minya El-Qamh", "Abu Hammad"],
+      "geoPoliticalZone": "",
+      "location": "North",
+      "name": "Sharqia",
+      "stateCode": "SHQ",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    },
+    "SOHAG": {
+      "capitalCity": "Sohag",
+      "subdivisions": ["Akhmim", "Gerga", "Tahta"],
+      "geoPoliticalZone": "",
+      "location": "Upper Egypt",
+      "name": "Sohag",
+      "stateCode": "SHG",
+      "tribes": ["Saidi", "Arabs"],
+      "type": "governorates"
+    },
+    "SOUTH SINAI": {
+      "capitalCity": "El Tor",
+      "subdivisions": ["Sharm El-Sheikh", "Dahab", "Nuweiba"],
+      "geoPoliticalZone": "",
+      "location": "South-East",
+      "name": "South Sinai",
+      "stateCode": "SS",
+      "tribes": ["Bedouin", "Arabs"],
+      "type": "governorates"
+    },
+    "SUEZ": {
+      "capitalCity": "Suez",
+      "subdivisions": ["Al Ganayen", "Ataka", "Ain Sokhna"],
+      "geoPoliticalZone": "",
+      "location": "Suez Canal Region",
+      "name": "Suez",
+      "stateCode": "SUZ",
+      "tribes": ["Arabs", "Bedouin"],
+      "type": "governorates"
+    }
+  }
 }
