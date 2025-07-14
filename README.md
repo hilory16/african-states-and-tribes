@@ -1,10 +1,6 @@
 # African-states-and-tribes
 
-A lightweight, async-based JavaScript/TypeScript module to access structured data for African countries and their corresponding states/tribes — dynamically loaded by country code.
-
-
-
-A lightweight zero-dependency JavaScript/TypeScript utility library for African countries and their corresponding states/tribes — dynamically loaded by country code. It provides structured access to comprehensive data on African countries and their administrative geography and ethnic groups.
+A lightweight zero-dependency JavaScript/TypeScript utility library for African countries and their corresponding states and tribes, dynamically loaded by country code. It provides structured access to comprehensive data on African countries and their administrative geography and ethnic groups.
 
 The library includes country-level metadata (such as name, capital, currency, phone code, flag, and ISO codes), supports geographic hierarchies including local government areas (LGAs) and other administrative subdivisions across all countries, and offers detailed tribal distributions by region or state, as well as major ethnic group data per country.
 
@@ -324,64 +320,6 @@ The library includes country-level metadata (such as name, capital, currency, ph
     | states.tribes                          | Tribes found in state/region/province
     | states.type                            | type of either state/region/province
 
-
-
-
-# Countries Covered.
-- Angola
-- Algeria
-- Benin - Departments/Communes
-- Botswana
-- Burkina Faso
-- Burundi
-- Cabo Verde
-- Cameroon
-- Central African Republic
-- Chad
-- Comoros
-- Democratic Republic of the Congo
-- Republic of the Congo
-- Cote D'Ivoire
-- Djibouti
-- Egypt
-- Equatorial Guinea
-- Eritrea
-- Ethiopia
-- Gabon
-- Ghana
-- Gambia
-- Guinea
-- Guinea-Bissau
-- Kenya
-- Lesotho
-- Liberia
-- Libya
-- Madagascar
-- Malawi
-- Mali
-- Mauritania
-- Mauritius
-- Morocco
-- Mozambique
-- Namibia
-- Niger
-- Nigeria - States/Local Government
-- Rwanda
-- Sao Tome And Principe
-- Senegal
-- Seychelles
-- Sierra Leone
-- Somalia - Regions/Districts
-- South Africa
-- South Sudan
-- Sudan
-- Eswatini
-- Tanzania
-- Togo
-- Tunisia
-- Uganda
-- Zambia
-- Zimbabwe
 
 # Data Sources
 - https://www.vanguardngr.com/2017/05/full-list-of-all-371-tribes-in-nigeria-states-where-they-originate/
