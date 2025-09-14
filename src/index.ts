@@ -1,4 +1,5 @@
 import AfricanCountries from "./data/africa/countries.json";
+import { Country, RegionResult } from "./types";
 
 /**
  * Fetches tribe data for a given African country code.
@@ -87,6 +88,41 @@ async function getCountryStates(countryCode: string) {
   const tribes = await getTribeData(countryCode);
 
   return tribes;
+}
+
+/**
+ * Finds all regions where a specific tribe is located across Africa
+ * @param tribeName - The name of the tribe to search for
+ * @returns Promise resolving to an array of objects containing country and state information where the tribe is found
+ */
+async function getTribeRegion(tribeName: string): Promise<RegionResult[]> {
+  const countries = await getCountriesAndStates() as Country[];
+  
+  const regions: RegionResult[] = [];
+
+  countries.forEach((country) => {
+    if (country.states && Array.isArray(country.states)) {
+      const matchingStates = country.states.filter((state) => 
+        state.tribes?.some(
+          (tribe) => tribe.toLowerCase().includes(tribeName.toLowerCase())
+        )
+      );
+
+      matchingStates.forEach((state) => {
+        regions.push({
+          country: country.name,
+          countryCode: country.countryCode,
+          state: state.name,
+          stateCode: state.stateCode,
+          capitalCity: state.capitalCity,
+          geoPoliticalZone: state.geoPoliticalZone,
+          location: state.location
+        });
+      });
+    }
+  });
+
+  return regions;
 }
 
 export {
