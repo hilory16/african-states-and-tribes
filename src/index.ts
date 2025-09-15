@@ -93,7 +93,7 @@ async function getCountryStates(countryCode: string) {
 /**
  * Finds all regions where a specific tribe is located across Africa
  * @param tribeName - The name of the tribe to search for
- * @returns Promise resolving to an array of objects containing country and state information where the tribe is found
+ * @returns Promise resolving to an array of objects containing combined state and country information where the tribe is found
  */
 async function getTribeRegion(tribeName: string): Promise<RegionResult[]> {
   const countries = await getCountriesAndStates() as Country[];
@@ -110,13 +110,16 @@ async function getTribeRegion(tribeName: string): Promise<RegionResult[]> {
 
       matchingStates.forEach((state) => {
         regions.push({
+          capitalCity: state.capitalCity,
           country: country.name,
           countryCode: country.countryCode,
-          state: state.name,
+          geoPoliticalZone: state.geoPoliticalZone || "",
+          location: state.location || "",
+          name: state.name,
           stateCode: state.stateCode,
-          capitalCity: state.capitalCity,
-          geoPoliticalZone: state.geoPoliticalZone,
-          location: state.location
+          subdivisions: state.subdivisions || [],
+          tribes: state.tribes || [],
+          type: state.type || ""
         });
       });
     }
@@ -131,4 +134,5 @@ export {
   getCountry,
   getCountryAndState,
   getCountryStates,
+  getTribeRegion
 };

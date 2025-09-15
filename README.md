@@ -306,22 +306,28 @@ The library includes country-level metadata (such as name, capital, currency, ph
     ```
         [
             {
+                capitalCity: 'Kandi',
                 country: 'Benin',
                 countryCode: 'BJ',
-                state: 'Alibori',
-                stateCode: '',
-                capitalCity: 'Kandi',
                 geoPoliticalZone: '',
-                location: 'North East'
+                location: 'North East',
+                name: 'Alibori',
+                stateCode: '',
+                subdivisions: [],
+                tribes: ['Bariba', 'Boko', 'Dendi (Songhai)', 'Fulani', 'Gurma', 'Kyenga', 'Mokole Yoruba'],
+                type: 'department'
             },
             {
+                capitalCity: 'Allada',
                 country: 'Benin',
                 countryCode: 'BJ',
-                state: 'Atlantique',
-                stateCode: '',
-                capitalCity: 'Allada',
                 geoPoliticalZone: '',
-                location: 'South Centre'
+                location: 'South Centre',
+                name: 'Atlantique',
+                stateCode: '',
+                subdivisions: [],
+                tribes: [ 'Adja (Aja)', 'Ayizo', 'Tofin', 'Fon (Dahomey)', 'Yoruba' ],
+                type: 'department'
             },
             ...
         ]

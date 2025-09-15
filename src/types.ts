@@ -14,14 +14,16 @@ export type Country = {
 };
 
 export type RegionResult = {
+  capitalCity: string;
   country: string;
   countryCode: string;
-  state: string;
+  geoPoliticalZone: string;
+  location: string;
+  name: string;
   stateCode: string;
-  capitalCity: string;
-  geoPoliticalZone?: string;
-  location?: string;
-  majorEthnicGroups?: any;
+  subdivisions: string[];
+  tribes: string[];
+  type: string;
 };
 
 export type State = {
