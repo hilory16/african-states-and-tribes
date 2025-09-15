@@ -291,6 +291,47 @@ The library includes country-level metadata (such as name, capital, currency, ph
       ]
     ```
 
+  - **Get a Tribe Region**
+
+    ```js
+    import { getTribeRegion } from 'african-states-and-tribes'
+
+     getTribeRegion("Yoruba").then(regions =>{
+        console.log(regions)
+    })
+    ```
+
+    Output:
+
+    ```
+        [
+            {
+                capitalCity: 'Kandi',
+                country: 'Benin',
+                countryCode: 'BJ',
+                geoPoliticalZone: '',
+                location: 'North East',
+                name: 'Alibori',
+                stateCode: '',
+                subdivisions: [],
+                tribes: ['Bariba', 'Boko', 'Dendi (Songhai)', 'Fulani', 'Gurma', 'Kyenga', 'Mokole Yoruba'],
+                type: 'department'
+            },
+            {
+                capitalCity: 'Allada',
+                country: 'Benin',
+                countryCode: 'BJ',
+                geoPoliticalZone: '',
+                location: 'South Centre',
+                name: 'Atlantique',
+                stateCode: '',
+                subdivisions: [],
+                tribes: [ 'Adja (Aja)', 'Ayizo', 'Tofin', 'Fon (Dahomey)', 'Yoruba' ],
+                type: 'department'
+            },
+            ...
+        ]
+    ```
 
     Notes
     - All functions are asynchronous – you must use await or .then()
