@@ -27,6 +27,11 @@ The library includes country-level metadata (such as name, capital, currency, ph
 # Install
 `npm i african-states-and-tribes`
 
+# 📚 Documentation
+
+- [Modular Imports Guide](./MODULAR_IMPORTS.md) - Complete guide on using modular imports to optimize bundle size
+- [Usage Examples](./EXAMPLES.md) - Real-world examples and use cases
+
 # Usage
 
 ## 🎯 Modular Imports (Recommended for Bundle Size Optimization)
@@ -48,6 +53,14 @@ console.log(states); // [{ name: 'Abia', tribes: ['Igbo'], ... }, ...]
 // Get Nigeria with states
 const nigeriaWithStates = await getCountryAndStates();
 console.log(nigeriaWithStates); // { name: 'Nigeria', states: [...], ... }
+```
+
+**Bundle Size Benefits:**
+- Default import (all countries): **~337KB**
+- Single country (modular): **~44KB average** (87% smaller!)
+- Multiple countries scale linearly
+
+See [EXAMPLES.md](./EXAMPLES.md) for more use cases including React, Next.js, and lazy loading.
 ```
 
 **Available country codes for modular imports:**
