@@ -21,11 +21,39 @@ The library includes country-level metadata (such as name, capital, currency, ph
 
 ✅ Simple, modular, and TypeScript-friendly
 
+✅ **NEW:** Modular imports — import only specific countries to reduce bundle size
+
 
 # Install
 `npm i african-states-and-tribes`
 
 # Usage
+
+## 🎯 Modular Imports (Recommended for Bundle Size Optimization)
+
+Import only the countries you need to keep your bundle size minimal:
+
+```js
+// Import specific country
+import { getCountry, getStates, getCountryAndStates } from 'african-states-and-tribes/countries/ng';
+
+// Get Nigeria data
+const nigeria = await getCountry();
+console.log(nigeria); // { name: 'Nigeria', countryCode: 'NG', ... }
+
+// Get Nigeria states/tribes
+const states = await getStates();
+console.log(states); // [{ name: 'Abia', tribes: ['Igbo'], ... }, ...]
+
+// Get Nigeria with states
+const nigeriaWithStates = await getCountryAndStates();
+console.log(nigeriaWithStates); // { name: 'Nigeria', states: [...], ... }
+```
+
+**Available country codes for modular imports:**
+`ao`, `bf`, `bi`, `bj`, `bw`, `cd`, `cf`, `cg`, `ci`, `cm`, `cv`, `dj`, `dz`, `eg`, `er`, `et`, `ga`, `gh`, `gm`, `gn`, `gq`, `gw`, `ke`, `km`, `lr`, `ls`, `ly`, `ma`, `mg`, `ml`, `mr`, `mu`, `mw`, `mz`, `na`, `ne`, `ng`, `rw`, `sc`, `sd`, `sl`, `sn`, `so`, `ss`, `st`, `sz`, `td`, `tg`, `tn`, `tz`, `ug`, `za`, `zm`, `zw`
+
+## 📦 Default Usage (All Countries)
 
   - ES6 Module usage
    
