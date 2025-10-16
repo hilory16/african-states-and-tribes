@@ -61,7 +61,7 @@ console.log(nigeriaWithStates); // { name: 'Nigeria', states: [...], ... }
 - Multiple countries scale linearly
 
 See [EXAMPLES.md](./EXAMPLES.md) for more use cases including React, Next.js, and lazy loading.
-```
+
 
 **Available country codes for modular imports:**
 `ao`, `bf`, `bi`, `bj`, `bw`, `cd`, `cf`, `cg`, `ci`, `cm`, `cv`, `dj`, `dz`, `eg`, `er`, `et`, `ga`, `gh`, `gm`, `gn`, `gq`, `gw`, `ke`, `km`, `lr`, `ls`, `ly`, `ma`, `mg`, `ml`, `mr`, `mu`, `mw`, `mz`, `na`, `ne`, `ng`, `rw`, `sc`, `sd`, `sl`, `sn`, `so`, `ss`, `st`, `sz`, `td`, `tg`, `tn`, `tz`, `ug`, `za`, `zm`, `zw`
