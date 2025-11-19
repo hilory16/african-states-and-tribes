@@ -120,4 +120,13 @@ jest.mock(
   { virtual: true }
 );
 
-describe("African States & Tribes Library", () => {});
+describe("African States & Tribes Library", () => {
+    
+  it("getCountries returns all countries with countryCode", async () => {
+    const countries = await index.getCountries();
+    expect(countries).toEqual([
+      { name: "Nigeria", capitalCity: "Abuja", countryCode: "NG" },
+      { name: "Ghana", capitalCity: "Accra", countryCode: "GH" },
+    ]);
+  });
+});
