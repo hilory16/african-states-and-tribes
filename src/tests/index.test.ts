@@ -1,6 +1,6 @@
 import * as index from "../index";
 
-// MOCK AFRICA COUNTRIES
+// MOCK AFRICA (GH & NG) COUNTRIES
 jest.mock(
   "../data/africa/countries.json",
   () => ({
@@ -56,8 +56,68 @@ jest.mock(
   { virtual: true }
 );
 
-jest.mock("../data/africa/tribes/NG.json", () => ({
-  functionA: jest.fn(() => "mocked functionA"),
-}));
+// MOCK NG TRIBES AND STATES
+jest.mock(
+  "../data/africa/tribes/NG.json",
+  () => ({
+    NG: {
+      ABIA: {
+        capitalCity: "Umuahia",
+        subdivisions: [
+          "Aba North",
+          "Aba South",
+          "Arochukwu",
+          "Bende",
+          "Ikwuano",
+          "Isiala Ngwa North",
+          "Isiala Ngwa South",
+          "Isuikwuato",
+          "Obi Ngwa",
+          "Ohafia",
+          "Osisioma",
+          "Ugwunagbo",
+          "Ukwa East",
+          "Ukwa West",
+          "Umuahia North",
+          "Umuahia South",
+        ],
+        geoPoliticalZone: "South East",
+        location: "South East",
+        name: "Abia",
+        stateCode: "AB",
+        tribes: ["Igbo"],
+        type: "state",
+      },
+    },
+  }),
+  { virtual: true }
+);
+
+// MOCK NG TRIBES AND STATES
+jest.mock(
+  "../data/africa/tribes/GH.json",
+  () => ({
+    GH: {
+      "AHAFO REGION": {
+        capitalCity: "Goaso",
+        subdivisions: [
+          "Asunafo North",
+          "Asunafo South",
+          "Asutifi North",
+          "Asutifi South",
+          "Tano North",
+          "Tano South",
+        ],
+        geoPoliticalZone: "Central",
+        location: "Central Ghana",
+        name: "Ahafo",
+        stateCode: "AHR",
+        tribes: ["Akan", "Brong", "Ewe"],
+        type: "region",
+      },
+    },
+  }),
+  { virtual: true }
+);
 
 describe("African States & Tribes Library", () => {});
