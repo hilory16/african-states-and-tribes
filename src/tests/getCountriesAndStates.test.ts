@@ -29,7 +29,6 @@ describe("getCountriesAndStates", () => {
       virtual: true,
     });
 
-    // Mock tribe imports
     jest.doMock(
       "../data/africa/tribes/NG.json",
       () => options.tribes?.NG || {},
