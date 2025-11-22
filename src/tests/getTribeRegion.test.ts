@@ -1,99 +1,40 @@
-
-import { describe, expect, it } from "@jest/globals";
-
-
-interface State {
-  name: string;
-  stateCode: string;
-  capitalCity: string;
-  type: string;
-  tribes: string[];
-  subdivisions: string[];
-  location: string;
-  geoPoliticalZone?: string;
-}
-
-
-const statesData: State[] = [
-  {
-    name: "Lagos",
-    stateCode: "LA",
-    capitalCity: "Ikeja",
-    type: "State",
-    tribes: ["Awori", "Egun", "Yoruba"],
-    subdivisions: ["Ikeja", "Epe"],
-    location: "South-West",
-    geoPoliticalZone: "South West",
-  },
-  {
-    name: "Kaduna",
-    stateCode: "KD",
-    capitalCity: "Kaduna",
-    type: "State",
-    tribes: [
-      "Adara (Kadara)",
-      "Atyap (Attakar)",
-      "Ayu",
-      "Bassa",
-      "Bina (Binawa)",
-      "Fulani",
-      "Gure",
-      "Gwandara",
-      "Gwari (Gbari)",
-      "Gwong(Kagoma)",
-      "Hausa",
-      "Jaba",
-      "Kagoro",
-      "Kaje (Kache)",
-      "Kajuru (Kajurawa)",
-      "Kamaku (Karnukawa)",
-      "Kanikon",
-      "Kanuri",
-      "Kariya",
-      "Kiballo (Kiwollo)",
-      "Koro (Kwaro)",
-      "Kurama",
-      "Mada",
-      "Manchok",
-      "Moruwa (Moro’a, Morwa)",
-      "Ninzam (Ninzo)",
-      "Nunku",
-      "Rishuwa",
-      "Rumada",
-      "Rumaya",
-      "Srubu (Surubu)",
-      "Uncinda",
-    ],
-    subdivisions: ["Zaria", "Kachia"],
-    location: "North-West",
-  },
-];
+import { getTribeRegion } from "../index"; // <-- fix path if needed
 
 describe("getTribeRegion", () => {
-  it("should correctly map states with tribes", () => {
-    const mappedStates = [];
+  it("should return an array", async () => {
+    const result = await getTribeRegion("Yoruba");
+    expect(Array.isArray(result)).toBe(true);
+  });
 
-    for (const state of statesData) {
-     
-      if (!Array.isArray(state.tribes)) continue;
+  it("should return only states that contain the specified tribe", async () => {
+    const result = await getTribeRegion("Yoruba");
 
-      const hasTribe = state.tribes.some((tribe) => tribe === "Yoruba");
+    expect(result.length).toBeGreaterThan(0);
 
-      if (hasTribe) {
-        mappedStates.push({
-          name: state.name,
-          stateCode: state.stateCode,
-          capitalCity: state.capitalCity,
-          type: state.type,
-          tribes: state.tribes,
-          subdivisions: state.subdivisions,
-          location: state.location,
-          geoPoliticalZone: state.geoPoliticalZone || "",
-        });
-      }
+    for (const state of result) {
+      const containsTribe = state.tribes.some((t) =>
+        t.toLowerCase().includes("yoruba")
+      );
+      expect(containsTribe).toBe(true);
     }
+  });
 
-    expect(mappedStates.length).toBeGreaterThan(0);
-    expect(mappedStates[0].tribes).toContain("Yoruba");
+  it("should return an empty array for a tribe that does not exist", async () => {
+    const result = await getTribeRegion("NON_EXISTENT_TRIBE_123");
+    expect(result).toEqual([]);
+  });
+
+  it("should return objects with the required structure", async () => {
+    const result = await getTribeRegion("Yoruba");
+
+    const sample = result[0];
+    expect(sample).toHaveProperty("name");
+    expect(sample).toHaveProperty("stateCode");
+    expect(sample).toHaveProperty("capitalCity");
+    expect(sample).toHaveProperty("type");
+    expect(sample).toHaveProperty("tribes");
+    expect(sample).toHaveProperty("subdivisions");
+    expect(sample).toHaveProperty("location");
+    expect(sample).toHaveProperty("geoPoliticalZone");
   });
 });
