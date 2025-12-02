@@ -290,7 +290,9 @@
   "scripts": {
     "build": "tsup src/index.ts src/countries/*.ts --format esm,cjs --dts --out-dir dist",
     "dev": "nodemon --exec \"ts-node --experimental-specifier-resolution=node\" src/index.ts",
-    "start": "node dist/index.js"
+    "start": "node dist/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -319,9 +321,12 @@
   },
   "homepage": "https://github.com/hilory16/african-states-and-tribes#readme",
   "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0",
     "nodemon": "^3.1.7",
+    "ts-jest": "^29.4.5",
     "ts-node": "^10.9.2",
     "tsup": "^8.2.0",
-    "typescript": "^5.5.3"
+    "typescript": "^5.9.3"
   }
 }
