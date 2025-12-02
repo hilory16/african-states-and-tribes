@@ -137,7 +137,7 @@
         "location": "Central Kenya",
         "name": "Laikipia",
         "stateCode": "LAI",
-        "tribes": ["Laikipiak Maasai"],
+        "tribes": ["Laikipiak Maasai", "Kalenjin"],
         "type": "province"
       },
       "LAMU": {
@@ -157,7 +157,7 @@
         "location": "Central Kenya",
         "name": "Machakos",
         "stateCode": "MKS",
-        "tribes": ["Kikuyu"],
+        "tribes": ["Kikuyu", "Kamba"],
         "type": "province"
       },
       "MOMBASA": {
