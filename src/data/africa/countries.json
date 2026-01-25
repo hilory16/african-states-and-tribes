@@ -212,7 +212,7 @@
         "countryCode": "FR"
       }
     ],
-    "countryCode": "",
+    "countryCode": "DZ",
     "flagEmoji": "🇩🇿",
     "name": "Algeria",
     "currency": "Algerian dinar",
@@ -606,7 +606,7 @@
     "currencyCode": "KES",
     "currencySymbol": "KSh",
     "officialLanguage": "English",
-    "majorEthnicGroups": ["Kalenjin", "Kikuyu", "Luo", "Maasai"],
+    "majorEthnicGroups": ["Digo", "Kalenjin", "Kikuyu", "Luhya", "Luo", "Maasai"],
     "timezones": [
       {
         "iana": "Africa/Nairobi",

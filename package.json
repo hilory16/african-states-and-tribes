@@ -5,10 +5,294 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./countries": {
+      "import": "./dist/countries/index.mjs",
+      "require": "./dist/countries/index.js",
+      "types": "./dist/countries/index.d.ts"
+    },
+    "./countries/ao": {
+      "import": "./dist/countries/ao.mjs",
+      "require": "./dist/countries/ao.js",
+      "types": "./dist/countries/ao.d.ts"
+    },
+    "./countries/bf": {
+      "import": "./dist/countries/bf.mjs",
+      "require": "./dist/countries/bf.js",
+      "types": "./dist/countries/bf.d.ts"
+    },
+    "./countries/bi": {
+      "import": "./dist/countries/bi.mjs",
+      "require": "./dist/countries/bi.js",
+      "types": "./dist/countries/bi.d.ts"
+    },
+    "./countries/bj": {
+      "import": "./dist/countries/bj.mjs",
+      "require": "./dist/countries/bj.js",
+      "types": "./dist/countries/bj.d.ts"
+    },
+    "./countries/bw": {
+      "import": "./dist/countries/bw.mjs",
+      "require": "./dist/countries/bw.js",
+      "types": "./dist/countries/bw.d.ts"
+    },
+    "./countries/cd": {
+      "import": "./dist/countries/cd.mjs",
+      "require": "./dist/countries/cd.js",
+      "types": "./dist/countries/cd.d.ts"
+    },
+    "./countries/cf": {
+      "import": "./dist/countries/cf.mjs",
+      "require": "./dist/countries/cf.js",
+      "types": "./dist/countries/cf.d.ts"
+    },
+    "./countries/cg": {
+      "import": "./dist/countries/cg.mjs",
+      "require": "./dist/countries/cg.js",
+      "types": "./dist/countries/cg.d.ts"
+    },
+    "./countries/ci": {
+      "import": "./dist/countries/ci.mjs",
+      "require": "./dist/countries/ci.js",
+      "types": "./dist/countries/ci.d.ts"
+    },
+    "./countries/cm": {
+      "import": "./dist/countries/cm.mjs",
+      "require": "./dist/countries/cm.js",
+      "types": "./dist/countries/cm.d.ts"
+    },
+    "./countries/cv": {
+      "import": "./dist/countries/cv.mjs",
+      "require": "./dist/countries/cv.js",
+      "types": "./dist/countries/cv.d.ts"
+    },
+    "./countries/dj": {
+      "import": "./dist/countries/dj.mjs",
+      "require": "./dist/countries/dj.js",
+      "types": "./dist/countries/dj.d.ts"
+    },
+    "./countries/dz": {
+      "import": "./dist/countries/dz.mjs",
+      "require": "./dist/countries/dz.js",
+      "types": "./dist/countries/dz.d.ts"
+    },
+    "./countries/eg": {
+      "import": "./dist/countries/eg.mjs",
+      "require": "./dist/countries/eg.js",
+      "types": "./dist/countries/eg.d.ts"
+    },
+    "./countries/er": {
+      "import": "./dist/countries/er.mjs",
+      "require": "./dist/countries/er.js",
+      "types": "./dist/countries/er.d.ts"
+    },
+    "./countries/et": {
+      "import": "./dist/countries/et.mjs",
+      "require": "./dist/countries/et.js",
+      "types": "./dist/countries/et.d.ts"
+    },
+    "./countries/ga": {
+      "import": "./dist/countries/ga.mjs",
+      "require": "./dist/countries/ga.js",
+      "types": "./dist/countries/ga.d.ts"
+    },
+    "./countries/gh": {
+      "import": "./dist/countries/gh.mjs",
+      "require": "./dist/countries/gh.js",
+      "types": "./dist/countries/gh.d.ts"
+    },
+    "./countries/gm": {
+      "import": "./dist/countries/gm.mjs",
+      "require": "./dist/countries/gm.js",
+      "types": "./dist/countries/gm.d.ts"
+    },
+    "./countries/gn": {
+      "import": "./dist/countries/gn.mjs",
+      "require": "./dist/countries/gn.js",
+      "types": "./dist/countries/gn.d.ts"
+    },
+    "./countries/gq": {
+      "import": "./dist/countries/gq.mjs",
+      "require": "./dist/countries/gq.js",
+      "types": "./dist/countries/gq.d.ts"
+    },
+    "./countries/gw": {
+      "import": "./dist/countries/gw.mjs",
+      "require": "./dist/countries/gw.js",
+      "types": "./dist/countries/gw.d.ts"
+    },
+    "./countries/ke": {
+      "import": "./dist/countries/ke.mjs",
+      "require": "./dist/countries/ke.js",
+      "types": "./dist/countries/ke.d.ts"
+    },
+    "./countries/km": {
+      "import": "./dist/countries/km.mjs",
+      "require": "./dist/countries/km.js",
+      "types": "./dist/countries/km.d.ts"
+    },
+    "./countries/lr": {
+      "import": "./dist/countries/lr.mjs",
+      "require": "./dist/countries/lr.js",
+      "types": "./dist/countries/lr.d.ts"
+    },
+    "./countries/ls": {
+      "import": "./dist/countries/ls.mjs",
+      "require": "./dist/countries/ls.js",
+      "types": "./dist/countries/ls.d.ts"
+    },
+    "./countries/ly": {
+      "import": "./dist/countries/ly.mjs",
+      "require": "./dist/countries/ly.js",
+      "types": "./dist/countries/ly.d.ts"
+    },
+    "./countries/ma": {
+      "import": "./dist/countries/ma.mjs",
+      "require": "./dist/countries/ma.js",
+      "types": "./dist/countries/ma.d.ts"
+    },
+    "./countries/mg": {
+      "import": "./dist/countries/mg.mjs",
+      "require": "./dist/countries/mg.js",
+      "types": "./dist/countries/mg.d.ts"
+    },
+    "./countries/ml": {
+      "import": "./dist/countries/ml.mjs",
+      "require": "./dist/countries/ml.js",
+      "types": "./dist/countries/ml.d.ts"
+    },
+    "./countries/mr": {
+      "import": "./dist/countries/mr.mjs",
+      "require": "./dist/countries/mr.js",
+      "types": "./dist/countries/mr.d.ts"
+    },
+    "./countries/mu": {
+      "import": "./dist/countries/mu.mjs",
+      "require": "./dist/countries/mu.js",
+      "types": "./dist/countries/mu.d.ts"
+    },
+    "./countries/mw": {
+      "import": "./dist/countries/mw.mjs",
+      "require": "./dist/countries/mw.js",
+      "types": "./dist/countries/mw.d.ts"
+    },
+    "./countries/mz": {
+      "import": "./dist/countries/mz.mjs",
+      "require": "./dist/countries/mz.js",
+      "types": "./dist/countries/mz.d.ts"
+    },
+    "./countries/na": {
+      "import": "./dist/countries/na.mjs",
+      "require": "./dist/countries/na.js",
+      "types": "./dist/countries/na.d.ts"
+    },
+    "./countries/ne": {
+      "import": "./dist/countries/ne.mjs",
+      "require": "./dist/countries/ne.js",
+      "types": "./dist/countries/ne.d.ts"
+    },
+    "./countries/ng": {
+      "import": "./dist/countries/ng.mjs",
+      "require": "./dist/countries/ng.js",
+      "types": "./dist/countries/ng.d.ts"
+    },
+    "./countries/rw": {
+      "import": "./dist/countries/rw.mjs",
+      "require": "./dist/countries/rw.js",
+      "types": "./dist/countries/rw.d.ts"
+    },
+    "./countries/sc": {
+      "import": "./dist/countries/sc.mjs",
+      "require": "./dist/countries/sc.js",
+      "types": "./dist/countries/sc.d.ts"
+    },
+    "./countries/sd": {
+      "import": "./dist/countries/sd.mjs",
+      "require": "./dist/countries/sd.js",
+      "types": "./dist/countries/sd.d.ts"
+    },
+    "./countries/sl": {
+      "import": "./dist/countries/sl.mjs",
+      "require": "./dist/countries/sl.js",
+      "types": "./dist/countries/sl.d.ts"
+    },
+    "./countries/sn": {
+      "import": "./dist/countries/sn.mjs",
+      "require": "./dist/countries/sn.js",
+      "types": "./dist/countries/sn.d.ts"
+    },
+    "./countries/so": {
+      "import": "./dist/countries/so.mjs",
+      "require": "./dist/countries/so.js",
+      "types": "./dist/countries/so.d.ts"
+    },
+    "./countries/ss": {
+      "import": "./dist/countries/ss.mjs",
+      "require": "./dist/countries/ss.js",
+      "types": "./dist/countries/ss.d.ts"
+    },
+    "./countries/st": {
+      "import": "./dist/countries/st.mjs",
+      "require": "./dist/countries/st.js",
+      "types": "./dist/countries/st.d.ts"
+    },
+    "./countries/sz": {
+      "import": "./dist/countries/sz.mjs",
+      "require": "./dist/countries/sz.js",
+      "types": "./dist/countries/sz.d.ts"
+    },
+    "./countries/td": {
+      "import": "./dist/countries/td.mjs",
+      "require": "./dist/countries/td.js",
+      "types": "./dist/countries/td.d.ts"
+    },
+    "./countries/tg": {
+      "import": "./dist/countries/tg.mjs",
+      "require": "./dist/countries/tg.js",
+      "types": "./dist/countries/tg.d.ts"
+    },
+    "./countries/tn": {
+      "import": "./dist/countries/tn.mjs",
+      "require": "./dist/countries/tn.js",
+      "types": "./dist/countries/tn.d.ts"
+    },
+    "./countries/tz": {
+      "import": "./dist/countries/tz.mjs",
+      "require": "./dist/countries/tz.js",
+      "types": "./dist/countries/tz.d.ts"
+    },
+    "./countries/ug": {
+      "import": "./dist/countries/ug.mjs",
+      "require": "./dist/countries/ug.js",
+      "types": "./dist/countries/ug.d.ts"
+    },
+    "./countries/za": {
+      "import": "./dist/countries/za.mjs",
+      "require": "./dist/countries/za.js",
+      "types": "./dist/countries/za.d.ts"
+    },
+    "./countries/zm": {
+      "import": "./dist/countries/zm.mjs",
+      "require": "./dist/countries/zm.js",
+      "types": "./dist/countries/zm.d.ts"
+    },
+    "./countries/zw": {
+      "import": "./dist/countries/zw.mjs",
+      "require": "./dist/countries/zw.js",
+      "types": "./dist/countries/zw.d.ts"
+    }
+  },
   "scripts": {
-    "build": "tsup src/index.ts --format esm,cjs --dts --out-dir dist",
+    "build": "tsup src/index.ts src/countries/*.ts --format esm,cjs --dts --out-dir dist",
     "dev": "nodemon --exec \"ts-node --experimental-specifier-resolution=node\" src/index.ts",
-    "start": "node dist/index.js"
+    "start": "node dist/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -37,9 +321,12 @@
   },
   "homepage": "https://github.com/hilory16/african-states-and-tribes#readme",
   "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0",
     "nodemon": "^3.1.7",
+    "ts-jest": "^29.4.5",
     "ts-node": "^10.9.2",
     "tsup": "^8.2.0",
-    "typescript": "^5.5.3"
+    "typescript": "^5.9.3"
   }
 }
