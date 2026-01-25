@@ -9,7 +9,7 @@ The library includes country-level metadata (such as name, capital, currency, ph
 <!-- african-countries-data -->
 
 
-🚀 Features
+## 🚀 Features
 
 ✅ List all African countries
 
