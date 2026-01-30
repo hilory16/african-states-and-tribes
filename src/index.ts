@@ -1,20 +1,33 @@
 import AfricanCountries from "./data/africa/countries.json";
 import { Country, RegionResult } from "./types";
+import { InvalidCountryCodeError, TribeDataNotFoundError, DataLoadError } from "./errors";
+import { isValidCountryCode, normalizeCountryCode } from "./utils/validation";
 
 /**
  * Fetches tribe data for a given African country code.
  * @param countryCode - The ISO code of the country.
  * @returns Array of tribe data objects for the country.
+ * @throws {InvalidCountryCodeError} When the country code is invalid
+ * @throws {TribeDataNotFoundError} When tribe data is not available for the country
  */
 async function getTribeData(countryCode: string) {
+  const normalizedCode = normalizeCountryCode(countryCode);
+  
+  if (!isValidCountryCode(normalizedCode)) {
+    throw new InvalidCountryCodeError(
+      `Invalid country code: '${countryCode}'. Must be a valid ISO 3166-1 alpha-2 code for an African country.`
+    );
+  }
+
   try {
     const jsonTribesData = await import(
-      `./data/africa/tribes/${countryCode}.json`
+      `./data/africa/tribes/${normalizedCode}.json`
     );
-    return Object.values(jsonTribesData[countryCode] || {});
+    return Object.values(jsonTribesData[normalizedCode] || {});
   } catch (err) {
-    console.warn(`⚠️ No tribe data found for ${countryCode}:`, err.message);
-    return [];
+    throw new TribeDataNotFoundError(
+      `Tribe data not available for ${normalizedCode}. This country may not have tribal data in our database.`
+    );
   }
 }
 
@@ -50,52 +63,82 @@ async function getCountriesAndStates() {
 /**
  * Retrieves a single African country by its code.
  * @param countryCode - The ISO code of the country.
- * @returns The country object or empty object if not found.
+ * @returns The country object.
+ * @throws {InvalidCountryCodeError} When the country code is invalid
  */
 async function getCountry(countryCode: string) {
+  const normalizedCode = normalizeCountryCode(countryCode);
+  
+  if (!isValidCountryCode(normalizedCode)) {
+    throw new InvalidCountryCodeError(
+      `Invalid country code: '${countryCode}'. Must be a valid ISO 3166-1 alpha-2 code for an African country.`
+    );
+  }
+
   const countries = await getCountries();
   const selectCountry = countries.find(
-    (item) => item.countryCode === countryCode
+    (item) => item.countryCode === normalizedCode
   );
 
-  if (selectCountry) return selectCountry;
-  return {};
+  if (!selectCountry) {
+    throw new DataLoadError(
+      `Country data not found for ${normalizedCode}. This should not happen for valid country codes.`
+    );
+  }
+
+  return selectCountry;
 }
 
 /**
  * Retrieves a country and its tribe data as states by country code.
  * @param countryCode - The ISO code of the country.
- * @returns Country object with states property or empty object if not found.
+ * @returns Country object with states property.
+ * @throws {InvalidCountryCodeError} When the country code is invalid
+ * @throws {TribeDataNotFoundError} When tribe data is not available (optional, will set states to empty array)
  */
 async function getCountryAndState(countryCode: string) {
   const country = await getCountry(countryCode);
-  const tribes = await getTribeData(countryCode);
-  if (Object.keys(country).length > 0) {
+  
+  try {
+    const tribes = await getTribeData(countryCode);
     return {
       ...country,
       states: tribes,
     };
+  } catch (err) {
+    if (err instanceof TribeDataNotFoundError) {
+      return {
+        ...country,
+        states: [],
+      };
+    }
+    throw err;
   }
-
-  return {};
 }
 /**
  * Retrieves tribe data (states) for a given country code.
  * @param countryCode - The ISO code of the country.
  * @returns Array of tribe data objects for the country.
+ * @throws {InvalidCountryCodeError} When the country code is invalid
+ * @throws {TribeDataNotFoundError} When tribe data is not available for the country
  */
 async function getCountryStates(countryCode: string) {
-  const tribes = await getTribeData(countryCode);
-
-  return tribes;
+  return await getTribeData(countryCode);
 }
 
 /**
  * Finds all regions where a specific tribe is located across Africa
  * @param tribeName - The name of the tribe to search for
  * @returns Promise resolving to an array of objects containing combined state and country information where the tribe is found
+ * @throws {Error} When tribeName is empty or invalid
  */
 async function getTribeRegion(tribeName: string): Promise<RegionResult[]> {
+  if (!tribeName || typeof tribeName !== 'string' || tribeName.trim().length === 0) {
+    throw new Error(
+      `Invalid tribe name: '${tribeName}'. Tribe name must be a non-empty string.`
+    );
+  }
+
   const countries = await getCountriesAndStates() as Country[];
   
   const regions: RegionResult[] = [];
@@ -136,3 +179,15 @@ export {
   getCountryStates,
   getTribeRegion
 };
+
+export {
+  InvalidCountryCodeError,
+  TribeDataNotFoundError,
+  DataLoadError
+} from "./errors";
+
+export {
+  isValidCountryCode,
+  normalizeCountryCode,
+  getValidCountryCodes
+} from "./utils/validation";
